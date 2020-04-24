@@ -1,1 +1,67 @@
-; Template OVR file for TFM
+;intro higher MI override
+13331,16497 i 45
+
+;comet override
+13331,13947 -
+
+;14243 DS9 title first frame where visible - for alignment
+
+;fade in intro
+14717,14786 +----
+
+;fade in intro
+15097,15171 +----
+
+;fade in intro
+15472,15541 +----
+
+;fade in intro
+15821,15872 +-++-
+
+;fade in intro
+16145,16186 ----+
+
+;wormhole open override
+16382,164502 +
+
+;override for title fade in
+17069 -
+
+;override for title fade in
+17757 -
+
+;override for title fade in
+18203 -
+
+;override for title fade in
+18478 -
+
+;override for title fade in
+18982 -
+
+;pattern override for title fade in
+18972,19055 pcccp
+
+;pattern override for title fade in
+19964,20047 pcccp
+
+;credits override
+79880,81234 p
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
