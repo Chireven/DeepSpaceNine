@@ -1,9 +1,11 @@
 # Initialize Project Variables
-#   Customize the following variables -- OVR files must exist, even if they are blank.
-  d2vFile     = ""
-  tfmOVR      = ""
-  decimateOVR = ""
-  logTFM      = ""
+#   The OVRfiles for TFM and TDecimate need to exist.  If they don't, it will generate an error. 
+#   You can add an OVR file or remove the OVR= section from the commands below.
+
+  d2vFile     = "Deep Space Nine - S01E10 - Move Along Home.d2v"
+  tfmOVR      = "Deep Space Nine - S01E10 - Move Along Home_TFM.ovr"
+  decimateOVR = "Deep Space Nine - S01E10 - Move Along Home_TDecimate.ovr"
+  logTFM      = "Deep Space Nine - S01E10 - Move Along Home_TFMReport.log"
   
   tfmMI       = 24
  
@@ -18,6 +20,7 @@
 # Load Source
   source=MPEG2Source(d2vFile, idct=5, moderate_h=40, moderate_v=40, cpu2="xxoooo").crop(left,top,right,bottom)
 
+
 # Deinterlace Source
   deint=source.QTGMC( Preset="Slower", InputType=0, SourceMatch=3, Lossless=2, Sharpness=0.2, EZKeepGrain=0.0).SelectEven()
 
@@ -25,7 +28,7 @@
   # Use the following command when testing for combed frames with problems 
   # Optional:   output=logTFM   to output TFM actions to a text file 
   #   source.tfm(d2v=d2vFile, PP=1, MI=tfmMI, clip2=deint, display=true, flags=5, OVR=TFMovr)
-   
+  # 
   # Use the following command for Production
     source.tfm(d2v=d2vFile, PP=7, MI=tfmMI, clip2=deint, display=false, flags=5, ovr=tfmOVR)
 
@@ -39,4 +42,6 @@
     TDecimate(hybrid = 1, dupThresh=1.5, vidThresh=2.0, display=false, ovr=decimateOVR)
 
 # If testing, use this line to speed up the playback
-# assumefps(120)
+  # assumefps(120)
+
+
