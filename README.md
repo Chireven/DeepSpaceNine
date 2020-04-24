@@ -7,3 +7,5 @@ After lots of research, I see this is a project that many people have started bu
 Special thanks for the folks over at doom9 -- 
 Without the patience of Stereodude and bladerunner1982, this wouldn't be possible!
 
+# NOTE : 
+There are lots of empty files in this repository.  If you're going to use one of the ovr files, please make sure it has data in it before you used it.  This project is NOT complete!
