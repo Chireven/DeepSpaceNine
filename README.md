@@ -39,7 +39,7 @@ ___
 
 
 #### Combed Frame Codes:
->*Combed frames codes can be used to force actions on a frame, or range of frames.*
+>*Combed frames codes can be used to force a frame, or range of frames as combed or not combed*
 
 |Code|Description           |
 |----|----------------------|
