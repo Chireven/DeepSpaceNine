@@ -2,10 +2,10 @@
 #   The OVRfiles for TFM and TDecimate need to exist.  If they don't, it will generate an error. 
 #   You can add an OVR file or remove the OVR= section from the commands below.
 
-  d2vFile     = "Deep Space Nine - S01E05 - Babel.d2v"
-  tfmOVR      = "Deep Space Nine - S01E05 - Babel_TFM.ovr"
-  decimateOVR = "Deep Space Nine - S01E05 - Babel_TDecimate.ovr"
-  logTFM      = "Deep Space Nine - S01E05 - Babel_TFMReport.log"
+  d2vFile     = "Deep Space Nine - S01E04 - Babel.d2v"
+  tfmOVR      = "Deep Space Nine - S01E04 - Babel_TFM.ovr"
+  decimateOVR = "Deep Space Nine - S01E04 - Babel_TDecimate.ovr"
+  logTFM      = "Deep Space Nine - S01E04 - Babel_TFMReport.log"
   
   tfmMI       = 24
  
