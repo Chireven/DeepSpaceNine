@@ -73,6 +73,6 @@ At this point you can step through the episode again.  With the production TFM e
 
 Once the OVR files are complete we can create a video from the AVS file using FFMPEG.  Since we're using DGMPEGenc, we'll need to make sure we use the x86 version.  The following command will produce an MKV file:
 
-ffmpeg.exe -i <path to avs file> -map 0:v -c:v copy <ouput file.mkv>
+ffmpeg.exe -i (path to avs file) -map 0:v -c:v copy (ouput file.mkv)
 
 At this point, we should have a file that we can send through whichever program we've chosen to do the upscale.
