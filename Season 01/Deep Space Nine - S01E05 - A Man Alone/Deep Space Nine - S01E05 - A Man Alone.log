@@ -1,0 +1,28 @@
+Stream Type: MPEG2 Program
+Profile: main@main
+Frame Size: 720x480
+Display Size: 720x480
+Aspect Ratio: 4:3 [2]
+Frame Rate: 29.970030 fps
+Video Type: Film 99.69%
+Frame Type: Progressive
+Coding Type: B
+Colorimetry: SMPTE 170M
+Frame Structure: Frame
+Field Order: Top
+Coded Number: 321
+Playback Number: 401
+Frame Repeats: 0
+Field Repeats: 160
+VOB ID: 25
+Cell ID: 1
+Bitrate: 6.169 Mbps
+Bitrate (Avg): 5.646 Mbps
+Bitrate (Max): 7.307 Mbps
+Audio Stream: 80: AC3 3/2 448
+Audio Stream: 81: AC3 2/0 192
+Timestamp: 0:00:13
+Elapsed: 0:00:17
+Remain: 0:59:53
+FPS: 29.94
+Info: 
