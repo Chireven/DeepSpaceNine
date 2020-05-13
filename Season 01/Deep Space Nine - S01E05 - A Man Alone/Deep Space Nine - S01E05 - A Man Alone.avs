@@ -27,10 +27,10 @@
 # Perform Reverse Telecine
   # Use the following command when testing for combed frames with problems 
   # Optional:   output=logTFM   to output TFM actions to a text file 
-     source.tfm(d2v=d2vFile, PP=1, MI=tfmMI, clip2=deint, display=true, flags=5, OVR=TFMovr)
+  #   source.tfm(d2v=d2vFile, PP=1, MI=tfmMI, clip2=deint, display=true, flags=5, OVR=TFMovr)
   # 
   # Use the following command for Production
-  # source.tfm(d2v=d2vFile, PP=7, MI=tfmMI, clip2=deint, display=false, flags=5, ovr=tfmOVR)
+   source.tfm(d2v=d2vFile, PP=7, MI=tfmMI, clip2=deint, display=false, flags=5, ovr=tfmOVR)
 
 
 
@@ -42,6 +42,6 @@
    # TDecimate(hybrid = 1, dupThresh=1.5, vidThresh=2.0, display=false, ovr=decimateOVR)
 
 # If testing, use this line to speed up the playback
-  # assumefps(120)
+ #assumefps(120)
 
 
