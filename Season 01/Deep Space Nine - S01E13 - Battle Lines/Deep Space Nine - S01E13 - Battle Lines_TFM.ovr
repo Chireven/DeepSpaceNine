@@ -1,1 +1,58 @@
 ; Template OVR file for TFM
+
+;theme song
+7875,8464 -
+8576,8942 +
+8943 -		
+8949,9191 -
+9200,9299 ppccc
+9279 +		
+9288 -		
+9577,9716 ppccc
+9577,9716 +
+9930,10049 ppccc
+9930,9994 +
+10376,10465 ppccc
+10750,10859 ppccc
+10706,10803 +
+10912,10921 +
+11042,11055 +
+
+
+;episode title
+11354,11424 -
+
+;paul collins
+11589,11657 -
+
+;jonathan banks
+11728,11800 -
+
+;wormhole/ peter allan fields
+12082,12161 -
+
+;wormhole
+12233 -
+12235 -
+12238 -
+
+;peter lauritson
+12239,12311 -
+
+;wormhole
+12313,12520 -
+
+;ira behr
+12775,12848 -
+
+;teleplay
+12970,12973 -
+12975,12976 -
+13010,13012 -
+13040,13044 -
+
+;shuttlecraft
+48282,48456 -
+
+;credits
+80309,81665, p
