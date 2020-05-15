@@ -1,1 +1,57 @@
 ; Template OVR file for TFM
+
+;theme song
+9149,9738 -
+9850,10216 +
+10217 -		
+10223,10465 -
+10474,10573 ppccc
+10553 +		
+10562 -		
+10851,10990 ppccc
+10851,10990 +
+11204,11323 ppccc
+11204,11268 +
+11650,11739 ppccc
+12024,12133 ppccc
+11980,12077 +
+12186,12195 +
+12316,12329 +
+
+
+;max grodenchik
+12783 -
+
+;lou wagner
+12921 -
+
+;aron eisenberg
+13552 -
+13617 -
+
+;line producer
+14037,14110 -
+
+;peter allan fields
+14233,14306 -
+
+;peter lauritson
+14574,14647 -
+
+;david livingston
+14771,14844 -
+
+;ira behr
+14901,14974 -
+
+;teleplay
+15036,15108 -
+
+;director
+15357,15430 -
+
+;exec producers
+79796,79869 -
+
+;credits
+79958,81323 p
