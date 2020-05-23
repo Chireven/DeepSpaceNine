@@ -1,1 +1,68 @@
 ; Template OVR file for TFM
+
+;transporter
+5818,5920 +
+5933,6060 +
+
+;intro
+6846,7435 -
+7547,7913 +
+7914 -
+7920,8162 -
+8171,8270 ppccc
+8250 +
+8259 -
+8548,8687 ppccc
+8548,8687 +
+8901,9020 ppccc
+8901,8965 +
+9347,9436 ppccc
+9721,9830 ppccc
+9677,9774 +
+9883,9892 +
+10013,10026 +
+
+;brian keith
+10455,10525 -
+
+;kira blinking
+10580 +
+
+;nicholas worth
+10852,10923 -
+
+;peter allan fields
+11202,11275 -
+
+;peter lauritson
+11394,11466 -
+
+;david livinston
+11654,11727 -
+
+;ira behr
+11935,12007 -
+
+;peter allan fields
+12135,12208 -
+
+;les landau
+12264,12337 -
+
+;station view
+12641,12789 -
+23239,23392 -
+32758,32917 -
+
+;transporter
+56384,56481 +
+62581,62695 +
+
+;station view
+67090,67254 -
+
+;table
+69759,69764 -
+
+;credits
+80304,81656 p
