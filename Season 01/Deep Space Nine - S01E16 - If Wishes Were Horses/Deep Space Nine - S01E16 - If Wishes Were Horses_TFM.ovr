@@ -1,1 +1,61 @@
-; Template OVR file for TFM
+; Templ te OVR file for TFM
+
+;intro
+12359,12948 -
+13060,13426 +
+13427 -
+13433,13675 -
+13684,13783 ppccc
+13763 +
+13772 -
+14061,14200 ppccc
+14061,14200 +
+14414,14533 ppccc
+14414,14478 +
+14860,14949 ppccc
+15234,15343 ppccc
+15190,15287 +
+15396,15405 +
+15526,15539 +
+
+;episode title
+16009,16082 -
+
+;rosalind chao
+16792,16864 -
+
+;keone young
+17005,17014 -
+
+;michael john anderson
+17118,17189 -
+
+;peter allan fields
+17598,17669 -
+
+;peter lauritson
+17807,17879 -
+
+;david livingston
+18513,18584 -
+
+;ira behr
+18738,18809 -
+
+;robert legato
+19537,19609 -
+
+;station view
+24112,24248 -
+
+;station view
+47772,47836 -
+
+;viewscreen
+61201,61219 -
+
+;station/exec producers
+79562,79815 -
+
+;credits
+79899,81697 p
