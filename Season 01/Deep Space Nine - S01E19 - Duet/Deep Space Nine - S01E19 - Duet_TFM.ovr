@@ -1,1 +1,53 @@
 ; Template OVR file for TFM
+
+;intro
+4121,4160 +
+4161,4734 -
+4846,5212 +
+5213 -
+5219,5461 -
+5470,5569 ppccc
+5549 +
+5558 -
+5847,5986 ppccc
+5847,5986 +
+6200,6319 ppccc
+6200,6264 +
+6646,6735 ppccc
+7020,7129 ppccc
+6976,7073 +
+7181,7325 +
+
+;marc alaimo
+8043,8116 -
+
+;robin christopher
+8241,8314 -
+
+;peter allan fields
+9559,9632 -
+
+;peter lauritson
+9713,9785 -
+
+;david livingston
+9885,9958 -
+
+;ira behr
+10036,10108 -
+
+;teleplay
+10227,10300 -
+
+;james l conway
+10494,10567 -
+
+;viewscreen
+39803,39805 +
+39807,39808 +
+
+;station
+77865 -
+
+;credits
+80335,81690 p
