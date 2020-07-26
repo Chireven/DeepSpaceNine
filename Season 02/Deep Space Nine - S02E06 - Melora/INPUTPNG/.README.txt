@@ -1,0 +1,1 @@
+This is the folder for tiffs if using image sequence output from the TIVTC avs script.

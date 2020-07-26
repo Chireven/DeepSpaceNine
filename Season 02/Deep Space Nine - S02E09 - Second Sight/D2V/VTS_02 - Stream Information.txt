@@ -1,0 +1,4 @@
+0x20 - Subtitle - English / Normal Captions - [SubPicture 01: Normal] / LBA: 744 / PTS: 00:00:04.429 / Delay: 4237ms
+0x80 - Audio - AC3 / 6ch / 48kHz / DRC / English / LBA: 15 / PTS: 00:00:00.192 / Delay: 0ms
+0x81 - Audio - AC3 / 2ch / 48kHz / DRC / English / LBA: 16 / PTS: 00:00:00.192 / Delay: 0ms
+0xE0 - Video - MPEG-2 / 720x480 (NTSC) / 4:3 / LBA: 1 / PTS: 00:00:00.192 / Delay: 0ms
