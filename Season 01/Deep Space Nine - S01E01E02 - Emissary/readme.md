@@ -1,6 +1,6 @@
 # Known Issues
 
-## ISSUE 1 : During the intro, the scolling step skips
+## ISSUE 1 : During the intro, the scrolling text skips
 
 This can be corrected by using the OVR files from the project for this episode.  I wasn't able to discover a way to integrate it into the main AVS script, but I provided a second script that you can use to resolve this with little effort.  It still isn't perfect, but it does reduce some of the skipping.
 
