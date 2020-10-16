@@ -1,0 +1,3560 @@
+﻿1
+00:00:02,694 --> 00:00:06,152
+Station Log, Stardate 46910.1.
+
+2
+00:00:06,231 --> 00:00:08,165
+Chief O'Brien
+has escorted his wife
+
+3
+00:00:08,200 --> 00:00:11,533
+back to Earth to celebrate
+her mother's 100th birthday.
+
+4
+00:00:11,570 --> 00:00:14,095
+ln the meantime,
+the rest of us are trying
+
+5
+00:00:14,139 --> 00:00:16,334
+to keep the station
+up and running.
+
+6
+00:00:20,212 --> 00:00:23,010
+lt's almost as if the
+refiltration processors
+
+7
+00:00:23,048 --> 00:00:25,516
+were waiting for
+Chief O'Brien to leave
+
+8
+00:00:25,550 --> 00:00:26,881
+before breaking down.
+
+9
+00:00:26,918 --> 00:00:30,012
+This technology looks like
+something the Cardassians
+
+10
+00:00:30,055 --> 00:00:32,080
+must have taken
+from the Romulans.
+
+11
+00:00:32,124 --> 00:00:34,854
+ls that an RCL type-1
+matrix field?
+
+12
+00:00:34,893 --> 00:00:38,522
+Perhaps we should call in
+a Romulan repair service.
+
+13
+00:00:38,563 --> 00:00:40,087
+Or an RCL type-2?
+
+14
+00:00:40,132 --> 00:00:42,498
+Another <i>raktajino?</i>
+
+15
+00:00:42,534 --> 00:00:44,331
+lt'll keep me up all night.
+
+16
+00:00:44,369 --> 00:00:47,031
+l can think of better
+ways of keeping you up
+
+17
+00:00:47,072 --> 00:00:50,166
+and they're more fun
+than drinking Klingon coffee.
+
+18
+00:00:50,208 --> 00:00:52,642
+Definitely type-1.
+
+19
+00:01:14,199 --> 00:01:15,689
+Dax.
+
+20
+00:01:18,804 --> 00:01:21,170
+l really should be
+getting to bed.
+
+21
+00:01:21,206 --> 00:01:23,504
+May l escort you
+to your quarters?
+
+22
+00:01:23,542 --> 00:01:25,840
+That's not necessary, Julian.
+
+23
+00:01:25,877 --> 00:01:27,174
+Oh.
+
+24
+00:01:27,212 --> 00:01:28,873
+Well, good night, then.
+
+25
+00:01:45,163 --> 00:01:47,563
+''Not necessary, Julian.''
+
+26
+00:01:50,569 --> 00:01:52,901
+But not forbidden, either.
+
+27
+00:02:01,513 --> 00:02:02,980
+Dax.
+
+28
+00:02:04,516 --> 00:02:06,108
+Yes.
+
+29
+00:02:06,151 --> 00:02:07,982
+You are Dax?
+
+30
+00:02:08,019 --> 00:02:09,611
+What do you want?
+
+31
+00:02:18,530 --> 00:02:19,997
+Dax!
+
+32
+00:04:55,987 --> 00:04:57,181
+Yes, Major?
+
+33
+00:04:57,222 --> 00:04:59,417
+l'm just not sure, Commander.
+
+34
+00:04:59,457 --> 00:05:02,017
+What does it look like to you?
+
+35
+00:05:02,060 --> 00:05:05,291
+lt looks like a residual charge
+in the graviton generator.
+
+36
+00:05:05,330 --> 00:05:07,560
+lf that's what it is,
+it will bleed off.
+
+37
+00:05:07,599 --> 00:05:10,932
+Let's run a quick level-3
+diagnostic, just to be sure.
+
+38
+00:05:14,672 --> 00:05:16,401
+Bashir to Ops.
+
+39
+00:05:16,441 --> 00:05:17,408
+Ops.
+
+40
+00:05:17,442 --> 00:05:18,568
+Three people...
+
+41
+00:05:18,610 --> 00:05:22,740
+l think they just took Jadzia.
+
+42
+00:05:22,781 --> 00:05:26,239
+She tried to struggle with them,
+and l tried to help, but...
+
+43
+00:05:26,284 --> 00:05:27,979
+Full station security alert.
+
+44
+00:05:28,019 --> 00:05:29,418
+Secure all turbolifts.
+
+45
+00:05:29,454 --> 00:05:32,423
+Seal off airlocks
+on levels four through 12.
+
+46
+00:05:32,457 --> 00:05:34,425
+Computer, locate Lieutenant Dax.
+
+47
+00:05:34,459 --> 00:05:37,053
+Lieutenant Dax is on level six,
+corridor one.
+
+48
+00:05:37,128 --> 00:05:38,959
+No, that's where l am.
+
+49
+00:05:38,997 --> 00:05:40,828
+They just left her combadge.
+
+50
+00:05:40,865 --> 00:05:42,264
+How long ago, Doctor?
+
+51
+00:05:42,300 --> 00:05:44,200
+Oh, l'm not sure, really.
+
+52
+00:05:44,235 --> 00:05:46,135
+What are you doing?
+
+53
+00:05:48,473 --> 00:05:50,805
+We turn right
+at the next corridor.
+
+54
+00:05:59,017 --> 00:06:00,985
+They're managing to avoid
+the security tracking grid.
+
+55
+00:06:01,019 --> 00:06:03,385
+They seem to know a lot
+about the station.
+
+56
+00:06:03,421 --> 00:06:05,855
+Then they may know
+the speed of our runabouts.
+
+57
+00:06:05,890 --> 00:06:07,517
+lf they do, they probably have
+
+58
+00:06:07,559 --> 00:06:09,493
+a faster ship
+to make their escape.
+
+59
+00:06:09,527 --> 00:06:12,223
+Major, survey all ships in dock
+with a high warp capability.
+
+60
+00:06:17,569 --> 00:06:19,036
+Damn!
+
+61
+00:06:19,103 --> 00:06:20,229
+What?
+
+62
+00:06:20,271 --> 00:06:21,829
+That's why we've got
+a residual charge
+
+63
+00:06:21,873 --> 00:06:23,033
+in the graviton generator.
+
+64
+00:06:23,141 --> 00:06:25,507
+They've disabled
+the tractor beam.
+
+65
+00:06:25,543 --> 00:06:27,909
+We've got eight ships in dock
+capable of warp five or more.
+
+66
+00:06:27,946 --> 00:06:30,414
+Three on docking pylons,
+five smaller ones in the ports.
+
+67
+00:06:30,448 --> 00:06:32,313
+Seal off
+all docking ring airlocks.
+
+68
+00:06:32,350 --> 00:06:35,046
+Security, all duty squads
+to the docking ring.
+
+69
+00:06:35,119 --> 00:06:38,384
+Commence immediate inward
+sweep, levels 16 through 21.
+
+70
+00:06:55,073 --> 00:06:58,201
+l've got them-- Airlock 5.
+
+71
+00:06:58,243 --> 00:06:59,403
+l'm on my way.
+
+72
+00:06:59,444 --> 00:07:01,878
+Security, report to airlock,
+corridor five.
+
+73
+00:07:01,913 --> 00:07:03,380
+We have a hostage situation.
+
+74
+00:07:03,414 --> 00:07:05,644
+lsolating with
+cadderon force fields.
+
+75
+00:07:06,684 --> 00:07:09,744
+Will you just tell me
+what you want?
+
+76
+00:07:23,701 --> 00:07:25,100
+Move.
+
+77
+00:07:31,910 --> 00:07:33,571
+Force field is down.
+
+78
+00:07:33,611 --> 00:07:36,739
+They know
+the security override codes.
+
+79
+00:07:36,781 --> 00:07:38,749
+They're boarding a ship.
+
+80
+00:07:38,783 --> 00:07:41,411
+l'm trying to speed up
+the bleed-off process
+
+81
+00:07:41,452 --> 00:07:43,044
+in the graviton generator.
+
+82
+00:07:43,121 --> 00:07:44,315
+We lost them.
+
+83
+00:07:50,361 --> 00:07:51,658
+lt's working.
+
+84
+00:07:51,696 --> 00:07:55,063
+l'm increasing the flow
+to the EPS wave guides.
+
+85
+00:07:55,133 --> 00:07:57,067
+The excess charge
+is neutralizing.
+
+86
+00:07:58,069 --> 00:07:59,331
+Engage tractor beam.
+
+87
+00:08:06,377 --> 00:08:07,742
+Gotcha.
+
+88
+00:08:09,247 --> 00:08:12,080
+Bring it in
+to Docking Port 6, Major.
+
+89
+00:08:22,093 --> 00:08:23,424
+Slowly!
+
+90
+00:08:24,762 --> 00:08:27,390
+Extremities
+where l can see them.
+
+91
+00:08:27,432 --> 00:08:29,423
+You're the Chief of Security?
+
+92
+00:08:35,440 --> 00:08:37,635
+Are you all right?
+
+93
+00:08:37,675 --> 00:08:40,906
+My name is llon Tandro
+
+94
+00:08:40,945 --> 00:08:42,913
+special envoy from Klaestron lV
+
+95
+00:08:42,947 --> 00:08:45,381
+in charge of this
+extradition procedure.
+
+96
+00:08:45,416 --> 00:08:47,748
+Extradition? l call this
+kidnapping and assault.
+
+97
+00:08:47,785 --> 00:08:50,253
+You'll find that to be
+a valid warrant for her arrest.
+
+98
+00:08:50,288 --> 00:08:51,448
+The relevant treaty
+
+99
+00:08:51,489 --> 00:08:53,582
+between Klaestron lV
+and your Federation
+
+100
+00:08:53,624 --> 00:08:55,455
+allows for unilateral
+extradition.
+
+101
+00:08:55,493 --> 00:08:56,551
+And the charge?
+
+102
+00:08:56,594 --> 00:09:01,691
+The fugitive Dax
+is charged with treason...
+
+103
+00:09:01,733 --> 00:09:04,167
+and the murder of my father.
+
+104
+00:09:18,716 --> 00:09:21,184
+The warrant says
+Dax was responsible
+
+105
+00:09:21,219 --> 00:09:24,188
+for the death
+of General Ardelon Tandro
+
+106
+00:09:24,222 --> 00:09:25,689
+30 years ago.
+
+107
+00:09:25,723 --> 00:09:27,190
+30 years ago?
+
+108
+00:09:27,225 --> 00:09:28,852
+That would have been Curzon Dax.
+
+109
+00:09:28,893 --> 00:09:32,795
+Mmm, when he was on Klaestron lV
+
+110
+00:09:32,830 --> 00:09:36,527
+as a Federation mediator
+during their civil war.
+
+111
+00:09:36,567 --> 00:09:39,127
+He never mentioned
+he'd even been to Klaestron lV.
+
+112
+00:09:39,170 --> 00:09:40,137
+Strange.
+
+113
+00:09:40,171 --> 00:09:43,470
+Not so strange,
+considering these charges.
+
+114
+00:09:43,508 --> 00:09:45,499
+Odo, let me tell you something.
+
+115
+00:09:45,543 --> 00:09:48,569
+Curzon Dax tended to be
+a little cavalier about life
+
+116
+00:09:48,613 --> 00:09:51,047
+even about his personal
+responsibilities
+
+117
+00:09:51,115 --> 00:09:52,309
+from time to time.
+
+118
+00:09:54,419 --> 00:09:56,751
+l think that was
+part of the reason
+
+119
+00:09:56,788 --> 00:09:58,187
+l liked him so much.
+
+120
+00:09:58,222 --> 00:09:59,814
+He had more faults
+
+121
+00:09:59,857 --> 00:10:03,520
+than the usual
+socially acceptable Trill.
+
+122
+00:10:03,561 --> 00:10:05,756
+He was not a murderer.
+
+123
+00:10:05,797 --> 00:10:08,391
+How about a traitor?
+
+124
+00:10:08,433 --> 00:10:10,765
+lt says Dax betrayed
+the Klaestron government
+
+125
+00:10:10,802 --> 00:10:11,962
+to the rebels.
+
+126
+00:10:12,003 --> 00:10:13,402
+lt's all nonsense, Constable.
+
+127
+00:10:13,438 --> 00:10:14,769
+l'm telling you l knew the man.
+
+128
+00:10:14,806 --> 00:10:19,402
+But did you know
+the symbiont inside the man?
+
+129
+00:10:27,852 --> 00:10:29,285
+Come in.
+
+130
+00:10:33,291 --> 00:10:36,590
+l've sent a subspace message
+to Klaestron lV
+
+131
+00:10:36,627 --> 00:10:38,595
+requesting confirmation
+of the warrant.
+
+132
+00:10:38,629 --> 00:10:41,757
+That's the only stall
+l could think of.
+
+133
+00:10:41,799 --> 00:10:45,633
+Now, what the hell's going on,
+Dax?
+
+134
+00:10:47,305 --> 00:10:48,636
+Dax.
+
+135
+00:10:48,673 --> 00:10:51,301
+lf l'm going to help you,
+you've got to help me.
+
+136
+00:10:51,342 --> 00:10:54,209
+l don't expect any help,
+Benjamin.
+
+137
+00:10:54,245 --> 00:10:55,678
+Thank you, though.
+
+138
+00:10:55,713 --> 00:10:57,237
+Are you crazy?!
+
+139
+00:10:57,281 --> 00:10:59,215
+Treason and murder--
+
+140
+00:10:59,250 --> 00:11:00,649
+on Klaestron lV
+
+141
+00:11:00,685 --> 00:11:04,712
+either of those gets you
+the death penalty.
+
+142
+00:11:08,259 --> 00:11:11,092
+What's the matter with you?
+
+143
+00:11:12,263 --> 00:11:15,426
+Talk to me, before l have
+to let these people take you.
+
+144
+00:11:15,466 --> 00:11:19,527
+No. l'm sorry, Benjamin,
+but no.
+
+145
+00:11:30,281 --> 00:11:35,082
+We've got 18, 20 years
+of friendship behind us.
+
+146
+00:11:35,119 --> 00:11:37,587
+l'm Jadzia Dax now.
+
+147
+00:11:37,622 --> 00:11:40,182
+That was Curzon Dax
+you knew for 20 years.
+
+148
+00:11:40,224 --> 00:11:42,215
+So when the Dax part
+of you survived
+
+149
+00:11:42,260 --> 00:11:43,727
+from one host to the next
+
+150
+00:11:43,761 --> 00:11:46,195
+it really didn't take
+our friendship along.
+
+151
+00:11:46,230 --> 00:11:48,562
+Benjamin, you know
+
+152
+00:11:48,599 --> 00:11:50,794
+you're still
+my very dear friend.
+
+153
+00:11:53,704 --> 00:11:56,195
+l'm sorry.
+
+154
+00:11:59,944 --> 00:12:01,707
+You've received
+your confirmation, Commander.
+
+155
+00:12:01,746 --> 00:12:04,647
+Now we'd like to be
+on our way with the prisoner.
+
+156
+00:12:04,682 --> 00:12:06,843
+You know, Mr. Tandro,
+l kept wondering
+
+157
+00:12:06,884 --> 00:12:09,045
+why you tried to kidnap
+Lieutenant Dax
+
+158
+00:12:09,086 --> 00:12:11,213
+rather than just present
+your warrant to me
+
+159
+00:12:11,255 --> 00:12:12,222
+in the proper way.
+
+160
+00:12:12,256 --> 00:12:14,107
+l couldn't figure
+that out at first.
+
+161
+00:12:14,240 --> 00:12:16,003
+l trust you have figured out,
+Commander
+
+162
+00:12:16,109 --> 00:12:18,907
+that our extradition treaty
+with your Federation
+
+163
+00:12:18,945 --> 00:12:20,242
+is current and valid.
+
+164
+00:12:20,280 --> 00:12:22,305
+This station is
+technically Bajoran.
+
+165
+00:12:22,348 --> 00:12:24,213
+What does that mean to us?
+
+166
+00:12:24,250 --> 00:12:26,946
+You don't have an extradition
+treaty with Bajor.
+
+167
+00:12:26,986 --> 00:12:29,147
+l think that's why you tried
+to abduct
+
+168
+00:12:29,189 --> 00:12:30,281
+Lieutenant Dax.
+
+169
+00:12:30,323 --> 00:12:33,156
+You were afraid the Bajorans
+would refuse extradition.
+
+170
+00:12:33,193 --> 00:12:34,319
+That's absurd.
+
+171
+00:12:34,360 --> 00:12:37,022
+No Bajoran interests
+are even involved here.
+
+172
+00:12:37,130 --> 00:12:40,622
+How did you know your way
+around this station so well?
+
+173
+00:12:40,667 --> 00:12:43,898
+My conversation
+is with the Commander.
+
+174
+00:12:43,937 --> 00:12:45,234
+No, your conversation
+
+175
+00:12:45,271 --> 00:12:47,569
+is with my First Officer now.
+
+176
+00:12:47,607 --> 00:12:50,235
+You Klaestrons are allies
+of the Cardassians.
+
+177
+00:12:50,276 --> 00:12:51,903
+Your knowledge of this station
+confirms that.
+
+178
+00:12:51,945 --> 00:12:53,276
+They must have
+given you the layout
+
+179
+00:12:53,313 --> 00:12:57,010
+which not only compromises
+Bajoran security
+
+180
+00:12:57,050 --> 00:13:00,508
+but also... annoys us.
+
+181
+00:13:00,553 --> 00:13:03,545
+l'm afraid Bajoran interests
+are involved
+
+182
+00:13:03,590 --> 00:13:05,717
+and Bajor is adamant that--
+
+183
+00:13:05,758 --> 00:13:08,420
+at least, l believe
+it's adamant.
+
+184
+00:13:08,461 --> 00:13:09,621
+Oh. Oh, yes.
+
+185
+00:13:09,662 --> 00:13:12,153
+You see, there will have
+to be an extradition hearing
+
+186
+00:13:12,198 --> 00:13:15,258
+before l can lawfully
+release Lieutenant Dax.
+
+187
+00:13:20,773 --> 00:13:22,434
+For how long?
+
+188
+00:13:22,475 --> 00:13:24,443
+As long as it takes.
+
+189
+00:13:24,477 --> 00:13:26,445
+That could be for days.
+
+190
+00:13:26,479 --> 00:13:29,448
+Well, there's nowhere else
+on the station that's suitable.
+
+191
+00:13:29,482 --> 00:13:31,006
+That's too bad.
+
+192
+00:13:31,050 --> 00:13:34,019
+l'm not shutting down
+for any Bajoran hearing.
+
+193
+00:13:34,053 --> 00:13:37,045
+l'm sure Lieutenant Dax
+would appreciate it.
+
+194
+00:13:40,260 --> 00:13:42,194
+Business is business.
+
+195
+00:13:42,228 --> 00:13:43,593
+Ah.
+
+196
+00:13:46,566 --> 00:13:50,024
+You know, that wall's
+going to have to come in
+
+197
+00:13:50,069 --> 00:13:51,468
+about five meters.
+
+198
+00:13:51,504 --> 00:13:53,472
+What are you talking about?
+
+199
+00:13:53,506 --> 00:13:56,475
+Of course, after you move
+the wall, that'll mean
+
+200
+00:13:56,509 --> 00:13:59,967
+your second-level holosuites
+will have to come down.
+
+201
+00:14:00,013 --> 00:14:01,480
+Come down? Why?
+
+202
+00:14:01,514 --> 00:14:03,573
+New restrictions.
+
+203
+00:14:03,616 --> 00:14:05,709
+Restrictions?
+
+204
+00:14:05,752 --> 00:14:07,151
+Building codes.
+
+205
+00:14:07,186 --> 00:14:09,654
+Since the provisional
+government took over
+
+206
+00:14:09,689 --> 00:14:12,157
+they've got their hands
+into everything
+
+207
+00:14:12,191 --> 00:14:14,659
+and, of course,
+l'm the one who's expected
+
+208
+00:14:14,694 --> 00:14:16,753
+to enforce their rules here.
+
+209
+00:14:16,796 --> 00:14:18,855
+Ha.
+
+210
+00:14:21,034 --> 00:14:23,502
+You know, l think this bar
+
+211
+00:14:23,536 --> 00:14:26,528
+is just a little
+too near the exit.
+
+212
+00:14:28,474 --> 00:14:30,169
+This is blackmail.
+
+213
+00:14:30,209 --> 00:14:32,541
+No, it's just business.
+
+214
+00:14:35,014 --> 00:14:38,142
+And business is business.
+
+215
+00:14:48,461 --> 00:14:50,554
+l was just coming to see you.
+
+216
+00:14:50,596 --> 00:14:52,621
+We still haven't found
+a place for the hearing.
+
+217
+00:14:52,665 --> 00:14:54,030
+Holding it on Bajor
+would involve
+
+218
+00:14:54,100 --> 00:14:55,032
+Dax leaving the station
+
+219
+00:14:55,101 --> 00:14:56,398
+and l don't want to risk that.
+
+220
+00:14:56,436 --> 00:14:57,960
+Well, now that's a coincidence.
+
+221
+00:14:58,004 --> 00:15:00,131
+Our good friend Quark
+just donated the use
+
+222
+00:15:00,173 --> 00:15:01,800
+of his facility
+for the hearing.
+
+223
+00:15:01,841 --> 00:15:03,206
+Nice gesture.
+
+224
+00:15:03,242 --> 00:15:04,709
+l thought so.
+
+225
+00:15:04,744 --> 00:15:06,371
+You know, l haven't been able
+
+226
+00:15:06,412 --> 00:15:08,846
+to get a word out of Dax
+about any of this.
+
+227
+00:15:08,881 --> 00:15:10,974
+So l thought someone
+might go do some investigating
+
+228
+00:15:11,084 --> 00:15:12,312
+on Klaestron lV itself.
+
+229
+00:15:12,352 --> 00:15:13,649
+What do you think?
+
+230
+00:15:13,686 --> 00:15:15,984
+This case has 30 years
+of dust covering it.
+
+231
+00:15:16,022 --> 00:15:18,786
+The extradition hearing
+will take about 30 minutes.
+
+232
+00:15:18,825 --> 00:15:21,191
+l was hoping to make it
+a little longer than that.
+
+233
+00:15:21,227 --> 00:15:23,218
+Good luck.
+
+234
+00:15:42,215 --> 00:15:44,012
+This will be an informal hearing
+
+235
+00:15:44,117 --> 00:15:46,950
+so l'm going to start
+with some informal advice.
+
+236
+00:15:46,986 --> 00:15:49,011
+l am 100 years old.
+
+237
+00:15:49,055 --> 00:15:50,147
+l do not have time
+
+238
+00:15:50,189 --> 00:15:53,022
+to squander listening
+to superfluous language.
+
+239
+00:15:53,126 --> 00:15:56,687
+ln short, l intend
+being here until supper
+
+240
+00:15:56,729 --> 00:15:57,855
+not senility.
+
+241
+00:15:57,897 --> 00:15:59,728
+Understood?
+
+242
+00:16:01,200 --> 00:16:02,963
+Understood, Madam Arbiter.
+
+243
+00:16:06,773 --> 00:16:08,297
+You seek the extradition.
+
+244
+00:16:08,341 --> 00:16:09,808
+Make your case.
+
+245
+00:16:09,842 --> 00:16:13,801
+The accused Trill, whatever
+its present appearance may be
+
+246
+00:16:13,846 --> 00:16:16,314
+was and is a Federation officer
+
+247
+00:16:16,349 --> 00:16:19,318
+who committed capital
+crimes on our planet.
+
+248
+00:16:19,352 --> 00:16:21,820
+Since there is no time limit
+
+249
+00:16:21,854 --> 00:16:24,379
+on the prosecution
+of such crimes...
+
+250
+00:16:24,424 --> 00:16:27,882
+Thank you, l have already read
+the warrant and the charges.
+
+251
+00:16:27,927 --> 00:16:30,896
+The crimes described
+are 30 years old.
+
+252
+00:16:30,930 --> 00:16:33,194
+What took you so long?
+
+253
+00:16:33,232 --> 00:16:35,530
+The evidence was contained
+in military files
+
+254
+00:16:35,568 --> 00:16:38,537
+which were officially sealed
+until recently.
+
+255
+00:16:38,571 --> 00:16:39,833
+Fine. Sit.
+
+256
+00:16:43,176 --> 00:16:46,009
+Commander, the warrant
+is in order.
+
+257
+00:16:46,112 --> 00:16:49,570
+On what grounds do you ask
+that l deny extradition?
+
+258
+00:16:49,615 --> 00:16:52,015
+You say the warrant's in order
+
+259
+00:16:52,051 --> 00:16:54,519
+but the name
+on the warrant is Dax.
+
+260
+00:16:54,554 --> 00:16:58,012
+Certainly that doesn't refer
+to Jadzia Dax, a female
+
+261
+00:16:58,057 --> 00:17:01,288
+but to the now deceased
+Curzon Dax, a male.
+
+262
+00:17:01,327 --> 00:17:04,296
+This young woman wasn't
+even born 30 years ago.
+
+263
+00:17:04,330 --> 00:17:05,797
+You are arguing semantics.
+
+264
+00:17:05,832 --> 00:17:07,800
+This creature is a Trill.
+
+265
+00:17:07,834 --> 00:17:09,802
+The symbiont known as Dax
+
+266
+00:17:09,836 --> 00:17:12,805
+has progressed
+from one host to the next.
+
+267
+00:17:12,839 --> 00:17:14,272
+Exactly. From one host
+to the next.
+
+268
+00:17:14,307 --> 00:17:15,831
+A different host,
+a different person.
+
+269
+00:17:15,875 --> 00:17:18,173
+So l submit that the person
+he wants to extradite
+
+270
+00:17:18,211 --> 00:17:19,576
+no longer exists
+
+271
+00:17:19,612 --> 00:17:21,409
+and l challenge him
+to prove otherwise.
+
+272
+00:17:21,447 --> 00:17:22,744
+That's ridiculous.
+
+273
+00:17:22,782 --> 00:17:24,682
+lt would have been easier
+
+274
+00:17:24,717 --> 00:17:28,517
+on me, Commander, had you not
+raised that particular point
+
+275
+00:17:28,554 --> 00:17:32,991
+but the penalty for these crimes
+on your planet is death
+
+276
+00:17:33,025 --> 00:17:34,993
+and that is rather permanent
+
+277
+00:17:35,027 --> 00:17:37,359
+so before l grant extradition
+
+278
+00:17:37,396 --> 00:17:38,863
+you will convince me, please
+
+279
+00:17:38,898 --> 00:17:41,594
+that the person
+named in your warrant
+
+280
+00:17:41,634 --> 00:17:44,296
+is the person
+who is standing here now.
+
+281
+00:18:02,855 --> 00:18:04,254
+She doesn't seem to care
+
+282
+00:18:04,290 --> 00:18:06,383
+whether she gets
+out of this or not.
+
+283
+00:18:06,425 --> 00:18:08,120
+l care.
+
+284
+00:18:08,160 --> 00:18:09,855
+Doctor, we've given
+the opposition
+
+285
+00:18:09,896 --> 00:18:12,194
+access to our computers
+and station library
+
+286
+00:18:12,231 --> 00:18:13,823
+so let's utilize them ourselves.
+
+287
+00:18:13,866 --> 00:18:16,767
+l want you to find
+all the medical evidence you can
+
+288
+00:18:16,802 --> 00:18:18,895
+to support the theory
+that Jadzia Dax
+
+289
+00:18:18,938 --> 00:18:21,600
+and Curzon Dax are two
+entirely separate people.
+
+290
+00:18:21,641 --> 00:18:22,608
+Major...
+
+291
+00:18:22,642 --> 00:18:23,768
+Excuse me, sir.
+
+292
+00:18:23,809 --> 00:18:26,801
+l don't know that there is
+any medical evidence on that.
+
+293
+00:18:26,846 --> 00:18:28,711
+Assume there is, then find it.
+
+294
+00:18:28,748 --> 00:18:31,273
+Major, l'm not asking you
+to be an attorney here
+
+295
+00:18:31,317 --> 00:18:34,115
+but if you could check
+the Federation computers
+
+296
+00:18:34,153 --> 00:18:35,415
+for any precedents...
+
+297
+00:18:35,454 --> 00:18:37,718
+legal decisions
+involving Trills.
+
+298
+00:18:37,757 --> 00:18:40,282
+ls a Trill responsible
+for the conduct--
+
+299
+00:18:40,326 --> 00:18:43,295
+for the acts--
+of its antecedent selves?
+
+300
+00:18:43,329 --> 00:18:44,956
+Right, that kind of thing.
+
+301
+00:18:44,997 --> 00:18:47,227
+What if l find
+the answer is ''yes''?
+
+302
+00:18:47,266 --> 00:18:49,291
+Then that answer is wrong.
+
+303
+00:18:49,335 --> 00:18:52,463
+From this minute on,
+our answer is ''no.''
+
+304
+00:18:55,541 --> 00:18:59,443
+But if you do find
+a wrong answer...
+
+305
+00:18:59,478 --> 00:19:01,127
+l want to see it.
+
+306
+00:19:01,260 --> 00:19:03,888
+l can't fight
+what l don't know about.
+
+307
+00:19:03,996 --> 00:19:06,692
+Commander Sisko, there's
+a subspace communication
+
+308
+00:19:06,732 --> 00:19:08,393
+from Odo on Klaestron lV.
+
+309
+00:19:08,434 --> 00:19:10,197
+We only have a few hours,
+people.
+
+310
+00:19:15,241 --> 00:19:17,573
+What have you got for us,
+Constable?
+
+311
+00:19:17,610 --> 00:19:19,908
+Well, l know two things so far--
+
+312
+00:19:19,946 --> 00:19:23,211
+whoever did murder
+that General Ardelon Tandro
+
+313
+00:19:23,249 --> 00:19:24,910
+it got his troops so mad
+
+314
+00:19:24,984 --> 00:19:27,680
+they went out
+and won their civil war.
+
+315
+00:19:27,720 --> 00:19:30,018
+They made the general
+a national hero.
+
+316
+00:19:30,056 --> 00:19:33,082
+There are statues of him
+all over the place.
+
+317
+00:19:33,125 --> 00:19:36,219
+The second-- everyone
+that's old enough to remember
+
+318
+00:19:36,262 --> 00:19:39,925
+says the General and Curzon Dax
+were the closest of friends.
+
+319
+00:19:39,999 --> 00:19:41,364
+Comrades, inseparable.
+
+320
+00:19:41,400 --> 00:19:44,233
+Now that sounds
+like the Curzon Dax l knew.
+
+321
+00:19:44,270 --> 00:19:45,430
+But treason...
+
+322
+00:19:45,471 --> 00:19:47,939
+plus the murder
+of his own best friend?
+
+323
+00:19:48,007 --> 00:19:49,372
+Strange business.
+
+324
+00:19:49,408 --> 00:19:51,069
+lf those charges are true
+
+325
+00:19:51,110 --> 00:19:54,409
+l'd want to hang Curzon Dax
+up by his heels myself.
+
+326
+00:19:54,447 --> 00:19:56,244
+Thanks for the confidence.
+
+327
+00:19:56,282 --> 00:19:57,249
+Don't worry.
+
+328
+00:19:57,283 --> 00:19:58,409
+l'll do my job.
+
+329
+00:19:58,451 --> 00:20:00,112
+The General left a widow.
+
+330
+00:20:00,152 --> 00:20:02,211
+lf the two men were that close
+
+331
+00:20:02,255 --> 00:20:05,122
+she has to remember something
+about Curzon Dax
+
+332
+00:20:05,157 --> 00:20:06,749
+that's not in the record.
+
+333
+00:20:06,792 --> 00:20:08,089
+You'll hear from me.
+
+334
+00:20:17,637 --> 00:20:21,733
+Curzon Dax was not responsible
+for the death of my husband.
+
+335
+00:20:21,774 --> 00:20:23,366
+You're certain of that?
+
+336
+00:20:23,409 --> 00:20:24,740
+Without a doubt.
+
+337
+00:20:24,777 --> 00:20:26,972
+But your own son...?
+
+338
+00:20:27,046 --> 00:20:28,980
+My son is obsessed
+
+339
+00:20:29,048 --> 00:20:32,415
+with the death of a father
+he never knew.
+
+340
+00:20:32,451 --> 00:20:35,978
+Oh, l tried to persuade him
+not to reopen the case.
+
+341
+00:20:36,088 --> 00:20:39,717
+He won't listen to anyone,
+least of all to me.
+
+342
+00:20:39,759 --> 00:20:41,386
+You have to understand
+
+343
+00:20:41,427 --> 00:20:44,225
+Curzon Dax was closer
+to the General
+
+344
+00:20:44,263 --> 00:20:47,096
+than any other man
+on this planet.
+
+345
+00:20:47,133 --> 00:20:49,567
+He was a dear friend
+to this family.
+
+346
+00:20:49,602 --> 00:20:51,570
+Curzon would have died himself
+
+347
+00:20:51,604 --> 00:20:54,505
+sooner than conspire
+against my husband.
+
+348
+00:20:54,540 --> 00:20:56,098
+ls that a personal opinion
+
+349
+00:20:56,142 --> 00:20:58,474
+or are there any facts
+that would support this?
+
+350
+00:20:58,511 --> 00:21:02,140
+The only facts l have
+are in my son's hands
+
+351
+00:21:02,181 --> 00:21:04,513
+and he intends to use
+them against Dax.
+
+352
+00:21:04,550 --> 00:21:07,383
+lt might help my people
+to know what they are.
+
+353
+00:21:07,420 --> 00:21:11,754
+There is proof
+of a secret transmission
+
+354
+00:21:11,791 --> 00:21:14,760
+that was made
+from our military headquarters
+
+355
+00:21:14,794 --> 00:21:16,261
+to the enemy camp.
+
+356
+00:21:16,295 --> 00:21:20,789
+lt identifies exactly the route
+my husband was taking
+
+357
+00:21:20,833 --> 00:21:23,961
+on his way back
+from the capital to the front.
+
+358
+00:21:24,036 --> 00:21:27,767
+lt was at that time that he
+was ambushed and kidnapped.
+
+359
+00:21:27,807 --> 00:21:29,900
+A short time later,
+he was killed.
+
+360
+00:21:29,942 --> 00:21:35,278
+Then your son must believe
+that Dax made the transmission.
+
+361
+00:21:35,314 --> 00:21:38,545
+There were only five people,
+including my husband
+
+362
+00:21:38,584 --> 00:21:39,949
+who knew that route.
+
+363
+00:21:39,985 --> 00:21:43,443
+My son has established the
+whereabouts of all of them
+
+364
+00:21:43,489 --> 00:21:45,582
+at the time of the transmission.
+
+365
+00:21:45,624 --> 00:21:48,092
+All of them except Curzon.
+
+366
+00:21:48,127 --> 00:21:52,587
+So Dax has no alibi.
+
+367
+00:21:52,631 --> 00:21:58,092
+That cannot possibly be
+enough to convict him.
+
+368
+00:21:58,137 --> 00:21:59,434
+Can it?
+
+369
+00:21:59,472 --> 00:22:01,303
+l don't know.
+
+370
+00:22:03,743 --> 00:22:04,801
+Thank you.
+
+371
+00:22:04,844 --> 00:22:06,334
+You've been helpful.
+
+372
+00:22:11,617 --> 00:22:13,949
+How is he?
+
+373
+00:22:14,053 --> 00:22:15,350
+Ma'am?
+
+374
+00:22:15,388 --> 00:22:18,357
+Curzon Dax.
+
+375
+00:22:20,259 --> 00:22:21,624
+He's gone.
+
+376
+00:22:21,660 --> 00:22:24,925
+The Dax your son is
+trying to extradite
+
+377
+00:22:24,964 --> 00:22:26,488
+is Jadzia Dax
+
+378
+00:22:26,532 --> 00:22:28,591
+a 28-year-old woman.
+
+379
+00:22:28,634 --> 00:22:30,966
+Curzon Dax died two years ago.
+
+380
+00:22:31,070 --> 00:22:33,834
+Jadzia is the new host.
+
+381
+00:22:35,708 --> 00:22:37,835
+Wha...?
+
+382
+00:22:37,877 --> 00:22:40,141
+l'm sorry.
+
+383
+00:22:40,179 --> 00:22:42,670
+l didn't know.
+
+384
+00:22:55,161 --> 00:22:58,722
+Madam Arbiter, l call
+on the expert knowledge
+
+385
+00:22:58,764 --> 00:23:00,994
+of another Trill, Selin Peers.
+
+386
+00:23:03,669 --> 00:23:04,897
+Minister Peers
+
+387
+00:23:04,937 --> 00:23:07,030
+we're fortunate
+to have you with us.
+
+388
+00:23:07,072 --> 00:23:09,472
+Excuse me, it also seems
+rather convenient
+
+389
+00:23:09,508 --> 00:23:10,702
+to have you with us.
+
+390
+00:23:10,743 --> 00:23:11,710
+How do you come here?
+
+391
+00:23:11,744 --> 00:23:13,268
+Because another Trill
+is involved
+
+392
+00:23:13,312 --> 00:23:14,438
+the Trillian government
+
+393
+00:23:14,480 --> 00:23:16,948
+requested that l be present
+during the extradition.
+
+394
+00:23:16,982 --> 00:23:19,280
+And do you know
+the accused personally?
+
+395
+00:23:20,786 --> 00:23:21,912
+l do not.
+
+396
+00:23:21,954 --> 00:23:24,149
+We accept you
+as an expert on Trills.
+
+397
+00:23:24,190 --> 00:23:25,157
+Proceed.
+
+398
+00:23:25,191 --> 00:23:26,624
+Minister
+
+399
+00:23:26,659 --> 00:23:29,321
+through how many hosts
+have you survived?
+
+400
+00:23:29,361 --> 00:23:31,955
+The symbiont within me
+has survived
+
+401
+00:23:32,064 --> 00:23:35,693
+through the adult lifetimes
+of seven hosts.
+
+402
+00:23:35,734 --> 00:23:38,168
+Do you remember
+your very first host?
+
+403
+00:23:38,204 --> 00:23:40,536
+Of course.
+
+404
+00:23:40,573 --> 00:23:42,905
+lt was a woman,
+as a matter of fact.
+
+405
+00:23:42,942 --> 00:23:46,708
+Do you remember
+what you thought and felt
+
+406
+00:23:46,745 --> 00:23:49,680
+when you were joined
+with your first host?
+
+407
+00:23:49,715 --> 00:23:52,081
+Yes. The symbiont
+does carry memories
+
+408
+00:23:52,117 --> 00:23:54,347
+of time shared
+with previous hosts.
+
+409
+00:23:54,386 --> 00:23:56,877
+So, if a crime
+is committed by a Trill
+
+410
+00:23:56,922 --> 00:24:00,380
+then the symbiont's next host
+would remain aware of it--
+
+411
+00:24:00,426 --> 00:24:02,656
+would recall that crime.
+
+412
+00:24:02,695 --> 00:24:04,925
+Yes. Absolutely.
+
+413
+00:24:05,030 --> 00:24:07,123
+Would recall the details of it.
+
+414
+00:24:07,166 --> 00:24:09,566
+Yes, absolutely.
+
+415
+00:24:09,602 --> 00:24:12,696
+And would still
+feel the guilt of it.
+
+416
+00:24:12,738 --> 00:24:14,603
+Oh, yes.
+
+417
+00:24:14,640 --> 00:24:15,800
+Madam Arbiter,
+this is not a trial
+
+418
+00:24:15,841 --> 00:24:18,139
+and Mr. Tandro is
+not the prosecutor.
+
+419
+00:24:18,177 --> 00:24:19,940
+Mr. Tandro,
+you have made your point.
+
+420
+00:24:19,979 --> 00:24:23,380
+l don't believe that l have,
+Madam Arbiter.
+
+421
+00:24:23,415 --> 00:24:26,111
+The real point is
+that Commander Sisko
+
+422
+00:24:26,151 --> 00:24:30,315
+would have you endorse his idea
+of a perfect Trill crime.
+
+423
+00:24:30,356 --> 00:24:31,948
+To commit it, all one has to do
+
+424
+00:24:31,991 --> 00:24:34,357
+is elude capture long
+enough to change hosts
+
+425
+00:24:34,393 --> 00:24:37,851
+and then he or she can go free.
+
+426
+00:24:40,466 --> 00:24:42,297
+Minister Peers, you've said
+
+427
+00:24:42,334 --> 00:24:46,430
+you were with your first host
+throughout her adult life.
+
+428
+00:24:46,472 --> 00:24:47,564
+Yes.
+
+429
+00:24:47,606 --> 00:24:50,666
+So, before a symbiont
+is joined with any host
+
+430
+00:24:50,709 --> 00:24:51,971
+that host has lived
+
+431
+00:24:52,077 --> 00:24:54,807
+a significant portion
+of his or her life
+
+432
+00:24:54,847 --> 00:24:56,872
+from birth to what age, sir?
+
+433
+00:24:56,916 --> 00:24:58,941
+Early to mid-20s.
+
+434
+00:24:58,984 --> 00:25:00,212
+Why not younger?
+
+435
+00:25:00,252 --> 00:25:04,882
+To give the prospective host
+a chance to develop, mature.
+
+436
+00:25:04,924 --> 00:25:08,519
+They have to be old enough
+to make an informed judgment
+
+437
+00:25:08,561 --> 00:25:11,928
+as to whether or not
+they really want to be joined.
+
+438
+00:25:11,964 --> 00:25:15,024
+And once they are joined,
+this host's personality
+
+439
+00:25:15,067 --> 00:25:17,763
+is completely suppressed
+by the symbiont.
+
+440
+00:25:17,803 --> 00:25:18,770
+Oh, no.
+
+441
+00:25:18,804 --> 00:25:21,739
+No, it's a joining.
+
+442
+00:25:21,774 --> 00:25:24,038
+lt's a total sharing--
+
+443
+00:25:24,076 --> 00:25:27,671
+a blending
+of both symbiont and host.
+
+444
+00:25:27,713 --> 00:25:30,614
+Neither is suppressed
+by the other.
+
+445
+00:25:30,649 --> 00:25:32,048
+So with each new host
+
+446
+00:25:32,084 --> 00:25:35,110
+there does come, in fact,
+a new personality--
+
+447
+00:25:35,154 --> 00:25:36,644
+a new combined person...
+
+448
+00:25:36,689 --> 00:25:37,951
+a different person.
+
+449
+00:25:38,023 --> 00:25:40,389
+From that standpoint, yes.
+
+450
+00:25:40,426 --> 00:25:43,224
+Well, l, for one, don't know
+from what other standpoint
+
+451
+00:25:43,262 --> 00:25:44,889
+we could be talking about.
+
+452
+00:25:44,930 --> 00:25:46,192
+Thank you, Minister.
+
+453
+00:25:46,231 --> 00:25:47,357
+Just to return us
+
+454
+00:25:47,399 --> 00:25:49,959
+to what's important here,
+Madam Arbiter
+
+455
+00:25:50,035 --> 00:25:51,559
+the accused can remember
+
+456
+00:25:51,604 --> 00:25:53,970
+any crimes he committed
+as Curzon Dax
+
+457
+00:25:54,039 --> 00:25:56,507
+and nothing can be
+truthfully asserted
+
+458
+00:25:56,542 --> 00:25:59,238
+in this hearing
+that can alter that fact.
+
+459
+00:25:59,278 --> 00:26:02,145
+Yes. The memories were passed
+to an entirely new host--
+
+460
+00:26:02,181 --> 00:26:03,808
+to an entirely
+different person.
+
+461
+00:26:03,849 --> 00:26:04,907
+This is outrageous!
+
+462
+00:26:05,017 --> 00:26:08,350
+You-You can't let Dax
+get away with murder!
+
+463
+00:26:08,387 --> 00:26:12,483
+Gentlemen, l said this would be
+an informal hearing
+
+464
+00:26:12,524 --> 00:26:13,923
+not riotous.
+
+465
+00:26:13,959 --> 00:26:18,194
+We will take a two-hour recess.
+
+466
+00:26:27,970 --> 00:26:30,837
+The answer seems
+simple enough to me--
+
+467
+00:26:30,873 --> 00:26:33,000
+split her down the middle.
+
+468
+00:26:33,042 --> 00:26:36,011
+Send the symbiont
+back to stand trial
+
+469
+00:26:36,045 --> 00:26:37,910
+and keep the host here.
+
+470
+00:26:38,014 --> 00:26:40,608
+l'm afraid it's a bit more
+complicated than that.
+
+471
+00:26:40,650 --> 00:26:43,016
+Oh, what a surprise.
+
+472
+00:26:43,052 --> 00:26:44,576
+Please enlighten me.
+
+473
+00:26:44,620 --> 00:26:48,317
+The symbiont and the host
+are biologically interdependent.
+
+474
+00:26:48,357 --> 00:26:50,222
+93 hours after they've joined
+
+475
+00:26:50,259 --> 00:26:52,750
+neither can survive
+without the other.
+
+476
+00:26:52,795 --> 00:26:54,160
+l see.
+
+477
+00:26:55,831 --> 00:26:58,459
+Proceed, Commander.
+
+478
+00:26:58,501 --> 00:27:01,402
+Doctor, you've heard
+the arguments.
+
+479
+00:27:01,437 --> 00:27:03,598
+From a medical point of view
+
+480
+00:27:03,639 --> 00:27:07,200
+are Curzon Dax and Jadzia Dax
+the same person?
+
+481
+00:27:07,243 --> 00:27:08,471
+Certainly not.
+
+482
+00:27:08,511 --> 00:27:12,038
+Aside from the gender change,
+there's a marked difference
+
+483
+00:27:12,081 --> 00:27:14,709
+in blood types, metabolism,
+nervous system
+
+484
+00:27:14,750 --> 00:27:15,808
+height, weight.
+
+485
+00:27:15,851 --> 00:27:17,648
+This is not at all relevant.
+
+486
+00:27:17,687 --> 00:27:20,656
+What is relevant, sir...
+
+487
+00:27:20,690 --> 00:27:23,022
+is my analysis
+of the brain waves
+
+488
+00:27:23,059 --> 00:27:24,993
+of Curzon and Jadzia Dax.
+
+489
+00:27:25,027 --> 00:27:26,995
+Madam Arbiter.
+
+490
+00:27:27,029 --> 00:27:30,863
+As you can see, they are
+distinctly different
+
+491
+00:27:30,900 --> 00:27:34,267
+which clearly illustrates
+that Curzon and Jadzia
+
+492
+00:27:34,303 --> 00:27:37,067
+are two unique individuals.
+
+493
+00:27:39,208 --> 00:27:40,698
+Thank you, Doctor.
+
+494
+00:27:43,312 --> 00:27:44,472
+Doctor...
+
+495
+00:27:45,981 --> 00:27:48,677
+l've looked through
+your research myself.
+
+496
+00:27:48,718 --> 00:27:50,709
+lt's quite impressive
+for such a young man.
+
+497
+00:27:50,753 --> 00:27:52,721
+Thank you.
+
+498
+00:27:52,755 --> 00:27:55,246
+As a layman,
+there are obviously things
+
+499
+00:27:55,291 --> 00:27:56,918
+l don't fully understand.
+
+500
+00:27:56,959 --> 00:27:59,427
+l'd be happy
+to explain anything you wish.
+
+501
+00:27:59,462 --> 00:28:00,952
+Yes?
+
+502
+00:28:00,996 --> 00:28:06,628
+Well, exactly how does
+the Trill brain work?
+
+503
+00:28:06,669 --> 00:28:09,035
+lt's quite complicated,
+actually.
+
+504
+00:28:09,071 --> 00:28:11,972
+First of all, there are
+two cerebral nuclei...
+
+505
+00:28:12,007 --> 00:28:13,133
+Two?
+
+506
+00:28:13,175 --> 00:28:15,336
+One in the symbiont
+and one in the host.
+
+507
+00:28:15,378 --> 00:28:16,640
+Two brains.
+
+508
+00:28:16,679 --> 00:28:19,614
+And these two brains
+talk to each other?
+
+509
+00:28:19,648 --> 00:28:21,479
+Like two computers
+linked together.
+
+510
+00:28:21,517 --> 00:28:23,144
+That's very clear, Doctor.
+
+511
+00:28:23,185 --> 00:28:24,311
+Thank you.
+
+512
+00:28:24,353 --> 00:28:27,652
+Now, in your investigations
+
+513
+00:28:27,690 --> 00:28:32,821
+were you able to analyze the...
+separate wave patterns
+
+514
+00:28:32,862 --> 00:28:34,727
+from each of these brains?
+
+515
+00:28:34,764 --> 00:28:37,324
+They don't function separately.
+
+516
+00:28:37,366 --> 00:28:40,995
+l didn't ask you
+how they function, Dr. Bashir.
+
+517
+00:28:41,036 --> 00:28:45,132
+l asked if you could analyze
+the two distinct patterns.
+
+518
+00:28:45,174 --> 00:28:46,436
+l don't see the relevance...
+
+519
+00:28:46,475 --> 00:28:47,601
+Could you?
+
+520
+00:28:47,643 --> 00:28:48,769
+Yes.
+
+521
+00:28:48,811 --> 00:28:50,540
+And have the brain wave patterns
+
+522
+00:28:50,579 --> 00:28:51,807
+of the symbiont changed
+
+523
+00:28:51,847 --> 00:28:53,712
+since it joined
+with its new host?
+
+524
+00:28:53,749 --> 00:28:56,775
+With the available evidence,
+there's no way of telling.
+
+525
+00:28:56,819 --> 00:28:58,218
+What's your best guess?
+
+526
+00:28:58,254 --> 00:29:00,552
+l wouldn't care to guess.
+
+527
+00:29:00,589 --> 00:29:03,353
+ln fact, is there evidence
+of any change at all
+
+528
+00:29:03,392 --> 00:29:06,384
+in the symbiont since it joined
+with its new host?
+
+529
+00:29:06,429 --> 00:29:07,418
+Yes or no.
+
+530
+00:29:15,838 --> 00:29:17,066
+No.
+
+531
+00:29:17,106 --> 00:29:18,869
+Thank you, Dr. Bashir.
+
+532
+00:29:18,908 --> 00:29:20,967
+You've been very helpful.
+
+533
+00:29:30,686 --> 00:29:34,315
+Any more witnesses,
+Commander Sisko?
+
+534
+00:29:34,356 --> 00:29:35,983
+Yes, Madam Arbiter.
+
+535
+00:29:36,025 --> 00:29:39,256
+l'd like to call
+the one person in this courtroom
+
+536
+00:29:39,295 --> 00:29:40,660
+who knew Curzon Dax.
+
+537
+00:29:40,696 --> 00:29:41,822
+Me.
+
+538
+00:29:41,864 --> 00:29:45,231
+You know where
+the witness stand is.
+
+539
+00:29:49,538 --> 00:29:51,165
+With your permission
+
+540
+00:29:51,207 --> 00:29:54,301
+l'd like Major Kira
+to direct the questions.
+
+541
+00:30:01,884 --> 00:30:05,342
+Tell us a little
+about Curzon Dax, Commander.
+
+542
+00:30:05,387 --> 00:30:08,015
+He probably wasn't
+the ideal Trill.
+
+543
+00:30:08,057 --> 00:30:10,582
+He drank a little too much.
+
+544
+00:30:10,626 --> 00:30:12,355
+He could be more interested
+in women
+
+545
+00:30:12,394 --> 00:30:13,918
+than maybe he should have been.
+
+546
+00:30:13,963 --> 00:30:15,692
+l thought he was your friend.
+
+547
+00:30:15,731 --> 00:30:18,256
+l'm simply pointing out
+that he was not at all
+
+548
+00:30:18,300 --> 00:30:20,291
+like the young woman
+in this courtroom.
+
+549
+00:30:22,571 --> 00:30:25,369
+What was, exactly,
+your relationship
+
+550
+00:30:25,407 --> 00:30:27,398
+with Curzon Dax?
+
+551
+00:30:27,443 --> 00:30:30,173
+He took a raw, young ensign
+under his wing
+
+552
+00:30:30,212 --> 00:30:32,373
+and taught me to appreciate life
+
+553
+00:30:32,414 --> 00:30:35,042
+in ways
+l'd never thought about before.
+
+554
+00:30:35,084 --> 00:30:39,885
+He taught me about art
+and science and diplomacy.
+
+555
+00:30:39,922 --> 00:30:42,720
+Whatever sense of honor
+l might have today
+
+556
+00:30:42,758 --> 00:30:44,487
+he nurtured.
+
+557
+00:30:44,527 --> 00:30:49,965
+Treason, murder-- he was
+not capable of those things.
+
+558
+00:30:49,999 --> 00:30:51,261
+As you've already said
+
+559
+00:30:51,300 --> 00:30:53,495
+Commander,
+this is not a trial.
+
+560
+00:30:53,536 --> 00:30:56,164
+l'm describing my friend,
+Curzon Dax--
+
+561
+00:30:56,205 --> 00:30:58,105
+a man l knew very well.
+
+562
+00:30:58,140 --> 00:31:01,837
+On the other hand,
+l can't tell you too much
+
+563
+00:31:01,877 --> 00:31:03,902
+about my new friend there.
+
+564
+00:31:04,013 --> 00:31:07,608
+We're really just getting
+to know each other.
+
+565
+00:31:07,650 --> 00:31:13,520
+Commander, Starfleet officers
+do have the reputation
+
+566
+00:31:13,556 --> 00:31:15,183
+of being honorable
+
+567
+00:31:15,224 --> 00:31:18,125
+and l judge you to be
+an honorable man.
+
+568
+00:31:18,160 --> 00:31:21,186
+As an honorable man,
+do you think this crime
+
+569
+00:31:21,230 --> 00:31:23,164
+should go unpunished?
+
+570
+00:31:23,198 --> 00:31:25,723
+l prefer no crime
+to go unpunished.
+
+571
+00:31:25,768 --> 00:31:29,226
+Then, if it were possible,
+even you would not argue
+
+572
+00:31:29,271 --> 00:31:31,933
+with punishing
+the symbiont part of Dax.
+
+573
+00:31:32,041 --> 00:31:34,805
+How can you be so sure
+that the symbiont
+
+574
+00:31:34,843 --> 00:31:36,708
+was the criminal influence?
+
+575
+00:31:36,745 --> 00:31:40,340
+What if it were the Curzon host
+that was responsible?
+
+576
+00:31:40,382 --> 00:31:44,318
+Then the surviving symbiont
+would be completely innocent.
+
+577
+00:31:44,353 --> 00:31:46,378
+No. They'd both be guilty.
+
+578
+00:31:46,422 --> 00:31:50,358
+You yourself have argued
+that the two personalities
+
+579
+00:31:50,392 --> 00:31:52,690
+once joined, function as one.
+
+580
+00:31:52,728 --> 00:31:55,322
+Your own Dr. Bashir
+confirmed it.
+
+581
+00:31:55,364 --> 00:31:57,832
+When you put salt in water
+
+582
+00:31:57,866 --> 00:32:01,859
+the two become indistinguishable
+and inseparable.
+
+583
+00:32:01,904 --> 00:32:05,499
+l think you've just made
+my point for me.
+
+584
+00:32:05,541 --> 00:32:07,338
+When the water boils off
+
+585
+00:32:07,376 --> 00:32:10,311
+the salt returns
+to its original state.
+
+586
+00:32:10,346 --> 00:32:13,213
+Pour that same salt
+into another liquid
+
+587
+00:32:13,248 --> 00:32:16,513
+and you have something
+completely different.
+
+588
+00:32:16,552 --> 00:32:18,349
+Jadzia Dax
+is an entirely new entity.
+
+589
+00:32:19,388 --> 00:32:22,084
+Following a one-hour recess
+
+590
+00:32:22,124 --> 00:32:26,356
+Lieutenant Dax will take
+the witness stand.
+
+591
+00:32:26,395 --> 00:32:28,226
+One hour.
+
+592
+00:32:41,744 --> 00:32:45,908
+lf you won't defend yourself,
+you're not going to testify.
+
+593
+00:32:45,948 --> 00:32:48,940
+lt's a hearing, not a trial.
+
+594
+00:32:49,018 --> 00:32:50,508
+She has no choice.
+
+595
+00:33:00,162 --> 00:33:01,254
+Sir.
+
+596
+00:33:02,998 --> 00:33:04,989
+Odo's on subspace.
+
+597
+00:33:05,034 --> 00:33:06,262
+lt's urgent.
+
+598
+00:33:10,831 --> 00:33:12,321
+l've made some progress.
+
+599
+00:33:12,366 --> 00:33:13,333
+Good.
+
+600
+00:33:13,367 --> 00:33:14,664
+Not good.
+
+601
+00:33:14,702 --> 00:33:18,160
+Since the transmission to
+the enemy is the key evidence
+
+602
+00:33:18,205 --> 00:33:20,173
+l thought it might be
+a good idea
+
+603
+00:33:20,207 --> 00:33:22,141
+to go through
+all the communications logs
+
+604
+00:33:22,176 --> 00:33:24,144
+from headquarters
+during that period.
+
+605
+00:33:24,178 --> 00:33:26,669
+l even found
+Curzon Dax's records.
+
+606
+00:33:26,714 --> 00:33:28,181
+You can't tell me Curzon
+
+607
+00:33:28,215 --> 00:33:30,615
+would log in a communiqué
+to the enemy.
+
+608
+00:33:30,651 --> 00:33:31,913
+No, nothing like that
+
+609
+00:33:31,986 --> 00:33:35,217
+but the log does show
+a number of conversations
+
+610
+00:33:35,256 --> 00:33:38,521
+between Dax's office
+and General Tandro's home.
+
+611
+00:33:38,559 --> 00:33:39,787
+They were close friends.
+
+612
+00:33:39,827 --> 00:33:41,385
+A number of the conversations
+
+613
+00:33:41,428 --> 00:33:44,295
+took place while the General
+was away at the front.
+
+614
+00:33:46,834 --> 00:33:49,701
+-The wife.
+-The wife.
+
+615
+00:33:52,506 --> 00:33:55,669
+Curzon Dax and Enina Tandro.
+
+616
+00:33:56,744 --> 00:33:57,938
+Maybe it was innocent.
+
+617
+00:33:57,978 --> 00:34:00,947
+Maybe he was just providing
+a little emotional support
+
+618
+00:34:00,981 --> 00:34:02,039
+during tough times.
+
+619
+00:34:02,082 --> 00:34:04,414
+Or maybe they were
+taking advantage
+
+620
+00:34:04,451 --> 00:34:07,750
+of the General's absence
+to get a little closer.
+
+621
+00:34:07,788 --> 00:34:10,018
+lf they were having an affair
+
+622
+00:34:10,057 --> 00:34:14,255
+that translates into a pretty
+solid motive for murder.
+
+623
+00:34:24,605 --> 00:34:27,130
+The conversations
+were just the beginning.
+
+624
+00:34:27,174 --> 00:34:28,903
+l've also found records of gifts
+
+625
+00:34:28,943 --> 00:34:31,912
+of holidays spent at an inn
+outside the capital.
+
+626
+00:34:31,946 --> 00:34:33,436
+Oh. What purpose
+does this serve?
+
+627
+00:34:33,480 --> 00:34:34,674
+lt serves the truth.
+
+628
+00:34:34,715 --> 00:34:36,012
+Oh, the truth.
+
+629
+00:34:36,050 --> 00:34:37,642
+lf there's more to this
+than meets the eye
+
+630
+00:34:37,685 --> 00:34:39,585
+l hope you'll explain,
+because as it stands
+
+631
+00:34:39,620 --> 00:34:42,418
+this will severely hurt
+Dax's defense.
+
+632
+00:34:46,060 --> 00:34:49,291
+My husband was not the hero
+in life
+
+633
+00:34:49,330 --> 00:34:52,231
+that he was in death, Mr. Odo.
+
+634
+00:34:52,266 --> 00:34:54,564
+ln death, he became a legend
+
+635
+00:34:54,602 --> 00:34:56,900
+and l became a legend's wife.
+
+636
+00:34:56,937 --> 00:35:00,031
+There are people who did not
+even know my husband
+
+637
+00:35:00,074 --> 00:35:01,541
+who still contact me.
+
+638
+00:35:01,575 --> 00:35:04,567
+Decades after his death,
+they still mourn him.
+
+639
+00:35:04,612 --> 00:35:05,579
+But you don't.
+
+640
+00:35:05,613 --> 00:35:06,841
+No
+
+641
+00:35:06,881 --> 00:35:10,044
+because l knew the man
+before he became a legend.
+
+642
+00:35:10,084 --> 00:35:12,416
+But l also know
+my place in history.
+
+643
+00:35:12,453 --> 00:35:15,718
+My place is to carry on
+bravely, never to remarry--
+
+644
+00:35:15,756 --> 00:35:18,156
+to represent my husband
+at the banquets
+
+645
+00:35:18,192 --> 00:35:19,489
+given in his name.
+
+646
+00:35:19,526 --> 00:35:22,893
+But never, never to talk
+about who he really was.
+
+647
+00:35:22,963 --> 00:35:27,457
+Because nobody
+wants to hear that.
+
+648
+00:35:27,501 --> 00:35:29,560
+They may have to hear it now.
+
+649
+00:35:29,603 --> 00:35:31,070
+No matter what is said
+
+650
+00:35:31,105 --> 00:35:35,599
+they will still embrace
+his memory...
+
+651
+00:35:38,612 --> 00:35:44,016
+for he was and always will be
+
+652
+00:35:44,051 --> 00:35:47,714
+the hero
+who died for his people.
+
+653
+00:35:52,059 --> 00:35:53,924
+But perhaps it's time
+
+654
+00:35:54,028 --> 00:35:57,191
+for my place in history
+to change.
+
+655
+00:36:04,238 --> 00:36:07,036
+You've been protecting
+her reputation.
+
+656
+00:36:07,074 --> 00:36:09,702
+That's it, isn't it?
+
+657
+00:36:09,743 --> 00:36:12,075
+That's why you won't
+even defend yourself.
+
+658
+00:36:17,418 --> 00:36:21,616
+There are worse things
+than an illicit love affair.
+
+659
+00:36:21,655 --> 00:36:24,089
+Curzon didn't murder anybody.
+
+660
+00:36:24,124 --> 00:36:26,285
+He didn't commit treason.
+
+661
+00:36:26,327 --> 00:36:28,727
+Are you really willing
+to commit suicide
+
+662
+00:36:28,762 --> 00:36:31,196
+over something done
+in another lifetime?
+
+663
+00:36:31,231 --> 00:36:33,426
+That is what you're doing,
+you know.
+
+664
+00:36:37,438 --> 00:36:39,167
+My God, Dax.
+
+665
+00:36:39,206 --> 00:36:42,004
+Young Tandro--
+that wouldn't be your son?
+
+666
+00:36:42,042 --> 00:36:44,840
+You have an overactive
+imagination, Benjamin.
+
+667
+00:36:44,878 --> 00:36:47,005
+Then what is it
+that's holding you back?
+
+668
+00:36:47,047 --> 00:36:48,036
+Help me.
+
+669
+00:36:50,718 --> 00:36:54,051
+Damn it, if you were
+still a man...
+
+670
+00:36:58,726 --> 00:37:00,694
+l see your temper
+hasn't improved.
+
+671
+00:37:00,728 --> 00:37:03,026
+Don't talk to me
+about my temper.
+
+672
+00:37:03,063 --> 00:37:04,690
+Curzon always
+warned you about it.
+
+673
+00:37:04,732 --> 00:37:07,633
+You're not going
+to get me off track here.
+
+674
+00:37:07,668 --> 00:37:10,967
+Do you remember
+that Argosian Lieutenant
+
+675
+00:37:11,005 --> 00:37:13,667
+who threw a drink in your face?
+
+676
+00:37:18,912 --> 00:37:21,813
+And you knocked me down
+with a right cross
+
+677
+00:37:21,849 --> 00:37:23,544
+before l could kill him.
+
+678
+00:37:23,584 --> 00:37:27,076
+l still have a little scar here
+from your ring finger.
+
+679
+00:37:28,856 --> 00:37:36,058
+l tried on that ring
+after Curzon died.
+
+680
+00:37:36,096 --> 00:37:38,894
+lt just slipped off my finger.
+
+681
+00:37:40,868 --> 00:37:45,669
+lf you don't help me, old man,
+they're going to take you
+
+682
+00:37:45,706 --> 00:37:48,539
+because l don't know
+any more arguments.
+
+683
+00:37:50,377 --> 00:37:52,174
+Then allow it to happen.
+
+684
+00:37:52,212 --> 00:37:55,238
+lt is my obligation
+to protect the lives
+
+685
+00:37:55,282 --> 00:37:57,045
+of those in my command.
+
+686
+00:37:57,084 --> 00:37:58,642
+You ought to know that,
+you taught it to me.
+
+687
+00:38:00,387 --> 00:38:02,548
+That was Curzon.
+
+688
+00:38:02,589 --> 00:38:04,454
+l'll stop trying to protect you
+
+689
+00:38:04,491 --> 00:38:06,857
+the minute you tell me
+Curzon was guilty
+
+690
+00:38:06,960 --> 00:38:08,018
+of these charges.
+
+691
+00:38:08,062 --> 00:38:09,825
+l won't discuss it with you.
+
+692
+00:38:09,863 --> 00:38:12,093
+As for Enina Tandro
+
+693
+00:38:12,132 --> 00:38:17,695
+yes, l feel the shame
+of Curzon's indiscretion.
+
+694
+00:38:17,738 --> 00:38:21,037
+When one of my kind
+stumbles, Benjamin
+
+695
+00:38:21,075 --> 00:38:23,543
+it is a mistake
+that's there forever.
+
+696
+00:38:23,577 --> 00:38:26,637
+l can't tell you
+which part of Curzon Dax
+
+697
+00:38:26,680 --> 00:38:29,979
+couldn't stop himself
+from acting shamefully
+
+698
+00:38:30,017 --> 00:38:31,882
+with another man's wife.
+
+699
+00:38:31,919 --> 00:38:38,051
+l can tell you...
+that he did love her
+
+700
+00:38:38,092 --> 00:38:40,219
+for whatever that's worth.
+
+701
+00:38:40,260 --> 00:38:42,626
+Enough to kill her husband?
+
+702
+00:38:44,364 --> 00:38:46,298
+So you are questioning?
+
+703
+00:38:46,333 --> 00:38:49,564
+What else can l do?
+
+704
+00:38:50,871 --> 00:38:53,339
+Nothing, Benjamin.
+
+705
+00:38:53,373 --> 00:38:55,307
+Nothing at all.
+
+706
+00:39:10,724 --> 00:39:15,491
+Lieutenant Dax, you are either
+200 years older than l am
+
+707
+00:39:15,529 --> 00:39:19,590
+or you're about the same age
+as my great-granddaughter.
+
+708
+00:39:19,633 --> 00:39:22,534
+At first, l wondered
+which of those you were.
+
+709
+00:39:22,569 --> 00:39:25,732
+Now, l am bothered
+by the likelihood
+
+710
+00:39:25,772 --> 00:39:27,706
+that you may be both.
+
+711
+00:39:29,643 --> 00:39:32,407
+Let's finish this, Commander.
+
+712
+00:39:33,947 --> 00:39:36,211
+At what age did the host,
+Jadzia
+
+713
+00:39:36,250 --> 00:39:38,718
+first want to be joined
+as a Trill?
+
+714
+00:39:38,752 --> 00:39:41,050
+l wanted it since l was a child.
+
+715
+00:39:41,088 --> 00:39:42,521
+l worked very hard for it.
+
+716
+00:39:42,556 --> 00:39:45,719
+The competition to become
+a Trill is very strong, then
+
+717
+00:39:45,759 --> 00:39:47,056
+among potential hosts?
+
+718
+00:39:47,094 --> 00:39:49,790
+Yes. lt's considered
+a great honor.
+
+719
+00:39:49,830 --> 00:39:52,890
+How did the young Jadzia finally
+become a host candidate?
+
+720
+00:39:52,966 --> 00:39:54,661
+By winning scholarships
+
+721
+00:39:54,701 --> 00:39:57,067
+competing against
+other young people.
+
+722
+00:39:57,104 --> 00:39:58,901
+You're tested in countless ways.
+
+723
+00:39:59,006 --> 00:40:00,303
+lncluding psychological tests
+
+724
+00:40:00,340 --> 00:40:01,898
+to determine strength
+of character
+
+725
+00:40:01,942 --> 00:40:03,705
+of the prospective host,
+is that true?
+
+726
+00:40:03,744 --> 00:40:04,733
+Yes.
+
+727
+00:40:04,778 --> 00:40:06,150
+And the young Jadzia
+
+728
+00:40:06,283 --> 00:40:10,720
+excelled in those tests
+of academics and character--
+
+729
+00:40:10,754 --> 00:40:13,018
+of psychological stability.
+
+730
+00:40:13,057 --> 00:40:15,184
+Yes.
+
+731
+00:40:15,226 --> 00:40:20,721
+lf you can remember other
+things, remember that as well.
+
+732
+00:40:20,764 --> 00:40:26,566
+What academic degrees
+do you hold, Lieutenant?
+
+733
+00:40:26,604 --> 00:40:32,065
+l hold Premier Distinctions
+in exobiology, zoology
+
+734
+00:40:32,109 --> 00:40:35,738
+astrophysics and exoarchaeology.
+
+735
+00:40:35,779 --> 00:40:37,644
+How many of those degrees
+did you earn
+
+736
+00:40:37,681 --> 00:40:39,911
+before being joined
+with the symbiont Dax?
+
+737
+00:40:39,950 --> 00:40:42,248
+All of them.
+
+738
+00:40:42,286 --> 00:40:46,689
+All of them.
+As Jadzia.
+
+739
+00:40:46,724 --> 00:40:47,952
+Alone.
+
+740
+00:40:50,561 --> 00:40:53,689
+This brilliant and independent
+young woman
+
+741
+00:40:53,731 --> 00:40:57,792
+has done nothing in her life
+but contribute to her society.
+
+742
+00:40:57,835 --> 00:40:59,029
+Madam Arbiter
+
+743
+00:40:59,069 --> 00:41:01,264
+how can anyone justify
+trying her for a crime
+
+744
+00:41:01,305 --> 00:41:03,102
+allegedly committed
+by another entity
+
+745
+00:41:03,140 --> 00:41:05,108
+before she was even born?
+
+746
+00:41:07,745 --> 00:41:10,407
+This will only take a minute.
+
+747
+00:41:11,582 --> 00:41:13,550
+Lieutenant...
+
+748
+00:41:13,584 --> 00:41:14,881
+as a Trill candidate
+
+749
+00:41:14,918 --> 00:41:18,285
+did Jadzia fully understand
+the responsibilities
+
+750
+00:41:18,322 --> 00:41:21,052
+to be assumed
+upon becoming a Trill
+
+751
+00:41:21,091 --> 00:41:22,854
+and did you willingly
+accept those responsibilities
+
+752
+00:41:22,893 --> 00:41:25,453
+and whatever consequences
+they might entail?
+
+753
+00:41:25,496 --> 00:41:27,225
+Yes.
+
+754
+00:41:27,264 --> 00:41:30,165
+And would that not obviously
+include the consequences
+
+755
+00:41:30,200 --> 00:41:32,998
+of criminal acts
+committed by Curzon Dax?
+
+756
+00:41:43,981 --> 00:41:46,313
+May l speak?
+
+757
+00:41:46,350 --> 00:41:48,113
+And you are?
+
+758
+00:41:48,152 --> 00:41:51,178
+l am Enina Tandro
+
+759
+00:41:51,221 --> 00:41:54,520
+widow of General Ardelon Tandro.
+
+760
+00:41:54,558 --> 00:41:57,026
+This hearing is unnecessary.
+
+761
+00:41:57,061 --> 00:41:58,926
+The accusations are erroneous.
+
+762
+00:41:59,029 --> 00:42:01,429
+Mother, what are you
+talking about?
+
+763
+00:42:01,465 --> 00:42:06,164
+Madam Arbiter,
+Curzon Dax is accused
+
+764
+00:42:06,203 --> 00:42:09,036
+of sending a transmission
+to the enemy
+
+765
+00:42:09,073 --> 00:42:12,372
+that betrayed my husband.
+
+766
+00:42:12,409 --> 00:42:15,037
+But l know where Curzon was
+
+767
+00:42:15,079 --> 00:42:18,412
+at the exact time
+that transmission was sent.
+
+768
+00:42:22,086 --> 00:42:26,352
+He was... in my bed.
+
+769
+00:42:45,109 --> 00:42:46,906
+Mr. Tandro
+
+770
+00:42:46,944 --> 00:42:50,846
+you will want to reexamine
+your extradition request.
+
+771
+00:42:50,881 --> 00:42:55,716
+Until then,
+this hearing is adjourned.
+
+772
+00:43:07,898 --> 00:43:12,858
+lt was kind of you
+to try and protect me...
+
+773
+00:43:12,903 --> 00:43:15,371
+someone you'd never even met.
+
+774
+00:43:15,406 --> 00:43:19,035
+There's much of Curzon
+that's still a part of me--
+
+775
+00:43:19,076 --> 00:43:22,204
+that still remembers
+what you had together.
+
+776
+00:43:22,246 --> 00:43:26,546
+But it was Curzon Dax
+who swore himself to silence
+
+777
+00:43:26,583 --> 00:43:31,043
+to preserve the memory
+of General Tandro, not Jadzia.
+
+778
+00:43:31,088 --> 00:43:34,387
+l felt it was important
+to keep that promise.
+
+779
+00:43:34,425 --> 00:43:38,885
+The General's memory
+is cherished by your people.
+
+780
+00:43:38,929 --> 00:43:42,160
+And it will continue to be.
+
+781
+00:43:42,199 --> 00:43:43,666
+Oh, no one will ever know
+
+782
+00:43:43,700 --> 00:43:47,158
+that he was the one
+who tried to betray us
+
+783
+00:43:47,204 --> 00:43:50,264
+and that the rebels
+killed him for the favor.
+
+784
+00:43:53,043 --> 00:43:58,845
+As for you, there is
+one favor l would ask.
+
+785
+00:43:58,882 --> 00:44:01,851
+Of course.
+
+786
+00:44:01,885 --> 00:44:04,718
+Live, Jadzia Dax.
+
+787
+00:44:13,464 --> 00:44:16,524
+Live a long,
+fresh and wonderful life.
+

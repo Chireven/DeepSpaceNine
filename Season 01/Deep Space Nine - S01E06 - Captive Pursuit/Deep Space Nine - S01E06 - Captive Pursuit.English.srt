@@ -1,0 +1,3199 @@
+﻿1
+00:00:06,198 --> 00:00:09,167
+l'm not what a lot of people
+think.
+
+2
+00:00:09,201 --> 00:00:11,499
+l mean, if you're a dabo girl
+
+3
+00:00:11,536 --> 00:00:14,004
+you know, you get a reputation.
+
+4
+00:00:14,039 --> 00:00:16,507
+Miss Sarda, why don't you
+tell me exactly what happened.
+
+5
+00:00:16,541 --> 00:00:19,408
+When did you start
+to have trouble with Quark?
+
+6
+00:00:19,444 --> 00:00:22,038
+About five minutes
+after l got off the ship.
+
+7
+00:00:22,080 --> 00:00:23,911
+He immediately made
+sexual advances?
+
+8
+00:00:23,949 --> 00:00:26,179
+He said it was part of the job.
+
+9
+00:00:26,218 --> 00:00:27,845
+And what did you say?
+
+10
+00:00:27,886 --> 00:00:31,686
+l told him l'd wear the costume
+and entertain the gamblers
+
+11
+00:00:31,723 --> 00:00:34,191
+but to keep his Ferengi
+knuckles to himself.
+
+12
+00:00:34,259 --> 00:00:35,521
+That didn't stop him?
+
+13
+00:00:35,560 --> 00:00:37,824
+No. He said again that
+it was part of the job.
+
+14
+00:00:37,863 --> 00:00:40,593
+He showed me
+my employment agreement.
+
+15
+00:00:40,632 --> 00:00:43,328
+See, there it is
+in the Ferengi print--
+
+16
+00:00:43,368 --> 00:00:46,496
+page 21, subsection D,
+paragraph 12.
+
+17
+00:00:47,739 --> 00:00:51,436
+You're telling me the contract
+you signed requires you to...
+
+18
+00:00:51,476 --> 00:00:53,740
+l guess l should have
+read it more carefully.
+
+19
+00:00:53,779 --> 00:00:55,474
+l'm not a legal expert,
+Commander.
+
+20
+00:00:55,514 --> 00:00:58,574
+l'm not a legal expert either,
+but l can assure you
+
+21
+00:00:58,617 --> 00:01:00,084
+after l talk to Quark
+
+22
+00:01:00,118 --> 00:01:02,985
+he won't hold you or anyone else
+to this provision concerning...
+
+23
+00:01:03,021 --> 00:01:05,251
+Commander, sensors
+are picking up
+
+24
+00:01:05,290 --> 00:01:06,917
+elevated neutrino readings.
+
+25
+00:01:06,958 --> 00:01:09,324
+Something's coming
+through the wormhole.
+
+26
+00:01:09,361 --> 00:01:10,828
+Excuse me.
+
+27
+00:01:10,862 --> 00:01:12,454
+Thank you, Commander.
+
+28
+00:01:12,497 --> 00:01:14,795
+Are any of the transports
+due back?
+
+29
+00:01:14,833 --> 00:01:16,630
+Not according to our logs.
+
+30
+00:01:16,668 --> 00:01:18,499
+Put us on Yellow Alert.
+
+31
+00:01:27,546 --> 00:01:29,173
+lt doesn't match anything
+in Starfleet files.
+
+32
+00:01:29,247 --> 00:01:31,010
+l'm getting readings
+of a massive energy flux.
+
+33
+00:01:31,049 --> 00:01:34,018
+lt could be damaged.
+
+34
+00:01:34,052 --> 00:01:37,180
+Sensors indicate a single
+humanoid life-form on board.
+
+35
+00:01:37,255 --> 00:01:38,586
+Hail it.
+
+36
+00:01:38,623 --> 00:01:40,420
+Aye, sir.
+
+37
+00:01:40,459 --> 00:01:43,485
+Hail acknowledged.
+Response coming in.
+
+38
+00:01:43,528 --> 00:01:45,189
+On screen.
+
+39
+00:01:45,263 --> 00:01:47,561
+Welcome to the Alpha Quadrant.
+
+40
+00:01:47,599 --> 00:01:49,294
+l'm Commander Benjamin Sisko
+
+41
+00:01:49,334 --> 00:01:51,302
+of the United Federation
+of Planets.
+
+42
+00:01:51,336 --> 00:01:53,167
+Alpha Quadrant?
+
+43
+00:01:53,205 --> 00:01:56,197
+You've passed through a wormhole
+into a new part of the galaxy.
+
+44
+00:01:56,274 --> 00:01:58,139
+l saw a small ship disappear.
+
+45
+00:01:58,176 --> 00:01:59,302
+l followed it.
+
+46
+00:01:59,344 --> 00:02:01,244
+That was one
+of our patrol vessels.
+
+47
+00:02:01,279 --> 00:02:03,679
+You've traveled
+almost 90,000 light years.
+
+48
+00:02:03,715 --> 00:02:05,376
+What planet do you come from?
+
+49
+00:02:05,417 --> 00:02:07,385
+How long does it last,
+this anomaly?
+
+50
+00:02:07,419 --> 00:02:08,545
+lt's stable.
+
+51
+00:02:08,587 --> 00:02:10,885
+You can return
+whenever you want to.
+
+52
+00:02:10,922 --> 00:02:12,890
+ln the meantime,
+you're welcome to dock here
+
+53
+00:02:12,924 --> 00:02:15,324
+and we'll try
+to answer all your questions.
+
+54
+00:02:15,360 --> 00:02:16,827
+No. No time.
+
+55
+00:02:16,862 --> 00:02:20,161
+lnertial stress is overloading
+his structural capacity.
+
+56
+00:02:20,198 --> 00:02:22,166
+Prepare to transport him
+off his ship.
+
+57
+00:02:22,200 --> 00:02:24,259
+l will not abandon my vessel.
+
+58
+00:02:24,302 --> 00:02:25,792
+Sir, your ship
+is in danger of...
+
+59
+00:02:25,837 --> 00:02:27,361
+l will not leave!
+
+60
+00:02:27,406 --> 00:02:29,271
+We can use a tractor beam
+to tow him in.
+
+61
+00:02:29,307 --> 00:02:30,774
+The beam's graviton field
+
+62
+00:02:30,809 --> 00:02:33,039
+should shore up
+the structural integrity.
+
+63
+00:02:33,078 --> 00:02:34,045
+Do it.
+
+64
+00:02:34,079 --> 00:02:35,046
+Cut your engines.
+
+65
+00:02:35,080 --> 00:02:36,308
+Why?
+
+66
+00:02:36,348 --> 00:02:38,543
+So l can save your ship, friend.
+
+67
+00:02:38,583 --> 00:02:39,811
+We'll bring you in
+
+68
+00:02:39,851 --> 00:02:41,785
+try to fix you up
+as good as new.
+
+69
+00:02:46,391 --> 00:02:47,824
+Good.
+
+70
+00:02:47,859 --> 00:02:49,292
+Engaging tractor beam.
+
+71
+00:02:49,327 --> 00:02:51,192
+Steady, now.
+
+72
+00:02:51,229 --> 00:02:53,527
+You feel the graviton field
+
+73
+00:02:53,565 --> 00:02:55,726
+taking hold?
+
+74
+00:02:55,767 --> 00:02:57,064
+Yes.
+
+75
+00:02:57,102 --> 00:02:59,093
+You'll be fine now.
+
+76
+00:02:59,137 --> 00:03:02,698
+Just relax and enjoy the ride.
+
+77
+00:03:04,843 --> 00:03:06,071
+l think we might want to skip
+
+78
+00:03:06,111 --> 00:03:07,806
+formal first-contact
+procedures for now.
+
+79
+00:03:07,846 --> 00:03:09,507
+Agreed.
+
+80
+00:03:10,682 --> 00:03:13,048
+Why don't you meet him
+by yourself
+
+81
+00:03:13,084 --> 00:03:15,052
+at the airlock, Mr. O'Brien?
+
+82
+00:03:15,086 --> 00:03:18,146
+He might find that
+a little less intimidating.
+
+83
+00:03:18,256 --> 00:03:19,314
+Aye, sir.
+
+84
+00:03:19,357 --> 00:03:22,326
+And, if you can...
+
+85
+00:03:22,360 --> 00:03:25,818
+find out
+what he's so nervous about.
+
+86
+00:03:25,864 --> 00:03:27,354
+Aye, sir.
+
+87
+00:05:58,678 --> 00:06:00,145
+O'Brien to Ops.
+
+88
+00:06:00,180 --> 00:06:02,239
+Go ahead, Chief.
+
+89
+00:06:02,282 --> 00:06:03,806
+Sure you didn't
+
+90
+00:06:03,850 --> 00:06:05,750
+beam this fellow out
+when l wasn't looking?
+
+91
+00:06:05,786 --> 00:06:07,083
+Negative.
+
+92
+00:06:07,120 --> 00:06:09,111
+He's not in here.
+
+93
+00:06:11,124 --> 00:06:14,560
+Sensors say
+he's still on board, Chief.
+
+94
+00:06:16,530 --> 00:06:19,966
+Friend... if you're in here
+
+95
+00:06:20,000 --> 00:06:24,596
+you've got nothing
+to worry about from me.
+
+96
+00:06:24,638 --> 00:06:26,629
+Understand?
+
+97
+00:06:36,016 --> 00:06:39,679
+l'm just going to take
+a look at your ship
+
+98
+00:06:39,719 --> 00:06:42,517
+see what the problem is, okay?
+
+99
+00:06:48,662 --> 00:06:51,790
+And just to let you know,
+l'm an engineer.
+
+100
+00:06:51,832 --> 00:06:56,997
+l know a little bit about ships.
+
+101
+00:06:57,037 --> 00:07:00,768
+Well, more than a little,
+actually.
+
+102
+00:07:00,807 --> 00:07:02,775
+Though l'll tell you
+
+103
+00:07:02,809 --> 00:07:06,074
+l've never seen anything
+close to this.
+
+104
+00:07:07,581 --> 00:07:09,811
+All right, then.
+
+105
+00:07:09,850 --> 00:07:13,308
+ls this some sort
+of plasma injector?
+
+106
+00:07:13,353 --> 00:07:16,789
+Okay, then...
+
+107
+00:07:16,823 --> 00:07:22,056
+then that must be an off-axis
+field controller over there.
+
+108
+00:07:22,095 --> 00:07:23,494
+Uh-huh.
+
+109
+00:07:23,530 --> 00:07:25,088
+Uh-huh.
+
+110
+00:07:25,165 --> 00:07:28,862
+The coladrium flow
+has been damaged.
+
+111
+00:07:28,902 --> 00:07:32,099
+You can't go sneaking up
+on someone like that, friend.
+
+112
+00:07:32,205 --> 00:07:34,036
+lt's an Alpha Quadrant rule.
+
+113
+00:07:37,344 --> 00:07:39,812
+Can it be repaired?
+
+114
+00:07:39,846 --> 00:07:41,905
+Well, that all depends.
+
+115
+00:07:41,948 --> 00:07:43,506
+Depends?
+
+116
+00:07:43,550 --> 00:07:47,987
+On what exactly
+a coladrium flow is.
+
+117
+00:07:48,021 --> 00:07:49,488
+On my world, it would be simple.
+
+118
+00:07:49,523 --> 00:07:51,957
+With proper materials,
+l could do it myself.
+
+119
+00:07:51,992 --> 00:07:53,118
+Hang on.
+
+120
+00:07:53,193 --> 00:07:55,354
+l didn't say we
+couldn't figure it out.
+
+121
+00:07:55,395 --> 00:07:58,023
+You're just going to have
+to teach me as we go.
+
+122
+00:07:58,064 --> 00:07:59,531
+l'm sure that we can...
+
+123
+00:07:59,566 --> 00:08:01,193
+l have no time.
+
+124
+00:08:01,234 --> 00:08:02,462
+l know.
+
+125
+00:08:02,502 --> 00:08:04,595
+Everyone's
+in a hurry these days.
+
+126
+00:08:04,638 --> 00:08:05,730
+We'll have you on your way
+
+127
+00:08:05,772 --> 00:08:07,501
+as soon as it's
+humanly possible.
+
+128
+00:08:07,541 --> 00:08:10,567
+That's me, by the way--
+human species.
+
+129
+00:08:10,610 --> 00:08:12,601
+Name's O'Brien.
+
+130
+00:08:12,646 --> 00:08:14,807
+Oh Brien.
+
+131
+00:08:14,848 --> 00:08:17,316
+Miles O'Brien,
+Chief of Operations.
+
+132
+00:08:17,350 --> 00:08:18,817
+How about you?
+
+133
+00:08:18,852 --> 00:08:21,844
+l am Tosk.
+
+134
+00:08:21,888 --> 00:08:25,449
+That's your name
+or your species?
+
+135
+00:08:27,060 --> 00:08:29,187
+l am Tosk.
+
+136
+00:08:29,229 --> 00:08:30,389
+Oh.
+
+137
+00:08:30,430 --> 00:08:32,898
+Tosk it is.
+
+138
+00:08:32,933 --> 00:08:34,924
+Come on.
+
+139
+00:08:39,005 --> 00:08:41,633
+There's nothing to be
+afraid of out there.
+
+140
+00:08:41,675 --> 00:08:44,405
+We've got to wait for your
+reactor to cool down anyway
+
+141
+00:08:44,444 --> 00:08:46,071
+before we can
+do anything else.
+
+142
+00:08:47,113 --> 00:08:48,410
+Come on.
+
+143
+00:08:52,819 --> 00:08:55,913
+l've got work to do.
+
+144
+00:09:13,373 --> 00:09:15,398
+So, what happened
+to you, anyway?
+
+145
+00:09:15,442 --> 00:09:16,409
+Looks like you took
+
+146
+00:09:16,443 --> 00:09:17,910
+some sort of a shock
+to your hull.
+
+147
+00:09:17,944 --> 00:09:21,072
+The passage through
+the anomaly was very rough.
+
+148
+00:09:21,114 --> 00:09:23,207
+Yeah, sure.
+
+149
+00:09:23,249 --> 00:09:25,513
+The wormhole can
+shake you up, all right.
+
+150
+00:09:35,962 --> 00:09:37,691
+Security sensor.
+
+151
+00:09:37,731 --> 00:09:39,255
+Screens for weapons.
+
+152
+00:09:39,299 --> 00:09:41,324
+lt's just picking up my phaser.
+
+153
+00:09:41,368 --> 00:09:43,461
+You're fine.
+
+154
+00:09:49,042 --> 00:09:50,873
+You wear a weapon.
+
+155
+00:09:50,910 --> 00:09:52,878
+Defensive purposes only.
+
+156
+00:09:52,912 --> 00:09:54,971
+lt may not seem hospitable
+
+157
+00:09:55,015 --> 00:09:57,347
+but when you go into an alien
+ship for the first time
+
+158
+00:09:57,384 --> 00:10:00,012
+you never know
+what might be in there.
+
+159
+00:10:00,053 --> 00:10:01,850
+You may even find someone
+
+160
+00:10:01,888 --> 00:10:03,685
+who can make
+himself invisible.
+
+161
+00:10:03,723 --> 00:10:05,816
+You know what l mean?
+
+162
+00:10:14,000 --> 00:10:16,230
+l understand.
+
+163
+00:10:22,709 --> 00:10:25,234
+A health center?
+
+164
+00:10:25,278 --> 00:10:27,838
+Yeah. That's Dr. Bashir.
+
+165
+00:10:27,881 --> 00:10:30,782
+He looks after
+our medical problems.
+
+166
+00:10:33,153 --> 00:10:35,781
+How many live here?
+
+167
+00:10:35,822 --> 00:10:38,313
+Well, 300, more or less.
+
+168
+00:10:38,358 --> 00:10:40,758
+What is its purpose?
+
+169
+00:10:40,794 --> 00:10:42,694
+Purpose?
+
+170
+00:10:42,729 --> 00:10:44,424
+Defense?
+
+171
+00:10:44,464 --> 00:10:45,931
+Surveillance?
+
+172
+00:10:45,965 --> 00:10:48,957
+Well, sometimes,
+when l walk along here
+
+173
+00:10:49,002 --> 00:10:50,970
+l feel like we're
+the flea market
+
+174
+00:10:51,004 --> 00:10:51,993
+to the sector.
+
+175
+00:10:53,006 --> 00:10:55,372
+But l guess our real job
+
+176
+00:10:55,408 --> 00:10:57,876
+is to keep an eye
+on the wormhole.
+
+177
+00:10:57,911 --> 00:11:01,642
+There's traffic going in
+and out all the time now.
+
+178
+00:11:01,681 --> 00:11:03,444
+Many ships dock here.
+
+179
+00:11:03,483 --> 00:11:05,110
+Five or six a week.
+
+180
+00:11:05,151 --> 00:11:07,779
+We sometimes
+have a whole convoy
+
+181
+00:11:07,821 --> 00:11:10,255
+on its way
+through the wormhole.
+
+182
+00:11:10,290 --> 00:11:12,258
+But you have the honor
+
+183
+00:11:12,292 --> 00:11:15,261
+of being the first visitor
+from the other side.
+
+184
+00:11:15,295 --> 00:11:18,753
+Others will detect ships
+from your quadrant, as l did
+
+185
+00:11:18,798 --> 00:11:20,425
+and follow them here.
+
+186
+00:11:20,467 --> 00:11:21,934
+We hope so.
+
+187
+00:11:21,968 --> 00:11:23,936
+Our mission as
+Starfleet officers
+
+188
+00:11:23,970 --> 00:11:26,097
+is to seek out new life-forms
+
+189
+00:11:26,139 --> 00:11:28,266
+so we can learn
+about each other.
+
+190
+00:11:28,308 --> 00:11:31,072
+Madam, l distinctly saw you
+
+191
+00:11:31,111 --> 00:11:33,238
+move your wager
+to the green line
+
+192
+00:11:33,279 --> 00:11:35,611
+after the play was completed.
+
+193
+00:11:35,648 --> 00:11:37,775
+l will return your currency
+
+194
+00:11:37,817 --> 00:11:41,275
+but you will promptly
+leave the establishment.
+
+195
+00:11:41,321 --> 00:11:43,812
+You are not welcome here.
+
+196
+00:11:46,626 --> 00:11:51,586
+Well, there are some things
+to learn about us that can wait.
+
+197
+00:11:54,467 --> 00:11:56,025
+How about you?
+
+198
+00:11:56,069 --> 00:11:59,630
+You an explorer?
+A scientist?
+
+199
+00:11:59,672 --> 00:12:01,606
+l am Tosk.
+
+200
+00:12:02,842 --> 00:12:04,605
+Right.
+
+201
+00:12:06,446 --> 00:12:08,437
+Computer, lights.
+
+202
+00:12:12,051 --> 00:12:15,680
+Oh, l wasn't the decorator.
+
+203
+00:12:15,722 --> 00:12:18,816
+l wish to begin work
+on my ship.
+
+204
+00:12:18,858 --> 00:12:21,884
+Yes, well, we'll start
+as soon as we can.
+
+205
+00:12:21,928 --> 00:12:24,920
+Now, why don't
+you get some rest?
+
+206
+00:12:24,964 --> 00:12:28,092
+l require only 17 minutes
+of sleep per rotation.
+
+207
+00:12:28,134 --> 00:12:29,761
+17? No kidding?
+
+208
+00:12:29,803 --> 00:12:32,772
+lf l don't get a good
+eight hours a night
+
+209
+00:12:32,806 --> 00:12:34,603
+l'm not the same man.
+
+210
+00:12:34,641 --> 00:12:36,108
+Are you hungry?
+
+211
+00:12:36,142 --> 00:12:37,439
+Hungry?
+
+212
+00:12:37,477 --> 00:12:39,945
+You know, would you like to eat?
+
+213
+00:12:39,979 --> 00:12:41,537
+Take in sustenance.
+
+214
+00:12:41,581 --> 00:12:43,310
+Liquid nutrients are stored
+
+215
+00:12:43,349 --> 00:12:45,613
+in plasmic fibers
+throughout my body.
+
+216
+00:12:45,652 --> 00:12:47,119
+Oh.
+
+217
+00:12:47,153 --> 00:12:49,781
+Well, this is the food
+replicator over here
+
+218
+00:12:49,823 --> 00:12:51,791
+in case you change your mind.
+
+219
+00:12:51,825 --> 00:12:55,577
+We finally got it making
+a pretty good bowl of oatmeal.
+
+220
+00:12:55,710 --> 00:12:59,271
+Just ask the computer
+if you need anything else.
+
+221
+00:13:00,682 --> 00:13:03,173
+Oh Brien...
+
+222
+00:13:03,218 --> 00:13:05,152
+thank you.
+
+223
+00:13:05,186 --> 00:13:08,553
+As the Vulcans say,
+we're here to serve.
+
+224
+00:13:26,941 --> 00:13:28,670
+Computer...
+
+225
+00:13:28,710 --> 00:13:30,371
+State request.
+
+226
+00:13:30,412 --> 00:13:34,041
+l wish to see a display
+of this facility.
+
+227
+00:13:34,082 --> 00:13:37,882
+Specify exterior
+or interior display.
+
+228
+00:13:37,919 --> 00:13:40,080
+lnterior.
+
+229
+00:13:40,121 --> 00:13:43,420
+lnterior display available
+in 19 sections.
+
+230
+00:13:43,458 --> 00:13:45,892
+Specify requirements.
+
+231
+00:13:45,927 --> 00:13:48,760
+Show me where
+the weapons are stored.
+
+232
+00:13:48,797 --> 00:13:53,496
+Habitat ring, level five,
+section three.
+
+233
+00:13:53,535 --> 00:13:57,869
+Access restricted to security
+clearance 7 and above.
+
+234
+00:14:07,315 --> 00:14:09,044
+lt's hard to say, sir.
+
+235
+00:14:09,117 --> 00:14:11,244
+You hate to prejudge anyone.
+
+236
+00:14:11,286 --> 00:14:13,379
+What are you thinking, Chief?
+
+237
+00:14:13,421 --> 00:14:14,547
+You know the old saying--
+
+238
+00:14:14,589 --> 00:14:16,750
+''A man who's always
+looking over his shoulder
+
+239
+00:14:16,791 --> 00:14:18,520
+is waiting for trouble
+to find him.''
+
+240
+00:14:18,560 --> 00:14:19,618
+You think he's on the run?
+
+241
+00:14:19,661 --> 00:14:21,219
+l'll tell you this--
+he wasn't telling
+
+242
+00:14:21,262 --> 00:14:24,197
+the whole truth
+about the damage to his ship.
+
+243
+00:14:24,232 --> 00:14:26,757
+lt sure wasn't caused
+by the wormhole.
+
+244
+00:14:26,801 --> 00:14:28,666
+Somebody took a shot at him.
+
+245
+00:14:28,703 --> 00:14:31,536
+lt came in at a 45 degree angle
+to the hull
+
+246
+00:14:31,573 --> 00:14:33,768
+sliced through
+two propulsion systems.
+
+247
+00:14:33,808 --> 00:14:37,209
+l'll know more when l get
+a better look at it.
+
+248
+00:14:37,245 --> 00:14:40,874
+Stay with him as much
+as possible while he's here.
+
+249
+00:14:40,915 --> 00:14:43,679
+l'll tell Odo
+to keep an eye on him, too.
+
+250
+00:14:43,718 --> 00:14:44,707
+Aye, sir.
+
+251
+00:14:49,924 --> 00:14:53,087
+No. The coladrium flows
+through the arva nodes.
+
+252
+00:14:53,128 --> 00:14:54,595
+What are they?
+
+253
+00:14:54,629 --> 00:14:56,995
+Some kind of high energy
+magnetic coils?
+
+254
+00:14:57,031 --> 00:14:58,726
+For fuel replenishment.
+
+255
+00:14:58,767 --> 00:15:00,701
+Fuel?
+Oh, like a ramscoop.
+
+256
+00:15:00,735 --> 00:15:02,032
+Ramscoop?
+
+257
+00:15:02,070 --> 00:15:04,163
+Yeah, to capture stellar gasses
+
+258
+00:15:04,205 --> 00:15:06,537
+and convert them
+into usable fuel.
+
+259
+00:15:06,574 --> 00:15:10,032
+Yes. The arva nodes convert
+space matter into fuel.
+
+260
+00:15:10,145 --> 00:15:12,511
+Ah, gotcha.
+
+261
+00:15:12,547 --> 00:15:14,538
+Mm, piece of cake.
+
+262
+00:15:14,582 --> 00:15:17,312
+Piece of cake.
+Ramscoop. Arva nodes.
+
+263
+00:15:17,352 --> 00:15:20,549
+''Piece of cake''-- it's
+an old human expression.
+
+264
+00:15:20,588 --> 00:15:22,954
+lt means they'll be
+easy to fix.
+
+265
+00:15:22,991 --> 00:15:24,959
+They will be easy to fix?
+
+266
+00:15:24,993 --> 00:15:26,255
+Sure. Yeah.
+
+267
+00:15:26,294 --> 00:15:28,888
+We'll just get my crew
+to remove your arva nodes
+
+268
+00:15:28,930 --> 00:15:31,694
+then we'll take them over
+to the replicator center
+
+269
+00:15:31,733 --> 00:15:32,757
+and make new ones.
+
+270
+00:15:34,068 --> 00:15:35,592
+Piece of cake.
+
+271
+00:15:38,306 --> 00:15:40,797
+How long?
+
+272
+00:15:40,842 --> 00:15:42,901
+Oh...
+
+273
+00:15:42,944 --> 00:15:45,071
+maybe a day or two.
+
+274
+00:15:45,180 --> 00:15:49,617
+We'll want to run some tests
+after the replacement unit's in.
+
+275
+00:15:49,651 --> 00:15:51,448
+No. No time for that.
+
+276
+00:15:51,486 --> 00:15:54,216
+Hey, l let you
+take that unit out
+
+277
+00:15:54,255 --> 00:15:55,745
+without proper testing
+
+278
+00:15:55,790 --> 00:15:57,587
+it breaks down, you blame me
+
+279
+00:15:57,625 --> 00:15:59,092
+next thing l know
+
+280
+00:15:59,127 --> 00:16:02,927
+my work has a bad reputation
+in the Gamma Quadrant.
+
+281
+00:16:02,964 --> 00:16:05,694
+l would not blame you.
+
+282
+00:16:05,733 --> 00:16:08,201
+l was joking, Tosk.
+
+283
+00:16:08,236 --> 00:16:11,262
+l cannot tell... Oh Brien.
+
+284
+00:16:11,306 --> 00:16:13,297
+Sorry, it's in my nature.
+
+285
+00:16:13,341 --> 00:16:16,504
+And you're the most
+natural straight man
+
+286
+00:16:16,544 --> 00:16:18,136
+l've met in ages.
+
+287
+00:16:18,179 --> 00:16:20,875
+Come on, while the fellas
+are working here
+
+288
+00:16:20,915 --> 00:16:23,475
+l'll buy you a drink
+and you can tell me
+
+289
+00:16:23,518 --> 00:16:25,179
+why you're in such a rush.
+
+290
+00:16:28,056 --> 00:16:29,387
+Dabo!
+
+291
+00:16:43,071 --> 00:16:46,734
+Nothing like this
+exists on my world.
+
+292
+00:16:46,774 --> 00:16:50,210
+This is where we do
+most of our R&R.
+
+293
+00:16:50,245 --> 00:16:52,805
+What is ''R&R''?
+
+294
+00:16:52,847 --> 00:16:54,644
+Rest and relaxation.
+
+295
+00:16:54,682 --> 00:16:56,673
+You know, down time.
+
+296
+00:16:56,718 --> 00:16:58,913
+When we're not working.
+
+297
+00:16:58,953 --> 00:17:02,912
+You sleep a full third
+of your rotation.
+
+298
+00:17:02,957 --> 00:17:07,758
+You rest and relax
+while you are awake.
+
+299
+00:17:07,795 --> 00:17:11,788
+Alpha Quadrant has
+far too much down time.
+
+300
+00:17:13,401 --> 00:17:15,335
+My wife would laugh at that.
+
+301
+00:17:15,370 --> 00:17:18,533
+She's barely seen me
+in the last three weeks.
+
+302
+00:17:18,573 --> 00:17:22,703
+We are very different
+
+303
+00:17:22,744 --> 00:17:25,713
+Tosk and Oh Brien.
+
+304
+00:17:25,747 --> 00:17:27,339
+l've noticed.
+
+305
+00:17:28,950 --> 00:17:30,315
+Hey, barkeep!
+
+306
+00:17:30,351 --> 00:17:31,784
+Don't call me ''barkeep.''
+
+307
+00:17:31,819 --> 00:17:33,047
+l'm not a barkeep.
+
+308
+00:17:33,154 --> 00:17:35,554
+l'm your host.
+
+309
+00:17:35,590 --> 00:17:36,955
+The proprietor.
+
+310
+00:17:36,991 --> 00:17:38,458
+A sympathetic ear
+to the wretched souls
+
+311
+00:17:38,493 --> 00:17:39,687
+that pass through
+these portals.
+
+312
+00:17:39,727 --> 00:17:44,562
+And a man who will exploit
+any vice you may have.
+
+313
+00:17:44,599 --> 00:17:47,397
+Two synthales, barkeep.
+
+314
+00:17:47,435 --> 00:17:48,663
+l am sorry.
+
+315
+00:17:48,703 --> 00:17:51,831
+l have no vices
+for you to exploit.
+
+316
+00:17:53,107 --> 00:17:54,665
+A challenge.
+
+317
+00:17:54,709 --> 00:17:58,941
+Tosk is our first guest
+from the Gamma Quadrant, Quark.
+
+318
+00:17:58,980 --> 00:18:00,811
+l'd take him at his word.
+
+319
+00:18:00,848 --> 00:18:04,944
+Perhaps a short adventure
+in a holosuite?
+
+320
+00:18:04,986 --> 00:18:06,977
+Holosuite?
+
+321
+00:18:07,021 --> 00:18:12,186
+A fantasy encounter with
+danger, romance, thrills
+
+322
+00:18:12,226 --> 00:18:14,956
+created for
+your personal entertainment
+
+323
+00:18:14,996 --> 00:18:16,657
+by the brothers Quark.
+
+324
+00:18:16,698 --> 00:18:20,896
+l have no use
+for fantasy adventure.
+
+325
+00:18:20,935 --> 00:18:25,031
+l live the greatest adventure
+one could ever desire.
+
+326
+00:18:27,642 --> 00:18:30,907
+Then l envy you, Mr. Tosk.
+
+327
+00:18:40,555 --> 00:18:43,217
+What are you talking
+about, Tosk?
+
+328
+00:18:43,257 --> 00:18:47,523
+What is this adventure
+you're on?
+
+329
+00:18:47,562 --> 00:18:50,463
+l cannot discuss it.
+
+330
+00:18:50,498 --> 00:18:52,693
+Oh, sure.
+
+331
+00:18:52,734 --> 00:18:54,065
+Of course.
+
+332
+00:19:01,476 --> 00:19:03,944
+Sounds like you've changed
+your mind about him, Chief.
+
+333
+00:19:03,978 --> 00:19:05,206
+Not exactly.
+
+334
+00:19:05,246 --> 00:19:08,272
+l mean he's running from
+something, that's for sure.
+
+335
+00:19:08,316 --> 00:19:09,681
+And he's in danger.
+
+336
+00:19:09,717 --> 00:19:12,413
+And he can't, or won't
+talk about it.
+
+337
+00:19:12,453 --> 00:19:15,013
+People tell doctors things
+they wouldn't tell anyone else.
+
+338
+00:19:15,089 --> 00:19:16,351
+lf you could get him to have
+
+339
+00:19:16,391 --> 00:19:18,291
+a routine medical
+examination, maybe l...
+
+340
+00:19:18,326 --> 00:19:21,318
+The thing is, l kind
+of like the guy.
+
+341
+00:19:21,362 --> 00:19:23,330
+l'm not even sure why.
+
+342
+00:19:23,364 --> 00:19:25,832
+ln a way, he's almost naive.
+
+343
+00:19:25,867 --> 00:19:29,928
+l guess anyone would be
+in an alien environment
+
+344
+00:19:29,971 --> 00:19:32,201
+but l don't sense a threat
+of criminal intent
+
+345
+00:19:32,240 --> 00:19:33,832
+or dishonesty about him.
+
+346
+00:19:33,875 --> 00:19:35,035
+l thought you said
+he lied about
+
+347
+00:19:35,143 --> 00:19:36,838
+the damage to his ship.
+
+348
+00:19:36,878 --> 00:19:39,005
+He didn't exactly lie.
+
+349
+00:19:39,047 --> 00:19:42,983
+But he didn't exactly
+tell the truth either.
+
+350
+00:19:43,017 --> 00:19:45,178
+He keeps the truth
+pretty much to himself.
+
+351
+00:19:45,219 --> 00:19:47,346
+When do you think
+his ship will be ready?
+
+352
+00:19:47,388 --> 00:19:48,355
+Tomorrow.
+
+353
+00:19:48,389 --> 00:19:51,620
+l don't see that we have
+much of a choice.
+
+354
+00:19:51,659 --> 00:19:52,956
+We can't hold him.
+
+355
+00:19:52,994 --> 00:19:55,986
+lf he wants to tell
+you the truth, fine.
+
+356
+00:19:56,030 --> 00:19:58,191
+lf not...
+
+357
+00:19:58,232 --> 00:20:02,309
+wish him well
+and send him on his way.
+
+358
+00:20:30,137 --> 00:20:32,935
+Just what do you
+think you're doing?
+
+359
+00:20:36,877 --> 00:20:40,608
+Computer, seal off
+corridor 14-A, Habitat Level 5.
+
+360
+00:20:40,647 --> 00:20:41,944
+Seal confirmed.
+
+361
+00:20:41,982 --> 00:20:44,849
+Security to Habitat 514-A.
+
+362
+00:20:57,764 --> 00:20:59,322
+When you get tired
+of bouncing
+
+363
+00:20:59,366 --> 00:21:01,334
+off force fields,
+we can talk, all right?
+
+364
+00:21:03,203 --> 00:21:04,761
+l did nothing to you.
+
+365
+00:21:04,805 --> 00:21:07,535
+lt's that security junction
+l'm curious about.
+
+366
+00:21:07,574 --> 00:21:10,099
+l must prepare.
+
+367
+00:21:10,143 --> 00:21:11,735
+For what?
+
+368
+00:21:11,778 --> 00:21:13,746
+l cannot discuss it.
+
+369
+00:21:13,780 --> 00:21:15,008
+l am Tosk.
+
+370
+00:21:15,081 --> 00:21:18,107
+l'm sure you are.
+
+371
+00:21:18,151 --> 00:21:19,846
+Why don't we go down
+to my office
+
+372
+00:21:19,886 --> 00:21:22,286
+while your friend,
+Chief O'Brien takes a look
+
+373
+00:21:22,322 --> 00:21:24,722
+to see just what you've
+been doing in there?
+
+374
+00:21:25,792 --> 00:21:27,020
+Oh Brien?
+
+375
+00:21:27,060 --> 00:21:28,220
+Right.
+
+376
+00:21:28,261 --> 00:21:31,753
+l'm going to release
+the force fields now.
+
+377
+00:21:31,798 --> 00:21:35,393
+l don't need a fight
+from you, understand?
+
+378
+00:21:35,435 --> 00:21:37,232
+l will not fight you.
+
+379
+00:21:37,270 --> 00:21:39,363
+Good.
+
+380
+00:21:39,406 --> 00:21:43,240
+Computer, release
+the security seals.
+
+381
+00:22:11,004 --> 00:22:12,904
+l cannot discuss it.
+
+382
+00:22:12,939 --> 00:22:14,770
+And l can't accept
+that as an answer.
+
+383
+00:22:14,808 --> 00:22:16,503
+l did nothing to you.
+
+384
+00:22:16,543 --> 00:22:18,773
+You were tampering
+with the security grid.
+
+385
+00:22:18,812 --> 00:22:20,006
+l consider that a threat.
+
+386
+00:22:20,046 --> 00:22:22,674
+l think he was trying
+to shut out the lock-outs
+
+387
+00:22:22,716 --> 00:22:23,683
+to section three.
+
+388
+00:22:23,717 --> 00:22:24,843
+The weapons locker.
+
+389
+00:22:24,885 --> 00:22:27,115
+What were you going
+to do with the weapons?
+
+390
+00:22:27,153 --> 00:22:29,144
+Are you wanted by authorities
+
+391
+00:22:29,189 --> 00:22:30,816
+somewhere
+in the Gamma Quadrant?
+
+392
+00:22:30,857 --> 00:22:33,121
+''Wanted?''
+
+393
+00:22:33,159 --> 00:22:34,990
+Have you committed crimes?
+
+394
+00:22:36,730 --> 00:22:39,028
+Never. l am Tosk.
+
+395
+00:22:39,065 --> 00:22:40,999
+What does that mean?
+
+396
+00:22:41,034 --> 00:22:43,195
+ls that supposed
+to explain all this?
+
+397
+00:22:43,236 --> 00:22:45,397
+lt is all l can say.
+
+398
+00:22:45,438 --> 00:22:48,532
+Tosk, don't you think
+we deserve some answers?
+
+399
+00:22:48,575 --> 00:22:50,873
+What should l do with him?
+
+400
+00:22:50,911 --> 00:22:52,640
+Hold him for now.
+
+401
+00:22:52,679 --> 00:22:53,805
+We'll wait to see
+
+402
+00:22:53,847 --> 00:22:55,576
+if someone shows up
+looking for him.
+
+403
+00:23:08,028 --> 00:23:10,656
+Enough of this craziness, Tosk.
+
+404
+00:23:10,697 --> 00:23:13,222
+Tell me, what were you doing?
+
+405
+00:23:13,266 --> 00:23:17,965
+Oh Brien...
+you must let me out.
+
+406
+00:23:18,004 --> 00:23:19,972
+Tell me.
+
+407
+00:23:20,006 --> 00:23:22,907
+Allow me to die with honor.
+
+408
+00:23:22,943 --> 00:23:24,672
+Die?
+
+409
+00:23:24,711 --> 00:23:28,010
+Who would want to kill you,
+Tosk?
+
+410
+00:23:33,386 --> 00:23:37,083
+Allow me to die with honor.
+
+411
+00:23:42,062 --> 00:23:45,190
+He's climbing the walls
+like a trapped animal.
+
+412
+00:23:45,231 --> 00:23:49,361
+l'm sorry our jail cells
+aren't to his liking.
+
+413
+00:23:49,402 --> 00:23:51,802
+Somehow, l feel responsible.
+
+414
+00:23:51,838 --> 00:23:53,567
+You do?
+
+415
+00:23:53,607 --> 00:23:58,169
+Yeah, well, l guess
+l kind of adopted him.
+
+416
+00:23:58,211 --> 00:24:00,611
+l talked him into coming
+on board.
+
+417
+00:24:00,647 --> 00:24:01,807
+You didn't talk him
+
+418
+00:24:01,848 --> 00:24:04,248
+into breaking
+into the security system.
+
+419
+00:24:04,284 --> 00:24:06,479
+l just feel sorry for him.
+
+420
+00:24:06,519 --> 00:24:10,114
+Somehow, l don't think
+he means us any harm.
+
+421
+00:24:13,693 --> 00:24:16,025
+What the hell is his secret?
+
+422
+00:24:24,037 --> 00:24:27,666
+Sensors are picking up
+ionized L-band emissions.
+
+423
+00:24:27,707 --> 00:24:29,834
+The patterns match Tosk's ship.
+
+424
+00:24:29,876 --> 00:24:33,107
+Hail them. Maybe we'll
+finally get a few answers.
+
+425
+00:24:33,146 --> 00:24:35,114
+No response.
+
+426
+00:24:35,148 --> 00:24:37,378
+Again, rotate frequencies.
+
+427
+00:24:38,918 --> 00:24:41,011
+lt's a modulated particle beam.
+
+428
+00:24:41,054 --> 00:24:42,282
+lt's scanning us.
+
+429
+00:24:42,322 --> 00:24:43,289
+Ready shields.
+
+430
+00:24:43,323 --> 00:24:44,347
+Not yet, Major.
+
+431
+00:24:44,391 --> 00:24:45,517
+Let them have a good look at us.
+
+432
+00:24:45,558 --> 00:24:47,856
+l'm reading phased
+power fluctuations.
+
+433
+00:24:47,894 --> 00:24:49,862
+They may be readying
+a transporter of some kind.
+
+434
+00:24:49,896 --> 00:24:50,863
+Now, Major.
+
+435
+00:24:50,897 --> 00:24:51,864
+Shields up.
+
+436
+00:24:51,898 --> 00:24:53,024
+Open all hailing channels.
+
+437
+00:24:53,066 --> 00:24:54,158
+Open.
+
+438
+00:24:54,200 --> 00:24:57,328
+This is Commander Benjamin Sisko
+of the United...
+
+439
+00:24:57,370 --> 00:24:58,462
+They're bombarding us
+
+440
+00:24:58,505 --> 00:25:00,473
+with some kind of radiation
+l've never seen before.
+
+441
+00:25:00,507 --> 00:25:03,032
+Very rapid magnetic
+flux variations.
+
+442
+00:25:08,081 --> 00:25:09,105
+What the...?
+
+443
+00:25:09,149 --> 00:25:11,413
+They've reversed
+the polarity of our shields.
+
+444
+00:25:11,451 --> 00:25:13,544
+l'm picking up
+transporter locks.
+
+445
+00:25:13,586 --> 00:25:14,917
+They're beaming on board.
+
+446
+00:25:14,954 --> 00:25:15,921
+Location?
+
+447
+00:25:15,955 --> 00:25:17,889
+Promenade.
+
+448
+00:25:17,924 --> 00:25:19,653
+Security to the Promenade.
+
+449
+00:25:19,693 --> 00:25:21,320
+Kira and O'Brien with me.
+
+450
+00:25:21,361 --> 00:25:23,056
+Dax, you have Ops.
+
+451
+00:25:40,280 --> 00:25:42,373
+Ready phasers.
+
+452
+00:25:53,126 --> 00:25:55,253
+l'm Commander of this station.
+
+453
+00:25:55,295 --> 00:25:57,126
+Put down your weapons.
+
+454
+00:26:21,020 --> 00:26:23,488
+lncrease setting to level six.
+
+455
+00:26:24,457 --> 00:26:26,220
+lt's that Tosk they're after.
+
+456
+00:26:26,259 --> 00:26:28,090
+Maybe they have a right to him.
+
+457
+00:26:28,128 --> 00:26:30,426
+Nobody's abducting
+a prisoner out of my brig
+
+458
+00:26:30,463 --> 00:26:31,930
+as long as l'm alive.
+
+459
+00:26:34,067 --> 00:26:34,999
+You may need this.
+
+460
+00:26:35,068 --> 00:26:36,000
+Thanks, Major.
+
+461
+00:26:36,069 --> 00:26:37,093
+You know l never use them.
+
+462
+00:27:57,032 --> 00:27:58,522
+l have Tosk...
+
+463
+00:27:58,567 --> 00:28:00,535
+...alive.
+
+464
+00:28:00,569 --> 00:28:03,060
+lt is over.
+
+465
+00:28:12,715 --> 00:28:14,580
+What a disappointment.
+
+466
+00:28:16,785 --> 00:28:18,912
+And after such
+an entertaining beginning.
+
+467
+00:28:18,954 --> 00:28:19,921
+Entertaining?!
+
+468
+00:28:19,989 --> 00:28:22,719
+These aliens gave us
+a great deal of resistance.
+
+469
+00:28:22,758 --> 00:28:25,124
+We wondered how you got
+their cooperation
+
+470
+00:28:25,160 --> 00:28:27,685
+without violating
+your oath of silence.
+
+471
+00:28:27,730 --> 00:28:29,061
+l told them nothing.
+
+472
+00:28:31,400 --> 00:28:33,868
+But to see you here...
+
+473
+00:28:33,902 --> 00:28:35,733
+caged...
+
+474
+00:28:35,771 --> 00:28:37,898
+helpless...
+
+475
+00:28:37,940 --> 00:28:40,238
+how could you allow this?
+
+476
+00:28:40,275 --> 00:28:42,607
+lt is a disgrace to all Tosk
+
+477
+00:28:42,645 --> 00:28:45,614
+and the most disappointing
+hunt in memory.
+
+478
+00:28:45,648 --> 00:28:48,549
+You're saying that this
+whole thing is a hunt
+
+479
+00:28:48,584 --> 00:28:50,575
+and Tosk is the prey?
+
+480
+00:28:54,189 --> 00:28:55,656
+You are right.
+
+481
+00:28:55,691 --> 00:29:00,025
+This Tosk is unworthy
+of such a noble description.
+
+482
+00:29:02,598 --> 00:29:05,567
+For this dishonor,
+you will endure
+
+483
+00:29:05,601 --> 00:29:07,592
+the greatest humiliation
+
+484
+00:29:07,636 --> 00:29:09,365
+Tosk can know--
+
+485
+00:29:09,405 --> 00:29:13,774
+to be captured
+and brought home alive.
+
+486
+00:29:13,809 --> 00:29:17,506
+You will live out your existence
+on public display
+
+487
+00:29:17,546 --> 00:29:19,104
+where children
+can make fun of you
+
+488
+00:29:19,148 --> 00:29:21,912
+toss you scraps of food
+
+489
+00:29:21,950 --> 00:29:24,248
+which is more than you deserve.
+
+490
+00:29:26,555 --> 00:29:28,022
+Release him.
+
+491
+00:29:28,057 --> 00:29:30,753
+You've disrupted
+life on this station
+
+492
+00:29:30,793 --> 00:29:33,261
+for the pleasure
+of your ''hunt''?
+
+493
+00:29:33,295 --> 00:29:35,889
+l'm not inclined to take orders
+from you.
+
+494
+00:29:35,931 --> 00:29:37,398
+Odo, watch the prisoner
+
+495
+00:29:37,433 --> 00:29:40,869
+while our guest and l
+discuss this in private
+
+496
+00:29:40,903 --> 00:29:43,201
+unless you intend
+to take him by force.
+
+497
+00:29:43,238 --> 00:29:45,138
+ln which case, l'm
+prepared to give orders
+
+498
+00:29:45,174 --> 00:29:46,732
+to open fire on your ship.
+
+499
+00:29:46,775 --> 00:29:48,106
+Over this Tosk?!
+
+500
+00:30:25,280 --> 00:30:28,078
+Have you nothing similar
+in your own society?
+
+501
+00:30:28,117 --> 00:30:30,813
+Centuries ago, people on my
+world engaged in blood sports--
+
+502
+00:30:30,853 --> 00:30:32,753
+killing lower species
+for pleasure.
+
+503
+00:30:32,788 --> 00:30:34,187
+A few cultures still do
+
+504
+00:30:34,223 --> 00:30:37,192
+but even they wouldn't consider
+hunting a sentient being.
+
+505
+00:30:37,226 --> 00:30:41,356
+But he is sentient only because
+we have made him sentient.
+
+506
+00:30:41,396 --> 00:30:44,365
+He has been bred for the hunt.
+
+507
+00:30:44,399 --> 00:30:47,527
+His entire reason
+to exist is the hunt--
+
+508
+00:30:47,569 --> 00:30:52,302
+to make it as exciting,
+as interesting as he can.
+
+509
+00:30:52,341 --> 00:30:54,468
+Obviously, you
+do not comprehend.
+
+510
+00:30:54,510 --> 00:30:56,137
+l comprehend just fine.
+
+511
+00:30:56,178 --> 00:30:59,739
+l have no tolerance
+for the abuse of any life-form.
+
+512
+00:30:59,782 --> 00:31:01,443
+Abuse?
+
+513
+00:31:04,219 --> 00:31:06,187
+We honor Tosk.
+
+514
+00:31:06,221 --> 00:31:08,712
+They are the symbol of all
+
+515
+00:31:08,757 --> 00:31:11,555
+that is noble and courageous.
+
+516
+00:31:11,593 --> 00:31:14,084
+They train and condition
+themselves
+
+517
+00:31:14,129 --> 00:31:19,089
+all their lives for this event.
+
+518
+00:31:19,134 --> 00:31:24,265
+They're proud of their role
+in our culture.
+
+519
+00:31:24,306 --> 00:31:28,936
+l can't judge what is right
+and wrong for your world
+
+520
+00:31:28,977 --> 00:31:31,445
+but on this station...
+
+521
+00:31:34,550 --> 00:31:37,519
+ln the future,
+passage through the anomaly
+
+522
+00:31:37,553 --> 00:31:40,522
+will be considered
+out of bounds for the hunt.
+
+523
+00:31:40,556 --> 00:31:42,217
+Will that satisfy you?
+
+524
+00:31:47,229 --> 00:31:51,325
+Now, you will arrange
+for release of the Tosk.
+
+525
+00:31:59,408 --> 00:32:01,205
+l've agreed to release him.
+
+526
+00:32:01,243 --> 00:32:05,771
+But, sir, Tosk is
+an intelligent, living being.
+
+527
+00:32:05,814 --> 00:32:06,940
+lt's their custom, Chief.
+
+528
+00:32:06,982 --> 00:32:08,415
+Under the Prime Directive
+
+529
+00:32:08,450 --> 00:32:10,111
+we have no right to interfere.
+
+530
+00:32:10,152 --> 00:32:13,644
+What if Tosk were
+to request asylum?
+
+531
+00:32:21,363 --> 00:32:23,524
+lf he asks for it.
+
+532
+00:32:32,441 --> 00:32:35,899
+All right,
+l have a way out for you.
+
+533
+00:32:35,944 --> 00:32:38,913
+A way out...
+
+534
+00:32:38,947 --> 00:32:40,437
+of here?
+
+535
+00:32:40,482 --> 00:32:42,609
+Request asylum.
+
+536
+00:32:42,651 --> 00:32:44,642
+Asylum.
+
+537
+00:32:44,686 --> 00:32:47,814
+You ask for the protection
+of the Federation.
+
+538
+00:32:47,856 --> 00:32:49,084
+You understand?
+
+539
+00:32:49,124 --> 00:32:51,752
+My Commander is willing
+to protect you.
+
+540
+00:32:56,064 --> 00:33:01,024
+Oh Brien, l am Tosk.
+
+541
+00:33:01,069 --> 00:33:03,697
+l cannot hide here
+
+542
+00:33:03,739 --> 00:33:07,038
+behind the protection
+of your Federation.
+
+543
+00:33:07,075 --> 00:33:10,203
+lt is against
+everything l believe.
+
+544
+00:33:10,245 --> 00:33:11,542
+You'd rather go back
+
+545
+00:33:11,580 --> 00:33:13,878
+and live in a cage
+on public display?
+
+546
+00:33:13,916 --> 00:33:18,046
+To stay would be
+a greater dishonor.
+
+547
+00:33:18,086 --> 00:33:20,680
+l am Tosk
+
+548
+00:33:20,722 --> 00:33:23,088
+the hunted.
+
+549
+00:33:23,125 --> 00:33:29,257
+l live to outwit the hunters
+for another day
+
+550
+00:33:29,298 --> 00:33:33,667
+to survive
+until l die with honor.
+
+551
+00:33:44,079 --> 00:33:47,071
+But that will not be my fate.
+
+552
+00:33:52,220 --> 00:33:56,384
+But l will not deny
+my existence as Tosk.
+
+553
+00:33:58,060 --> 00:34:01,552
+Thank you, Oh Brien...
+
+554
+00:34:08,904 --> 00:34:12,897
+but l cannot request asylum.
+
+555
+00:34:32,239 --> 00:34:34,503
+So far, l'm not impressed
+with the tourist trade
+
+556
+00:34:34,542 --> 00:34:35,702
+from the Gamma Quadrant.
+
+557
+00:34:35,743 --> 00:34:37,734
+Not one of them has
+bought a single drink.
+
+558
+00:34:37,778 --> 00:34:38,904
+Shut up, Quark.
+
+559
+00:34:40,281 --> 00:34:42,408
+More trouble
+with the little woman.
+
+560
+00:34:42,450 --> 00:34:43,678
+What's that supposed to mean?
+
+561
+00:34:43,718 --> 00:34:44,685
+Nothing, nothing.
+
+562
+00:34:44,719 --> 00:34:46,550
+l just thought you
+might want to talk.
+
+563
+00:34:46,587 --> 00:34:48,782
+There is nothing wrong
+between my wife and l.
+
+564
+00:34:48,823 --> 00:34:50,791
+And if there were,
+l sure as hell
+
+565
+00:34:50,825 --> 00:34:53,692
+wouldn't want to talk
+to some barkeep about it.
+
+566
+00:34:53,728 --> 00:34:55,889
+Sorry. My mistake.
+
+567
+00:34:59,433 --> 00:35:00,798
+What?!
+
+568
+00:35:02,470 --> 00:35:04,802
+Your face gets very...
+
+569
+00:35:04,839 --> 00:35:08,536
+pink when it gets aggravated.
+
+570
+00:35:08,576 --> 00:35:10,441
+Much more so
+than most other humans.
+
+571
+00:35:10,478 --> 00:35:11,706
+So stop aggravating me.
+
+572
+00:35:11,746 --> 00:35:12,713
+Oh, not me.
+
+573
+00:35:12,747 --> 00:35:14,806
+You came in the door this way.
+
+574
+00:35:14,849 --> 00:35:16,282
+Fine. You're right,
+l'm aggravated.
+
+575
+00:35:16,317 --> 00:35:18,683
+l am a keen observer
+of behavior.
+
+576
+00:35:18,719 --> 00:35:19,686
+You want to talk about it?
+
+577
+00:35:19,720 --> 00:35:20,687
+No.
+
+578
+00:35:20,721 --> 00:35:21,983
+Why not?
+
+579
+00:35:22,023 --> 00:35:24,583
+Because it wouldn't do
+any good talking to you.
+
+580
+00:35:26,293 --> 00:35:28,818
+Try me.
+
+581
+00:35:28,863 --> 00:35:30,262
+Forget it.
+
+582
+00:35:30,297 --> 00:35:33,323
+lt's just the rules of the game.
+
+583
+00:35:33,367 --> 00:35:34,664
+Uh-huh.
+
+584
+00:35:34,702 --> 00:35:38,502
+Rules of the game.
+Go on.
+
+585
+00:35:38,539 --> 00:35:39,506
+lt's a hunt.
+
+586
+00:35:39,540 --> 00:35:40,905
+Did you know that?
+
+587
+00:35:40,941 --> 00:35:43,501
+They're chasing Tosk in a hunt
+
+588
+00:35:43,544 --> 00:35:45,375
+and everybody's
+playing by the rules.
+
+589
+00:35:45,413 --> 00:35:46,880
+They're playing by their rules
+
+590
+00:35:46,914 --> 00:35:47,903
+we're playing by ours
+
+591
+00:35:47,982 --> 00:35:49,472
+and he's caught in the middle.
+
+592
+00:35:49,517 --> 00:35:50,484
+'Course, l suppose
+
+593
+00:35:50,518 --> 00:35:52,008
+if the Ferengi don't
+like the rules
+
+594
+00:35:52,053 --> 00:35:53,020
+they just change them.
+
+595
+00:35:53,054 --> 00:35:55,750
+Well, rules, rules
+are always subject to...
+
+596
+00:35:55,790 --> 00:35:57,382
+Of course.
+
+597
+00:36:00,294 --> 00:36:02,091
+Change the rules.
+
+598
+00:36:04,699 --> 00:36:06,667
+Why didn't l think of that?
+
+599
+00:36:08,969 --> 00:36:10,766
+Thanks, barkeep.
+
+600
+00:36:16,977 --> 00:36:21,004
+So... what's bothering you
+today?
+
+601
+00:36:30,291 --> 00:36:32,486
+Computer, access the power grid
+
+602
+00:36:32,526 --> 00:36:35,859
+to Security Checkpoint 4
+on the Promenade.
+
+603
+00:36:39,433 --> 00:36:40,832
+That isn't necessary.
+
+604
+00:36:40,868 --> 00:36:44,861
+Our ritual requires it
+when a Tosk is captured alive.
+
+605
+00:36:44,905 --> 00:36:46,497
+All right, let's go.
+
+606
+00:36:46,540 --> 00:36:49,907
+l'll escort the prisoner
+to the transporter station.
+
+607
+00:36:49,944 --> 00:36:51,912
+This is a security matter.
+
+608
+00:36:52,012 --> 00:36:53,912
+This is a Starfleet matter.
+
+609
+00:36:54,014 --> 00:36:55,538
+Orders from Sisko.
+
+610
+00:36:55,583 --> 00:36:57,676
+We'll see about that.
+
+611
+00:36:57,718 --> 00:36:59,618
+Do not trouble yourself.
+
+612
+00:36:59,653 --> 00:37:02,383
+My ship will transport us.
+
+613
+00:37:02,423 --> 00:37:04,220
+No, sir,
+that won't be necessary.
+
+614
+00:37:04,258 --> 00:37:06,317
+Good relations
+with other cultures
+
+615
+00:37:06,360 --> 00:37:07,850
+is our highest priority.
+
+616
+00:37:07,895 --> 00:37:09,829
+Commander Sisko
+wants to make sure
+
+617
+00:37:09,864 --> 00:37:14,028
+you understand we're sorry
+we interfered with your hunt.
+
+618
+00:37:14,068 --> 00:37:16,161
+The least we can do is give you
+
+619
+00:37:16,203 --> 00:37:18,865
+an official escort
+off the station.
+
+620
+00:37:18,939 --> 00:37:23,000
+lt's a token of goodwill
+and respect in our society.
+
+621
+00:37:24,545 --> 00:37:26,137
+Very well.
+
+622
+00:37:32,319 --> 00:37:33,616
+Starfleet has no business
+
+623
+00:37:33,654 --> 00:37:35,622
+taking charge
+of a prisoner transport.
+
+624
+00:37:35,656 --> 00:37:37,851
+Calm down, Constable,
+what are you talking about?
+
+625
+00:37:37,892 --> 00:37:39,860
+l'm talking
+about you ordering O'Brien
+
+626
+00:37:39,894 --> 00:37:41,486
+to escort Tosk off the station.
+
+627
+00:37:41,529 --> 00:37:43,997
+l didn't give him
+any orders at all.
+
+628
+00:37:44,031 --> 00:37:47,626
+Sisko to O'Brien.
+
+629
+00:37:47,668 --> 00:37:50,364
+Mr. O'Brien,
+report to Ops immediately.
+
+630
+00:37:50,404 --> 00:37:51,962
+This way.
+
+631
+00:38:09,356 --> 00:38:10,721
+Glass jaw.
+
+632
+00:38:10,758 --> 00:38:13,090
+Now l know
+why you wear a helmet.
+
+633
+00:38:13,127 --> 00:38:14,594
+Up here!
+
+634
+00:38:20,401 --> 00:38:22,699
+The hunt has resumed.
+
+635
+00:38:22,736 --> 00:38:24,033
+Come on.
+
+636
+00:38:24,071 --> 00:38:25,902
+Your ship's ready.
+
+637
+00:38:44,658 --> 00:38:47,889
+Security reports a fight
+in the Promenade. Here.
+
+638
+00:38:47,928 --> 00:38:50,089
+Apparently,
+O'Brien set him loose.
+
+639
+00:38:50,130 --> 00:38:53,827
+l'm showing someone in an access
+conduit above Quark's.
+
+640
+00:38:53,868 --> 00:38:57,395
+Two life-forms.
+
+641
+00:38:57,438 --> 00:38:59,372
+One's human.
+
+642
+00:38:59,406 --> 00:39:01,499
+They're heading out
+toward the docking ring.
+
+643
+00:39:01,542 --> 00:39:03,533
+l'll seal off
+the adjoining corridors.
+
+644
+00:39:03,577 --> 00:39:04,669
+They won't get far.
+
+645
+00:39:04,712 --> 00:39:05,770
+Constable...
+
+646
+00:39:07,748 --> 00:39:09,181
+there's no hurry.
+
+647
+00:39:34,975 --> 00:39:36,374
+Here.
+
+648
+00:39:50,424 --> 00:39:52,949
+Now you are Tosk
+as well, Oh Brien.
+
+649
+00:40:00,334 --> 00:40:01,801
+The Cardies made these conduits
+
+650
+00:40:01,835 --> 00:40:03,700
+from two-meter thick
+duranium composite.
+
+651
+00:40:03,737 --> 00:40:05,261
+l've never seen
+a scanning device
+
+652
+00:40:05,306 --> 00:40:06,466
+that could penetrate it.
+
+653
+00:40:06,507 --> 00:40:08,873
+Ah!
+
+654
+00:40:08,909 --> 00:40:10,342
+Till now.
+
+655
+00:40:35,135 --> 00:40:36,466
+Come on, Tosk.
+
+656
+00:40:36,503 --> 00:40:38,562
+Around this next corner
+and we're there.
+
+657
+00:40:39,306 --> 00:40:42,833
+No, he is mine.
+
+658
+00:40:46,480 --> 00:40:48,414
+No!
+
+659
+00:41:00,251 --> 00:41:01,843
+Go on.
+
+660
+00:41:17,602 --> 00:41:18,762
+What now?
+
+661
+00:41:20,772 --> 00:41:22,740
+The hunt...
+
+662
+00:41:22,774 --> 00:41:24,503
+goes on.
+
+663
+00:41:27,345 --> 00:41:29,006
+You wish to come?
+
+664
+00:41:29,047 --> 00:41:30,708
+Oh, no, no.
+
+665
+00:41:30,748 --> 00:41:32,238
+l don't think so.
+
+666
+00:41:32,283 --> 00:41:34,615
+One day as a Tosk
+is enough for me
+
+667
+00:41:34,652 --> 00:41:36,051
+and l've got a wife and kid
+
+668
+00:41:36,087 --> 00:41:38,612
+that wouldn't fit too well
+into this lifestyle.
+
+669
+00:41:39,924 --> 00:41:43,382
+Will your Federation
+punish you for helping me?
+
+670
+00:41:43,428 --> 00:41:46,761
+Maybe. But if l know
+my Commander...
+
+671
+00:41:46,798 --> 00:41:49,767
+Hell, those guys
+wanted a hunt.
+
+672
+00:41:49,801 --> 00:41:51,428
+l just gave them one.
+
+673
+00:41:54,772 --> 00:41:56,603
+Go on.
+
+674
+00:41:56,641 --> 00:41:59,109
+You better get out of here
+while you still can.
+
+675
+00:41:59,143 --> 00:42:00,872
+Oh Brien.
+
+676
+00:42:08,019 --> 00:42:12,979
+Die with honor...
+
+677
+00:42:13,024 --> 00:42:15,117
+Oh Brien.
+
+678
+00:42:21,265 --> 00:42:23,165
+Die with honor, Tosk.
+
+679
+00:42:48,392 --> 00:42:49,859
+Just what did happen
+
+680
+00:42:49,894 --> 00:42:52,260
+at that security
+checkpoint, Chief?
+
+681
+00:42:52,296 --> 00:42:54,355
+The weapons' sensors
+must have overloaded
+
+682
+00:42:54,398 --> 00:42:55,888
+on all his various gear, sir.
+
+683
+00:42:55,933 --> 00:42:56,900
+Must have?
+
+684
+00:42:56,934 --> 00:42:57,923
+Yes, sir.
+
+685
+00:42:59,971 --> 00:43:04,169
+''Must have,'' since
+l increased their output
+
+686
+00:43:04,208 --> 00:43:05,607
+by about 200%.
+
+687
+00:43:05,643 --> 00:43:07,611
+So in effect,
+you assaulted him--
+
+688
+00:43:07,645 --> 00:43:09,875
+our first contact
+with a new species.
+
+689
+00:43:09,947 --> 00:43:11,278
+Yes, sir.
+
+690
+00:43:11,315 --> 00:43:13,215
+We've got dozens
+of top-level officials
+
+691
+00:43:13,251 --> 00:43:14,513
+back at Starfleet Command
+
+692
+00:43:14,552 --> 00:43:16,110
+eagerly waiting to hear
+about our encounter
+
+693
+00:43:16,154 --> 00:43:18,384
+with the first new life-forms
+to come through the wormhole.
+
+694
+00:43:18,422 --> 00:43:20,287
+How do you suggest
+l write up this report?
+
+695
+00:43:20,324 --> 00:43:23,760
+Well, sir, l'm not
+one to say, but...
+
+696
+00:43:23,795 --> 00:43:25,888
+well, you know
+
+697
+00:43:25,930 --> 00:43:27,625
+these hunters
+weren't any happier
+
+698
+00:43:27,665 --> 00:43:29,758
+than we were at having
+to bring Tosk home.
+
+699
+00:43:29,801 --> 00:43:32,235
+lt seems to me,
+in the interests
+
+700
+00:43:32,270 --> 00:43:34,670
+of mutual understanding
+and future relations...
+
+701
+00:43:34,705 --> 00:43:35,899
+Save it.
+
+702
+00:43:36,007 --> 00:43:37,998
+You ignored your duty
+to Starfleet.
+
+703
+00:43:38,042 --> 00:43:40,738
+You took off your combadge,
+so you could ignore me.
+
+704
+00:43:40,778 --> 00:43:43,576
+You even ignored the Prime
+Directive by interfering
+
+705
+00:43:43,614 --> 00:43:44,911
+with their damned hunt.
+
+706
+00:43:44,949 --> 00:43:46,007
+Another stunt like this
+
+707
+00:43:46,050 --> 00:43:47,711
+and your wife won't have
+to complain
+
+708
+00:43:47,752 --> 00:43:49,310
+about the conditions
+here anymore.
+
+709
+00:43:49,353 --> 00:43:51,548
+Do l make myself clear?
+
+710
+00:43:51,589 --> 00:43:53,420
+l understand.
+
+711
+00:43:58,963 --> 00:44:01,431
+l was surprised
+by one thing, sir.
+
+712
+00:44:01,465 --> 00:44:02,693
+What's that?
+
+713
+00:44:02,733 --> 00:44:04,826
+Well, l knew l couldn't override
+
+714
+00:44:04,869 --> 00:44:07,497
+all the security seals
+in the station
+
+715
+00:44:07,538 --> 00:44:11,406
+and l figured once you
+and the Constable located us
+
+716
+00:44:11,442 --> 00:44:13,603
+well, it'd be over.
+
+717
+00:44:13,644 --> 00:44:15,236
+We'd find ourselves
+
+718
+00:44:15,279 --> 00:44:18,476
+locked behind
+some force field somewhere.
+
+719
+00:44:18,516 --> 00:44:21,644
+l guess that one got by us.
+
+720
+00:44:24,255 --> 00:44:26,382
+Yes, sir.
+
+721
+00:44:26,424 --> 00:44:28,289
+Thank you, sir.
+
+722
+00:44:28,326 --> 00:44:29,588
+Dismissed.
+

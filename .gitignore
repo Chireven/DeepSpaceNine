@@ -8,14 +8,13 @@
 *.TIF
 *.TIFF
 Season 01/Deep Space Nine - S01E04 - A Man Alone/Deep Space Nine - S01E04 - A Man Alone.VOB.idx2
-*.srt
 *.idx
 *.ifo
 *.d2v
 *.log
 vts_*
-*_Chapters.txt
 *_png
 *_tiff
 *_tif
 wrk
+*.srm

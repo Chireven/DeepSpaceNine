@@ -1,0 +1,58 @@
+Workflow ------------------------
+
+Obtain a VOB file for your episodes
+    * Open DVD Decryptor
+    * From the tools menu, choose Setting and IFO Mode.  Check Chapter Information - OGG and click ok.
+    * From the Mode menu, choose IFO (if not already selected)
+    * Chose the Program Chain for your epsiode and click the stream processing tab
+    * Enable Stream Processing and choose Direct Stream Copy
+    * Change the path to the project folder for this episode and click the extract button.  
+    * When finished, rename the file to <EpsiodeTitle>.VOB
+
+    Result              : <EpisodeTitle>.VOB
+    Approx Disk Space   : 2GB, 4GB for Double Episodes
+
+
+Create a D2V project file
+    * Open DGIndex
+    * Open the file file (file > open > select file > [ok])
+    * Verify Honory Pulldown Flags is selected ( Video > Field Operation > Honor Pulldown Flags)
+    * Save Project as <EpisodeTitle>.D2V
+
+    Result              : EpisodeTitle.D2V
+    Approx Disk Space   : ~1MB
+
+Encode AVS file To MKV using the 32bit version of FFMPEG
+    * ffmpeg.exe  -i <EpisodeTitle>.avs -c copy <EpisodeTitle>.mkv
+
+    Result              : EpisodeTitle.MKV
+    Approx Disk Space   : ~33GB, ~60GB for Double Episodes
+
+Upscale the video using your method of choice
+    Topas Video Enhance AI
+        A.I Models          : Gaia-CG:P,CG,HQ
+        Preset              : 4KUHD(3840x2160)
+        Crop to Fill Frame  : Disabled
+        Format              : PNG's (8bit lossless)
+
+        Result              : Folder with upscaled Frames
+        Approx Disk Space   : 350GB, 700GB for Double Episodes
+
+Combine the PNGs to a Video with FFMPEG
+    Powershell
+        Make-Episode.ps1 <Folder with upscaled Frames>
+    
+    Result                  : Upscaled Video 
+    Approx Disk Space       : ~1GB, 2GB for Double Episodes
+
+Combine your Audio/Video and enjoy.
+    MKVToolnix
+        * Drag VOB to new project
+        * Drag Upscaled Video
+        * In the lower portion of the window, uncheck MPEG-1/2
+        * Enter a destination file in the box at the bottom
+        * Click Start Multiplexing
+
+    Result                  : Upscaled Video with Audio Tracks from the DVD
+    Approx Disk Space       : ~1GB, 2.5GB for Double Episodes
+

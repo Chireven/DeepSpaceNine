@@ -1,0 +1,3572 @@
+﻿1
+00:00:11,536 --> 00:00:13,504
+Look, save your energy.
+
+2
+00:00:13,538 --> 00:00:17,167
+We'll have you out of there
+as soon as possible.
+
+3
+00:00:17,209 --> 00:00:19,200
+l hope.
+
+4
+00:00:21,546 --> 00:00:24,379
+Try rerouting
+the power coupling.
+
+5
+00:00:28,220 --> 00:00:29,778
+Mr. O'Brien.
+
+6
+00:00:29,821 --> 00:00:32,289
+See if you can activate
+the interlock servos.
+
+7
+00:00:32,324 --> 00:00:33,951
+Mr. O'Brien.
+
+8
+00:00:33,992 --> 00:00:37,723
+Captain Jaheel, those people
+have been stuck in that air lock
+
+9
+00:00:37,763 --> 00:00:38,889
+for over an hour.
+
+10
+00:00:38,930 --> 00:00:41,091
+Now, if you can wait
+till we get that door opened
+
+11
+00:00:41,133 --> 00:00:43,567
+l'll be happy to listen
+to any problems you might have.
+
+12
+00:00:43,602 --> 00:00:45,194
+But l've already
+been waiting two days
+
+13
+00:00:45,304 --> 00:00:46,464
+for your people to readjust
+
+14
+00:00:46,505 --> 00:00:48,063
+my ship's antimatter
+flow converter.
+
+15
+00:00:48,106 --> 00:00:49,801
+l'm afraid we've
+gotten a little behind
+
+16
+00:00:49,841 --> 00:00:51,103
+in our maintenance schedule.
+
+17
+00:00:51,143 --> 00:00:52,804
+l'm not interested
+in hearing excuses.
+
+18
+00:00:52,844 --> 00:00:54,641
+l have a shipment
+of Tamen Sahsheer
+
+19
+00:00:54,680 --> 00:00:56,477
+waiting to be
+delivered to Largo V
+
+20
+00:00:56,515 --> 00:00:58,676
+and l'll need to do
+better than warp 1
+
+21
+00:00:58,717 --> 00:01:00,309
+to get there
+before it spoils.
+
+22
+00:01:00,352 --> 00:01:02,946
+l'll try to get a repair crew
+to you by the end of the day.
+
+23
+00:01:02,988 --> 00:01:05,752
+Now, that's
+the best l can do.
+
+24
+00:01:05,791 --> 00:01:08,555
+Your best, Mr. O'Brien,
+hardly seems good enough.
+
+25
+00:01:11,463 --> 00:01:13,158
+Dax to O'Brien.
+
+26
+00:01:13,231 --> 00:01:14,698
+O'Brien here.
+
+27
+00:01:14,733 --> 00:01:16,792
+Can you spare a minute, Chief?
+
+28
+00:01:16,835 --> 00:01:19,736
+l have a little problem
+here at the lab.
+
+29
+00:01:19,771 --> 00:01:21,864
+On my way.
+
+30
+00:01:27,679 --> 00:01:29,704
+Thanks for coming, Chief.
+
+31
+00:01:29,748 --> 00:01:31,841
+What are you doing out here?
+
+32
+00:01:38,190 --> 00:01:40,715
+Have you checked
+the EPS converter?
+
+33
+00:01:40,759 --> 00:01:42,192
+Yes-- first thing.
+
+34
+00:01:42,260 --> 00:01:43,887
+How about the intensity grid?
+
+35
+00:01:43,929 --> 00:01:45,021
+lt's fine.
+
+36
+00:01:45,063 --> 00:01:47,759
+Then it's probably the secondary
+phase modulator.
+
+37
+00:01:47,799 --> 00:01:49,664
+We had trouble
+with them last week
+
+38
+00:01:49,701 --> 00:01:51,066
+in the main power core.
+
+39
+00:01:53,038 --> 00:01:54,562
+That should do it.
+
+40
+00:01:59,845 --> 00:02:02,109
+Anything else
+l can do for you?
+
+41
+00:02:04,182 --> 00:02:05,706
+The navigational computer
+
+42
+00:02:05,751 --> 00:02:08,049
+hasn't worked reliably
+for three days.
+
+43
+00:02:08,086 --> 00:02:11,112
+l ask for the star charts
+for the Argosian sector
+
+44
+00:02:11,156 --> 00:02:13,147
+Glessene sector
+comes up instead.
+
+45
+00:02:13,191 --> 00:02:16,160
+That's when l can coax
+this system on line.
+
+46
+00:02:16,194 --> 00:02:17,559
+Uh-huh.
+
+47
+00:02:17,596 --> 00:02:19,621
+Try it now.
+
+48
+00:02:21,032 --> 00:02:24,695
+Ah! That's more like it.
+
+49
+00:02:33,445 --> 00:02:35,743
+You look like you
+could use some sleep.
+
+50
+00:02:35,781 --> 00:02:37,180
+Who has time for sleep?
+
+51
+00:02:37,215 --> 00:02:41,743
+l'd settle for five minutes
+peace and quiet.
+
+52
+00:02:43,989 --> 00:02:46,184
+Chief, l thought you were going
+
+53
+00:02:46,224 --> 00:02:48,624
+to fix the replicators.
+
+54
+00:02:48,660 --> 00:02:50,890
+You're absolutely right, sir.
+
+55
+00:02:50,929 --> 00:02:52,863
+l knew l'd
+forgotten something.
+
+56
+00:02:52,898 --> 00:02:54,729
+Can't have the
+Operations Chief
+
+57
+00:02:54,766 --> 00:02:56,063
+sitting around daydreaming
+
+58
+00:02:56,101 --> 00:02:58,763
+when there's work
+to be done, can we?
+
+59
+00:02:58,804 --> 00:03:01,534
+Ho, ho, ho, ho.
+l'll get right on it.
+
+60
+00:03:01,573 --> 00:03:04,667
+''Fix the replicators, Chief.''
+
+61
+00:03:04,709 --> 00:03:06,939
+''My console's off-line, Chief.''
+
+62
+00:03:07,979 --> 00:03:10,846
+l should have transferred
+to a cargo drone--
+
+63
+00:03:10,882 --> 00:03:13,180
+no people, no complaints.
+
+64
+00:03:53,391 --> 00:03:56,121
+Hot coffee--
+black, double sweet.
+
+65
+00:06:26,470 --> 00:06:28,267
+Tell me, Quark.
+
+66
+00:06:28,305 --> 00:06:32,765
+Am l mistaken, or is business
+a little slow today?
+
+67
+00:06:32,810 --> 00:06:35,108
+Slow? lt's been
+almost nonexistent
+
+68
+00:06:35,179 --> 00:06:37,909
+for the past three days.
+
+69
+00:06:37,948 --> 00:06:39,108
+Mmm. Who knows?
+
+70
+00:06:39,216 --> 00:06:40,774
+lf things don't improve
+
+71
+00:06:40,818 --> 00:06:42,911
+you may be forced
+to close down.
+
+72
+00:06:42,953 --> 00:06:45,012
+Oh, you'd like that,
+wouldn't you?
+
+73
+00:06:45,055 --> 00:06:48,354
+Well, let's just say,
+without you around
+
+74
+00:06:48,392 --> 00:06:50,860
+my job would be
+considerably easier.
+
+75
+00:06:50,894 --> 00:06:53,362
+Without me around,
+you'd be forced
+
+76
+00:06:53,397 --> 00:06:56,628
+to find some other poor
+innocent to persecute.
+
+77
+00:06:56,667 --> 00:06:59,135
+Think about that
+while you sit here
+
+78
+00:06:59,169 --> 00:07:00,966
+gloating at my misfortune.
+
+79
+00:07:01,005 --> 00:07:02,336
+Quark!
+
+80
+00:07:02,373 --> 00:07:04,739
+You call this Kohlanese stew?
+
+81
+00:07:09,747 --> 00:07:12,341
+lf your meal
+isn't satisfactory
+
+82
+00:07:12,383 --> 00:07:15,079
+l'm sure we could,
+uh, exchange it
+
+83
+00:07:15,119 --> 00:07:17,485
+for something
+more to your liking.
+
+84
+00:07:17,521 --> 00:07:20,081
+Aren't you the
+least bit curious
+
+85
+00:07:20,157 --> 00:07:22,216
+as to how it tastes?
+
+86
+00:07:24,795 --> 00:07:27,457
+Ugh! Ugh!
+
+87
+00:07:27,498 --> 00:07:29,022
+Now...
+
+88
+00:07:29,066 --> 00:07:30,533
+you served it.
+
+89
+00:07:30,567 --> 00:07:32,057
+You're going to eat it.
+
+90
+00:07:32,102 --> 00:07:33,763
+All right, that's enough.
+
+91
+00:07:33,804 --> 00:07:35,396
+l said, eat it!
+
+92
+00:07:38,142 --> 00:07:40,542
+l said...
+
+93
+00:07:40,577 --> 00:07:42,204
+that's enough.
+
+94
+00:07:42,246 --> 00:07:43,907
+Leave him alone.
+
+95
+00:07:47,317 --> 00:07:52,755
+Well,
+another satisfied customer.
+
+96
+00:07:52,790 --> 00:07:54,724
+lt's these replicators.
+
+97
+00:07:54,758 --> 00:07:58,626
+lf l don't get them fixed soon,
+they'll destroy my business.
+
+98
+00:07:58,662 --> 00:08:01,096
+Why not get O'Brien
+to fix them?
+
+99
+00:08:01,131 --> 00:08:04,225
+He has the replicators on the
+command level working perfectly.
+
+100
+00:08:04,268 --> 00:08:06,668
+l'm on his waiting list.
+
+101
+00:08:06,704 --> 00:08:10,071
+He assures me he'll get to them
+as soon as he can.
+
+102
+00:08:10,107 --> 00:08:11,506
+Mmm...
+
+103
+00:08:11,542 --> 00:08:14,067
+No telling when that will be.
+
+104
+00:08:14,144 --> 00:08:16,612
+The Chief's a very busy man.
+
+105
+00:08:20,984 --> 00:08:23,646
+Computer...
+
+106
+00:08:23,687 --> 00:08:26,087
+display a station layout.
+
+107
+00:08:26,156 --> 00:08:30,456
+Highlight locations
+of all repaired replicators
+
+108
+00:08:30,494 --> 00:08:32,359
+on command level.
+
+109
+00:08:32,396 --> 00:08:34,227
+lnformation restricted
+
+110
+00:08:34,264 --> 00:08:36,755
+to security clearance 5
+and above.
+
+111
+00:08:36,800 --> 00:08:38,461
+Please enter
+security verification.
+
+112
+00:08:54,151 --> 00:08:56,483
+Clearance verified.
+
+113
+00:09:07,231 --> 00:09:08,755
+There you go, sir.
+
+114
+00:09:08,799 --> 00:09:11,927
+l think you'll find that
+more to your liking.
+
+115
+00:09:11,969 --> 00:09:14,369
+Very much appreciated,
+Mr. O'Brien.
+
+116
+00:09:14,404 --> 00:09:16,338
+Don't mention it, sir.
+
+117
+00:09:16,373 --> 00:09:18,705
+Unfortunately, there
+are plenty of replicators
+
+118
+00:09:18,742 --> 00:09:20,505
+around the station
+that still need looking after.
+
+119
+00:09:20,544 --> 00:09:23,479
+You all right, Chief?
+
+120
+00:09:23,514 --> 00:09:25,175
+l'm just a bit hot.
+
+121
+00:09:25,215 --> 00:09:27,046
+The environmental controls
+
+122
+00:09:27,084 --> 00:09:28,176
+must be acting up again.
+
+123
+00:09:28,218 --> 00:09:29,708
+Send my regards
+to Mrs. O'Brien.
+
+124
+00:09:29,753 --> 00:09:31,584
+Jake tells me
+she's a wonderful teacher.
+
+125
+00:09:31,622 --> 00:09:32,953
+Oh, that's nice to hear, sir.
+
+126
+00:09:32,990 --> 00:09:34,924
+She's flower units
+about the lad herself.
+
+127
+00:09:34,958 --> 00:09:36,357
+Excuse me?
+
+128
+00:09:36,393 --> 00:09:37,758
+Sir?
+
+129
+00:09:37,795 --> 00:09:39,820
+What was that
+you just said?
+
+130
+00:09:39,863 --> 00:09:44,391
+She's... quite fond
+of the lad herself.
+
+131
+00:09:44,434 --> 00:09:45,867
+Oh.
+
+132
+00:09:45,903 --> 00:09:47,393
+l'm glad to hear it.
+
+133
+00:09:47,437 --> 00:09:49,428
+Very good, sir.
+
+134
+00:09:57,047 --> 00:09:58,810
+Ladies.
+
+135
+00:09:58,849 --> 00:10:01,113
+Hello, Lieutenant.
+
+136
+00:10:01,185 --> 00:10:03,915
+Oh, l forgot
+how different it was.
+
+137
+00:10:03,954 --> 00:10:05,854
+How different what was?
+
+138
+00:10:05,889 --> 00:10:07,413
+Being female.
+
+139
+00:10:07,457 --> 00:10:10,051
+l haven't been one
+for over 80 years.
+
+140
+00:10:10,093 --> 00:10:12,118
+All this attention.
+
+141
+00:10:12,196 --> 00:10:14,357
+lmagine it must take
+some getting used to.
+
+142
+00:10:14,398 --> 00:10:16,127
+Actually,
+l find it quite enjoyable.
+
+143
+00:10:16,200 --> 00:10:17,531
+Major Kira.
+
+144
+00:10:17,568 --> 00:10:19,001
+Lieutenant Dax.
+
+145
+00:10:19,036 --> 00:10:22,130
+l'd be honored to have you
+join my little party--
+
+146
+00:10:22,239 --> 00:10:23,900
+as my guests, of course.
+
+147
+00:10:23,941 --> 00:10:25,602
+What's all this, Quark?
+
+148
+00:10:25,642 --> 00:10:28,236
+You cheat your
+1,000th customer?
+
+149
+00:10:28,278 --> 00:10:31,076
+Who says Bajorans
+don't have a sense of humor?
+
+150
+00:10:31,114 --> 00:10:33,947
+Actually, uh, we're
+celebrating the repair
+
+151
+00:10:33,984 --> 00:10:36,452
+of the bar's
+replicator system.
+
+152
+00:10:36,486 --> 00:10:39,785
+Perhaps l could interest you
+
+153
+00:10:39,823 --> 00:10:43,725
+in a nice, double-whipped,
+l'danian spice pudding.
+
+154
+00:10:43,760 --> 00:10:45,694
+Oh, what do you think?
+
+155
+00:10:45,729 --> 00:10:47,822
+l think l'm due back at Ops
+
+156
+00:10:47,865 --> 00:10:49,332
+but, uh, go on.
+
+157
+00:10:49,366 --> 00:10:50,833
+Enjoy yourself.
+
+158
+00:11:01,979 --> 00:11:03,913
+Chief?
+
+159
+00:11:03,947 --> 00:11:06,142
+How can l help you, Major?
+
+160
+00:11:07,885 --> 00:11:11,343
+Looks like you're the one
+who could use a little help.
+
+161
+00:11:11,388 --> 00:11:13,913
+Oh, no, l'm fine, really.
+
+162
+00:11:17,427 --> 00:11:19,759
+l suppose this isn't
+a good time to tell you
+
+163
+00:11:19,796 --> 00:11:22,560
+that number three turbolift
+has broken down again.
+
+164
+00:11:25,836 --> 00:11:28,896
+Joking, Chief.
+
+165
+00:11:28,939 --> 00:11:32,670
+Major, lark's true pepper.
+
+166
+00:11:32,709 --> 00:11:34,040
+What?
+
+167
+00:11:36,013 --> 00:11:39,039
+Let birds go
+further loose maybe.
+
+168
+00:11:40,550 --> 00:11:42,814
+Shout easy play.
+
+169
+00:11:42,853 --> 00:11:44,878
+Chief, you're not
+making any sense.
+
+170
+00:11:44,922 --> 00:11:47,083
+Round the turbulent quick.
+
+171
+00:11:50,794 --> 00:11:53,524
+Well, close
+the reverse harbor.
+
+172
+00:11:56,633 --> 00:12:00,660
+A-Ankle try sound.
+
+173
+00:12:00,704 --> 00:12:02,797
+Reset gleaming.
+
+174
+00:12:05,108 --> 00:12:07,542
+Dinner to bug.
+
+175
+00:12:09,413 --> 00:12:11,404
+Chief, wait.
+
+176
+00:12:11,448 --> 00:12:13,075
+When?
+
+177
+00:12:13,116 --> 00:12:14,447
+Chief.
+
+178
+00:12:26,830 --> 00:12:30,630
+Computer,
+continue neural imaging scan
+
+179
+00:12:30,667 --> 00:12:32,999
+and stimulate visual cortex.
+
+180
+00:12:33,036 --> 00:12:35,561
+All visual responses normal.
+
+181
+00:12:39,309 --> 00:12:42,335
+Begin auditory stimuli.
+
+182
+00:12:42,379 --> 00:12:44,904
+No physiological damage.
+
+183
+00:12:44,948 --> 00:12:48,475
+All brain functions
+within normal parameters.
+
+184
+00:12:48,518 --> 00:12:49,485
+Nurse.
+
+185
+00:12:49,519 --> 00:12:50,816
+Yes?
+
+186
+00:12:50,854 --> 00:12:52,412
+Will you pull up Mr. O'Brien's
+
+187
+00:12:52,456 --> 00:12:54,321
+neurophysiological
+history, please?
+
+188
+00:12:54,358 --> 00:12:55,347
+Yes, Doctor.
+
+189
+00:13:03,340 --> 00:13:04,307
+What is that?
+
+190
+00:13:04,341 --> 00:13:05,740
+What's he written?
+
+191
+00:13:05,776 --> 00:13:06,868
+l wish l knew.
+
+192
+00:13:06,910 --> 00:13:09,003
+Strike limits
+
+193
+00:13:09,046 --> 00:13:11,037
+flame the dark true salt.
+
+194
+00:13:11,081 --> 00:13:13,049
+Please, Chief, take a seat.
+
+195
+00:13:13,083 --> 00:13:14,550
+Way link complete.
+
+196
+00:13:14,584 --> 00:13:16,245
+Way link!
+
+197
+00:13:17,921 --> 00:13:20,549
+What's wrong with him?
+
+198
+00:13:20,590 --> 00:13:23,058
+He appears to suffering
+from a form of aphasia.
+
+199
+00:13:23,160 --> 00:13:25,060
+lt's a perceptual
+dysfunction
+
+200
+00:13:25,095 --> 00:13:26,494
+in which aural
+and visual stimuli
+
+201
+00:13:26,530 --> 00:13:28,191
+are incorrectly processed
+by the brain.
+
+202
+00:13:28,231 --> 00:13:30,290
+His actual thinking
+hasn't been affected
+
+203
+00:13:30,334 --> 00:13:32,700
+but he's incapable
+of expressing himself
+
+204
+00:13:32,736 --> 00:13:34,727
+or understanding others.
+
+205
+00:13:34,771 --> 00:13:38,730
+Victory strike
+limits frosted wake.
+
+206
+00:13:38,775 --> 00:13:43,075
+Simple hesitation.
+
+207
+00:13:43,146 --> 00:13:45,410
+l'm not sure l follow you,
+Doctor.
+
+208
+00:13:45,449 --> 00:13:46,541
+You say Mr. O'Brien is aphasiac
+
+209
+00:13:46,583 --> 00:13:48,175
+but all of his tests
+have come up negative.
+
+210
+00:13:49,219 --> 00:13:50,550
+lsn't aphasia
+
+211
+00:13:50,587 --> 00:13:51,645
+typically associated
+
+212
+00:13:51,688 --> 00:13:53,485
+with some kind
+of cranial trauma?
+
+213
+00:13:53,523 --> 00:13:55,718
+Yes. lt can occur
+as a result of a stroke
+
+214
+00:13:55,759 --> 00:13:56,919
+or a blow to the head
+
+215
+00:13:56,960 --> 00:13:58,951
+but there's no evidence
+of that here.
+
+216
+00:13:58,995 --> 00:14:00,257
+Did you check
+the medical library
+
+217
+00:14:00,297 --> 00:14:01,264
+for any precedents?
+
+218
+00:14:01,298 --> 00:14:04,461
+And rechecked--
+nothing, so far.
+
+219
+00:14:04,501 --> 00:14:05,934
+You have any theories?
+
+220
+00:14:05,969 --> 00:14:07,436
+Not yet.
+
+221
+00:14:07,471 --> 00:14:09,234
+Find one.
+
+222
+00:14:09,272 --> 00:14:11,706
+Major Kira, get ahold of
+the Chief's personal duty log.
+
+223
+00:14:11,742 --> 00:14:13,039
+l want to know where he's been
+
+224
+00:14:13,110 --> 00:14:14,975
+and what he's done
+for the past 52 hours.
+
+225
+00:14:15,011 --> 00:14:16,638
+l've already examined it,
+Commander.
+
+226
+00:14:16,680 --> 00:14:18,170
+He's been
+all over this station.
+
+227
+00:14:18,215 --> 00:14:21,548
+Retrace his steps
+and see what you come up with.
+
+228
+00:14:21,585 --> 00:14:25,544
+Dax, you will temporarily assume
+Mr. O'Brien's duties.
+
+229
+00:14:25,589 --> 00:14:27,216
+Yes, uh... um...
+
+230
+00:14:27,257 --> 00:14:29,885
+ls there a problem, Lieutenant?
+
+231
+00:14:29,926 --> 00:14:32,554
+Lieutenant?
+
+232
+00:14:32,596 --> 00:14:35,565
+l'm sorry, Benjamin.
+
+233
+00:14:35,599 --> 00:14:38,898
+l'm unable to...
+
+234
+00:14:38,935 --> 00:14:42,564
+foolish assembled regal...
+
+235
+00:14:42,606 --> 00:14:44,597
+control weather.
+
+236
+00:14:55,085 --> 00:14:57,417
+Spontaneous development
+of aphasia
+
+237
+00:14:57,454 --> 00:14:59,081
+is virtually impossible.
+
+238
+00:14:59,122 --> 00:15:02,888
+Yet we saw Lieutenant Dax
+become aphasiac before our eyes.
+
+239
+00:15:02,926 --> 00:15:05,486
+This told me we were
+dealing with a disease
+
+240
+00:15:05,529 --> 00:15:08,020
+which only mimics aphasia,
+so l ran a full
+
+241
+00:15:08,131 --> 00:15:10,565
+neural synaptic comparison
+between Dax and O'Brien
+
+242
+00:15:10,600 --> 00:15:13,364
+and l found this in the
+temporal lobes of both patients.
+
+243
+00:15:13,403 --> 00:15:14,529
+A virus.
+
+244
+00:15:14,571 --> 00:15:15,868
+lt imposes itself
+
+245
+00:15:15,906 --> 00:15:18,033
+within the established
+synaptic pathways
+
+246
+00:15:18,074 --> 00:15:19,769
+and then randomly
+reroutes them.
+
+247
+00:15:19,810 --> 00:15:22,540
+For example, when l look at this
+
+248
+00:15:22,579 --> 00:15:24,877
+a process occurs within my brain
+
+249
+00:15:24,915 --> 00:15:27,713
+which connects the stimulus
+to the word ''tricorder.''
+
+250
+00:15:27,751 --> 00:15:29,719
+This virus
+disrupts that process.
+
+251
+00:15:29,753 --> 00:15:31,721
+l'd see a tricorder
+
+252
+00:15:31,755 --> 00:15:35,020
+but l'd say something
+ridiculous, like ''window.''
+
+253
+00:15:35,058 --> 00:15:36,218
+Exactly.
+
+254
+00:15:36,259 --> 00:15:38,625
+Doctor, l think
+you should get over here.
+
+255
+00:15:38,662 --> 00:15:40,220
+Night the flow trade again.
+
+256
+00:15:40,263 --> 00:15:41,355
+You lost pile luck.
+
+257
+00:15:41,398 --> 00:15:43,025
+Away tunnel back the garden.
+
+258
+00:15:43,066 --> 00:15:44,431
+Doctor, l want this station
+
+259
+00:15:44,468 --> 00:15:46,766
+put under emergency
+quarantine immediately.
+
+260
+00:15:46,803 --> 00:15:48,532
+Yes, sir.
+
+261
+00:15:54,411 --> 00:15:55,571
+Dabo!
+
+262
+00:16:03,053 --> 00:16:07,615
+Quark,
+what is going on here?
+
+263
+00:16:07,657 --> 00:16:09,625
+What does it look like?
+
+264
+00:16:09,659 --> 00:16:11,957
+lt looks like
+business as usual
+
+265
+00:16:11,995 --> 00:16:13,292
+but that's impossible
+
+266
+00:16:13,330 --> 00:16:15,298
+because all shops
+and businesses
+
+267
+00:16:15,332 --> 00:16:17,630
+have been closed
+until further notice.
+
+268
+00:16:17,667 --> 00:16:20,795
+Except, of course, for
+essential station operations.
+
+269
+00:16:20,837 --> 00:16:22,600
+For which this place
+hardly qualifies.
+
+270
+00:16:22,639 --> 00:16:24,129
+l don't think they'd agree.
+
+271
+00:16:24,174 --> 00:16:27,041
+This quarantine has everybody
+on edge, Constable.
+
+272
+00:16:27,077 --> 00:16:30,410
+Would you deprive them
+of a little harmless diversion?
+
+273
+00:16:33,049 --> 00:16:37,713
+They'd be safer
+in their quarters.
+
+274
+00:16:37,754 --> 00:16:41,884
+Quark, this Kohlian stew--
+magnificent.
+
+275
+00:16:41,925 --> 00:16:46,589
+Fortunately, my assistant, Rom,
+was able to fix the replicators.
+
+276
+00:16:47,864 --> 00:16:52,665
+Yes, very fortunate.
+
+277
+00:17:09,085 --> 00:17:10,552
+Jake...
+
+278
+00:17:10,587 --> 00:17:13,215
+l expected you
+home an hour ago.
+
+279
+00:17:13,256 --> 00:17:14,985
+Sorry. l was at Nog's.
+
+280
+00:17:15,025 --> 00:17:16,890
+Dad, about this quarantine--
+
+281
+00:17:16,927 --> 00:17:19,225
+it's going
+to be okay, isn't it?
+
+282
+00:17:19,262 --> 00:17:21,025
+lt's just a precaution,
+nothing more.
+
+283
+00:17:21,097 --> 00:17:23,395
+l wish l shared your
+confidence, Commander.
+
+284
+00:17:23,433 --> 00:17:25,025
+Go straight home, son.
+
+285
+00:17:25,101 --> 00:17:27,035
+l'll see you at dinner.
+
+286
+00:17:27,103 --> 00:17:29,003
+Captain Jaheel, all visitors
+
+287
+00:17:29,039 --> 00:17:31,030
+have been confined
+to their ships.
+
+288
+00:17:31,107 --> 00:17:33,041
+Believe me, there is
+no place l'd rather be.
+
+289
+00:17:33,109 --> 00:17:34,770
+Then what
+are you doing here?
+
+290
+00:17:34,811 --> 00:17:36,938
+Commander, l officially
+request permission
+
+291
+00:17:36,980 --> 00:17:38,140
+to leave this station.
+
+292
+00:17:38,181 --> 00:17:39,148
+Request denied.
+
+293
+00:17:39,182 --> 00:17:40,308
+But none of my crew
+
+294
+00:17:40,350 --> 00:17:42,284
+has been affected
+by this virus of yours.
+
+295
+00:17:42,319 --> 00:17:44,219
+And, unless l depart at once
+
+296
+00:17:44,254 --> 00:17:46,313
+my whole cargo will be ruined.
+
+297
+00:17:46,356 --> 00:17:51,055
+Captain, l suggest
+you return to your ship now.
+
+298
+00:17:51,127 --> 00:17:56,326
+Please. l don't want
+to get sick.
+
+299
+00:17:56,366 --> 00:18:00,826
+l'm sorry, but until we can
+find a cure for this... thing
+
+300
+00:18:00,870 --> 00:18:02,770
+no one's going anywhere.
+
+301
+00:18:25,128 --> 00:18:32,193
+Computer, let's start with
+one Ferengi starduster, please.
+
+302
+00:18:32,235 --> 00:18:33,896
+Extra strong.
+
+303
+00:18:41,745 --> 00:18:43,042
+Perfect.
+
+304
+00:18:47,751 --> 00:18:49,048
+Uh...
+
+305
+00:18:49,085 --> 00:18:51,713
+l thought the front wheels
+were sticking a bit.
+
+306
+00:18:51,755 --> 00:18:53,347
+Unauthorized access
+
+307
+00:18:53,390 --> 00:18:55,915
+to crew quarters
+is a crime, Quark.
+
+308
+00:18:55,959 --> 00:18:59,360
+You could have just asked
+to use the replicators.
+
+309
+00:18:59,396 --> 00:19:03,958
+There's an old Ferengi saying--
+''Never ask when you can take.''
+
+310
+00:19:04,000 --> 00:19:06,730
+Uh, how did you figure it out?
+
+311
+00:19:06,770 --> 00:19:09,933
+You claimed Rom
+fixed your replicators.
+
+312
+00:19:09,973 --> 00:19:11,838
+-So?
+-Rom's an idiot.
+
+313
+00:19:11,875 --> 00:19:14,503
+He couldn't fix a straw
+if it was bent.
+
+314
+00:19:14,544 --> 00:19:16,535
+You're right.
+
+315
+00:19:16,579 --> 00:19:17,773
+Rom is an idiot.
+
+316
+00:19:17,814 --> 00:19:21,272
+Remind me to get rid
+of him tomorrow.
+
+317
+00:19:23,620 --> 00:19:26,316
+Based on the levels of the virus
+found in the patients' blood
+
+318
+00:19:26,356 --> 00:19:28,483
+l believe it's being
+absorbed through ingestion.
+
+319
+00:19:28,525 --> 00:19:29,890
+You're saying
+it's in our food?
+
+320
+00:19:29,926 --> 00:19:31,018
+Well, that's not possible.
+
+321
+00:19:31,094 --> 00:19:33,255
+All the food on this station
+is replicated
+
+322
+00:19:33,296 --> 00:19:35,355
+and all the replicators
+use biofilters.
+
+323
+00:19:35,398 --> 00:19:37,593
+They automatically
+screen out contaminants
+
+324
+00:19:37,634 --> 00:19:38,931
+including viruses.
+
+325
+00:19:38,968 --> 00:19:40,902
+Major, l've analyzed
+samples from replicators
+
+326
+00:19:40,937 --> 00:19:42,234
+all over the station.
+
+327
+00:19:42,272 --> 00:19:44,570
+Food on the command level
+is contaminated.
+
+328
+00:19:44,607 --> 00:19:46,905
+But all of us here have
+eaten from those replicators.
+
+329
+00:19:46,943 --> 00:19:48,570
+How come we're not aphasic?
+
+330
+00:19:48,611 --> 00:19:50,238
+This virus
+is highly adaptable.
+
+331
+00:19:50,280 --> 00:19:51,577
+lts incubation period
+
+332
+00:19:51,614 --> 00:19:53,673
+seems to vary
+within each individual.
+
+333
+00:19:53,717 --> 00:19:55,582
+According to O'Brien's duty log
+
+334
+00:19:55,618 --> 00:19:58,178
+the last thing he did
+before becoming aphasic
+
+335
+00:19:58,221 --> 00:20:00,378
+was fix
+the command level replicators.
+
+336
+00:20:00,511 --> 00:20:03,708
+Get a repair crew over there
+to inspect the site.
+
+337
+00:20:03,748 --> 00:20:05,375
+Let's shut down
+those replicators.
+
+338
+00:20:05,416 --> 00:20:07,543
+Maybe we'll be able
+to limit further contamination.
+
+339
+00:20:07,585 --> 00:20:09,212
+l'm afraid that's
+not going to do it, sir.
+
+340
+00:20:09,253 --> 00:20:11,221
+l've been getting
+aphasic patients
+
+341
+00:20:11,255 --> 00:20:12,882
+from all over the station.
+
+342
+00:20:12,924 --> 00:20:14,221
+How is that possible?
+
+343
+00:20:14,258 --> 00:20:15,589
+You can thank Quark.
+
+344
+00:20:15,626 --> 00:20:17,150
+l caught him
+using a replicator
+
+345
+00:20:17,195 --> 00:20:18,958
+in one of the vacant
+crew quarters.
+
+346
+00:20:18,996 --> 00:20:21,396
+He was producing
+his entire menu out of there.
+
+347
+00:20:23,768 --> 00:20:26,032
+lf this virus is present
+
+348
+00:20:26,103 --> 00:20:29,903
+within a large enough segment
+of the population
+
+349
+00:20:29,941 --> 00:20:32,136
+it could mean...
+
+350
+00:20:32,176 --> 00:20:34,235
+What is it,
+Doctor?
+
+351
+00:20:34,278 --> 00:20:38,840
+l just took an air sample.
+
+352
+00:20:38,883 --> 00:20:40,976
+The virus...
+
+353
+00:20:41,018 --> 00:20:42,918
+lt's mutated
+into an airborne variety.
+
+354
+00:20:42,954 --> 00:20:44,512
+Which means...?
+
+355
+00:20:44,555 --> 00:20:48,651
+Which means the whole station
+is infected.
+
+356
+00:20:57,268 --> 00:21:00,795
+Station Log, Stardate 46423.7.
+
+357
+00:21:00,838 --> 00:21:03,272
+Nearly 60% of DS9's population
+
+358
+00:21:03,307 --> 00:21:05,275
+has now contracted
+the aphasia virus.
+
+359
+00:21:05,309 --> 00:21:07,675
+We've initiated standard
+quarantine procedures
+
+360
+00:21:07,712 --> 00:21:09,509
+and are advising
+all incoming ships
+
+361
+00:21:09,547 --> 00:21:12,539
+to maintain their distance
+from the station
+
+362
+00:21:12,583 --> 00:21:14,107
+until further notice.
+
+363
+00:21:33,304 --> 00:21:36,432
+l found it in the replicator's
+pattern generator.
+
+364
+00:21:36,474 --> 00:21:39,204
+O'Brien must have accidentally
+triggered it
+
+365
+00:21:39,243 --> 00:21:41,143
+when he repaired the system.
+
+366
+00:21:41,178 --> 00:21:42,975
+According to Bashir,
+it introduced
+
+367
+00:21:43,014 --> 00:21:44,743
+an anomalous programming
+sequence
+
+368
+00:21:44,782 --> 00:21:46,682
+into the materialization
+subroutine.
+
+369
+00:21:46,717 --> 00:21:48,241
+ln effect, it built the virus
+
+370
+00:21:48,286 --> 00:21:50,015
+directly into
+the replicated food
+
+371
+00:21:50,054 --> 00:21:51,214
+at a molecular level.
+
+372
+00:21:51,255 --> 00:21:54,019
+So what we have here
+is sabotage.
+
+373
+00:21:54,058 --> 00:21:55,150
+Cardassian sabotage.
+
+374
+00:21:55,192 --> 00:21:56,159
+How can you be sure?
+
+375
+00:21:56,193 --> 00:21:58,718
+Has a diboridium core
+for a power source.
+
+376
+00:21:58,763 --> 00:22:00,628
+That is Cardassian
+technology.
+
+377
+00:22:00,665 --> 00:22:02,690
+Bashir to Sisko.
+
+378
+00:22:02,733 --> 00:22:04,360
+Sisko here.
+
+379
+00:22:04,402 --> 00:22:07,269
+Commander, l think you'd better
+get down here to the infirmary
+
+380
+00:22:07,305 --> 00:22:08,772
+as soon as possible.
+
+381
+00:22:08,806 --> 00:22:10,137
+On my way.
+
+382
+00:22:15,279 --> 00:22:17,747
+You wanted to see me, Doctor?
+
+383
+00:22:19,417 --> 00:22:21,146
+Jake?
+
+384
+00:22:21,185 --> 00:22:25,281
+Left... become better...
+
+385
+00:22:25,323 --> 00:22:29,350
+control... entire hope.
+
+386
+00:22:31,462 --> 00:22:33,555
+We've converted
+some empty crew quarters
+
+387
+00:22:33,598 --> 00:22:34,565
+into a hospital ward.
+
+388
+00:22:34,599 --> 00:22:35,793
+He'll be well looked after.
+
+389
+00:22:35,833 --> 00:22:37,698
+l'll take him there myself.
+
+390
+00:22:37,735 --> 00:22:39,032
+Come on, Jake.
+
+391
+00:22:39,070 --> 00:22:40,901
+You're going to be all right.
+
+392
+00:22:40,938 --> 00:22:43,634
+Commander, when
+you've got a moment
+
+393
+00:22:43,674 --> 00:22:46,507
+l've found something
+l'd like to show you.
+
+394
+00:22:50,481 --> 00:22:53,416
+lt'll be all right.
+Just lay back.
+
+395
+00:22:54,418 --> 00:22:57,080
+l know, but just
+lay back and relax.
+
+396
+00:22:59,090 --> 00:23:01,991
+Food... dabo... drinks...
+
+397
+00:23:02,026 --> 00:23:05,655
+money... hand... mine... give!
+
+398
+00:23:05,696 --> 00:23:07,493
+Well, Quark, l see even you
+
+399
+00:23:07,531 --> 00:23:09,999
+couldn't weasel your
+way clear of this one.
+
+400
+00:23:10,034 --> 00:23:12,832
+You underestimate the Ferengi
+immune system, Commander.
+
+401
+00:23:12,870 --> 00:23:15,430
+l'm merely here visiting
+my less fortunate customers
+
+402
+00:23:15,473 --> 00:23:17,600
+to make sure they're
+not faking the illness
+
+403
+00:23:17,642 --> 00:23:19,007
+to avoid paying their bills.
+
+404
+00:23:19,110 --> 00:23:20,975
+No one could
+be that devious.
+
+405
+00:23:21,012 --> 00:23:22,639
+l am.
+
+406
+00:23:22,680 --> 00:23:25,740
+You... gold... owe... me!
+
+407
+00:23:29,553 --> 00:23:33,011
+l... now... give!
+
+408
+00:23:33,124 --> 00:23:34,489
+Up.
+
+409
+00:23:36,327 --> 00:23:39,057
+We're doing
+everything possible.
+
+410
+00:23:41,532 --> 00:23:44,865
+l'll be back
+as soon as l can.
+
+411
+00:23:52,476 --> 00:23:54,137
+The virus is synthetic,
+Commander.
+
+412
+00:23:54,178 --> 00:23:56,146
+lts nucleotide sequence
+is too perfect.
+
+413
+00:23:56,180 --> 00:23:57,408
+lt's clearly not natural.
+
+414
+00:23:57,448 --> 00:23:58,881
+You're saying the Cardassians
+
+415
+00:23:58,916 --> 00:24:00,611
+genetically engineered
+this thing?
+
+416
+00:24:00,651 --> 00:24:02,380
+Well, that's what
+l thought at first
+
+417
+00:24:02,420 --> 00:24:04,786
+but l've studied Cardassian
+genetic engineering.
+
+418
+00:24:04,822 --> 00:24:06,255
+They always
+build distinctive
+
+419
+00:24:06,290 --> 00:24:07,951
+monoclonial links
+into their DNA.
+
+420
+00:24:07,992 --> 00:24:09,755
+This virus has none
+of those features.
+
+421
+00:24:09,794 --> 00:24:10,988
+All right,
+then who made it?
+
+422
+00:24:11,095 --> 00:24:12,653
+Well, that's what
+l wanted to find out.
+
+423
+00:24:12,697 --> 00:24:15,427
+So l referenced all known
+DNA construction techniques
+
+424
+00:24:15,466 --> 00:24:16,899
+in the Federation records
+
+425
+00:24:16,934 --> 00:24:18,993
+and this protein
+series was the key.
+
+426
+00:24:19,036 --> 00:24:20,003
+lt indicates...
+
+427
+00:24:20,071 --> 00:24:22,562
+Doctor!
+Who created this virus?
+
+428
+00:24:22,606 --> 00:24:23,595
+The Bajorans, sir.
+
+429
+00:24:23,641 --> 00:24:25,905
+l believe it must have
+been a terrorist plot
+
+430
+00:24:25,943 --> 00:24:28,605
+to sabotage the Cardassians
+while they were here.
+
+431
+00:24:33,050 --> 00:24:35,644
+The energy decay
+of the power core
+
+432
+00:24:35,686 --> 00:24:39,645
+indicates it dates back
+to the building of the station.
+
+433
+00:24:39,690 --> 00:24:41,851
+That's 18 years ago.
+
+434
+00:24:41,892 --> 00:24:43,689
+l suppose
+the Bajoran underground
+
+435
+00:24:43,728 --> 00:24:46,754
+could have smuggled it aboard
+during construction...
+
+436
+00:24:46,797 --> 00:24:49,357
+before l took over
+as Head of Security.
+
+437
+00:24:49,400 --> 00:24:52,028
+But why would the underground
+go to all the trouble
+
+438
+00:24:52,069 --> 00:24:53,536
+of planting a booby trap
+and not set it off?
+
+439
+00:24:53,571 --> 00:24:55,038
+Maybe they forgot.
+
+440
+00:24:55,072 --> 00:24:57,632
+No. More likely,
+they were captured
+
+441
+00:24:57,675 --> 00:24:59,610
+or killed before
+they could release it.
+
+442
+00:24:59,610 --> 00:25:00,167
+or killed before
+they could release it.
+
+443
+00:25:00,211 --> 00:25:03,476
+We need to find out
+who created this virus.
+
+444
+00:25:03,514 --> 00:25:04,981
+You're our best hope.
+
+445
+00:25:05,015 --> 00:25:08,815
+18 years is a long time.
+
+446
+00:25:08,853 --> 00:25:09,979
+Besides, even if she
+
+447
+00:25:10,087 --> 00:25:13,386
+finds who did this, that's
+no guarantee they can help us.
+
+448
+00:25:13,424 --> 00:25:15,722
+We just have to hope
+they remember the antidote.
+
+449
+00:25:15,760 --> 00:25:18,490
+That's assuming they ever
+bothered to create one.
+
+450
+00:25:26,670 --> 00:25:28,535
+lt had to be someone
+in the underground
+
+451
+00:25:28,572 --> 00:25:30,199
+familiar
+with genetic engineering.
+
+452
+00:25:30,241 --> 00:25:31,731
+18 years ago?
+
+453
+00:25:31,776 --> 00:25:32,868
+Sounds like something
+
+454
+00:25:32,910 --> 00:25:34,639
+Dekon Elig
+might have thought up.
+
+455
+00:25:34,678 --> 00:25:35,702
+How can l find him?
+
+456
+00:25:35,746 --> 00:25:38,510
+The last l heard
+he was in a Cardassian prison.
+
+457
+00:25:38,549 --> 00:25:39,709
+Where was he being held?
+
+458
+00:25:39,750 --> 00:25:42,514
+The Velos Vll lnternment Camp
+
+459
+00:25:42,553 --> 00:25:45,021
+but that was nine years ago.
+
+460
+00:25:45,122 --> 00:25:48,751
+And you have no idea
+where he is now?
+
+461
+00:25:48,793 --> 00:25:52,024
+Think, Galis.
+This is important.
+
+462
+00:25:52,062 --> 00:25:56,965
+l'm sorry, Kira,
+but it was all so long ago.
+
+463
+00:26:02,239 --> 00:26:03,536
+What is it, Jake?
+
+464
+00:26:03,574 --> 00:26:05,542
+Roll linger when life...
+
+465
+00:26:05,576 --> 00:26:07,203
+roll linger when...
+
+466
+00:26:07,244 --> 00:26:08,575
+What?
+
+467
+00:26:15,586 --> 00:26:18,680
+Other support, strong courage...
+
+468
+00:26:24,261 --> 00:26:26,559
+He's running a high fever.
+
+469
+00:26:26,597 --> 00:26:28,565
+Open way long.
+
+470
+00:26:28,599 --> 00:26:30,260
+Open way.
+
+471
+00:26:31,936 --> 00:26:34,700
+Doctor, we have
+an emergency in crew quarters.
+
+472
+00:26:49,053 --> 00:26:50,520
+How is he, Doctor?
+
+473
+00:26:50,554 --> 00:26:52,021
+Not good, l'm afraid.
+
+474
+00:26:52,056 --> 00:26:55,025
+The virus has attacked
+his autonomic nervous system.
+
+475
+00:26:55,059 --> 00:26:56,526
+Can he be stabilized?
+
+476
+00:26:56,560 --> 00:26:58,653
+He hasn't responded
+to neural stimulation.
+
+477
+00:26:58,696 --> 00:27:00,687
+l've given him 30cc's
+of corophizine
+
+478
+00:27:00,731 --> 00:27:02,289
+to avoid secondary infection
+
+479
+00:27:02,333 --> 00:27:05,063
+but so far, l've been unable
+to lower his fever.
+
+480
+00:27:05,102 --> 00:27:06,694
+What are his chances?
+
+481
+00:27:06,737 --> 00:27:11,970
+Unless l find some way
+to counteract the virus
+
+482
+00:27:12,009 --> 00:27:14,061
+he'll be dead in 12 hours.
+
+483
+00:27:14,194 --> 00:27:16,754
+Have you made any progress?
+
+484
+00:27:16,797 --> 00:27:18,264
+No.
+
+485
+00:27:18,298 --> 00:27:20,926
+l've tried
+base pair destabilizers
+
+486
+00:27:21,034 --> 00:27:24,765
+sequential disruption--
+nothing seems to affect it.
+
+487
+00:27:24,805 --> 00:27:27,933
+Sir, l've got seven
+other aphasic patients
+
+488
+00:27:28,041 --> 00:27:31,442
+displaying the same symptoms
+as O'Brien here
+
+489
+00:27:31,478 --> 00:27:34,606
+and l'm afraid
+this is only the beginning.
+
+490
+00:27:34,648 --> 00:27:36,673
+Keep searching, Doctor.
+
+491
+00:27:36,717 --> 00:27:38,344
+l hope Major Kira finds
+
+492
+00:27:38,385 --> 00:27:41,684
+whoever's responsible
+for creating this virus.
+
+493
+00:27:41,722 --> 00:27:44,282
+l'd like to meet
+that person myself.
+
+494
+00:27:44,324 --> 00:27:46,554
+This virus
+is a work of genius.
+
+495
+00:27:46,593 --> 00:27:48,993
+l'll try to
+arrange it for you.
+
+496
+00:27:59,573 --> 00:28:02,371
+Link established with
+the Bajoran Archival Records.
+
+497
+00:28:02,409 --> 00:28:05,242
+Locate files on Velos Vll
+lnternment Camp.
+
+498
+00:28:05,279 --> 00:28:06,371
+Ready.
+
+499
+00:28:06,413 --> 00:28:08,779
+Do you show a record
+of an inmate named Dekon Elig?
+
+500
+00:28:08,815 --> 00:28:10,407
+Affirmative.
+
+501
+00:28:10,450 --> 00:28:12,577
+Biographical data.
+
+502
+00:28:12,619 --> 00:28:14,644
+Dekon Elig, geneticist.
+
+503
+00:28:14,688 --> 00:28:16,747
+Former member
+of the Higa Metar sect
+
+504
+00:28:16,790 --> 00:28:18,451
+of the Bajoran underground.
+
+505
+00:28:18,492 --> 00:28:22,360
+Killed while attempting escape,
+Stardate 39355.
+
+506
+00:28:22,396 --> 00:28:24,921
+Certificate of Death on file.
+
+507
+00:28:24,998 --> 00:28:28,092
+No need to ask
+how you're doing.
+
+508
+00:28:28,135 --> 00:28:29,659
+Chasing after ghosts.
+
+509
+00:28:29,703 --> 00:28:31,500
+You have 12 hours
+to catch one.
+
+510
+00:28:31,538 --> 00:28:33,199
+And then?
+
+511
+00:28:33,240 --> 00:28:34,901
+People start dying.
+
+512
+00:28:41,014 --> 00:28:42,379
+Computer...
+
+513
+00:28:44,785 --> 00:28:47,481
+display Dekon Elig's
+Certificate of Death.
+
+514
+00:28:49,323 --> 00:28:51,587
+ldentify signature of witness.
+
+515
+00:28:51,625 --> 00:28:54,958
+Certificate of Death
+was witnessed by Surmak Ren
+
+516
+00:28:55,028 --> 00:28:57,826
+Bajoran medical assistant.
+
+517
+00:28:57,864 --> 00:29:01,527
+Show me biographical data
+on Surmak Ren.
+
+518
+00:29:01,568 --> 00:29:02,865
+Dr. Surmak Ren.
+
+519
+00:29:02,903 --> 00:29:05,633
+Former member
+of the Higa Metar sect
+
+520
+00:29:05,672 --> 00:29:07,435
+of the Bajoran underground.
+
+521
+00:29:07,474 --> 00:29:09,669
+Repatriated to Bajor
+upon closing
+
+522
+00:29:09,710 --> 00:29:14,511
+of the Velos Vll lnternment
+Camp, Stardate 46302.
+
+523
+00:29:14,548 --> 00:29:16,413
+Current status unknown.
+
+524
+00:29:28,962 --> 00:29:30,293
+Dabo.
+
+525
+00:29:36,770 --> 00:29:38,260
+Any luck?
+
+526
+00:29:38,305 --> 00:29:41,866
+l haven't won a spin in hours.
+
+527
+00:29:41,908 --> 00:29:44,502
+Uh, care to place
+a friendly wager?
+
+528
+00:29:44,544 --> 00:29:47,672
+lf it's your reputation
+you're thinking about
+
+529
+00:29:47,714 --> 00:29:49,545
+no one need ever know.
+
+530
+00:29:49,583 --> 00:29:53,519
+lt has nothing to do
+with my reputation.
+
+531
+00:29:55,255 --> 00:29:58,281
+The truth is, l never...
+
+532
+00:29:58,325 --> 00:30:00,156
+learned the game.
+
+533
+00:30:00,193 --> 00:30:02,423
+You mean, you've sat here
+for all these years
+
+534
+00:30:02,462 --> 00:30:04,362
+and you don't even
+know how to gamble?
+
+535
+00:30:04,398 --> 00:30:06,559
+That's correct.
+
+536
+00:30:06,600 --> 00:30:09,194
+No wonder you
+always look so bored.
+
+537
+00:30:09,236 --> 00:30:12,694
+The rules are quite
+simple, actually.
+
+538
+00:30:12,739 --> 00:30:14,832
+l'd be happy to
+show them to you.
+
+539
+00:30:14,875 --> 00:30:17,105
+Some other time, perhaps.
+
+540
+00:30:17,144 --> 00:30:18,771
+Sisko needs me in Ops.
+
+541
+00:30:18,812 --> 00:30:21,178
+And, since
+the entire security force
+
+542
+00:30:21,214 --> 00:30:23,375
+has been stricken
+with aphasia
+
+543
+00:30:23,417 --> 00:30:26,386
+the Promenade is in
+a very vulnerable position.
+
+544
+00:30:26,420 --> 00:30:28,820
+How unfortunate.
+
+545
+00:30:29,923 --> 00:30:33,916
+Consider it a warning, Quark.
+
+546
+00:30:33,960 --> 00:30:37,225
+Because l'm holding you
+personally responsible
+
+547
+00:30:37,264 --> 00:30:40,529
+if anything turns up missing.
+
+548
+00:30:40,567 --> 00:30:42,933
+ls that understood?
+
+549
+00:30:42,969 --> 00:30:44,459
+Perfectly.
+
+550
+00:30:44,504 --> 00:30:45,835
+Hmm.
+
+551
+00:30:54,281 --> 00:30:55,543
+Dabo.
+
+552
+00:30:56,983 --> 00:31:00,646
+Computer,
+analyze test sample 37 delta.
+
+553
+00:31:00,687 --> 00:31:03,121
+Detail effects
+on viral containment.
+
+554
+00:31:03,156 --> 00:31:05,249
+Working. Analysis complete.
+
+555
+00:31:05,292 --> 00:31:07,351
+Sample 37 delta ineffective.
+
+556
+00:31:07,394 --> 00:31:11,353
+Viral protein sheath
+is unaffected.
+
+557
+00:31:11,398 --> 00:31:14,299
+Nucleotide sequence
+remains intact.
+
+558
+00:31:16,336 --> 00:31:19,772
+Computer, replay morning.
+
+559
+00:31:19,806 --> 00:31:21,103
+Command unclear.
+
+560
+00:31:21,141 --> 00:31:22,506
+Please repeat.
+
+561
+00:31:26,246 --> 00:31:29,977
+Glass lunch judge a bin
+to let it.
+
+562
+00:31:30,083 --> 00:31:31,710
+Command unclear.
+
+563
+00:31:31,752 --> 00:31:33,242
+Please repeat.
+
+564
+00:31:45,098 --> 00:31:49,728
+Computer, establish a link
+with the Bajoran Medical lndex
+
+565
+00:31:49,770 --> 00:31:53,331
+for the, uh,
+Northwestern District.
+
+566
+00:31:53,373 --> 00:31:55,000
+Link established.
+
+567
+00:31:55,041 --> 00:31:58,340
+Access all information
+on Dr. Surmak Ren.
+
+568
+00:31:58,378 --> 00:32:01,279
+There are no records
+matching that name.
+
+569
+00:32:01,314 --> 00:32:04,112
+Try the Northeastern District--
+same search.
+
+570
+00:32:04,151 --> 00:32:06,619
+Dr. Surmak Ren,
+currently serving
+
+571
+00:32:06,653 --> 00:32:10,487
+as Chief Administrator
+of the llvian Medical Complex.
+
+572
+00:32:10,524 --> 00:32:13,891
+Computer, open a channel
+to the llvian Medical Complex
+
+573
+00:32:13,927 --> 00:32:16,919
+Administrator's office.
+
+574
+00:32:16,963 --> 00:32:19,932
+This is Dr. Surmak.
+And you are...?
+
+575
+00:32:19,966 --> 00:32:21,524
+Major Kira Nerys
+
+576
+00:32:21,568 --> 00:32:23,729
+Bajoran liaison to Deep Space 9.
+
+577
+00:32:23,770 --> 00:32:26,466
+Ah, yes, the old Cardassian
+mining station.
+
+578
+00:32:26,506 --> 00:32:27,973
+How can l help you?
+
+579
+00:32:28,008 --> 00:32:29,305
+lt depends.
+
+580
+00:32:29,342 --> 00:32:30,639
+On what?
+
+581
+00:32:30,677 --> 00:32:33,305
+On whether or not
+you helped Dekon Elig
+
+582
+00:32:33,346 --> 00:32:36,144
+plant an aphasia virus here
+18 years ago.
+
+583
+00:32:36,183 --> 00:32:39,243
+l have no idea
+what you're talking about.
+
+584
+00:32:42,689 --> 00:32:45,157
+Look, Sisko, l'm a security
+officer-- a good one--
+
+585
+00:32:45,192 --> 00:32:46,853
+but that doesn't
+make me qualified
+
+586
+00:32:46,893 --> 00:32:48,656
+to help you run
+station operations.
+
+587
+00:32:48,695 --> 00:32:50,560
+You're probably right,
+Constable.
+
+588
+00:32:50,597 --> 00:32:52,997
+But, as you can see,
+you're all l've got.
+
+589
+00:32:53,033 --> 00:32:55,001
+Commander...
+
+590
+00:32:55,035 --> 00:32:58,163
+Commander, l think
+l found our scientist.
+
+591
+00:32:58,205 --> 00:32:59,672
+Does he have an antidote?
+
+592
+00:32:59,706 --> 00:33:01,173
+l don't know.
+He broke the connection
+
+593
+00:33:01,208 --> 00:33:02,607
+the minute
+l mentioned the virus.
+
+594
+00:33:02,642 --> 00:33:05,042
+Major, you mind telling me
+where you're going?
+
+595
+00:33:05,078 --> 00:33:08,411
+To continue my conversation
+with Dr. Surmak, in person.
+
+596
+00:33:08,448 --> 00:33:11,144
+Major, l can't allow you
+to break quarantine.
+
+597
+00:33:11,184 --> 00:33:12,742
+We can't risk
+spreading the virus to Bajor.
+
+598
+00:33:12,786 --> 00:33:14,083
+l am well aware
+of that, Commander.
+
+599
+00:33:14,120 --> 00:33:15,587
+As a matter of fact
+
+600
+00:33:15,622 --> 00:33:17,954
+l don't intend
+to step foot on the planet.
+
+601
+00:33:18,024 --> 00:33:20,959
+Better let her go, Sisko.
+
+602
+00:33:21,061 --> 00:33:23,757
+She's all we've got.
+
+603
+00:33:34,608 --> 00:33:36,667
+Let's just hope
+there's someone left
+
+604
+00:33:36,710 --> 00:33:38,473
+to greet her when she returns.
+
+605
+00:33:52,859 --> 00:33:54,156
+Jake.
+
+606
+00:33:55,929 --> 00:33:57,396
+How's it going?
+
+607
+00:34:10,777 --> 00:34:13,050
+l've missed you.
+
+608
+00:34:13,183 --> 00:34:16,414
+l know things don't look
+too good right now
+
+609
+00:34:16,453 --> 00:34:19,081
+but they'll get better.
+
+610
+00:34:19,123 --> 00:34:22,149
+You have to believe that
+
+611
+00:34:22,192 --> 00:34:26,060
+because l'm not going
+to lose you, Jake.
+
+612
+00:34:26,096 --> 00:34:28,189
+You hear me?
+
+613
+00:34:28,232 --> 00:34:30,564
+l'm not going to lose you.
+
+614
+00:34:43,814 --> 00:34:45,839
+You better take a look at this.
+
+615
+00:34:45,883 --> 00:34:48,511
+We have activity
+on Docking Port 5.
+
+616
+00:34:48,552 --> 00:34:50,850
+l think a ship
+is about to depart.
+
+617
+00:34:50,888 --> 00:34:52,355
+Docking Port 5?
+
+618
+00:34:52,389 --> 00:34:53,856
+That's Jaheel's ship.
+
+619
+00:34:53,891 --> 00:34:55,381
+Put him on screen.
+
+620
+00:34:58,996 --> 00:35:00,327
+Captain, your ship
+
+621
+00:35:00,364 --> 00:35:02,889
+has not been cleared
+for departure.
+
+622
+00:35:02,966 --> 00:35:04,092
+The mooring clamps are locked
+
+623
+00:35:04,134 --> 00:35:05,567
+and l don't intend
+to release them.
+
+624
+00:35:06,603 --> 00:35:09,333
+l suggest you change your mind.
+
+625
+00:35:09,373 --> 00:35:11,739
+l'm taking aft thrusters
+to one half.
+
+626
+00:35:14,778 --> 00:35:16,575
+Captain, cut your engines
+
+627
+00:35:16,613 --> 00:35:18,843
+before you rip
+your ship apart.
+
+628
+00:35:18,882 --> 00:35:20,850
+He's not reducing power.
+
+629
+00:35:20,884 --> 00:35:24,581
+Jaheel, l'm ordering
+you to stand down.
+
+630
+00:35:24,621 --> 00:35:27,021
+Your orders
+are no concern of mine.
+
+631
+00:35:27,057 --> 00:35:29,787
+My entire crew has been
+confined to your hospital.
+
+632
+00:35:29,826 --> 00:35:33,023
+l must leave now,
+while l can still function.
+
+633
+00:35:33,063 --> 00:35:35,031
+Look, l understand
+that you're frightened
+
+634
+00:35:35,065 --> 00:35:36,930
+but, believe me,
+you're better off here.
+
+635
+00:35:37,000 --> 00:35:38,729
+You don't want
+to be out there alone
+
+636
+00:35:38,769 --> 00:35:39,929
+and get hit by the virus.
+
+637
+00:35:40,037 --> 00:35:43,370
+Don't worry about me,
+l'm fine.
+
+638
+00:35:43,407 --> 00:35:45,875
+And l plan to stay that way.
+
+639
+00:35:45,909 --> 00:35:47,467
+And if you think you're go...
+
+640
+00:35:49,813 --> 00:35:51,838
+We'll have to
+retract the clamps.
+
+641
+00:35:51,882 --> 00:35:53,941
+Once he's clear
+of the station
+
+642
+00:35:54,051 --> 00:35:56,679
+we can grab him
+with a tractor beam.
+
+643
+00:36:01,658 --> 00:36:03,125
+Damn.
+
+644
+00:36:03,160 --> 00:36:04,627
+What's wrong?
+
+645
+00:36:04,661 --> 00:36:06,652
+There's too much stress
+on the mooring clamps.
+
+646
+00:36:06,697 --> 00:36:08,255
+They're not retracting.
+
+647
+00:36:13,870 --> 00:36:16,236
+His aft isolation
+plate buckled.
+
+648
+00:36:16,273 --> 00:36:18,707
+His main power core's
+been ruptured.
+
+649
+00:36:18,742 --> 00:36:20,903
+lf the internal
+fuel cells collapse
+
+650
+00:36:21,011 --> 00:36:22,774
+the whole ship will explode.
+
+651
+00:36:22,813 --> 00:36:25,407
+And take half
+the docking ring with it.
+
+652
+00:36:35,492 --> 00:36:37,619
+Computer, isolate a com line
+
+653
+00:36:37,661 --> 00:36:41,119
+to the llvian Medical Complex
+Administrator's office.
+
+654
+00:36:41,164 --> 00:36:42,791
+Line isolated.
+
+655
+00:36:42,833 --> 00:36:44,801
+Scan office for life-forms.
+
+656
+00:36:44,835 --> 00:36:47,303
+One life-form present.
+
+657
+00:36:47,337 --> 00:36:51,000
+Lock on
+and stand by to transport.
+
+658
+00:36:51,975 --> 00:36:53,636
+This is Dr. Surmak.
+
+659
+00:36:53,677 --> 00:36:55,508
+Hello again, Doctor.
+
+660
+00:36:55,545 --> 00:36:57,479
+Just checking
+to see you're in your office.
+
+661
+00:36:57,514 --> 00:36:59,505
+l have nothing to say to...
+
+662
+00:37:07,391 --> 00:37:09,188
+Hello again, Doctor.
+
+663
+00:37:09,226 --> 00:37:10,693
+This is outrageous.
+
+664
+00:37:10,727 --> 00:37:12,319
+l demand you return me
+
+665
+00:37:12,362 --> 00:37:14,159
+to my office immediately.
+
+666
+00:37:14,197 --> 00:37:15,391
+Relax, Doctor.
+
+667
+00:37:15,432 --> 00:37:17,024
+You won't be gone long.
+
+668
+00:37:22,239 --> 00:37:24,139
+Try to reestablish
+visual contact
+
+669
+00:37:24,174 --> 00:37:25,334
+with Jaheel's ship.
+
+670
+00:37:26,843 --> 00:37:28,401
+No response.
+
+671
+00:37:28,445 --> 00:37:29,912
+His com lines are down.
+
+672
+00:37:30,013 --> 00:37:32,880
+Bypass communications
+through a secondary grid.
+
+673
+00:37:32,916 --> 00:37:35,578
+See if you can switch
+to external pickups.
+
+674
+00:37:35,619 --> 00:37:36,950
+Got it.
+
+675
+00:37:39,356 --> 00:37:42,814
+His fire control systems
+don't appear to be working.
+
+676
+00:37:42,859 --> 00:37:44,918
+We have about 15 minutes
+
+677
+00:37:45,028 --> 00:37:47,792
+before the fuel cells collapse.
+
+678
+00:37:47,831 --> 00:37:50,800
+l hope you feel better
+than you look.
+
+679
+00:37:50,834 --> 00:37:52,699
+Must be that damn virus.
+
+680
+00:37:52,736 --> 00:37:54,203
+This is Sisko.
+
+681
+00:37:54,237 --> 00:37:56,933
+Any station personnel
+who can understand
+
+682
+00:37:57,007 --> 00:37:59,669
+what l'm saying, come
+to Ops immediately.
+
+683
+00:37:59,710 --> 00:38:01,177
+We need help up here.
+
+684
+00:38:01,211 --> 00:38:03,702
+We have to get that ship
+away from the station.
+
+685
+00:38:03,747 --> 00:38:05,715
+Why don't we explode
+the mooring clamps?
+
+686
+00:38:05,749 --> 00:38:08,582
+The blast should push the ship
+away from the docking ring.
+
+687
+00:38:08,618 --> 00:38:12,679
+We'll have to get down there
+and blow it manually.
+
+688
+00:38:12,723 --> 00:38:14,350
+l'll do it.
+
+689
+00:38:14,391 --> 00:38:16,859
+All right.
+
+690
+00:38:16,893 --> 00:38:18,861
+You can cross barrels.
+
+691
+00:38:18,895 --> 00:38:21,056
+All job appalled.
+
+692
+00:38:21,098 --> 00:38:23,623
+What was that?
+
+693
+00:38:23,667 --> 00:38:25,897
+Bread...
+
+694
+00:38:26,002 --> 00:38:27,594
+the arrive...
+
+695
+00:38:27,637 --> 00:38:30,071
+seen earlier.
+
+696
+00:38:30,107 --> 00:38:34,168
+Oh, l see.
+
+697
+00:38:42,953 --> 00:38:44,511
+Major, this is kidnapping.
+
+698
+00:38:44,554 --> 00:38:47,489
+Turn this ship around or,
+l swear, you will spend
+
+699
+00:38:47,524 --> 00:38:50,084
+the rest of your life
+in Kran-Tobol Prison.
+
+700
+00:38:50,127 --> 00:38:52,789
+Fine. But first,
+we need your help.
+
+701
+00:38:52,829 --> 00:38:55,923
+The aphasia virus is spreading
+through the station.
+
+702
+00:38:55,966 --> 00:38:57,558
+Why come to me?
+
+703
+00:38:57,601 --> 00:38:59,660
+You helped create the virus,
+didn't you?
+
+704
+00:38:59,703 --> 00:39:01,637
+No, l had practically
+nothing to do with it.
+
+705
+00:39:01,671 --> 00:39:03,639
+Dekon Elig created the virus.
+
+706
+00:39:03,673 --> 00:39:05,800
+l was merely
+his medical assistant.
+
+707
+00:39:05,842 --> 00:39:07,867
+That seems
+like a lifetime ago now.
+
+708
+00:39:07,911 --> 00:39:10,402
+l was only in the underground
+for six months
+
+709
+00:39:10,447 --> 00:39:12,074
+before we were captured.
+
+710
+00:39:12,115 --> 00:39:14,083
+l am not responsible for this.
+
+711
+00:39:14,117 --> 00:39:16,278
+l am not looking to place blame!
+
+712
+00:39:16,319 --> 00:39:18,082
+All l want is the antidote.
+
+713
+00:39:18,121 --> 00:39:20,351
+l don't know of any antidote.
+
+714
+00:39:20,390 --> 00:39:23,188
+lf Dekon created one,
+he never told me.
+
+715
+00:39:23,226 --> 00:39:24,693
+Listen, Surmak.
+
+716
+00:39:24,728 --> 00:39:27,526
+l have a station
+full of dying people
+
+717
+00:39:27,564 --> 00:39:29,464
+and you are
+the closest thing there is
+
+718
+00:39:29,499 --> 00:39:30,898
+to an expert on this virus.
+
+719
+00:39:30,967 --> 00:39:32,491
+l sympathize, Major
+
+720
+00:39:32,536 --> 00:39:34,902
+but l don't think
+l can help you.
+
+721
+00:39:34,971 --> 00:39:36,905
+All right.
+
+722
+00:39:36,973 --> 00:39:40,841
+Then how about helping yourself?
+
+723
+00:39:40,877 --> 00:39:42,435
+Meaning what?
+
+724
+00:39:42,479 --> 00:39:44,504
+Meaning...
+
+725
+00:39:44,548 --> 00:39:48,314
+l've been infected
+with your virus, Doctor
+
+726
+00:39:48,351 --> 00:39:52,685
+so now you're infected, too.
+
+727
+00:39:57,861 --> 00:40:00,625
+To anyone who can hear me,
+this is Odo.
+
+728
+00:40:00,664 --> 00:40:01,926
+Sisko's infected.
+
+729
+00:40:01,998 --> 00:40:04,660
+l could really use
+some help here in Ops.
+
+730
+00:40:04,701 --> 00:40:07,499
+Do l detect a note
+of panic in your voice?
+
+731
+00:40:07,537 --> 00:40:09,061
+Quark.
+
+732
+00:40:09,105 --> 00:40:12,939
+Am l to believe that you're
+volunteering to help?
+
+733
+00:40:12,976 --> 00:40:15,501
+Who said anything
+about volunteering?
+
+734
+00:40:15,545 --> 00:40:17,843
+We can haggle over price later.
+
+735
+00:40:17,881 --> 00:40:19,644
+Now, um...
+
+736
+00:40:19,683 --> 00:40:22,811
+how may l be of use?
+
+737
+00:40:22,853 --> 00:40:25,048
+l need to get
+to Docking Port 5 now.
+
+738
+00:40:25,088 --> 00:40:27,522
+That ship's going to explode
+in five minutes.
+
+739
+00:40:27,557 --> 00:40:29,320
+l'll beam you over.
+
+740
+00:40:29,359 --> 00:40:30,485
+You?
+
+741
+00:40:30,527 --> 00:40:31,789
+Relax.
+
+742
+00:40:31,828 --> 00:40:34,194
+l served on a
+Ferengi freighter
+
+743
+00:40:34,231 --> 00:40:36,597
+for eight years.
+
+744
+00:40:36,633 --> 00:40:37,691
+All right.
+
+745
+00:40:37,734 --> 00:40:40,066
+l must have witnessed
+the procedure
+
+746
+00:40:40,103 --> 00:40:41,365
+hundreds of times.
+
+747
+00:40:41,404 --> 00:40:42,598
+Witnessed?
+
+748
+00:40:42,639 --> 00:40:45,199
+You mean to say you never
+handled the controls yourself?
+
+749
+00:40:46,409 --> 00:40:47,740
+Energizing.
+
+750
+00:41:06,366 --> 00:41:09,392
+Kira to Ops.
+Approaching Landing Pad 7.
+
+751
+00:41:09,436 --> 00:41:12,769
+Request clearance
+to initiate docking procedure.
+
+752
+00:41:12,806 --> 00:41:14,797
+Welcome back.
+l could use some help up here.
+
+753
+00:41:14,841 --> 00:41:16,331
+Quark, what are you
+
+754
+00:41:16,376 --> 00:41:18,367
+doing in Ops?
+
+755
+00:41:23,416 --> 00:41:25,281
+First thing l need to see
+
+756
+00:41:25,318 --> 00:41:28,481
+is your doctor's viral
+characterization research.
+
+757
+00:41:31,558 --> 00:41:33,458
+He was beginning to develop
+an antidote series.
+
+758
+00:41:33,493 --> 00:41:34,585
+Let's take a look at that.
+
+759
+00:41:34,628 --> 00:41:36,755
+Listen, Doctor, um
+
+760
+00:41:36,796 --> 00:41:37,922
+l'll be in Ops.
+
+761
+00:41:38,031 --> 00:41:40,761
+lf you need me,
+use this string impact.
+
+762
+00:41:40,800 --> 00:41:43,030
+Lot show red intense.
+
+763
+00:41:44,437 --> 00:41:47,099
+l think you'd better
+sit down, Major.
+
+764
+00:42:06,526 --> 00:42:08,892
+Dog fellow distance.
+
+765
+00:42:08,962 --> 00:42:10,589
+Yeah, tell me about it.
+
+766
+00:42:10,630 --> 00:42:13,030
+Odo, you'd better hurry up.
+
+767
+00:42:13,066 --> 00:42:15,432
+That ship's going to explode
+in one minute.
+
+768
+00:42:18,605 --> 00:42:21,267
+Virum protein sheath.
+
+769
+00:42:21,308 --> 00:42:23,173
+Nucleotide sequence.
+
+770
+00:42:23,209 --> 00:42:24,699
+Yes.
+
+771
+00:42:24,744 --> 00:42:26,211
+That's right.
+
+772
+00:42:26,246 --> 00:42:28,680
+lt's an adaptive,
+synaptic inhibitor.
+
+773
+00:42:28,715 --> 00:42:30,239
+Dekon was brilliant.
+
+774
+00:42:30,283 --> 00:42:32,251
+No doubt of that.
+
+775
+00:42:32,285 --> 00:42:34,253
+l think we've found
+
+776
+00:42:34,287 --> 00:42:36,118
+your antidote, Major.
+
+777
+00:42:37,924 --> 00:42:39,915
+40 seconds.
+
+778
+00:42:53,673 --> 00:42:55,163
+30 seconds. Hurry!
+
+779
+00:42:55,208 --> 00:42:57,472
+l know, l know.
+
+780
+00:43:01,648 --> 00:43:03,639
+20 seconds!
+
+781
+00:43:09,122 --> 00:43:11,113
+Ten seconds!
+
+782
+00:43:35,949 --> 00:43:38,213
+Odo? Quark to Odo.
+
+783
+00:43:38,251 --> 00:43:39,616
+You still with us?
+
+784
+00:43:39,653 --> 00:43:42,383
+Try not to sound
+too disappointed.
+
+785
+00:43:42,422 --> 00:43:45,391
+Now, about that little matter
+
+786
+00:43:45,425 --> 00:43:47,256
+of my hazard pay...
+
+787
+00:43:47,293 --> 00:43:48,726
+Why, you...
+
+788
+00:43:52,465 --> 00:43:54,797
+Come on. Come on.
+
+789
+00:43:58,538 --> 00:44:02,497
+Station Log, Stardate 46425.8.
+
+790
+00:44:02,542 --> 00:44:04,601
+With the help
+of Dr. Bashir's notes
+
+791
+00:44:04,644 --> 00:44:08,045
+Dr. Surmak was able to find an
+antidote for the aphasia virus.
+
+792
+00:44:08,081 --> 00:44:11,346
+We are continuing to administer
+it throughout the station
+
+793
+00:44:11,384 --> 00:44:13,215
+and things are slowly
+returning to normal.
+
+794
+00:44:13,253 --> 00:44:15,551
+Good to have you back, Chief.
+
+795
+00:44:15,588 --> 00:44:16,987
+Thank you, sir.
+
+796
+00:44:17,023 --> 00:44:18,513
+Coffee, black.
+
+797
+00:44:25,265 --> 00:44:26,892
+O'Brien!
+

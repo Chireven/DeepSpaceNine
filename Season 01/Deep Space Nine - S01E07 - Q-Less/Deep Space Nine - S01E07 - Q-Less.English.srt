@@ -1,0 +1,4076 @@
+﻿1
+00:00:02,894 --> 00:00:04,725
+So, there l was...
+
+2
+00:00:04,763 --> 00:00:07,823
+fighting the toughest battle
+of my life...
+
+3
+00:00:07,866 --> 00:00:10,926
+looking around,
+hoping to spot a friendly face
+
+4
+00:00:10,969 --> 00:00:13,164
+only to discover
+my colleagues...
+
+5
+00:00:13,205 --> 00:00:15,139
+were gone.
+
+6
+00:00:15,173 --> 00:00:16,572
+l was alone.
+
+7
+00:00:16,608 --> 00:00:19,600
+l admit for a moment there
+l considered giving up.
+
+8
+00:00:19,645 --> 00:00:22,011
+l could feel
+the seconds ticking away--
+
+9
+00:00:22,047 --> 00:00:23,878
+panic building up
+inside of me.
+
+10
+00:00:23,915 --> 00:00:26,782
+l knew my only chance
+was to trust my instincts
+
+11
+00:00:26,818 --> 00:00:28,547
+so l closed my eyes...
+
+12
+00:00:28,587 --> 00:00:31,147
+took a deep breath
+
+13
+00:00:31,189 --> 00:00:34,056
+and just like that,
+it came to me--
+
+14
+00:00:34,092 --> 00:00:36,822
+the answer l was looking for--
+
+15
+00:00:36,862 --> 00:00:38,989
+a pericardial membrane!
+
+16
+00:00:39,031 --> 00:00:39,998
+Oh!
+
+17
+00:00:40,032 --> 00:00:41,363
+l looked down
+
+18
+00:00:41,400 --> 00:00:44,164
+and punched the answer
+into my computer terminal
+
+19
+00:00:44,202 --> 00:00:46,830
+just as the buzzer sounded,
+ending the exam
+
+20
+00:00:46,872 --> 00:00:48,362
+and that, l suppose
+
+21
+00:00:48,407 --> 00:00:51,501
+is the stuff
+salutatorians are made of.
+
+22
+00:00:51,543 --> 00:00:53,204
+Salutatorian?
+
+23
+00:00:53,312 --> 00:00:58,181
+Well, l mistook
+a preganglionic fiber
+
+24
+00:00:58,216 --> 00:01:01,447
+for a postganglionic nerve
+during the orals
+
+25
+00:01:01,486 --> 00:01:04,478
+or l would have been
+valedictorian.
+
+26
+00:01:04,523 --> 00:01:06,150
+lt was a trick question.
+
+27
+00:01:06,258 --> 00:01:07,589
+Fascinating.
+
+28
+00:01:07,626 --> 00:01:09,958
+Not nearly as fascinating
+as when l...
+
+29
+00:01:09,995 --> 00:01:12,122
+Dr. Bashir, Chief O'Brien.
+
+30
+00:01:12,164 --> 00:01:15,622
+Report to Landing Pad Five.
+
+31
+00:01:15,667 --> 00:01:17,464
+Bad timing.
+
+32
+00:01:17,502 --> 00:01:19,732
+There'll be another time.
+
+33
+00:01:26,278 --> 00:01:28,405
+Starfleet medical finals.
+
+34
+00:01:28,447 --> 00:01:30,210
+Gets them every time.
+
+35
+00:01:34,152 --> 00:01:35,176
+lt's no use.
+
+36
+00:01:35,287 --> 00:01:37,346
+Chief!
+
+37
+00:01:37,389 --> 00:01:38,583
+We have to get
+this hatch open.
+
+38
+00:01:38,623 --> 00:01:40,853
+Lieutenant Dax and Ensign Pauley
+are trapped in there.
+
+39
+00:01:40,892 --> 00:01:42,052
+The runabout
+barely made it back
+
+40
+00:01:42,094 --> 00:01:43,186
+through the wormhole.
+
+41
+00:01:43,261 --> 00:01:44,489
+By the time they docked
+
+42
+00:01:44,529 --> 00:01:45,757
+power levels were near zero.
+
+43
+00:01:45,797 --> 00:01:47,321
+There's not even enough juice
+left in the ship
+
+44
+00:01:47,366 --> 00:01:48,333
+to release the servos.
+
+45
+00:01:48,367 --> 00:01:49,527
+Life support's down.
+
+46
+00:01:49,568 --> 00:01:51,695
+Oxygen levels have dropped
+dangerously low.
+
+47
+00:01:51,737 --> 00:01:52,795
+Have to burn it through.
+
+48
+00:01:52,838 --> 00:01:53,805
+Forget it, Major.
+
+49
+00:01:53,839 --> 00:01:55,397
+The hatch is made
+of duranium composite.
+
+50
+00:01:55,440 --> 00:01:57,067
+lt'll take you an hour
+to get through it.
+
+51
+00:01:57,109 --> 00:01:58,076
+We don't have that much time.
+
+52
+00:01:58,110 --> 00:01:59,077
+That's odd.
+
+53
+00:01:59,111 --> 00:02:01,443
+How many passengers did you say
+were on board the <i>Ganges?</i>
+
+54
+00:02:01,480 --> 00:02:02,447
+Two.
+
+55
+00:02:02,481 --> 00:02:03,448
+l'm reading three.
+
+56
+00:02:03,482 --> 00:02:05,245
+We need to get power
+to the hatch servos.
+
+57
+00:02:05,283 --> 00:02:07,012
+Major, hand me
+the EPl capacitor.
+
+58
+00:02:07,052 --> 00:02:08,952
+There, middle shelf.
+
+59
+00:02:17,963 --> 00:02:19,897
+Try her now.
+
+60
+00:02:31,042 --> 00:02:32,168
+Dax?
+
+61
+00:02:32,210 --> 00:02:34,235
+l'm fine. Check the others.
+
+62
+00:02:38,784 --> 00:02:39,773
+Vash?
+
+63
+00:02:39,818 --> 00:02:41,479
+That's right.
+
+64
+00:02:41,520 --> 00:02:44,717
+Miles O'Brien,
+from the <i>Enterprise.</i>
+
+65
+00:02:44,756 --> 00:02:46,519
+Oh. Yes, of course.
+
+66
+00:02:46,558 --> 00:02:48,651
+What are you doing
+on the <i>Ganges?</i>
+
+67
+00:02:48,693 --> 00:02:49,717
+We found her
+
+68
+00:02:49,761 --> 00:02:51,023
+in the Gamma Quadrant.
+
+69
+00:02:51,062 --> 00:02:53,189
+She'd been there
+for over two years.
+
+70
+00:02:53,298 --> 00:02:54,822
+Two years?!
+
+71
+00:02:54,866 --> 00:02:56,629
+Doctor, we'd better
+get these people
+
+72
+00:02:56,668 --> 00:02:57,828
+over to the infirmary.
+
+73
+00:02:59,638 --> 00:03:01,230
+Right this way.
+
+74
+00:03:06,912 --> 00:03:10,370
+How did you get to the Gamma
+Quadrant two years ago?
+
+75
+00:03:10,415 --> 00:03:12,144
+A friend dropped me off.
+
+76
+00:03:12,184 --> 00:03:13,173
+Oh.
+
+77
+00:05:20,873 --> 00:05:22,568
+Will l live?
+
+78
+00:05:22,608 --> 00:05:24,235
+You're fine.
+
+79
+00:05:24,276 --> 00:05:26,710
+ln fact...
+
+80
+00:05:26,745 --> 00:05:28,736
+you're in remarkable shape.
+
+81
+00:05:28,781 --> 00:05:30,408
+Thank you, Doctor.
+
+82
+00:05:30,449 --> 00:05:31,848
+l try.
+
+83
+00:05:31,884 --> 00:05:34,717
+Well, l-l-l-l mean
+you've, uh...
+
+84
+00:05:34,753 --> 00:05:36,015
+managed quite well
+
+85
+00:05:36,055 --> 00:05:37,886
+considering you've
+been out of contact
+
+86
+00:05:37,923 --> 00:05:39,754
+with civilization
+for over two years.
+
+87
+00:05:39,792 --> 00:05:42,761
+Well, l'd hardly call
+the Gamma Quadrant uncivilized.
+
+88
+00:05:42,795 --> 00:05:44,592
+Some of the cultures
+l've encountered
+
+89
+00:05:44,630 --> 00:05:46,860
+have histories dating back
+millions of years.
+
+90
+00:05:46,899 --> 00:05:50,062
+Really? l'd love
+to hear about them.
+
+91
+00:05:50,169 --> 00:05:52,569
+l mean, we have no idea
+what's beyond the wormhole.
+
+92
+00:05:52,604 --> 00:05:54,504
+Well, maybe l'll write a book.
+
+93
+00:05:54,540 --> 00:05:57,907
+Well, it's sure to be a
+best-seller around here.
+
+94
+00:05:57,943 --> 00:05:59,934
+l... well... um...
+
+95
+00:05:59,978 --> 00:06:03,277
+no sign of disease
+or malnutrition
+
+96
+00:06:03,315 --> 00:06:05,249
+or parasitic infections.
+
+97
+00:06:05,284 --> 00:06:07,582
+You sound disappointed.
+
+98
+00:06:07,619 --> 00:06:09,484
+l am.
+
+99
+00:06:09,521 --> 00:06:12,354
+Now l have no reason
+to keep you here.
+
+100
+00:06:12,391 --> 00:06:16,725
+Well, you almost make me wish
+l wasn't feeling well.
+
+101
+00:06:25,771 --> 00:06:28,638
+And she claims she knew nothing
+about the wormhole?
+
+102
+00:06:28,674 --> 00:06:30,699
+She did seem very surprised
+when l told her about it.
+
+103
+00:06:30,742 --> 00:06:32,209
+l don't think she ever expected
+
+104
+00:06:32,244 --> 00:06:34,007
+to see this part
+of the galaxy again.
+
+105
+00:06:34,046 --> 00:06:35,673
+How could she get there
+in the first place
+
+106
+00:06:35,714 --> 00:06:37,204
+if she didn't go
+through the wormhole?
+
+107
+00:06:37,249 --> 00:06:40,309
+She said she didn't
+want to talk about it.
+
+108
+00:06:40,352 --> 00:06:42,183
+Said it was a personal matter.
+
+109
+00:06:42,221 --> 00:06:43,552
+This doesn't make sense--
+
+110
+00:06:43,589 --> 00:06:45,921
+a human alone in the Gamma
+Quadrant for two years.
+
+111
+00:06:45,958 --> 00:06:47,289
+Let's check her background.
+
+112
+00:06:47,326 --> 00:06:49,055
+See what we can
+find out about her.
+
+113
+00:06:49,094 --> 00:06:51,460
+She claims to be
+an archaeologist.
+
+114
+00:06:51,497 --> 00:06:53,590
+That's a good place to start.
+
+115
+00:06:58,137 --> 00:07:00,435
+You sure this place is safe?
+
+116
+00:07:00,472 --> 00:07:01,803
+The Assay Office
+
+117
+00:07:01,840 --> 00:07:04,502
+is the most secure
+area on the station.
+
+118
+00:07:04,543 --> 00:07:07,307
+The chambers are
+surrounded on all sides
+
+119
+00:07:07,346 --> 00:07:09,177
+by individual force fields.
+
+120
+00:07:09,214 --> 00:07:11,307
+And how are
+the locks controlled?
+
+121
+00:07:11,350 --> 00:07:14,285
+Once you secure a chamber,
+it can't be opened
+
+122
+00:07:14,319 --> 00:07:17,220
+except with your personal
+authorization code
+
+123
+00:07:17,256 --> 00:07:20,282
+combined with a verified
+retinal print.
+
+124
+00:07:20,325 --> 00:07:22,486
+A Cardassian MK-7 scanner?
+
+125
+00:07:22,528 --> 00:07:24,018
+MK-12.
+
+126
+00:07:24,129 --> 00:07:26,962
+With an L-90
+enhanced resolution filter.
+
+127
+00:07:26,999 --> 00:07:30,662
+Well, l suppose
+that will have to do.
+
+128
+00:07:30,702 --> 00:07:36,902
+Computer, begin inventory
+for cubicle 19.
+
+129
+00:07:38,277 --> 00:07:40,370
+One statue...
+
+130
+00:07:40,412 --> 00:07:42,039
+stone.
+
+131
+00:07:42,114 --> 00:07:47,245
+30-odd centimeters tall,
+approximately eight kilograms.
+
+132
+00:07:49,655 --> 00:07:52,556
+Assorted gems.
+
+133
+00:08:00,232 --> 00:08:02,291
+Gold necklace.
+
+134
+00:08:06,171 --> 00:08:07,468
+One dagger...
+
+135
+00:08:07,506 --> 00:08:09,406
+bronze and gold.
+
+136
+00:08:09,441 --> 00:08:12,467
+About 25 centimeters.
+
+137
+00:08:18,450 --> 00:08:19,883
+Beautiful.
+
+138
+00:08:19,918 --> 00:08:22,910
+l've never seen anything
+quite like it.
+
+139
+00:08:22,955 --> 00:08:26,322
+Some kind of Promethean quartz.
+
+140
+00:08:26,358 --> 00:08:28,019
+l thought so, too, at first
+
+141
+00:08:28,126 --> 00:08:31,027
+but its molecular density
+and refraction index
+
+142
+00:08:31,096 --> 00:08:32,028
+is much higher.
+
+143
+00:08:32,097 --> 00:08:33,997
+Remarkable.
+
+144
+00:08:38,503 --> 00:08:40,334
+End inventory.
+
+145
+00:08:43,108 --> 00:08:46,236
+Please, enter an access code.
+
+146
+00:09:00,826 --> 00:09:02,987
+All right.
+
+147
+00:09:03,028 --> 00:09:05,656
+l'll be back tomorrow
+to pick everything up.
+
+148
+00:09:05,697 --> 00:09:07,790
+l've booked passage
+on the Mulzirak Transport.
+
+149
+00:09:07,833 --> 00:09:10,495
+You're not leaving us
+so soon, are you?
+
+150
+00:09:10,535 --> 00:09:12,093
+l'm afraid so.
+
+151
+00:09:17,042 --> 00:09:19,738
+The Daystrom lnstitute
+will be very disappointed.
+
+152
+00:09:19,778 --> 00:09:21,245
+The Daystrom lnstitute?
+
+153
+00:09:21,280 --> 00:09:22,406
+Their scientists
+are anxious
+
+154
+00:09:22,447 --> 00:09:24,176
+to hear about life
+in the Gamma Quadrant.
+
+155
+00:09:24,216 --> 00:09:26,446
+Every place you've been,
+everything you've seen
+
+156
+00:09:26,485 --> 00:09:27,975
+no matter
+how insignificant
+
+157
+00:09:28,020 --> 00:09:30,818
+could prove to be important,
+including how you got there.
+
+158
+00:09:30,856 --> 00:09:33,188
+Sorry, Commander,
+but that's a...
+
+159
+00:09:33,225 --> 00:09:34,715
+Personal matter.
+...personal matter.
+
+160
+00:09:39,965 --> 00:09:42,729
+So now the Daystrom
+lnstitute is interested in me.
+
+161
+00:09:42,768 --> 00:09:43,996
+Well, that's ironic.
+
+162
+00:09:44,036 --> 00:09:46,266
+Professor Woo
+seemed especially eager
+
+163
+00:09:46,305 --> 00:09:47,670
+to speak to you again.
+
+164
+00:09:47,706 --> 00:09:48,673
+Did he really?
+
+165
+00:09:48,707 --> 00:09:50,971
+l suppose he told you
+he suspended my membership
+
+166
+00:09:51,009 --> 00:09:53,136
+from the lnstitute's
+Archaeological Council?
+
+167
+00:09:53,178 --> 00:09:54,145
+On two occasions.
+
+168
+00:09:54,179 --> 00:09:56,306
+Something about the sale
+of illegal artifacts.
+
+169
+00:09:56,348 --> 00:09:57,906
+Well, when it
+comes to choosing
+
+170
+00:09:57,949 --> 00:09:59,280
+between science and profit
+
+171
+00:09:59,318 --> 00:10:00,876
+l'll choose profit every time.
+
+172
+00:10:00,919 --> 00:10:03,683
+The professor was hoping you'd
+make an exception in this case.
+
+173
+00:10:03,722 --> 00:10:06,850
+You know, l haven't
+been back to Earth in...
+
+174
+00:10:06,892 --> 00:10:08,291
+it must be 12 years.
+
+175
+00:10:08,327 --> 00:10:09,624
+Here's your chance.
+
+176
+00:10:09,661 --> 00:10:11,526
+l could arrange passage.
+
+177
+00:10:11,563 --> 00:10:14,623
+l think l'd like that.
+
+178
+00:10:14,666 --> 00:10:16,998
+Fine. l'll take care of it.
+
+179
+00:10:27,779 --> 00:10:29,679
+l don't understand it,
+Commander.
+
+180
+00:10:29,715 --> 00:10:31,910
+l can't find anything
+wrong with her.
+
+181
+00:10:31,950 --> 00:10:34,783
+This ship is
+completely functional.
+
+182
+00:10:34,820 --> 00:10:36,447
+lt didn't look that way
+this morning.
+
+183
+00:10:36,488 --> 00:10:38,217
+Oh, don't get me wrong.
+
+184
+00:10:38,256 --> 00:10:40,019
+The power reserves are empty.
+
+185
+00:10:40,058 --> 00:10:42,652
+The inertial damping fields
+are barely operational
+
+186
+00:10:42,694 --> 00:10:44,355
+and the warp drive
+containment field's
+
+187
+00:10:44,396 --> 00:10:45,761
+on the verge of collapse.
+
+188
+00:10:45,797 --> 00:10:46,855
+But?
+
+189
+00:10:46,898 --> 00:10:49,093
+But there's nothing
+wrong with any of them.
+
+190
+00:10:49,134 --> 00:10:50,999
+Once we put power back into her
+
+191
+00:10:51,036 --> 00:10:53,027
+she should be fully operational.
+
+192
+00:10:53,071 --> 00:10:55,096
+Did you check the central
+power linkages?
+
+193
+00:10:55,173 --> 00:10:56,265
+Yes, sir.
+
+194
+00:10:56,308 --> 00:10:58,003
+l ran a level-1 diagnostic.
+
+195
+00:10:58,043 --> 00:10:59,305
+Everything checks out.
+
+196
+00:10:59,344 --> 00:11:00,811
+l can't explain it.
+
+197
+00:11:00,846 --> 00:11:03,940
+lt's like something
+tapped into the ship's systems
+
+198
+00:11:03,982 --> 00:11:05,574
+and drained them dry.
+
+199
+00:11:12,090 --> 00:11:14,490
+Tell me, Chief, how well
+do you know this woman Vash?
+
+200
+00:11:14,526 --> 00:11:15,493
+Hardly at all.
+
+201
+00:11:15,527 --> 00:11:16,721
+Only met her that one time
+
+202
+00:11:16,762 --> 00:11:18,059
+she was aboard the <i>Enterprise.</i>
+
+203
+00:11:18,096 --> 00:11:19,222
+What was she doing there?
+
+204
+00:11:19,264 --> 00:11:22,597
+Well, sir,
+Vash and Captain Picard
+
+205
+00:11:22,634 --> 00:11:23,658
+were friends--
+
+206
+00:11:23,702 --> 00:11:26,170
+close friends,
+if you follow my meaning.
+
+207
+00:11:26,204 --> 00:11:29,435
+Seems they met on Risa
+a few years back.
+
+208
+00:11:29,474 --> 00:11:30,668
+l figure she must be
+a special woman
+
+209
+00:11:30,709 --> 00:11:32,677
+being friends with
+the Captain and all.
+
+210
+00:11:32,711 --> 00:11:34,645
+Somehow, she doesn't seem
+to be his type.
+
+211
+00:11:34,679 --> 00:11:38,843
+Well, the Captain likes
+a good challenge, sir.
+
+212
+00:11:47,592 --> 00:11:48,991
+Status report?
+
+213
+00:11:49,027 --> 00:11:51,655
+We suffered
+a broad-spectrum power drain.
+
+214
+00:11:51,696 --> 00:11:53,561
+Power transfer is
+completely inoperative.
+
+215
+00:11:53,598 --> 00:11:54,656
+The energy was drawn out
+
+216
+00:11:54,699 --> 00:11:55,961
+faster than it could handle.
+
+217
+00:11:56,001 --> 00:11:57,662
+l'll have to replace
+the whole unit.
+
+218
+00:11:57,702 --> 00:12:00,535
+Chief, are you reading
+any graviton flux
+
+219
+00:12:00,572 --> 00:12:02,665
+around the transfer systems?
+
+220
+00:12:02,707 --> 00:12:04,937
+l am detecting a low-level
+graviton disturbance.
+
+221
+00:12:04,976 --> 00:12:06,133
+How did you know?
+
+222
+00:12:06,266 --> 00:12:08,097
+That's exactly what happened
+
+223
+00:12:08,135 --> 00:12:10,433
+when we lost power
+on the <i>Ganges.</i>
+
+224
+00:12:21,081 --> 00:12:23,606
+These were originally
+Cardassian living quarters.
+
+225
+00:12:23,650 --> 00:12:25,948
+The bed may take
+some getting used to.
+
+226
+00:12:25,986 --> 00:12:27,385
+As an archaeologist
+
+227
+00:12:27,421 --> 00:12:29,719
+l've spent half my life
+sleeping in tents.
+
+228
+00:12:29,756 --> 00:12:31,986
+To me, any bed
+will be a luxury.
+
+229
+00:12:32,025 --> 00:12:33,686
+You've obviously never slept
+
+230
+00:12:33,727 --> 00:12:35,319
+on a Cardassian mattress.
+
+231
+00:12:36,763 --> 00:12:38,924
+lf you need anything,
+just ask the computer.
+
+232
+00:12:38,966 --> 00:12:40,263
+Thanks, Chief.
+
+233
+00:12:40,300 --> 00:12:42,791
+Oh, by the way, how's Jean-Luc?
+
+234
+00:12:42,836 --> 00:12:43,803
+The Captain?
+
+235
+00:12:43,837 --> 00:12:44,804
+Mm-hmm.
+
+236
+00:12:44,838 --> 00:12:46,430
+The last time l saw him,
+he was fine.
+
+237
+00:12:46,473 --> 00:12:49,806
+Well, now that l'm back,
+l'll have to look him up.
+
+238
+00:13:23,277 --> 00:13:25,108
+Really, Vash, l can't believe
+
+239
+00:13:25,145 --> 00:13:27,340
+you're still pining
+for Jean-Luc--
+
+240
+00:13:27,381 --> 00:13:29,645
+that self-righteous
+do-gooder.
+
+241
+00:13:29,683 --> 00:13:32,243
+l should have listened to him
+when he warned me about you.
+
+242
+00:13:32,286 --> 00:13:33,753
+You're hurt, you strike back
+
+243
+00:13:33,787 --> 00:13:35,516
+l understand,
+but be of good cheer
+
+244
+00:13:35,555 --> 00:13:38,115
+l bring you wonderful news--
+l'm back.
+
+245
+00:13:38,158 --> 00:13:39,284
+And l can see now
+
+246
+00:13:39,326 --> 00:13:41,419
+it was cruel of me to leave you.
+
+247
+00:13:41,461 --> 00:13:44,521
+Very touching, but you
+didn't leave me, l left you.
+
+248
+00:13:44,564 --> 00:13:46,896
+You left me, l left you--
+details, mere details.
+
+249
+00:13:46,933 --> 00:13:47,991
+The important thing is
+
+250
+00:13:48,035 --> 00:13:49,730
+we're back together again--
+a team.
+
+251
+00:13:49,770 --> 00:13:51,795
+Joined together at the hip.
+
+252
+00:13:51,838 --> 00:13:53,032
+Not a chance.
+
+253
+00:13:53,140 --> 00:13:55,370
+You know
+you're going to miss me.
+
+254
+00:13:55,409 --> 00:13:57,604
+Don't flatter yourself.
+
+255
+00:13:59,246 --> 00:14:00,235
+You know, l thought
+
+256
+00:14:00,280 --> 00:14:01,975
+we'd first visit
+the Teleris Cluster
+
+257
+00:14:02,082 --> 00:14:04,380
+look in on the star
+dancers at Mundahla
+
+258
+00:14:04,418 --> 00:14:06,386
+or maybe head over
+to the Lantar Nebula
+
+259
+00:14:06,420 --> 00:14:08,888
+and view the Sampalo
+relic on Hoek lV.
+
+260
+00:14:08,922 --> 00:14:10,219
+Not interested.
+
+261
+00:14:10,257 --> 00:14:14,318
+l know-- Vadris lll,
+charming little world.
+
+262
+00:14:14,361 --> 00:14:15,589
+The natives think they're
+
+263
+00:14:15,629 --> 00:14:17,722
+the only intelligent
+life in the universe.
+
+264
+00:14:17,764 --> 00:14:18,924
+No!
+
+265
+00:14:23,203 --> 00:14:24,830
+All right.
+
+266
+00:14:24,871 --> 00:14:26,133
+You choose then.
+
+267
+00:14:26,173 --> 00:14:28,733
+l choose never to go anywhere
+with you again, Q.
+
+268
+00:14:28,775 --> 00:14:29,764
+You don't know
+
+269
+00:14:29,810 --> 00:14:30,902
+what you're missing.
+
+270
+00:14:30,944 --> 00:14:32,571
+When we started this little
+partnership
+
+271
+00:14:32,612 --> 00:14:35,137
+l promised to take you places
+no human had ever seen before.
+
+272
+00:14:35,182 --> 00:14:36,581
+And you have.
+
+273
+00:14:36,616 --> 00:14:38,413
+lt was wonderful.
+
+274
+00:14:38,452 --> 00:14:40,010
+Thank you.
+
+275
+00:14:40,120 --> 00:14:41,587
+Now, good-bye.
+
+276
+00:14:41,621 --> 00:14:44,590
+Two years in the Gamma
+Quadrant hardly qualifies
+
+277
+00:14:44,624 --> 00:14:46,592
+as a grand tour
+of the universe.
+
+278
+00:14:46,626 --> 00:14:49,254
+There's still the Delta
+Quadrant to explore
+
+279
+00:14:49,296 --> 00:14:51,594
+not to mention all
+the other galaxies.
+
+280
+00:14:51,631 --> 00:14:52,757
+lt's over, Q.
+
+281
+00:14:52,799 --> 00:14:54,266
+l want you out of my life.
+
+282
+00:14:54,301 --> 00:14:55,859
+You are arrogant,
+you're overbearing
+
+283
+00:14:55,902 --> 00:14:57,631
+and you think
+you know everything.
+
+284
+00:14:57,671 --> 00:15:00,037
+But l do know everything.
+
+285
+00:15:00,140 --> 00:15:02,938
+That makes it even worse.
+
+286
+00:15:02,976 --> 00:15:04,375
+All right, fine.
+
+287
+00:15:04,411 --> 00:15:05,844
+What is it you really want?
+
+288
+00:15:05,879 --> 00:15:08,643
+l want the life l had
+before l met you.
+
+289
+00:15:08,682 --> 00:15:12,618
+And a stellar life, indeed.
+
+290
+00:15:12,652 --> 00:15:14,779
+The eminent Vash--
+
+291
+00:15:14,821 --> 00:15:18,518
+barred from the Royal Museum
+of Epsilon Hydra Vll.
+
+292
+00:15:18,558 --> 00:15:20,549
+Persona non grata
+on Betazed.
+
+293
+00:15:20,594 --> 00:15:22,221
+Wanted dead on Myrmidon
+
+294
+00:15:22,262 --> 00:15:24,856
+for stealing the Crown
+of the First Mother.
+
+295
+00:15:24,898 --> 00:15:26,729
+Dead or alive.
+
+296
+00:15:26,767 --> 00:15:29,167
+Preferably dead.
+
+297
+00:15:29,202 --> 00:15:31,102
+lt's a wonder
+you haven't offended
+
+298
+00:15:31,138 --> 00:15:32,730
+every sentient race
+in the galaxy.
+
+299
+00:15:32,773 --> 00:15:35,742
+You're the one who almost got me
+killed on Erriakang Vll.
+
+300
+00:15:35,776 --> 00:15:37,004
+And they weren't
+exactly thrilled
+
+301
+00:15:37,110 --> 00:15:38,134
+to see you on Brax either.
+
+302
+00:15:38,178 --> 00:15:39,873
+What did they call you,
+''the God of lies''?
+
+303
+00:15:39,913 --> 00:15:41,515
+They meant it affectionately.
+
+304
+00:15:41,515 --> 00:15:41,844
+They meant it affectionately.
+
+305
+00:15:42,849 --> 00:15:44,111
+Come in.
+
+306
+00:15:45,118 --> 00:15:46,244
+l...
+
+307
+00:15:46,286 --> 00:15:47,617
+Go away.
+
+308
+00:15:48,622 --> 00:15:49,748
+Q, bring him back.
+
+309
+00:15:49,790 --> 00:15:51,758
+What business could
+you possibly have
+
+310
+00:15:51,792 --> 00:15:53,657
+with that disgusting
+little troll?
+
+311
+00:15:53,693 --> 00:15:54,751
+l don't know.
+
+312
+00:15:54,795 --> 00:15:56,854
+You didn't give him
+time to tell me.
+
+313
+00:15:56,897 --> 00:15:58,865
+Now, bring him back
+this instant.
+
+314
+00:15:58,899 --> 00:16:00,127
+All right.
+
+315
+00:16:03,203 --> 00:16:04,670
+Can l help you?
+
+316
+00:16:06,907 --> 00:16:08,875
+My name is Quark.
+
+317
+00:16:08,909 --> 00:16:11,707
+lt's, uh, it's come
+to my attention
+
+318
+00:16:11,745 --> 00:16:15,875
+that you have access
+to certain... items.
+
+319
+00:16:15,916 --> 00:16:20,114
+ltems that might perhaps
+turn a tidy profit?
+
+320
+00:16:21,154 --> 00:16:23,213
+l'm listening.
+
+321
+00:16:23,256 --> 00:16:24,985
+For a percentage
+
+322
+00:16:25,091 --> 00:16:30,893
+l might be able to arrange
+a buyer for your trinkets
+
+323
+00:16:30,931 --> 00:16:32,922
+perhaps an auction.
+
+324
+00:16:34,434 --> 00:16:37,892
+l'll only accept payment
+in gold-pressed latinum.
+
+325
+00:16:37,938 --> 00:16:41,567
+l'll shower you in it-- 50-50.
+
+326
+00:16:41,608 --> 00:16:42,905
+Mr. Quark, l believe
+
+327
+00:16:42,943 --> 00:16:46,276
+you're trying to take
+advantage of me.
+
+328
+00:16:48,782 --> 00:16:50,249
+Some wine?
+
+329
+00:16:50,283 --> 00:16:52,774
+Oh, oh...
+
+330
+00:16:54,788 --> 00:16:57,518
+You have a talent
+for <i>oo-mox.</i>
+
+331
+00:16:57,557 --> 00:16:59,548
+So l've been told.
+
+332
+00:17:01,061 --> 00:17:04,360
+l'll not be distracted
+by your feminine wiles.
+
+333
+00:17:04,397 --> 00:17:07,059
+l demand 40%.
+
+334
+00:17:08,735 --> 00:17:11,363
+All right, 30...
+
+335
+00:17:11,404 --> 00:17:13,872
+What magnificent cartilage.
+
+336
+00:17:13,907 --> 00:17:16,535
+22, and don't stop.
+
+337
+00:17:16,576 --> 00:17:18,567
+You've got a deal.
+
+338
+00:17:22,048 --> 00:17:25,484
+l expect you'll make
+all the necessary arrangements?
+
+339
+00:17:25,519 --> 00:17:28,886
+Oh, you're good.
+
+340
+00:17:28,922 --> 00:17:32,585
+You're very, very good.
+
+341
+00:17:42,969 --> 00:17:44,459
+How perfectly vile.
+
+342
+00:17:44,504 --> 00:17:46,665
+lf that's the sort of company
+you kept before meeting me
+
+343
+00:17:46,706 --> 00:17:48,230
+it's no wonder
+you ended up with Picard.
+
+344
+00:17:48,275 --> 00:17:49,264
+Go away.
+
+345
+00:17:50,443 --> 00:17:51,535
+Enter.
+
+346
+00:17:51,578 --> 00:17:53,102
+Aren't we the hub
+of activity?
+
+347
+00:17:54,114 --> 00:17:55,809
+l'm sorry, am l
+interrupting anything?
+
+348
+00:17:55,849 --> 00:17:57,339
+No, come in, Doctor.
+
+349
+00:17:57,384 --> 00:18:00,012
+Thank you, and please
+call me Julian.
+
+350
+00:18:00,053 --> 00:18:02,613
+Julian, is this
+medical business?
+
+351
+00:18:02,656 --> 00:18:04,248
+Well, to tell the truth,
+l tried to come up
+
+352
+00:18:04,291 --> 00:18:06,122
+with some official reason
+for dropping by
+
+353
+00:18:06,159 --> 00:18:07,285
+but your excellent health
+
+354
+00:18:07,327 --> 00:18:08,954
+has robbed me
+of any excuses.
+
+355
+00:18:09,062 --> 00:18:10,893
+Well, that didn't seem
+to stop you.
+
+356
+00:18:10,931 --> 00:18:13,695
+So, l thought l'd contribute
+to your good health
+
+357
+00:18:13,733 --> 00:18:14,859
+by buying you dinner.
+
+358
+00:18:14,901 --> 00:18:16,869
+Quark's makes
+a delicious couscous
+
+359
+00:18:16,903 --> 00:18:20,100
+and the company, l hope,
+might be mildly entertaining.
+
+360
+00:18:20,140 --> 00:18:22,472
+Sounds like fun.
+
+361
+00:18:22,509 --> 00:18:27,208
+Uh, though, l would like
+to, uh, freshen up first.
+
+362
+00:18:27,247 --> 00:18:30,478
+Could l meet you there
+in, say, 20 minutes or so?
+
+363
+00:18:30,517 --> 00:18:34,248
+Those 20 minutes
+will seem like an eternity.
+
+364
+00:18:40,160 --> 00:18:42,390
+These mating rituals
+you humans indulge in
+
+365
+00:18:42,429 --> 00:18:43,555
+are really quite disgusting.
+
+366
+00:18:43,597 --> 00:18:44,564
+Get out.
+
+367
+00:18:44,598 --> 00:18:45,565
+You know you don't mean it.
+
+368
+00:18:45,599 --> 00:18:46,725
+Out!
+
+369
+00:18:46,766 --> 00:18:47,892
+You're making
+a terrible mistake.
+
+370
+00:18:47,934 --> 00:18:48,901
+You'll be lost without me.
+
+371
+00:18:48,935 --> 00:18:50,903
+l can take care of myself.
+
+372
+00:18:50,937 --> 00:18:53,667
+Really? Well,
+we'll see about that.
+
+373
+00:19:04,837 --> 00:19:06,862
+Oh, just a cup of mint tea,
+please.
+
+374
+00:19:08,007 --> 00:19:10,237
+You're making
+a terrible mistake.
+
+375
+00:19:10,276 --> 00:19:14,508
+Why? The replicators
+haven't malfunctioned again?
+
+376
+00:19:14,547 --> 00:19:16,310
+l'm talking about Vash.
+
+377
+00:19:16,349 --> 00:19:17,680
+Stay away from her.
+
+378
+00:19:17,717 --> 00:19:20,277
+My God, you're
+an impertinent waiter.
+
+379
+00:19:20,319 --> 00:19:21,286
+l'm a friend.
+
+380
+00:19:21,320 --> 00:19:22,446
+l'm giving you friendly advice.
+
+381
+00:19:22,488 --> 00:19:23,477
+She's nothing but trouble.
+
+382
+00:19:23,523 --> 00:19:25,923
+Really? Well, l don't see
+
+383
+00:19:25,992 --> 00:19:27,619
+that it's any of your
+business who l see.
+
+384
+00:19:27,660 --> 00:19:29,423
+ln fact, l'm having
+dinner with her now.
+
+385
+00:19:29,462 --> 00:19:31,555
+Are you sure you're up to it?
+You look tired.
+
+386
+00:19:31,597 --> 00:19:33,121
+l feel fine.
+
+387
+00:19:33,166 --> 00:19:36,693
+No, no, no, you look
+very, very, tired.
+
+388
+00:19:43,209 --> 00:19:45,507
+Oh, God.
+
+389
+00:19:45,545 --> 00:19:47,513
+Funny, l...
+
+390
+00:19:47,547 --> 00:19:50,516
+l do feel a bit... a bit spent.
+
+391
+00:19:50,550 --> 00:19:51,744
+Maybe l should...
+
+392
+00:19:51,784 --> 00:19:55,220
+Maybe l should go lie down
+for a, for a minute.
+
+393
+00:19:57,223 --> 00:19:59,555
+Hopefully, by yourself
+for a change.
+
+394
+00:20:01,227 --> 00:20:02,922
+Bloody hell.
+
+395
+00:20:02,962 --> 00:20:07,695
+Sir, the Klingon scout ship
+has departed Docking Bay 1 1.
+
+396
+00:20:07,733 --> 00:20:10,566
+Good. l'll tell Odo
+he can relax now.
+
+397
+00:20:11,904 --> 00:20:13,371
+We've got a problem, sir.
+
+398
+00:20:13,406 --> 00:20:15,203
+l just saw Q
+on the Promenade.
+
+399
+00:20:15,241 --> 00:20:16,469
+Q here?
+
+400
+00:20:16,509 --> 00:20:17,703
+What's Q?
+
+401
+00:20:17,743 --> 00:20:20,541
+A powerful and extremely
+unpredictable entity.
+
+402
+00:20:20,580 --> 00:20:23,708
+l was at a Starfleet briefing
+on him two years ago.
+
+403
+00:20:23,749 --> 00:20:25,546
+Blasted menace is what he is.
+
+404
+00:20:25,585 --> 00:20:26,984
+What does he want with us?
+
+405
+00:20:27,086 --> 00:20:29,884
+Whatever it is, you can
+be sure we won't like it.
+
+406
+00:20:29,922 --> 00:20:31,219
+You might ask Vash.
+
+407
+00:20:31,257 --> 00:20:32,281
+Why Vash?
+
+408
+00:20:32,325 --> 00:20:33,690
+They know each other.
+
+409
+00:20:33,726 --> 00:20:35,591
+From the <i>Enterprise?</i>
+
+410
+00:20:35,628 --> 00:20:38,096
+l believe they actually met
+in Sherwood Forest.
+
+411
+00:20:38,130 --> 00:20:40,121
+lt was one of
+the little jokes
+
+412
+00:20:40,166 --> 00:20:42,396
+Q played on the <i>Enterprise</i> crew.
+
+413
+00:20:46,272 --> 00:20:48,536
+Main power grid
+has dropped 80%.
+
+414
+00:20:48,574 --> 00:20:51,566
+Sensors are reading
+a massive graviton build-up.
+
+415
+00:20:51,611 --> 00:20:54,239
+How long will it take to bring
+us back up to full power?
+
+416
+00:20:54,280 --> 00:20:56,009
+lt's already beginning
+to normalize.
+
+417
+00:20:56,048 --> 00:20:58,016
+You know, if we have
+one of these outages
+
+418
+00:20:58,050 --> 00:20:59,677
+during a docking procedure
+
+419
+00:20:59,719 --> 00:21:01,778
+we could lose
+an entire pylon.
+
+420
+00:21:01,821 --> 00:21:03,186
+l've double-checked
+every system.
+
+421
+00:21:03,222 --> 00:21:04,484
+For the first time in a month
+
+422
+00:21:04,524 --> 00:21:06,355
+there's nothing wrong
+with any of them.
+
+423
+00:21:06,392 --> 00:21:10,294
+lt's got to be Q--
+another one of his stupid jokes.
+
+424
+00:21:10,329 --> 00:21:11,887
+l'm not laughing.
+
+425
+00:21:13,199 --> 00:21:15,963
+l figured we'd
+auction this off last.
+
+426
+00:21:16,035 --> 00:21:19,630
+lnteresting, but hardly
+of any intrinsic value.
+
+427
+00:21:19,672 --> 00:21:20,639
+Really? l thought it was
+
+428
+00:21:20,673 --> 00:21:21,799
+the best piece
+in the collection.
+
+429
+00:21:21,841 --> 00:21:23,240
+Oh, obviously,
+my associates have
+
+430
+00:21:23,276 --> 00:21:24,368
+more sophisticated tastes
+
+431
+00:21:24,410 --> 00:21:26,071
+than what you're used to
+
+432
+00:21:26,112 --> 00:21:28,706
+but, uh, just so it's
+not a total loss
+
+433
+00:21:28,748 --> 00:21:31,239
+l'll take it off
+your hands for, say
+
+434
+00:21:31,284 --> 00:21:33,252
+seven bars
+of gold-pressed latinum.
+
+435
+00:21:33,286 --> 00:21:34,981
+lt's worth 50 times as much.
+
+436
+00:21:35,054 --> 00:21:36,578
+Ridiculous.
+
+437
+00:21:39,625 --> 00:21:40,649
+All right, 18
+
+438
+00:21:40,693 --> 00:21:43,321
+but you must swear
+never to tell a soul
+
+439
+00:21:43,362 --> 00:21:45,262
+about my foolish generosity.
+
+440
+00:21:45,298 --> 00:21:47,163
+lf you want it, you're
+going to have to be
+
+441
+00:21:47,199 --> 00:21:48,496
+a lot more foolish than that.
+
+442
+00:21:48,534 --> 00:21:50,001
+All right, 30.
+
+443
+00:21:50,036 --> 00:21:51,230
+Now, give it to me.
+
+444
+00:21:51,270 --> 00:21:54,899
+Bidding starts at 200
+bars of gold latinum.
+
+445
+00:21:54,941 --> 00:21:57,671
+l can't decide
+what's more intoxicating--
+
+446
+00:21:57,710 --> 00:22:01,168
+this Gamzian wine,
+or your negotiating skills.
+
+447
+00:22:01,213 --> 00:22:03,340
+We need to talk.
+
+448
+00:22:03,382 --> 00:22:06,840
+The lady and l are having
+a private conversation.
+
+449
+00:22:06,886 --> 00:22:08,547
+lt can wait.
+
+450
+00:22:15,027 --> 00:22:18,190
+Tell me, Commander, where
+is that doctor of yours?
+
+451
+00:22:18,230 --> 00:22:21,290
+He was supposed to meet me here
+a half an hour ago.
+
+452
+00:22:21,334 --> 00:22:22,699
+Tell me about Q.
+
+453
+00:22:22,735 --> 00:22:25,067
+l'll tell you anything you
+want to know, Commander.
+
+454
+00:22:26,339 --> 00:22:28,500
+Just answer one question--
+
+455
+00:22:28,541 --> 00:22:30,372
+is Starfleet penalizing you
+
+456
+00:22:30,409 --> 00:22:33,606
+or did you actually request
+such a dismal command?
+
+457
+00:22:40,686 --> 00:22:42,551
+l want you off this station.
+
+458
+00:22:42,588 --> 00:22:45,284
+Don't be hasty, my
+happy-go-lucky friend.
+
+459
+00:22:45,324 --> 00:22:46,951
+This dreary little gulag
+
+460
+00:22:46,993 --> 00:22:49,154
+could use a little
+color, some excitement.
+
+461
+00:22:49,195 --> 00:22:51,789
+And who better
+to provide that than moi?
+
+462
+00:22:51,831 --> 00:22:55,096
+Although, l must admit,
+l like your new tailor.
+
+463
+00:22:56,535 --> 00:22:58,969
+l'm not impressed
+by your parlor tricks.
+
+464
+00:22:59,005 --> 00:23:01,337
+These power outages
+are going to stop, right now.
+
+465
+00:23:01,374 --> 00:23:02,671
+Why tell me?
+
+466
+00:23:02,708 --> 00:23:04,676
+Oh... oh, yes,
+of course, go ahead
+
+467
+00:23:04,710 --> 00:23:07,406
+blame Q if it makes
+you feel any better.
+
+468
+00:23:07,446 --> 00:23:08,435
+l suppose it's my fate
+
+469
+00:23:08,481 --> 00:23:10,540
+to be the galaxy's whipping boy.
+
+470
+00:23:10,583 --> 00:23:13,051
+Oh, heavy is the burden
+of being me.
+
+471
+00:23:13,085 --> 00:23:14,279
+lf you're looking for sympathy
+
+472
+00:23:14,320 --> 00:23:16,254
+you've come to the wrong place.
+
+473
+00:23:16,288 --> 00:23:19,951
+Actually, what l was hoping
+for was a little witty repartee
+
+474
+00:23:20,059 --> 00:23:22,220
+but l can see l'm not going
+to get any of that either.
+
+475
+00:23:22,261 --> 00:23:24,126
+At least your beloved Jean-Luc
+
+476
+00:23:24,163 --> 00:23:26,097
+knew how to turn a phrase.
+
+477
+00:23:26,132 --> 00:23:27,099
+Take a hint, Q.
+
+478
+00:23:27,133 --> 00:23:29,101
+No one wants you around.
+
+479
+00:23:29,135 --> 00:23:32,400
+Really, Vash, this playing
+hard to get is growing tedious.
+
+480
+00:23:32,438 --> 00:23:34,429
+Let's not forget that l'm the Q
+
+481
+00:23:34,473 --> 00:23:35,804
+and you the lowly human.
+
+482
+00:23:35,841 --> 00:23:38,605
+l'll decide when
+this partnership is over.
+
+483
+00:23:38,644 --> 00:23:39,941
+Understand?
+
+484
+00:23:39,979 --> 00:23:41,105
+Why don't you and l
+
+485
+00:23:41,147 --> 00:23:43,342
+continue this discussion
+in private?
+
+486
+00:23:43,382 --> 00:23:45,077
+Excellent idea.
+
+487
+00:23:45,117 --> 00:23:46,607
+You're right.
+
+488
+00:23:46,652 --> 00:23:48,620
+This is an excellent idea.
+
+489
+00:23:48,654 --> 00:23:50,178
+Sisko to Ops.
+
+490
+00:23:50,222 --> 00:23:52,520
+All gone.
+
+491
+00:23:54,093 --> 00:23:55,560
+Bring them back, Q.
+
+492
+00:23:55,594 --> 00:23:56,561
+Now!
+
+493
+00:23:56,595 --> 00:23:57,755
+Or what?
+
+494
+00:23:57,797 --> 00:23:59,355
+You'll thrash me?
+
+495
+00:23:59,398 --> 00:24:02,595
+Shall we settle
+this mano a mano?
+
+496
+00:24:02,635 --> 00:24:04,899
+Marquis of Queensberry rules?
+
+497
+00:24:04,937 --> 00:24:06,404
+What?
+
+498
+00:24:06,439 --> 00:24:10,705
+Fisticuffs, pugilism,
+the manly art of self-defense.
+
+499
+00:24:10,743 --> 00:24:12,904
+Come on.
+
+500
+00:24:12,945 --> 00:24:15,106
+lsn't this all
+wonderfully barbaric?
+
+501
+00:24:15,147 --> 00:24:16,307
+Go on, take a poke at me.
+
+502
+00:24:16,348 --> 00:24:17,940
+l know that's what
+you really want to do.
+
+503
+00:24:18,050 --> 00:24:19,108
+Come on.
+
+504
+00:24:19,151 --> 00:24:21,346
+l'll wager five bars
+of latinum on Sisko.
+
+505
+00:24:21,387 --> 00:24:22,376
+You're on.
+
+506
+00:24:22,421 --> 00:24:23,388
+Fight back.
+
+507
+00:24:23,422 --> 00:24:25,788
+This is supposed to be brutal.
+
+508
+00:24:33,699 --> 00:24:36,827
+You can pay me
+out of your profits
+
+509
+00:24:36,869 --> 00:24:38,530
+from the auction.
+
+510
+00:24:39,972 --> 00:24:41,269
+You hit me.
+
+511
+00:24:41,307 --> 00:24:43,275
+Picard never hit me.
+
+512
+00:24:43,309 --> 00:24:45,243
+l'm not Picard.
+
+513
+00:24:45,277 --> 00:24:46,266
+lndeed not.
+
+514
+00:24:46,312 --> 00:24:49,281
+You're much easier to provoke.
+
+515
+00:24:49,315 --> 00:24:51,306
+How fortunate for me.
+
+516
+00:25:19,612 --> 00:25:22,547
+Oh! Not again.
+
+517
+00:25:25,284 --> 00:25:27,946
+Damn it, Q.
+Enough is enough.
+
+518
+00:25:28,287 --> 00:25:29,584
+We're losing atmosphere.
+
+519
+00:25:29,622 --> 00:25:30,953
+Decompression protocol.
+
+520
+00:25:32,458 --> 00:25:35,393
+Mr. O'Brien, raise
+the confinement shields.
+
+521
+00:25:39,431 --> 00:25:40,489
+Shields up.
+
+522
+00:25:40,533 --> 00:25:41,932
+Damage report.
+
+523
+00:25:41,967 --> 00:25:43,764
+We've got a minor hull breach
+
+524
+00:25:43,803 --> 00:25:45,771
+in one of the upper bulkheads.
+
+525
+00:25:45,805 --> 00:25:47,329
+l'm getting reports
+of hull fractures
+
+526
+00:25:47,373 --> 00:25:48,897
+throughout the station.
+
+527
+00:25:48,941 --> 00:25:50,738
+Emergency systems
+
+528
+00:25:50,776 --> 00:25:52,403
+appear to be functioning.
+
+529
+00:25:52,444 --> 00:25:54,036
+Repair crews are responding.
+
+530
+00:25:59,218 --> 00:26:00,776
+The breach was caused
+
+531
+00:26:00,820 --> 00:26:03,448
+by some kind of focused
+graviton pulse.
+
+532
+00:26:03,489 --> 00:26:05,855
+Every time we've had
+a power drain
+
+533
+00:26:05,891 --> 00:26:07,153
+it's been followed
+
+534
+00:26:07,193 --> 00:26:09,787
+by an increase
+in the graviton field.
+
+535
+00:26:09,829 --> 00:26:10,921
+lf this continues,
+we could wind up
+
+536
+00:26:11,030 --> 00:26:12,793
+with a breach in one
+of our reactor cores.
+
+537
+00:26:12,832 --> 00:26:13,924
+We'd lose half the station.
+
+538
+00:26:14,033 --> 00:26:15,398
+Maybe it's time
+
+539
+00:26:15,434 --> 00:26:17,561
+we opened
+negotiations with Q.
+
+540
+00:26:17,603 --> 00:26:20,231
+l'm not convinced Q
+is behind this.
+
+541
+00:26:20,272 --> 00:26:22,206
+Playing with the lights and
+punching holes in the hull
+
+542
+00:26:22,241 --> 00:26:25,561
+doesn't strike me as his style.
+
+543
+00:26:27,229 --> 00:26:29,129
+You wanted to see me?
+
+544
+00:26:29,164 --> 00:26:30,222
+Make it quick.
+
+545
+00:26:30,265 --> 00:26:32,199
+l have important business.
+
+546
+00:26:32,234 --> 00:26:33,292
+Yes, l know.
+
+547
+00:26:33,335 --> 00:26:36,498
+You're auctioning off
+some artifacts
+
+548
+00:26:36,538 --> 00:26:38,733
+from the Gamma Quadrant.
+
+549
+00:26:38,774 --> 00:26:43,541
+You were eavesdropping
+on my conversation with Vash.
+
+550
+00:26:45,547 --> 00:26:48,539
+What were you this time?
+
+551
+00:26:48,584 --> 00:26:52,645
+The table? One of the chairs?
+
+552
+00:26:52,688 --> 00:26:55,316
+The wine bottle.
+
+553
+00:26:55,357 --> 00:26:57,723
+When are you going to realize
+
+554
+00:26:57,760 --> 00:27:00,422
+that you have
+no secrets from me?
+
+555
+00:27:00,462 --> 00:27:01,520
+l have nothing to hide.
+
+556
+00:27:01,563 --> 00:27:04,031
+l'm selling quality merchandise
+to select clientele.
+
+557
+00:27:04,066 --> 00:27:07,695
+And what makes them so select?
+
+558
+00:27:07,736 --> 00:27:11,001
+They're all
+ridiculously wealthy...
+
+559
+00:27:11,040 --> 00:27:14,168
+and not too bright.
+
+560
+00:27:14,209 --> 00:27:16,507
+l'll never understand
+this obsession
+
+561
+00:27:16,545 --> 00:27:17,637
+with accumulating
+
+562
+00:27:17,680 --> 00:27:18,874
+material wealth.
+
+563
+00:27:18,981 --> 00:27:21,677
+You spend your entire life
+plotting and scheming
+
+564
+00:27:21,717 --> 00:27:23,878
+to acquire more
+and more possessions
+
+565
+00:27:23,986 --> 00:27:26,284
+until your living
+areas are bursting
+
+566
+00:27:26,321 --> 00:27:27,515
+with useless junk.
+
+567
+00:27:27,556 --> 00:27:28,682
+Then you die.
+
+568
+00:27:28,724 --> 00:27:30,692
+Your relatives sell everything
+
+569
+00:27:30,726 --> 00:27:33,058
+and start the cycle
+all over again.
+
+570
+00:27:38,233 --> 00:27:43,227
+lsn't there anything
+you... desire?
+
+571
+00:27:43,272 --> 00:27:44,830
+l have my work.
+
+572
+00:27:44,873 --> 00:27:46,898
+What more do l need?
+
+573
+00:27:47,009 --> 00:27:49,910
+A suit of the finest
+Andorian silk?
+
+574
+00:27:49,945 --> 00:27:54,814
+A ring of pure Surax?
+
+575
+00:27:54,850 --> 00:27:56,374
+A complete set
+
+576
+00:27:56,418 --> 00:27:59,478
+of Tanesh pottery?
+
+577
+00:27:59,521 --> 00:28:01,079
+How about
+
+578
+00:28:01,123 --> 00:28:04,854
+a latinum-plated
+bucket to sleep in?
+
+579
+00:28:08,030 --> 00:28:09,054
+Ah.
+
+580
+00:28:09,098 --> 00:28:11,191
+Ahh...
+
+581
+00:28:18,474 --> 00:28:20,374
+Well, l'm glad to see
+you've packed.
+
+582
+00:28:20,409 --> 00:28:23,173
+l hope you said good-bye
+to all your newfound friends.
+
+583
+00:28:23,212 --> 00:28:24,509
+l don't have
+time for this.
+
+584
+00:28:24,546 --> 00:28:27,606
+You've led a charmed life
+these past two years
+
+585
+00:28:27,649 --> 00:28:29,674
+under my benevolent
+protection.
+
+586
+00:28:29,718 --> 00:28:31,447
+l can take care of myself.
+
+587
+00:28:31,487 --> 00:28:33,512
+Really?
+
+588
+00:28:33,555 --> 00:28:36,615
+Do you remember
+that tiny little insect bite
+
+589
+00:28:36,658 --> 00:28:39,821
+you had on Erabus Prime?
+
+590
+00:28:39,862 --> 00:28:42,126
+lf l hadn't been there...
+
+591
+00:28:47,903 --> 00:28:50,633
+l am not going with you.
+
+592
+00:28:50,672 --> 00:28:52,799
+The galaxy
+can be a dangerous place
+
+593
+00:28:52,841 --> 00:28:54,570
+when you're on your own.
+
+594
+00:28:59,848 --> 00:29:02,078
+lt's over, Q.
+
+595
+00:29:12,528 --> 00:29:15,986
+l leave you now to reconsider
+my offer of friendship.
+
+596
+00:29:34,082 --> 00:29:37,984
+Station Log, Stardate 46531.2.
+
+597
+00:29:38,020 --> 00:29:40,545
+The station's power is
+continuing to be drained
+
+598
+00:29:40,589 --> 00:29:42,216
+and converted into gravitons.
+
+599
+00:29:42,257 --> 00:29:46,193
+At this rate, our life-support
+systems will fail in 14 hours.
+
+600
+00:29:46,228 --> 00:29:49,220
+Sir, we'll never find
+the source of the power drain
+
+601
+00:29:49,264 --> 00:29:51,596
+using these bloody Cardassian
+internal sensors.
+
+602
+00:29:51,633 --> 00:29:53,362
+They're just
+not sensitive enough.
+
+603
+00:29:53,402 --> 00:29:55,802
+What if we make the power drain
+easier to detect.
+
+604
+00:29:55,838 --> 00:29:58,705
+lf we flood the station
+with ionized tritium gas
+
+605
+00:29:58,740 --> 00:30:00,708
+we should be able to trace
+the particle flow
+
+606
+00:30:00,742 --> 00:30:01,868
+to the source.
+
+607
+00:30:01,910 --> 00:30:03,036
+Tritium?
+
+608
+00:30:03,078 --> 00:30:04,773
+Well isn't that pretty toxic?
+
+609
+00:30:04,813 --> 00:30:07,111
+Only when it's highly
+concentrated.
+
+610
+00:30:07,149 --> 00:30:08,707
+We'd only use
+a very small amount.
+
+611
+00:30:08,750 --> 00:30:10,081
+Do it.
+
+612
+00:30:10,118 --> 00:30:13,315
+Unless we get this under control
+in the next eight hours
+
+613
+00:30:13,355 --> 00:30:15,721
+we'll begin
+evacuation procedures.
+
+614
+00:30:15,757 --> 00:30:16,883
+Still chasing your own tail?
+
+615
+00:30:16,925 --> 00:30:18,324
+Picard and his lackeys
+
+616
+00:30:18,360 --> 00:30:20,555
+would have solved all this
+technobabble hours ago.
+
+617
+00:30:20,596 --> 00:30:23,724
+No wonder you're not
+commanding a starship.
+
+618
+00:30:23,765 --> 00:30:25,232
+Security to Ops.
+
+619
+00:30:25,267 --> 00:30:28,236
+Well, aren't we the feisty
+little go-getter.
+
+620
+00:30:28,270 --> 00:30:30,238
+l'd keep my eye on this one.
+
+621
+00:30:30,272 --> 00:30:31,500
+Chances are
+
+622
+00:30:31,540 --> 00:30:33,030
+she's after your job.
+
+623
+00:30:33,075 --> 00:30:35,908
+Why don't you do something
+constructive for a change--
+
+624
+00:30:35,944 --> 00:30:37,912
+like torment Cardassians.
+
+625
+00:30:37,946 --> 00:30:39,743
+Do l know you?
+
+626
+00:30:39,781 --> 00:30:42,909
+O'Brien. From the <i>Enterprise.</i>
+
+627
+00:30:42,951 --> 00:30:44,248
+<i>Enterprise?</i>
+
+628
+00:30:44,286 --> 00:30:45,583
+Oh, yes.
+
+629
+00:30:45,621 --> 00:30:48,283
+Weren't you one
+of the little people?
+
+630
+00:30:50,158 --> 00:30:53,218
+Quite a motley crew
+you've assembled here, Benji.
+
+631
+00:30:53,262 --> 00:30:56,493
+My advice to you
+is to evacuate now
+
+632
+00:30:56,531 --> 00:30:59,261
+and save all this
+pointless guesswork.
+
+633
+00:30:59,334 --> 00:31:01,165
+Q, either you tell us
+what's going on
+
+634
+00:31:01,203 --> 00:31:02,727
+or get the hell
+out of the way.
+
+635
+00:31:02,771 --> 00:31:04,500
+l'll tell you
+what's going on.
+
+636
+00:31:04,539 --> 00:31:07,440
+While you're here conducting
+futile experiments
+
+637
+00:31:07,476 --> 00:31:09,876
+Vash is below engaged
+in base commerce
+
+638
+00:31:09,912 --> 00:31:11,539
+and setting Federation ethics
+
+639
+00:31:11,580 --> 00:31:13,309
+back 200 years.
+
+640
+00:31:13,348 --> 00:31:16,215
+Believe me, gang
+
+641
+00:31:16,251 --> 00:31:19,812
+she's far more dangerous to you
+than l.
+
+642
+00:31:31,600 --> 00:31:32,931
+Kolos, my friend.
+
+643
+00:31:33,001 --> 00:31:35,799
+l don't know
+which pleases me more--
+
+644
+00:31:35,837 --> 00:31:39,534
+your smiling face
+or your overflowing purse.
+
+645
+00:31:39,574 --> 00:31:41,439
+Quark, you obsequious toad.
+
+646
+00:31:41,476 --> 00:31:42,602
+Your so-called
+
+647
+00:31:42,644 --> 00:31:44,703
+Gamma Quadrant merchandise
+
+648
+00:31:44,746 --> 00:31:46,111
+had better be legitimate
+
+649
+00:31:46,148 --> 00:31:48,514
+or l'll toss you out
+the nearest airlock.
+
+650
+00:31:48,550 --> 00:31:49,949
+No cause for alarm.
+
+651
+00:31:50,018 --> 00:31:52,077
+Each piece comes complete
+
+652
+00:31:52,120 --> 00:31:55,851
+with a statement of authenticity
+from Vash--
+
+653
+00:31:55,891 --> 00:31:57,483
+the Federation's foremost expert
+
+654
+00:31:57,526 --> 00:31:59,494
+on the Gamma Quadrant.
+
+655
+00:31:59,528 --> 00:32:03,794
+ln that case, stop sniveling
+and give me a synthale.
+
+656
+00:32:09,404 --> 00:32:11,565
+Are they all that pleasant?
+
+657
+00:32:13,241 --> 00:32:15,766
+l don't care
+about their manners.
+
+658
+00:32:15,811 --> 00:32:17,540
+The important thing is
+
+659
+00:32:17,579 --> 00:32:21,538
+they're honest collectors
+of antiquities-- every one.
+
+660
+00:32:21,583 --> 00:32:23,380
+How honest?
+
+661
+00:32:23,418 --> 00:32:25,318
+As honest as you and l.
+
+662
+00:32:25,354 --> 00:32:28,585
+Well, then, we'd better keep
+a close eye on them.
+
+663
+00:32:28,623 --> 00:32:32,081
+My dear, l've been thinking.
+
+664
+00:32:32,127 --> 00:32:37,224
+What would you say to
+a permanent partnership?
+
+665
+00:32:37,265 --> 00:32:40,564
+What with your knowledge
+of the Gamma Quadrant
+
+666
+00:32:40,602 --> 00:32:44,629
+and my business connections,
+we could make a fortune.
+
+667
+00:32:44,673 --> 00:32:47,642
+Sorry, Quark, but l've slept
+in my last tent.
+
+668
+00:32:47,676 --> 00:32:51,339
+l'm looking forward to a nice,
+quiet life back on Earth.
+
+669
+00:32:51,380 --> 00:32:52,938
+You won't last a month.
+
+670
+00:32:53,048 --> 00:32:54,413
+You're like me.
+
+671
+00:32:54,449 --> 00:32:57,111
+You live for excitement,
+adventure and profit.
+
+672
+00:32:57,152 --> 00:32:59,143
+Not anymore.
+
+673
+00:32:59,187 --> 00:33:01,985
+Would you care to make
+a wager on that?
+
+674
+00:33:05,560 --> 00:33:08,393
+The graviton field
+has increased by 60%.
+
+675
+00:33:08,430 --> 00:33:10,864
+How soon can we begin
+the sensor sweep?
+
+676
+00:33:10,899 --> 00:33:12,799
+Not until we've increased
+tritium levels
+
+677
+00:33:12,834 --> 00:33:13,994
+to one part per million.
+
+678
+00:33:14,036 --> 00:33:16,129
+Should only be another
+seven, eight minutes.
+
+679
+00:33:16,171 --> 00:33:17,832
+Commander, we're being pulled
+
+680
+00:33:17,873 --> 00:33:19,807
+out of our normal position.
+
+681
+00:33:19,841 --> 00:33:21,638
+Use control thrusters
+to stabilize the station.
+
+682
+00:33:21,676 --> 00:33:24,144
+Firing thrusters.
+
+683
+00:33:30,185 --> 00:33:32,455
+We're still moving.
+
+684
+00:33:32,588 --> 00:33:33,885
+lf the graviton field
+
+685
+00:33:33,956 --> 00:33:35,514
+is feeding off
+the station's power
+
+686
+00:33:35,558 --> 00:33:38,322
+maybe we can cut its supply
+by shutting down the reactors.
+
+687
+00:33:38,361 --> 00:33:40,329
+Put life-support
+on emergency backup.
+
+688
+00:33:40,363 --> 00:33:41,955
+Take everything else off line.
+
+689
+00:33:46,569 --> 00:33:49,037
+We're still moving
+out of position.
+
+690
+00:33:49,071 --> 00:33:51,301
+What's our heading?
+
+691
+00:33:51,340 --> 00:33:55,674
+Bearing 157 mark 13.
+
+692
+00:33:55,711 --> 00:33:57,872
+Straight into the wormhole.
+
+693
+00:34:14,030 --> 00:34:16,260
+Now, as you know
+
+694
+00:34:16,299 --> 00:34:19,496
+payment must be
+in gold-pressed latinum
+
+695
+00:34:19,535 --> 00:34:23,596
+and all transactions
+are final. Hmm?
+
+696
+00:34:26,642 --> 00:34:29,440
+Remember, bid high,
+and bid often.
+
+697
+00:34:30,947 --> 00:34:32,539
+Ladies and gentlemen
+
+698
+00:34:32,582 --> 00:34:34,311
+our first item is a statue
+
+699
+00:34:34,350 --> 00:34:36,978
+from the Gamma Quadrant's
+Verath system.
+
+700
+00:34:37,019 --> 00:34:38,884
+Now, l suppose
+l should take a minute
+
+701
+00:34:38,955 --> 00:34:41,583
+to tell you a little bit
+about the Verathan civilization
+
+702
+00:34:41,624 --> 00:34:46,391
+which reached its height
+some 30,000 years ago
+
+703
+00:34:46,429 --> 00:34:48,863
+and spanned
+over two dozen systems
+
+704
+00:34:48,898 --> 00:34:51,059
+interconnected
+by a highly developed trade
+
+705
+00:34:51,100 --> 00:34:52,567
+and communications network.
+
+706
+00:34:52,602 --> 00:34:54,536
+This statue
+represents Drohlak--
+
+707
+00:34:54,570 --> 00:34:57,004
+the Prime Ossemite
+of the 19th dynasty.
+
+708
+00:34:57,039 --> 00:34:58,336
+Vash, what are you doing?
+
+709
+00:34:58,374 --> 00:35:01,366
+l'm placing the statue
+in its historical context.
+
+710
+00:35:01,410 --> 00:35:02,536
+Give me that.
+
+711
+00:35:02,578 --> 00:35:05,638
+This isn't
+the Daystrom lnstitute.
+
+712
+00:35:05,681 --> 00:35:06,978
+Watch closely.
+
+713
+00:35:10,319 --> 00:35:11,616
+Friends...
+
+714
+00:35:11,654 --> 00:35:13,383
+it's rare...
+
+715
+00:35:13,422 --> 00:35:15,413
+it's beautiful...
+
+716
+00:35:15,458 --> 00:35:18,552
+and it's
+a Gamma Quadrant original!
+
+717
+00:35:18,594 --> 00:35:20,824
+And it can be yours
+for the right price.
+
+718
+00:35:20,863 --> 00:35:25,596
+Bidding will start at ten bars
+of gold-pressed latinum.
+
+719
+00:35:25,635 --> 00:35:27,125
+Make it ten.
+
+720
+00:35:27,169 --> 00:35:29,569
+Fifteen?
+
+721
+00:35:29,605 --> 00:35:31,436
+Sixteen?
+
+722
+00:35:31,474 --> 00:35:32,839
+Who will say 17
+
+723
+00:35:32,875 --> 00:35:36,367
+and be the first to own a piece
+of the Gamma Quadrant?
+
+724
+00:35:36,412 --> 00:35:38,380
+Tritium levels
+throughout the station
+
+725
+00:35:38,414 --> 00:35:40,882
+have reached one part
+per million.
+
+726
+00:35:40,916 --> 00:35:43,248
+lnitiating sensor sweep.
+
+727
+00:35:46,288 --> 00:35:48,779
+We can rule out
+the docking ring.
+
+728
+00:35:48,824 --> 00:35:51,418
+The tritium gas
+seems to be draining towards
+
+729
+00:35:51,460 --> 00:35:52,552
+the central core.
+
+730
+00:35:52,595 --> 00:35:54,062
+Where in the central core?
+
+731
+00:35:54,096 --> 00:35:56,997
+Let me see if l can get
+a more precise reading.
+
+732
+00:35:58,467 --> 00:36:00,196
+lt's not clear enough.
+
+733
+00:36:01,203 --> 00:36:03,694
+l can't pinpoint
+an exact location.
+
+734
+00:36:03,739 --> 00:36:06,401
+Based on our current trajectory
+
+735
+00:36:06,442 --> 00:36:09,673
+we'll hit the wormhole
+in 18 minutes.
+
+736
+00:36:09,712 --> 00:36:11,304
+What the hell
+
+737
+00:36:11,347 --> 00:36:13,838
+could be pulling us
+into the wormhole?
+
+738
+00:36:13,883 --> 00:36:16,716
+Do we have time
+to transfer auxiliary power
+
+739
+00:36:16,752 --> 00:36:18,447
+to the deflectors, Chief?
+
+740
+00:36:18,487 --> 00:36:19,852
+Sir, there's not
+enough power left
+
+741
+00:36:19,955 --> 00:36:20,944
+to make any difference.
+
+742
+00:36:20,990 --> 00:36:22,787
+lf we get sucked
+into that wormhole
+
+743
+00:36:22,825 --> 00:36:24,053
+we'll be in a billion pieces
+
+744
+00:36:24,093 --> 00:36:25,856
+by the time we reach
+the Gamma Quadrant.
+
+745
+00:36:28,698 --> 00:36:34,330
+Sold to Kolos for 36 bars
+of gold-pressed latinum.
+
+746
+00:36:37,273 --> 00:36:39,298
+Next, we have...
+
+747
+00:36:40,943 --> 00:36:42,467
+a dagger...
+
+748
+00:36:43,479 --> 00:36:47,347
+studded with some
+very interesting-looking gems.
+
+749
+00:36:48,417 --> 00:36:49,509
+Think of it
+
+750
+00:36:49,552 --> 00:36:52,487
+as a weapon and an investment.
+
+751
+00:36:52,521 --> 00:36:54,887
+Bidding will start at 40.
+
+752
+00:36:54,990 --> 00:36:56,685
+Forty.
+
+753
+00:36:56,726 --> 00:36:59,286
+Forty-two?
+
+754
+00:36:59,328 --> 00:37:00,727
+Forty-two.
+
+755
+00:37:00,763 --> 00:37:02,060
+Forty-five?
+
+756
+00:37:02,098 --> 00:37:04,089
+Don't hold back.
+
+757
+00:37:04,133 --> 00:37:06,795
+You know you want it.
+
+758
+00:37:06,836 --> 00:37:08,235
+Give me 50.
+
+759
+00:37:08,270 --> 00:37:10,170
+50. We have 50.
+
+760
+00:37:10,206 --> 00:37:11,366
+l hate to interrupt
+
+761
+00:37:11,407 --> 00:37:13,841
+such a thrilling display
+of naked avarice
+
+762
+00:37:13,943 --> 00:37:16,138
+but l thought
+it was only right of me
+
+763
+00:37:16,178 --> 00:37:19,306
+to warn you that this station
+is hurtling towards its doom
+
+764
+00:37:19,348 --> 00:37:21,646
+and it's very unlikely
+
+765
+00:37:21,684 --> 00:37:24,710
+that any of you will survive
+to enjoy your purchases.
+
+766
+00:37:24,754 --> 00:37:26,483
+l just thought l'd mention it.
+
+767
+00:37:26,522 --> 00:37:27,546
+Please, carry on.
+
+768
+00:37:27,590 --> 00:37:29,751
+Ladies and gentlemen,
+l assure you
+
+769
+00:37:29,792 --> 00:37:31,657
+everything is under control.
+
+770
+00:37:31,694 --> 00:37:32,956
+Drinks for everyone
+
+771
+00:37:32,995 --> 00:37:34,724
+and free use of the holosuites
+
+772
+00:37:34,764 --> 00:37:36,959
+at the conclusion
+of the auction, eh?
+
+773
+00:37:36,999 --> 00:37:39,593
+l don't think l realized
+until this moment
+
+774
+00:37:39,635 --> 00:37:41,125
+how evil you really are.
+
+775
+00:37:41,170 --> 00:37:43,070
+You would kill
+all these people
+
+776
+00:37:43,105 --> 00:37:44,402
+to get even with me.
+
+777
+00:37:44,440 --> 00:37:47,341
+Well, l must admit,
+the thought had occurred to me
+
+778
+00:37:47,376 --> 00:37:50,209
+but this station is
+in enough trouble without me
+
+779
+00:37:50,246 --> 00:37:52,214
+although l'd be glad
+to save you.
+
+780
+00:37:52,248 --> 00:37:53,806
+All you have to do is ask.
+
+781
+00:37:53,849 --> 00:37:56,784
+l'll take my chances
+with the others.
+
+782
+00:37:56,819 --> 00:37:57,686
+As you choose.
+
+783
+00:37:57,686 --> 00:37:58,015
+As you choose.
+
+784
+00:37:58,053 --> 00:38:01,284
+l'm going to just sit
+right here and watch.
+
+785
+00:38:01,323 --> 00:38:06,386
+l've never seen a space station
+torn apart by a wormhole before.
+
+786
+00:38:06,428 --> 00:38:07,395
+100!
+
+787
+00:38:07,429 --> 00:38:09,659
+Sold to my cousin Stol
+
+788
+00:38:09,698 --> 00:38:12,599
+for 105 bars
+of gold-pressed latinum.
+
+789
+00:38:12,635 --> 00:38:14,535
+What if we pumped
+more tritium gas
+
+790
+00:38:14,570 --> 00:38:15,832
+into the central core?
+
+791
+00:38:15,905 --> 00:38:17,065
+The sensors might
+be more accurate
+
+792
+00:38:17,106 --> 00:38:18,164
+with a greater concentration.
+
+793
+00:38:18,207 --> 00:38:19,231
+lt might work
+
+794
+00:38:19,275 --> 00:38:21,266
+but, in four years,
+we'd all be dead
+
+795
+00:38:21,310 --> 00:38:22,743
+from tritium poisoning.
+
+796
+00:38:22,778 --> 00:38:23,836
+Wait a minute.
+
+797
+00:38:23,879 --> 00:38:24,846
+Of course.
+
+798
+00:38:24,914 --> 00:38:26,609
+Bring the reactors back on line.
+
+799
+00:38:26,649 --> 00:38:27,616
+The reactors?
+
+800
+00:38:27,650 --> 00:38:28,810
+But they'll just
+feed more energy
+
+801
+00:38:28,851 --> 00:38:30,250
+into the graviton field.
+
+802
+00:38:30,286 --> 00:38:31,810
+lf we generate enough energy
+
+803
+00:38:31,854 --> 00:38:34,687
+it should create a power drain
+big enough to trace.
+
+804
+00:38:34,723 --> 00:38:37,521
+lt might also push us faster
+into the wormhole.
+
+805
+00:38:37,560 --> 00:38:38,584
+A lot faster.
+
+806
+00:38:38,627 --> 00:38:40,686
+lt's a chance we've got to take.
+
+807
+00:38:40,729 --> 00:38:42,856
+Bring us to full
+power, Mr. O'Brien.
+
+808
+00:38:42,898 --> 00:38:44,229
+Everything you've got.
+
+809
+00:38:44,266 --> 00:38:46,131
+Aye, sir.
+
+810
+00:38:47,603 --> 00:38:50,538
+Sold to Rul the Obscure
+
+811
+00:38:50,573 --> 00:38:54,475
+for 151 latinum bars.
+
+812
+00:38:54,510 --> 00:38:56,774
+And now...
+
+813
+00:39:00,816 --> 00:39:03,512
+our final item
+
+814
+00:39:03,552 --> 00:39:06,453
+and l think you'll
+agree with me
+
+815
+00:39:06,488 --> 00:39:10,618
+it was well worth the wait.
+
+816
+00:39:15,064 --> 00:39:16,656
+Bidding will start
+
+817
+00:39:16,699 --> 00:39:22,569
+at 200 bars of
+gold-pressed latinum.
+
+818
+00:39:22,605 --> 00:39:23,970
+200?
+
+819
+00:39:24,006 --> 00:39:26,338
+Can l get 250?
+
+820
+00:39:26,375 --> 00:39:29,037
+250. 300, anyone?
+
+821
+00:39:29,078 --> 00:39:32,707
+300 bars
+of gold-pressed latinum.
+
+822
+00:39:32,748 --> 00:39:33,840
+350?
+
+823
+00:39:33,883 --> 00:39:34,975
+Here.
+
+824
+00:39:35,017 --> 00:39:36,109
+400?
+
+825
+00:39:36,151 --> 00:39:37,846
+400.
+
+826
+00:39:37,920 --> 00:39:39,217
+Five?
+
+827
+00:39:39,255 --> 00:39:40,847
+520?
+
+828
+00:39:43,058 --> 00:39:47,586
+600 bars of gold-
+pressed latinum.
+
+829
+00:39:47,630 --> 00:39:50,360
+lt's not in any
+of the crossover bridges
+
+830
+00:39:50,399 --> 00:39:52,128
+or in the habitat ring.
+
+831
+00:39:52,167 --> 00:39:53,862
+lt's in the upper core.
+
+832
+00:39:53,936 --> 00:39:54,868
+Three minutes
+
+833
+00:39:54,937 --> 00:39:57,064
+14 seconds to the wormhole.
+
+834
+00:39:57,106 --> 00:39:58,971
+We're picking up speed.
+
+835
+00:39:59,008 --> 00:40:00,373
+l've got it.
+
+836
+00:40:00,409 --> 00:40:02,604
+The power drain's coming
+from the Promenade.
+
+837
+00:40:02,645 --> 00:40:03,703
+Chief, you have Ops.
+
+838
+00:40:06,815 --> 00:40:09,045
+2,500.
+
+839
+00:40:11,587 --> 00:40:15,284
+2,500, and one.
+
+840
+00:40:23,499 --> 00:40:24,761
+This way.
+
+841
+00:40:31,974 --> 00:40:34,033
+3,000 bars of latinum.
+
+842
+00:40:34,076 --> 00:40:35,494
+My final offer.
+
+843
+00:40:35,627 --> 00:40:37,219
+3,000 bars!
+
+844
+00:40:37,262 --> 00:40:39,492
+A million.
+
+845
+00:40:41,033 --> 00:40:43,524
+A million bars
+of gold-pressed latinum.
+
+846
+00:40:44,903 --> 00:40:46,200
+-Over here.
+-A million going once...
+
+847
+00:40:46,238 --> 00:40:47,205
+lt's by the podium.
+
+848
+00:40:47,239 --> 00:40:48,206
+A million going twice...
+
+849
+00:40:48,240 --> 00:40:49,207
+That's it.
+
+850
+00:40:49,241 --> 00:40:50,208
+Three times.
+
+851
+00:40:50,242 --> 00:40:51,470
+This auction's over.
+
+852
+00:40:51,510 --> 00:40:52,477
+Sold.
+
+853
+00:40:52,511 --> 00:40:53,842
+Chief, shut down the reactors.
+
+854
+00:40:53,879 --> 00:40:54,846
+We've found it.
+
+855
+00:40:54,880 --> 00:40:56,973
+And it's about time, too.
+
+856
+00:40:57,015 --> 00:40:58,676
+Sorry, all transactions
+are final.
+
+857
+00:40:58,717 --> 00:41:01,686
+This item belongs
+to that gentleman over there.
+
+858
+00:41:01,720 --> 00:41:03,813
+l'm reading a massive
+graviton build-up
+
+859
+00:41:03,855 --> 00:41:05,015
+inside this container.
+
+860
+00:41:05,057 --> 00:41:06,490
+lt's increasing exponentially.
+
+861
+00:41:06,525 --> 00:41:08,254
+We have to get it
+off the station now.
+
+862
+00:41:08,293 --> 00:41:10,488
+Chief, lock onto my combadge.
+
+863
+00:41:10,529 --> 00:41:14,260
+Prepare to transport it
+500 meters off the docking ring.
+
+864
+00:41:14,299 --> 00:41:16,028
+But l haven't been paid.
+
+865
+00:41:16,068 --> 00:41:17,330
+Energize.
+
+866
+00:41:48,300 --> 00:41:52,236
+Station Log, Stardate 46532.3.
+
+867
+00:41:52,270 --> 00:41:54,534
+With the embryonic life-form
+off the station
+
+868
+00:41:54,573 --> 00:41:56,734
+graviton levels
+have returned to normal.
+
+869
+00:41:56,775 --> 00:41:58,265
+We've used
+the control thrusters
+
+870
+00:41:58,310 --> 00:42:01,108
+to return the station
+to its original position.
+
+871
+00:42:01,146 --> 00:42:05,207
+So... you're off to
+the Daystrom lnstitute.
+
+872
+00:42:05,250 --> 00:42:07,241
+Bet you can hardly wait.
+
+873
+00:42:07,285 --> 00:42:10,777
+Long, boring lectures,
+endless conferences
+
+874
+00:42:10,822 --> 00:42:15,623
+whining students
+dogging your every step.
+
+875
+00:42:15,661 --> 00:42:17,060
+Sounds delightful.
+
+876
+00:42:17,095 --> 00:42:19,222
+Of course...
+
+877
+00:42:20,365 --> 00:42:23,027
+No, you wouldn't be interested.
+
+878
+00:42:23,068 --> 00:42:24,194
+ln what?
+
+879
+00:42:27,239 --> 00:42:30,766
+l hear they've
+uncovered the ruins
+
+880
+00:42:30,809 --> 00:42:34,210
+of a Rokai provincial
+capital on Tartaras V.
+
+881
+00:42:34,246 --> 00:42:38,683
+lf you could obtain
+some Rokain artifacts...
+
+882
+00:42:38,717 --> 00:42:40,378
+Forget it, Quark.
+
+883
+00:42:40,419 --> 00:42:42,387
+l'm going back to Earth.
+
+884
+00:42:42,421 --> 00:42:44,150
+Have it your way.
+
+885
+00:42:44,189 --> 00:42:45,918
+An abysmal place.
+
+886
+00:42:47,225 --> 00:42:49,125
+Tartaras V?
+
+887
+00:42:49,161 --> 00:42:51,721
+Earth. Oh, don't get me wrong.
+
+888
+00:42:51,763 --> 00:42:54,664
+1,000 years ago,
+it had character.
+
+889
+00:42:54,700 --> 00:42:58,158
+Crusades, Spanish lnquisition,
+Watergate.
+
+890
+00:42:58,203 --> 00:43:01,138
+Now it's just
+mind-numbingly dull.
+
+891
+00:43:01,173 --> 00:43:04,472
+Well, then, by all means,
+don't come with me.
+
+892
+00:43:05,877 --> 00:43:08,175
+l think you'd be much happier
+
+893
+00:43:08,213 --> 00:43:11,410
+poking about the ruins
+of Tartaras V.
+
+894
+00:43:11,450 --> 00:43:13,475
+l don't need your advice.
+
+895
+00:43:14,753 --> 00:43:16,584
+You really think l...?
+
+896
+00:43:18,457 --> 00:43:21,449
+You know, l still feel
+that l owe you
+
+897
+00:43:21,493 --> 00:43:24,587
+a million bars
+of gold-pressed latinum.
+
+898
+00:43:24,629 --> 00:43:27,097
+Keep it-- just give
+me back my life.
+
+899
+00:43:27,132 --> 00:43:28,827
+You'll regret it if l do.
+
+900
+00:43:28,934 --> 00:43:31,027
+l'm willing to
+take my chances.
+
+901
+00:43:31,069 --> 00:43:34,436
+All right, if you insist.
+
+902
+00:43:34,473 --> 00:43:36,703
+But it's not going
+to be the same without you.
+
+903
+00:43:36,742 --> 00:43:40,610
+When l look at a gas nebula,
+all l see is a cloud of dust.
+
+904
+00:43:40,645 --> 00:43:42,613
+Seeing the universe
+through your eyes
+
+905
+00:43:42,647 --> 00:43:47,414
+l was able to experience...
+wonder.
+
+906
+00:43:47,452 --> 00:43:49,886
+l'm going to miss that.
+
+907
+00:43:51,456 --> 00:43:56,325
+Well, l guess in some ways,
+l'm going to miss you, too.
+
+908
+00:43:56,361 --> 00:43:59,626
+Maybe l could
+drop in sometime.
+
+909
+00:43:59,664 --> 00:44:01,461
+Oh, God, l hope not.
+
+910
+00:44:03,368 --> 00:44:04,528
+Hey, Quark.
+
+911
+00:44:04,569 --> 00:44:07,367
+What's the quickest way
+to Tartaras V?
+
+912
+00:44:07,405 --> 00:44:08,633
+Ah...
+
+913
+00:44:22,587 --> 00:44:25,488
+l feel as though
+l've been asleep for days.
+
+914
+00:44:26,525 --> 00:44:28,083
+What?
+
+915
+00:44:29,294 --> 00:44:31,387
+Did l miss something?
+

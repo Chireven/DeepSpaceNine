@@ -1,3 +1,6 @@
+# Notes:
+ Upscaled PNG Folder size: 650GB
+
 # Known Issues
 
 ## ISSUE 1 : During the intro, the scrolling text skips
@@ -6,7 +9,7 @@ This can be corrected by using the OVR files from the project for this episode. 
 
 Start by following the documentation.  After you have created your MKV file from the D2V, insert these steps before continuing.
 
-.\encode-d2v.ps1 -stopTime 0:00:08 -inputPath '.\Season 01\Deep Space Nine - S01E01E02 - Emissary\Deep Space Nine - S01E01E02 - Emissary_intro.avs'
+.\encode-d2v.ps1 -stopTime 0:00:08 -inputFile '.\Season 01\Deep Space Nine - S01E01E02 - Emissary\Deep Space Nine - S01E01E02 - Emissary_intro.avs'
 
 This will create a video with the first 8 seconds, but it will tell TFM to treat the it as video, which should clean up some of the skipping.
 
