@@ -1,0 +1,3794 @@
+﻿1
+00:00:07,198 --> 00:00:09,325
+l've never seen
+anything like that.
+
+2
+00:00:09,367 --> 00:00:10,493
+Hmm?
+
+3
+00:00:10,534 --> 00:00:12,331
+l've never seen
+anything like that.
+
+4
+00:00:12,370 --> 00:00:13,428
+The woman?
+
+5
+00:00:13,471 --> 00:00:14,597
+She was dead.
+
+6
+00:00:14,638 --> 00:00:16,105
+The tricorder clearly showed...
+
+7
+00:00:16,140 --> 00:00:17,437
+Ah, yes, well, tricorders--
+
+8
+00:00:17,475 --> 00:00:18,942
+very accurate with live people
+
+9
+00:00:18,976 --> 00:00:20,466
+not so accurate with dead ones.
+
+10
+00:00:20,511 --> 00:00:22,570
+We learned that first
+year medical school.
+
+11
+00:00:22,613 --> 00:00:26,811
+Well, l was
+very impressed, Doctor.
+
+12
+00:00:26,851 --> 00:00:28,819
+Hmm, and well you
+should have been.
+
+13
+00:00:28,853 --> 00:00:31,447
+l impressed myself
+on that one, actually.
+
+14
+00:00:31,489 --> 00:00:33,286
+l can't imagine
+what other doctor
+
+15
+00:00:33,324 --> 00:00:35,986
+would even consider examining
+the scapular nodes
+
+16
+00:00:36,026 --> 00:00:37,323
+for parasitic infection.
+
+17
+00:00:37,361 --> 00:00:39,829
+l just seem to have a talent,
+l suppose.
+
+18
+00:00:39,864 --> 00:00:43,129
+A vision that sees past
+the obvious, around the mundane
+
+19
+00:00:43,167 --> 00:00:45,362
+right to the target.
+
+20
+00:00:45,403 --> 00:00:47,803
+Fate has granted me a gift,
+Major.
+
+21
+00:00:47,838 --> 00:00:49,829
+A gift to be a healer.
+
+22
+00:00:51,742 --> 00:00:54,711
+l feel privileged to be
+in your presence.
+
+23
+00:00:54,745 --> 00:00:56,076
+Oh, glad to have you along.
+
+24
+00:00:56,113 --> 00:00:58,206
+Did anyone ever tell you
+that you're...?
+
+25
+00:00:58,315 --> 00:01:01,944
+Priority one
+broadband distress signal.
+
+26
+00:01:01,986 --> 00:01:05,888
+Kobliad Transport Ship <i>Reyab</i>
+to any ship.
+
+27
+00:01:05,923 --> 00:01:07,948
+Our central power linkage
+has exploded.
+
+28
+00:01:07,992 --> 00:01:09,789
+We're losing life-support.
+
+29
+00:01:09,827 --> 00:01:11,124
+Please respond.
+
+30
+00:01:11,162 --> 00:01:14,131
+Just picking it up
+on long-range sensors.
+
+31
+00:01:14,165 --> 00:01:16,463
+Bearing 347 mark 08.
+
+32
+00:01:16,500 --> 00:01:18,798
+l'm reading
+massive energy leakage.
+
+33
+00:01:18,836 --> 00:01:22,636
+lts aft structural integrity
+field is failing.
+
+34
+00:01:22,673 --> 00:01:25,642
+This is the Federation
+Ship <i>Rio Grande.</i>
+
+35
+00:01:25,676 --> 00:01:27,200
+We're on our way.
+
+36
+00:01:37,054 --> 00:01:39,181
+O2 pressure is dropping rapidly.
+
+37
+00:01:39,223 --> 00:01:41,020
+Toxic gas levels are rising.
+
+38
+00:01:41,058 --> 00:01:43,049
+We've got no more
+than ten minutes'
+
+39
+00:01:43,093 --> 00:01:44,685
+breathing time left in here.
+
+40
+00:01:44,728 --> 00:01:47,697
+Automatic fire suppression
+must be off-line.
+
+41
+00:01:47,731 --> 00:01:49,722
+l'll check
+the central power linkage.
+
+42
+00:01:57,908 --> 00:02:00,001
+Relax.
+
+43
+00:02:01,245 --> 00:02:02,678
+l'm a doctor.
+
+44
+00:02:02,713 --> 00:02:04,078
+What happened?
+
+45
+00:02:04,114 --> 00:02:05,581
+You lost consciousness.
+
+46
+00:02:05,616 --> 00:02:08,449
+Now listen, is there anyone else
+aboard your ship?
+
+47
+00:02:08,486 --> 00:02:10,044
+We've got to evacuate it.
+
+48
+00:02:10,087 --> 00:02:12,248
+The pilot is dead.
+
+49
+00:02:13,624 --> 00:02:15,956
+l'm reading another life-form.
+
+50
+00:02:18,195 --> 00:02:20,720
+No, don't open that.
+
+51
+00:02:20,764 --> 00:02:22,391
+lt's sealed.
+
+52
+00:02:22,433 --> 00:02:24,833
+The prisoner
+l was transporting...
+
+53
+00:02:24,869 --> 00:02:26,996
+he started the fire to escape.
+
+54
+00:02:27,037 --> 00:02:28,334
+He's dying.
+
+55
+00:02:28,372 --> 00:02:30,340
+Where is the manual override?
+
+56
+00:02:30,374 --> 00:02:32,171
+No!
+
+57
+00:02:32,243 --> 00:02:33,437
+Stop.
+
+58
+00:02:33,477 --> 00:02:34,705
+Don't!
+
+59
+00:02:37,381 --> 00:02:38,905
+Wait.
+
+60
+00:02:38,949 --> 00:02:41,543
+Don't go in there.
+
+61
+00:02:41,585 --> 00:02:43,746
+He's dangerous.
+
+62
+00:02:45,256 --> 00:02:48,521
+l assure you, in this condition,
+he's of no threat to anyone.
+
+63
+00:02:48,559 --> 00:02:51,187
+Power linkages
+are completely shot.
+
+64
+00:02:51,228 --> 00:02:54,629
+Maneuvering subsystems
+are out.
+
+65
+00:02:54,665 --> 00:02:57,566
+l've managed to stabilize
+the structural integrity field
+
+66
+00:02:57,601 --> 00:02:59,899
+but l don't know
+how long it's going to last.
+
+67
+00:02:59,937 --> 00:03:01,370
+We'll have to tow it in.
+
+68
+00:03:01,405 --> 00:03:02,599
+His synaptic field
+is dissipating.
+
+69
+00:03:02,640 --> 00:03:03,732
+l can't get a neural reading.
+
+70
+00:03:03,774 --> 00:03:06,242
+l have to get him
+to the emergency unit
+
+71
+00:03:06,277 --> 00:03:07,244
+on the runabout.
+
+72
+00:03:07,278 --> 00:03:09,041
+Computer, four to transport.
+
+73
+00:03:14,618 --> 00:03:17,587
+Make...
+
+74
+00:03:17,621 --> 00:03:21,580
+me...
+
+75
+00:03:21,625 --> 00:03:24,355
+live.
+
+76
+00:03:38,142 --> 00:03:40,474
+This one, l can't bring back.
+
+77
+00:05:55,252 --> 00:05:56,685
+Where am l?
+
+78
+00:05:56,720 --> 00:05:57,812
+You're on Station DS9.
+
+79
+00:05:57,854 --> 00:06:01,483
+l'm Dr. Julian Bashir.
+
+80
+00:06:01,525 --> 00:06:04,016
+Ty Kajada.
+
+81
+00:06:04,060 --> 00:06:06,392
+Kobliad Security.
+
+82
+00:06:08,899 --> 00:06:11,367
+DS9...
+
+83
+00:06:11,401 --> 00:06:13,335
+but that's where he was going.
+
+84
+00:06:13,370 --> 00:06:14,496
+Where is he?
+
+85
+00:06:14,538 --> 00:06:16,165
+Where is Vantika?
+
+86
+00:06:16,206 --> 00:06:17,503
+Your prisoner?
+
+87
+00:06:17,541 --> 00:06:18,838
+He's dead.
+
+88
+00:06:18,875 --> 00:06:20,001
+You're certain?
+
+89
+00:06:20,043 --> 00:06:21,874
+Yes.
+You were the only survivor.
+
+90
+00:06:21,912 --> 00:06:23,209
+Where is his body?
+
+91
+00:06:23,246 --> 00:06:24,713
+l have it in stasis.
+
+92
+00:06:24,748 --> 00:06:26,079
+l want to see it.
+
+93
+00:06:26,116 --> 00:06:27,413
+When you're feeling stronger.
+
+94
+00:06:27,450 --> 00:06:28,781
+Now.
+
+95
+00:06:28,818 --> 00:06:30,718
+Preliminary examinations
+indicated
+
+96
+00:06:30,754 --> 00:06:34,053
+the subject died
+of a massive respiratory failure
+
+97
+00:06:34,090 --> 00:06:36,354
+brought on
+by the pulmonary trauma
+
+98
+00:06:36,393 --> 00:06:38,020
+suffered during the fire.
+
+99
+00:06:38,061 --> 00:06:40,689
+Are you sure
+it's the same body?
+
+100
+00:06:40,730 --> 00:06:42,027
+Quite certain.
+
+101
+00:06:42,065 --> 00:06:44,992
+lt's been sealed in here
+ever since our arrival.
+
+102
+00:06:48,529 --> 00:06:51,157
+Have you run
+a retinal imaging scan?
+
+103
+00:06:51,198 --> 00:06:52,665
+What for?
+
+104
+00:06:52,699 --> 00:06:55,065
+To confirm that there is
+no residual activity
+
+105
+00:06:55,169 --> 00:06:56,466
+in the visual cortex.
+
+106
+00:06:56,503 --> 00:07:00,064
+Miss Kajada, l assure
+you, he is dead.
+
+107
+00:07:00,107 --> 00:07:03,565
+He's faked his death
+more times than l can tell you.
+
+108
+00:07:03,610 --> 00:07:06,738
+And the last time
+someone thought he was dead
+
+109
+00:07:06,780 --> 00:07:09,578
+they didn't live
+to regret the mistake.
+
+110
+00:07:09,616 --> 00:07:11,015
+He was a murderer?
+
+111
+00:07:11,118 --> 00:07:14,918
+That description
+doesn't begin to do justice
+
+112
+00:07:14,955 --> 00:07:18,948
+to the horrors he's
+responsible for on my world.
+
+113
+00:07:22,029 --> 00:07:25,863
+He's quite brilliant,
+in his own way.
+
+114
+00:07:25,899 --> 00:07:29,357
+A man of science,
+who killed others
+
+115
+00:07:29,403 --> 00:07:31,701
+to prolong his own life.
+
+116
+00:07:31,738 --> 00:07:35,367
+l've tracked him for 20 years.
+
+117
+00:07:39,012 --> 00:07:40,912
+Please perform an autopsy.
+
+118
+00:07:40,948 --> 00:07:45,044
+l want his identity confirmed
+with a DNA reference scan.
+
+119
+00:07:45,118 --> 00:07:47,450
+Uh... of course.
+
+120
+00:07:49,056 --> 00:07:51,854
+And have someone scan my ship.
+
+121
+00:07:51,892 --> 00:07:53,860
+l want to make sure
+
+122
+00:07:53,894 --> 00:07:57,227
+there are no anomalous
+life-forms on board.
+
+123
+00:07:59,166 --> 00:08:01,634
+Are you sure that's necessary?
+
+124
+00:08:01,668 --> 00:08:04,159
+Very sure.
+
+125
+00:08:08,175 --> 00:08:10,609
+lced <i>raktajino,</i> extra cream.
+
+126
+00:08:10,644 --> 00:08:11,941
+Thank you, Quark.
+
+127
+00:08:11,979 --> 00:08:14,607
+At your service, day or night.
+
+128
+00:08:14,648 --> 00:08:15,979
+Thanks.
+
+129
+00:08:17,851 --> 00:08:19,478
+Poor woman.
+
+130
+00:08:19,519 --> 00:08:22,511
+She's obviously
+infatuated with me.
+
+131
+00:08:23,657 --> 00:08:25,318
+You're deluding yourself.
+
+132
+00:08:25,359 --> 00:08:28,328
+There's nothing wrong
+with a good delusion.
+
+133
+00:08:28,362 --> 00:08:31,627
+l sell them upstairs to
+dozens of people every day.
+
+134
+00:08:31,665 --> 00:08:34,293
+Besides, there
+is something in her eyes
+
+135
+00:08:34,334 --> 00:08:35,562
+when she looks at me.
+
+136
+00:08:35,602 --> 00:08:36,626
+Mmm.
+
+137
+00:08:36,670 --> 00:08:39,298
+An allergic reaction, no doubt.
+
+138
+00:08:39,339 --> 00:08:41,739
+l think she's lonely.
+
+139
+00:08:41,775 --> 00:08:45,404
+Dax? She has ten lifetimes'
+worth of friends to call on
+
+140
+00:08:45,445 --> 00:08:47,037
+before she calls you.
+
+141
+00:08:47,114 --> 00:08:49,309
+And every man on the station
+
+142
+00:08:49,349 --> 00:08:51,977
+would like to be buying her
+a <i>raktajino.</i>
+
+143
+00:08:52,019 --> 00:08:55,420
+Ah, but l'm the one
+with the <i>raktajino</i> machine.
+
+144
+00:08:55,455 --> 00:08:59,653
+She seems to prefer
+spending most of her time alone
+
+145
+00:08:59,693 --> 00:09:01,354
+which l understand perfectly.
+
+146
+00:09:01,395 --> 00:09:04,626
+Then that must make her
+the perfect woman for you.
+
+147
+00:09:04,665 --> 00:09:08,999
+l wouldn't intrude
+on her privacy as some would.
+
+148
+00:09:09,069 --> 00:09:10,366
+You're pathetic.
+
+149
+00:09:10,404 --> 00:09:12,599
+You think everyone in the galaxy
+
+150
+00:09:12,639 --> 00:09:16,006
+should be as lonely
+and as miserable as you are.
+
+151
+00:09:16,109 --> 00:09:17,599
+As hard as it may be
+
+152
+00:09:17,644 --> 00:09:22,138
+for you to understand,
+some of us like company.
+
+153
+00:09:22,182 --> 00:09:25,481
+The sound
+of a friendly voice.
+
+154
+00:09:25,519 --> 00:09:28,682
+The sight
+of a familiar face.
+
+155
+00:09:28,722 --> 00:09:34,024
+The feel of smooth,
+pliant flesh.
+
+156
+00:09:34,094 --> 00:09:36,255
+Why do you bother?
+
+157
+00:09:36,296 --> 00:09:38,457
+lt's good to want things.
+
+158
+00:09:38,498 --> 00:09:41,023
+Even things you can't have?
+
+159
+00:09:41,134 --> 00:09:43,432
+Especially things l can't have.
+
+160
+00:09:43,470 --> 00:09:45,836
+Like the deuridium shipment?
+
+161
+00:09:45,872 --> 00:09:47,464
+Deuridium shipment?
+
+162
+00:09:47,507 --> 00:09:50,670
+ls there a deuridium shipment
+coming here?
+
+163
+00:09:50,711 --> 00:09:54,477
+l'm watching you, Quark.
+
+164
+00:09:54,514 --> 00:09:58,541
+And l'm watching you, Jadzia.
+
+165
+00:10:10,664 --> 00:10:12,461
+lnteresting technique.
+
+166
+00:10:12,499 --> 00:10:15,332
+Do you always get ready
+for an important operation
+
+167
+00:10:15,369 --> 00:10:18,463
+by leaking word about it
+to the local black market?
+
+168
+00:10:18,505 --> 00:10:23,841
+How l handle my business
+is none of your concern.
+
+169
+00:10:23,877 --> 00:10:25,504
+l'm afraid that it is.
+
+170
+00:10:25,545 --> 00:10:28,673
+Lieutenant George Primmin,
+Starfleet Security.
+
+171
+00:10:28,715 --> 00:10:30,842
+And if you don't mind,
+l would like to talk to you
+
+172
+00:10:30,884 --> 00:10:33,876
+about the deuridium shipment
+from the Gamma Quadrant.
+
+173
+00:10:33,920 --> 00:10:35,217
+There's nothing to discuss.
+
+174
+00:10:35,255 --> 00:10:36,722
+Security is already in place.
+
+175
+00:10:36,757 --> 00:10:40,716
+l would appreciate it
+if we could go over it anyhow.
+
+176
+00:10:40,761 --> 00:10:42,422
+lt took me three weeks
+to get here
+
+177
+00:10:42,462 --> 00:10:44,521
+and l'd hate to think
+it was for nothing.
+
+178
+00:10:46,099 --> 00:10:48,226
+lf you insist.
+
+179
+00:10:48,268 --> 00:10:51,601
+Meet me in my office
+at 1700 hours.
+
+180
+00:10:53,607 --> 00:10:56,235
+The autopsy revealed
+nothing out of the ordinary.
+
+181
+00:10:56,276 --> 00:10:57,903
+Fingerprints,
+cerebral cortex scans
+
+182
+00:10:57,944 --> 00:10:59,673
+retinal patterns
+all matched up perfectly
+
+183
+00:10:59,713 --> 00:11:01,340
+with the records
+Kajada provided.
+
+184
+00:11:01,381 --> 00:11:03,508
+Vantika may have faked
+his death before
+
+185
+00:11:03,550 --> 00:11:05,711
+but l don't think
+he's faking this time.
+
+186
+00:11:05,752 --> 00:11:07,049
+Why was he coming here?
+
+187
+00:11:07,087 --> 00:11:08,281
+Well, they're Kobliad.
+
+188
+00:11:08,321 --> 00:11:09,788
+The deuridium.
+
+189
+00:11:09,823 --> 00:11:11,188
+l'm sorry...?
+
+190
+00:11:11,224 --> 00:11:13,192
+The Kobliad are a dying race.
+
+191
+00:11:13,226 --> 00:11:16,161
+They need deuridium to stabilize
+their cell structure.
+
+192
+00:11:16,196 --> 00:11:17,686
+lt prolongs their life-span.
+
+193
+00:11:17,731 --> 00:11:20,859
+The Federation's been working
+to supply them with deuridium
+
+194
+00:11:20,901 --> 00:11:23,062
+but even the new deposits
+from the Gamma Quadrant
+
+195
+00:11:23,136 --> 00:11:25,434
+aren't enough to service
+the whole population.
+
+196
+00:11:25,472 --> 00:11:27,303
+lt's so scarce
+
+197
+00:11:27,340 --> 00:11:30,070
+that some of the Kobliad
+have gone underground to get it.
+
+198
+00:11:30,110 --> 00:11:32,408
+So, he was coming here
+to hijack a shipment?
+
+199
+00:11:32,446 --> 00:11:33,743
+Exactly.
+
+200
+00:11:33,780 --> 00:11:35,805
+ls Kajada satisfied
+with your autopsy?
+
+201
+00:11:35,849 --> 00:11:39,410
+l don't think anything
+is going to convince her
+
+202
+00:11:39,453 --> 00:11:41,080
+he's dead, Commander.
+
+203
+00:11:41,121 --> 00:11:43,351
+Vantika has been the focus
+of Kajada's attention
+
+204
+00:11:43,390 --> 00:11:44,687
+for most of her adult life.
+
+205
+00:11:44,724 --> 00:11:47,352
+ln a way, they were
+as intimately connected
+
+206
+00:11:47,394 --> 00:11:49,021
+as any two beings could be.
+
+207
+00:11:49,062 --> 00:11:53,021
+Let's do her the courtesy
+of granting her requests
+
+208
+00:11:53,066 --> 00:11:55,000
+as long as they're not
+too far out of line.
+
+209
+00:11:55,035 --> 00:11:57,503
+A quick sweep of her ship
+is not too much to ask.
+
+210
+00:11:57,537 --> 00:11:58,834
+l'm more concerned
+
+211
+00:11:58,872 --> 00:12:01,272
+that Vantika might have
+had help here
+
+212
+00:12:01,308 --> 00:12:03,276
+waiting to hijack the shipment.
+
+213
+00:12:03,310 --> 00:12:05,278
+Ah, Mr. Primmin.
+Good. ln my office.
+
+214
+00:12:05,312 --> 00:12:06,540
+l want to brief you
+
+215
+00:12:06,580 --> 00:12:08,605
+on a security issue
+that's arisen.
+
+216
+00:12:08,648 --> 00:12:10,047
+l'll get Odo up here.
+
+217
+00:12:10,150 --> 00:12:11,447
+Uh, that's okay, Major.
+
+218
+00:12:11,485 --> 00:12:13,783
+l'll fill him in later
+on anything he needs to know.
+
+219
+00:12:23,730 --> 00:12:26,460
+How are you getting on with
+the Constable, Lieutenant?
+
+220
+00:12:26,500 --> 00:12:28,525
+l'm sure he's very good
+at keeping order
+
+221
+00:12:28,568 --> 00:12:29,830
+down there on the Promenade.
+
+222
+00:12:29,870 --> 00:12:31,201
+But...?
+
+223
+00:12:31,238 --> 00:12:34,639
+Frankly, isn't the security
+of a deuridium shipment
+
+224
+00:12:34,674 --> 00:12:36,232
+a little over his head?
+
+225
+00:12:36,276 --> 00:12:39,177
+l mean, he was chatting about it
+in the bar
+
+226
+00:12:39,212 --> 00:12:40,907
+with that Ferengi, Quark.
+
+227
+00:12:40,947 --> 00:12:43,415
+lf l could overhear it,
+so could half a dozen others.
+
+228
+00:12:43,450 --> 00:12:44,883
+lt's hard to keep a secret
+
+229
+00:12:44,918 --> 00:12:46,749
+in a place like this,
+Lieutenant.
+
+230
+00:12:46,786 --> 00:12:48,083
+lt's not a starship.
+
+231
+00:12:48,121 --> 00:12:49,418
+l understand that.
+
+232
+00:12:49,456 --> 00:12:52,721
+l'm sure almost everyone knows
+about the shipment by now.
+
+233
+00:12:52,759 --> 00:12:54,192
+Odo was probably making sure
+
+234
+00:12:54,227 --> 00:12:55,956
+that Quark knows
+we know he knows.
+
+235
+00:12:55,996 --> 00:12:59,659
+lt's not the way they taught us
+at the Academy, is it, sir?
+
+236
+00:12:59,699 --> 00:13:01,098
+lf you want my opinion...
+
+237
+00:13:01,134 --> 00:13:02,431
+Actually, l don't.
+
+238
+00:13:02,469 --> 00:13:05,734
+You and l are guests
+of the Bajorans, Lieutenant.
+
+239
+00:13:05,772 --> 00:13:09,572
+You don't have to forget what
+you learned at the Academy
+
+240
+00:13:09,609 --> 00:13:12,578
+you just don't throw it
+in anyone's face here.
+
+241
+00:13:12,612 --> 00:13:14,443
+lf you're really smart,
+you might even learn
+
+242
+00:13:14,481 --> 00:13:16,574
+a few new things about station
+security from our Constable.
+
+243
+00:13:16,616 --> 00:13:17,605
+Clear?
+
+244
+00:13:19,186 --> 00:13:20,312
+Very clear, sir.
+
+245
+00:13:20,353 --> 00:13:22,651
+Now, regarding the shipment.
+
+246
+00:13:22,689 --> 00:13:26,216
+We've been made aware
+of a possible Kobliad plot
+
+247
+00:13:26,259 --> 00:13:28,056
+to hijack the deuridium.
+
+248
+00:13:28,094 --> 00:13:32,224
+You and Odo ought to have
+a talk with Kajada
+
+249
+00:13:32,265 --> 00:13:35,098
+the Kobliad Security Officer
+who arrived yesterday.
+
+250
+00:13:56,032 --> 00:13:59,468
+Um, before we get started,
+l want to apologize
+
+251
+00:13:59,502 --> 00:14:02,266
+for us getting off
+on the wrong foot.
+
+252
+00:14:02,305 --> 00:14:03,932
+Think nothing of it.
+
+253
+00:14:03,973 --> 00:14:06,601
+Listen, l know
+this is your bailiwick.
+
+254
+00:14:06,643 --> 00:14:09,942
+l don't mean to be
+throwing my weight around.
+
+255
+00:14:09,979 --> 00:14:11,446
+No hard feelings.
+
+256
+00:14:11,481 --> 00:14:12,948
+None at all.
+
+257
+00:14:12,982 --> 00:14:15,610
+Just because l'm
+from Starfleet Security
+
+258
+00:14:15,652 --> 00:14:18,450
+doesn't mean l don't
+respect your opinion.
+
+259
+00:14:18,488 --> 00:14:20,786
+How about showing me
+what you got
+
+260
+00:14:20,823 --> 00:14:23,348
+and l'll see if there's
+anything we can work with?
+
+261
+00:14:24,994 --> 00:14:28,122
+Lieutenant, you're welcome
+to see my plans
+
+262
+00:14:28,164 --> 00:14:31,292
+but l assure you,
+l've taken every precaution
+
+263
+00:14:31,334 --> 00:14:32,961
+regarding the shipment.
+
+264
+00:14:33,002 --> 00:14:35,300
+However, if you have
+any suggestions
+
+265
+00:14:35,338 --> 00:14:37,238
+l'd be happy to hear them.
+
+266
+00:14:38,307 --> 00:14:40,798
+What?!
+
+267
+00:14:42,412 --> 00:14:43,879
+Odo to Ops.
+
+268
+00:14:43,913 --> 00:14:45,210
+Go ahead.
+
+269
+00:14:45,248 --> 00:14:49,082
+Major, are we having
+some sort of computer problem?
+
+270
+00:14:51,220 --> 00:14:55,554
+Everything in active memory
+has been accessed and purged.
+
+271
+00:14:57,126 --> 00:14:58,593
+That's impossible.
+
+272
+00:14:58,628 --> 00:15:00,323
+Oh, it's possible.
+
+273
+00:15:00,363 --> 00:15:03,560
+Vantika did the exact
+same thing on Rigel Vll.
+
+274
+00:15:15,445 --> 00:15:16,935
+l know Vantika.
+
+275
+00:15:16,979 --> 00:15:19,470
+l've learned to think
+as he thinks.
+
+276
+00:15:19,515 --> 00:15:21,779
+Kajada, our best
+evidence suggests
+
+277
+00:15:21,818 --> 00:15:24,378
+Vantika stopped
+thinking two days ago.
+
+278
+00:15:24,420 --> 00:15:25,580
+He's alive
+
+279
+00:15:25,621 --> 00:15:27,145
+and he's on board this station.
+
+280
+00:15:27,190 --> 00:15:29,090
+And his first thought
+when he came on board
+
+281
+00:15:29,125 --> 00:15:31,218
+was to plan a way
+to access your security files
+
+282
+00:15:31,260 --> 00:15:33,922
+on the deuridium shipment,
+which is exactly what he's done.
+
+283
+00:15:33,963 --> 00:15:37,990
+Even if he was alive,
+it doesn't make sense
+
+284
+00:15:38,034 --> 00:15:41,128
+that he would purge
+an entire computer memory
+
+285
+00:15:41,170 --> 00:15:43,001
+to go after a single file.
+
+286
+00:15:43,039 --> 00:15:44,666
+lt makes perfect sense.
+
+287
+00:15:44,707 --> 00:15:46,800
+Try to access the single file
+
+288
+00:15:46,843 --> 00:15:48,333
+and you'd be stopped
+
+289
+00:15:48,377 --> 00:15:50,572
+by a dozen
+different lock-outs
+
+290
+00:15:50,613 --> 00:15:52,638
+that l put in to protect it.
+
+291
+00:15:52,682 --> 00:15:54,309
+But you would never
+consider locking out
+
+292
+00:15:54,350 --> 00:15:56,011
+the active memory
+of your entire system.
+
+293
+00:15:56,085 --> 00:15:58,815
+lt would make it impossible
+to use the computers at all.
+
+294
+00:15:58,855 --> 00:16:00,584
+So that's where
+you're vulnerable.
+
+295
+00:16:00,623 --> 00:16:02,750
+But how would he gain access?
+
+296
+00:16:02,792 --> 00:16:06,091
+ln the past, he's used
+a subspace shunt.
+
+297
+00:16:06,129 --> 00:16:07,960
+lt would be attached
+to a secondary system
+
+298
+00:16:07,997 --> 00:16:10,329
+something that runs
+throughout the entire facility
+
+299
+00:16:10,366 --> 00:16:11,799
+but isn't covered by security.
+
+300
+00:16:11,834 --> 00:16:13,802
+The lighting controls.
+
+301
+00:16:13,836 --> 00:16:15,360
+Or the replicators.
+
+302
+00:16:15,404 --> 00:16:19,534
+l'm showing an unauthorized tap
+into the computer system.
+
+303
+00:16:19,575 --> 00:16:23,909
+A temperature control panel,
+level 21, section 10.
+
+304
+00:16:23,946 --> 00:16:25,345
+-Security to level...
+-Security...
+
+305
+00:16:27,683 --> 00:16:28,809
+To L-21, S-10.
+
+306
+00:16:28,851 --> 00:16:32,184
+We're looking
+for a subspace crossover link
+
+307
+00:16:32,221 --> 00:16:33,882
+to the computer system.
+
+308
+00:16:33,923 --> 00:16:34,981
+Acknowledged.
+
+309
+00:16:35,024 --> 00:16:37,424
+Tell them to be careful.
+
+310
+00:16:37,460 --> 00:16:38,893
+Vantika undoubtedly
+equipped the shunt
+
+311
+00:16:38,928 --> 00:16:40,896
+with an auto-destruct system.
+
+312
+00:16:40,930 --> 00:16:44,559
+You know that for certain,
+without having to check?
+
+313
+00:16:44,600 --> 00:16:46,431
+l know Vantika.
+
+314
+00:16:46,469 --> 00:16:48,528
+Miss Kajada, l must admit
+
+315
+00:16:48,571 --> 00:16:51,938
+l'm having a tough time
+with your theory.
+
+316
+00:16:51,974 --> 00:16:54,841
+Then you're making
+a fatal mistake.
+
+317
+00:16:54,877 --> 00:16:57,311
+Three passengers
+were on your ship.
+
+318
+00:16:57,346 --> 00:16:59,473
+Two bodies are in our morgue.
+
+319
+00:16:59,515 --> 00:17:01,881
+Unless the ghost
+of Vantika is...
+
+320
+00:17:01,918 --> 00:17:03,715
+Don't patronize me, Commander!
+
+321
+00:17:03,753 --> 00:17:07,519
+lsn't it more likely
+that some accomplice did this?
+
+322
+00:17:07,557 --> 00:17:11,789
+Rao Vantika is obsessed
+with his own survival.
+
+323
+00:17:11,828 --> 00:17:15,525
+He's prolonged his life
+through the use of drugs
+
+324
+00:17:15,565 --> 00:17:17,465
+cryogenics, transplants.
+
+325
+00:17:17,500 --> 00:17:21,300
+As a medical supervisor
+in a high-security penitentiary
+
+326
+00:17:21,337 --> 00:17:22,634
+he used prisoners
+
+327
+00:17:22,672 --> 00:17:26,233
+for his illegal experiments
+in cellular longevity.
+
+328
+00:17:26,275 --> 00:17:28,937
+He's organized raids
+on government labs
+
+329
+00:17:28,978 --> 00:17:31,344
+to steal bio-regenerative
+research.
+
+330
+00:17:31,380 --> 00:17:35,339
+l promise you, when he started
+that fire on board my ship
+
+331
+00:17:35,384 --> 00:17:37,147
+he had a plan to survive.
+
+332
+00:17:37,186 --> 00:17:41,555
+l'm not sure what that plan was,
+but l'm convinced it succeeded.
+
+333
+00:17:41,591 --> 00:17:45,960
+Doctor, how soon before we get
+the results of the DNA trace?
+
+334
+00:17:45,995 --> 00:17:48,555
+l sent it
+to Starfleet Command yesterday.
+
+335
+00:17:48,598 --> 00:17:51,692
+They'll have to coordinate
+with Kobliad Security.
+
+336
+00:17:51,734 --> 00:17:53,361
+l'd say another 12 hours.
+
+337
+00:17:53,402 --> 00:17:57,600
+Until then, we will operate
+under the assumption
+
+338
+00:17:57,640 --> 00:17:59,631
+that Vantika is alive.
+
+339
+00:18:05,147 --> 00:18:06,637
+Commander.
+
+340
+00:18:09,151 --> 00:18:11,312
+May l have a word with you?
+
+341
+00:18:15,157 --> 00:18:16,784
+What's on your mind?
+
+342
+00:18:16,826 --> 00:18:18,851
+My resignation.
+
+343
+00:18:18,895 --> 00:18:20,089
+You're overreacting.
+
+344
+00:18:20,129 --> 00:18:22,256
+Oh, so you already
+know about this.
+
+345
+00:18:22,298 --> 00:18:24,266
+Yes. Lieutenant Primmin
+mentioned to me...
+
+346
+00:18:24,300 --> 00:18:26,564
+You asked me to stay
+in charge of security
+
+347
+00:18:26,602 --> 00:18:28,194
+when you took command
+of this station.
+
+348
+00:18:28,237 --> 00:18:29,363
+l did not ask you.
+
+349
+00:18:29,405 --> 00:18:32,966
+Constable, no one knows
+this station like you do.
+
+350
+00:18:33,009 --> 00:18:34,977
+Oh, yes.
+l've noticed that.
+
+351
+00:18:35,077 --> 00:18:37,341
+''Constable.''
+lt's very cute.
+
+352
+00:18:37,380 --> 00:18:38,813
+lt's an expression of affection.
+
+353
+00:18:38,848 --> 00:18:40,475
+l believe Major Kira
+was the first...
+
+354
+00:18:40,516 --> 00:18:42,450
+l don't need anyone's affection.
+
+355
+00:18:42,485 --> 00:18:44,146
+l do need clear jurisdiction
+
+356
+00:18:44,186 --> 00:18:45,710
+or l am out.
+
+357
+00:18:48,691 --> 00:18:51,159
+l like you, Odo.
+
+358
+00:18:51,193 --> 00:18:54,822
+l like to know
+where a man stands.
+
+359
+00:18:54,864 --> 00:18:58,265
+There's never been
+any question of that with you.
+
+360
+00:18:58,301 --> 00:19:00,428
+l need you here.
+
+361
+00:19:00,469 --> 00:19:03,461
+No Starfleet officer
+can do the job you do.
+
+362
+00:19:03,506 --> 00:19:04,530
+You've got that straight.
+
+363
+00:19:04,573 --> 00:19:06,541
+But you have to realize
+that Starfleet
+
+364
+00:19:06,575 --> 00:19:08,941
+is not going to take command
+of a station in deep space
+
+365
+00:19:09,045 --> 00:19:11,605
+without assigning some security
+to protect its interests.
+
+366
+00:19:11,647 --> 00:19:13,877
+Understandable.
+
+367
+00:19:13,916 --> 00:19:15,816
+You're going to have to work
+with Primmin.
+
+368
+00:19:15,851 --> 00:19:18,149
+The two of you have to find
+a way to get along.
+
+369
+00:19:18,187 --> 00:19:19,950
+Tell him that.
+
+370
+00:19:19,989 --> 00:19:21,957
+l already have.
+
+371
+00:19:21,991 --> 00:19:23,822
+Who's in charge?
+
+372
+00:19:23,859 --> 00:19:27,795
+ln joint operations
+like this one...
+
+373
+00:19:27,830 --> 00:19:29,730
+you are.
+
+374
+00:19:31,500 --> 00:19:33,968
+l can live
+with that arrangement.
+
+375
+00:19:41,844 --> 00:19:43,471
+What have you got, Dax?
+
+376
+00:19:43,512 --> 00:19:44,979
+l'm not exactly sure yet.
+
+377
+00:19:45,014 --> 00:19:46,572
+l finished the sweep
+of Kajada's ship.
+
+378
+00:19:46,615 --> 00:19:48,913
+No anomalous readings,
+but l did notice one odd thing.
+
+379
+00:19:48,951 --> 00:19:50,213
+What's that?
+
+380
+00:19:50,252 --> 00:19:52,413
+Someone tried to break
+into the ship's cargo bay.
+
+381
+00:19:52,455 --> 00:19:53,922
+Since it's been docked?
+
+382
+00:19:53,956 --> 00:19:56,117
+Kira confirmed
+that there was no damage
+
+383
+00:19:56,158 --> 00:19:58,149
+to the cargo area
+when they brought it in.
+
+384
+00:19:58,194 --> 00:19:59,855
+What do you think
+they were after?
+
+385
+00:20:01,063 --> 00:20:02,325
+This, maybe.
+
+386
+00:20:02,365 --> 00:20:06,267
+l found it in Vantika's
+personal belongings.
+
+387
+00:20:06,302 --> 00:20:07,394
+What is it?
+
+388
+00:20:07,436 --> 00:20:10,064
+A map of the humanoid brain.
+
+389
+00:20:35,190 --> 00:20:37,215
+You call this clean?
+
+390
+00:20:37,259 --> 00:20:39,659
+l've already found three coins
+on the floor up here.
+
+391
+00:20:39,695 --> 00:20:41,322
+Who knows what else
+there might be.
+
+392
+00:20:41,363 --> 00:20:43,456
+Somebody may have lost
+some valuable jewelry
+
+393
+00:20:43,499 --> 00:20:44,830
+or something.
+
+394
+00:20:44,867 --> 00:20:47,131
+Fine.
+
+395
+00:20:47,169 --> 00:20:48,761
+Never mind.
+
+396
+00:20:48,804 --> 00:20:50,499
+l'll do it myself.
+
+397
+00:20:50,539 --> 00:20:53,167
+And l'll keep it myself.
+
+398
+00:20:53,208 --> 00:20:54,232
+Leave!
+
+399
+00:20:58,814 --> 00:21:01,476
+You just can't find
+good help anymore.
+
+400
+00:21:14,496 --> 00:21:18,296
+Have you made
+the preparations?
+
+401
+00:21:18,333 --> 00:21:19,459
+Preparations?
+
+402
+00:21:19,501 --> 00:21:21,128
+What preparations?
+
+403
+00:21:21,170 --> 00:21:23,400
+The deuridium shipment.
+
+404
+00:21:23,439 --> 00:21:27,466
+You were to hire
+mercenaries to help me.
+
+405
+00:21:27,509 --> 00:21:29,136
+Help you...
+
+406
+00:21:29,178 --> 00:21:32,306
+but you can't be Vantika.
+
+407
+00:21:32,347 --> 00:21:37,148
+l told you to expect me
+at this hour.
+
+408
+00:21:37,186 --> 00:21:38,585
+Yes, and l contacted
+
+409
+00:21:38,620 --> 00:21:41,248
+some very reliable
+soldiers of fortune
+
+410
+00:21:41,290 --> 00:21:43,485
+in anticipation of your arrival.
+
+411
+00:21:43,525 --> 00:21:47,154
+But l was told you were dead.
+
+412
+00:21:47,196 --> 00:21:49,824
+Almost...
+
+413
+00:21:49,865 --> 00:21:52,527
+but not quite.
+
+414
+00:22:12,187 --> 00:22:13,586
+You wanted to see me?
+
+415
+00:22:13,622 --> 00:22:14,919
+Kajada.
+
+416
+00:22:14,957 --> 00:22:17,585
+l'll be right with you.
+
+417
+00:22:17,626 --> 00:22:18,957
+There.
+
+418
+00:22:18,994 --> 00:22:21,929
+Now, remember, next time,
+lift with your back straight
+
+419
+00:22:21,964 --> 00:22:24,159
+and use the anti-gravity
+generator.
+
+420
+00:22:24,199 --> 00:22:25,666
+l'm sorry.
+Come in.
+
+421
+00:22:25,701 --> 00:22:27,931
+l have the DNA scan results.
+
+422
+00:22:27,970 --> 00:22:30,530
+l thought you might
+like to see them.
+
+423
+00:22:30,572 --> 00:22:33,541
+ln fact, l tried
+to call you last night.
+
+424
+00:22:33,575 --> 00:22:36,237
+But you never responded
+to the com.
+
+425
+00:22:36,278 --> 00:22:39,247
+Um, l have a little
+trouble sleeping.
+
+426
+00:22:39,281 --> 00:22:41,249
+Last night was particularly bad
+
+427
+00:22:41,283 --> 00:22:43,979
+so l used an alpha wave inducer
+to help me.
+
+428
+00:22:44,019 --> 00:22:45,611
+Oh, you should
+be careful with those.
+
+429
+00:22:45,654 --> 00:22:47,281
+They're only meant
+for occasional use.
+
+430
+00:22:47,322 --> 00:22:49,119
+The scan results, Doctor.
+
+431
+00:22:49,157 --> 00:22:50,852
+Oh, yeah.
+
+432
+00:22:50,893 --> 00:22:55,125
+There wasn't even a trace
+of diploid variation.
+
+433
+00:22:55,163 --> 00:22:57,222
+lt's definitely not a clone.
+
+434
+00:22:57,266 --> 00:23:00,793
+Positive identification--
+Rao Vantika.
+
+435
+00:23:00,836 --> 00:23:02,326
+They must have
+overlooked something.
+
+436
+00:23:02,371 --> 00:23:03,497
+Dax to Bashir.
+
+437
+00:23:03,539 --> 00:23:05,336
+Yes, Jadzia?
+
+438
+00:23:05,374 --> 00:23:06,671
+l need some medical advice.
+
+439
+00:23:06,708 --> 00:23:07,834
+Can you come to my lab?
+
+440
+00:23:07,876 --> 00:23:09,503
+l'll be right there.
+
+441
+00:23:09,545 --> 00:23:10,876
+Bashir out.
+
+442
+00:23:10,913 --> 00:23:14,314
+Every conceivable test
+has been done, Kajada.
+
+443
+00:23:16,351 --> 00:23:17,909
+Here's the hypothesis.
+
+444
+00:23:17,953 --> 00:23:20,478
+The body dies,
+the consciousness lives on.
+
+445
+00:23:20,522 --> 00:23:21,750
+ln another brain?
+
+446
+00:23:21,790 --> 00:23:22,814
+Possible?
+
+447
+00:23:22,858 --> 00:23:25,486
+Well, the closest thing
+l've encountered
+
+448
+00:23:25,527 --> 00:23:27,654
+is synaptic pattern
+displacement
+
+449
+00:23:27,696 --> 00:23:29,687
+but that's never been done
+by a non-Vulcan.
+
+450
+00:23:29,731 --> 00:23:31,699
+l'm convinced Vantika
+was working on it.
+
+451
+00:23:31,733 --> 00:23:33,064
+There are over 70 different
+
+452
+00:23:33,101 --> 00:23:34,693
+computer simulations
+in his file.
+
+453
+00:23:34,736 --> 00:23:37,432
+All involve identifying
+neural energy patterns
+
+454
+00:23:37,472 --> 00:23:40,635
+and storing them
+in different areas of the brain.
+
+455
+00:23:40,676 --> 00:23:42,644
+Well, there's plenty of room.
+
+456
+00:23:42,678 --> 00:23:45,977
+A humanoid only uses
+a small portion of the brain.
+
+457
+00:23:46,014 --> 00:23:49,074
+What if another entity
+shared the unused portion?
+
+458
+00:23:49,117 --> 00:23:50,982
+Hypothetically...
+
+459
+00:23:51,053 --> 00:23:54,989
+Vantika's consciousness could be
+occupying someone else's brain
+
+460
+00:23:55,057 --> 00:23:57,924
+while he waits
+for the deuridium to arrive.
+
+461
+00:23:57,960 --> 00:24:00,224
+But whose?
+
+462
+00:24:00,262 --> 00:24:02,822
+Kajada.
+
+463
+00:24:02,864 --> 00:24:04,331
+They're both Kobliad.
+
+464
+00:24:04,366 --> 00:24:06,163
+What better place to hide
+
+465
+00:24:06,201 --> 00:24:08,533
+than in the mind
+of your worst enemy?
+
+466
+00:24:08,604 --> 00:24:10,037
+lt doesn't make sense.
+
+467
+00:24:10,072 --> 00:24:12,040
+She's been doing
+everything she can
+
+468
+00:24:12,074 --> 00:24:14,907
+to convince us
+that Vantika is alive.
+
+469
+00:24:14,943 --> 00:24:16,934
+lf Vantika's controlling her
+
+470
+00:24:17,045 --> 00:24:19,343
+why would he call
+attention to himself?
+
+471
+00:24:19,381 --> 00:24:21,474
+We're not suggesting
+he's controlling her.
+
+472
+00:24:21,516 --> 00:24:23,484
+This is all theoretical
+
+473
+00:24:23,518 --> 00:24:25,952
+but to extend the logic,
+there's no reason to believe
+
+474
+00:24:26,021 --> 00:24:27,818
+she'd even be aware
+of his presence.
+
+475
+00:24:27,856 --> 00:24:30,757
+Like a stowaway on a ship--
+the pilot's at the helm
+
+476
+00:24:30,792 --> 00:24:33,090
+but someone else
+is along for the ride.
+
+477
+00:24:33,128 --> 00:24:36,529
+Would an examination
+of Kajada confirm any of this?
+
+478
+00:24:36,565 --> 00:24:39,056
+We don't know
+what we're looking for yet.
+
+479
+00:24:39,101 --> 00:24:41,569
+We still have to identify
+a method of transfer first.
+
+480
+00:24:41,603 --> 00:24:43,195
+l could assign some personnel
+
+481
+00:24:43,238 --> 00:24:46,765
+to maintain continuous
+surveillance on Kajada.
+
+482
+00:24:46,808 --> 00:24:48,605
+We're already stretched
+to the limit
+
+483
+00:24:48,644 --> 00:24:49,975
+preparing for the shipment.
+
+484
+00:24:50,012 --> 00:24:51,741
+Why don't l just
+set the computer
+
+485
+00:24:51,780 --> 00:24:54,340
+to track her movements
+and alert us if she goes
+
+486
+00:24:54,383 --> 00:24:55,509
+near a secured area?
+
+487
+00:24:55,550 --> 00:24:56,983
+At the very least
+
+488
+00:24:57,052 --> 00:24:59,247
+she has to be left out
+of our security plans.
+
+489
+00:24:59,287 --> 00:25:00,652
+She won't like that.
+
+490
+00:25:00,689 --> 00:25:03,055
+l'm afraid we have no choice.
+
+491
+00:25:03,091 --> 00:25:04,251
+What do we tell her?
+
+492
+00:25:04,292 --> 00:25:06,260
+Nothing.
+She'll figure it out.
+
+493
+00:25:06,294 --> 00:25:09,127
+When she does, send her to me.
+
+494
+00:25:14,169 --> 00:25:16,296
+The computer security
+codes have been changed.
+
+495
+00:25:16,338 --> 00:25:17,737
+l've been denied access.
+
+496
+00:25:17,773 --> 00:25:18,899
+Why?
+
+497
+00:25:18,940 --> 00:25:20,601
+Because l ordered it.
+
+498
+00:25:20,642 --> 00:25:22,701
+What kind of fool are you?
+
+499
+00:25:22,744 --> 00:25:25,474
+My own special variety.
+
+500
+00:25:25,514 --> 00:25:28,176
+l'm the only one here
+who has experience with Vantika.
+
+501
+00:25:28,216 --> 00:25:29,274
+l'm sorry.
+
+502
+00:25:29,317 --> 00:25:33,117
+l believe it's necessary
+at this point to restrict access
+
+503
+00:25:33,155 --> 00:25:35,623
+to the security files
+to four people:
+
+504
+00:25:35,657 --> 00:25:39,616
+myself, Lieutenant Primmin,
+Major Kira and Commander Sisko.
+
+505
+00:25:41,830 --> 00:25:44,628
+When is the shipment
+scheduled to arrive?
+
+506
+00:25:44,666 --> 00:25:47,032
+l can't give you
+that information.
+
+507
+00:25:49,071 --> 00:25:52,472
+What about this Ferengi-- Quark?
+
+508
+00:25:52,507 --> 00:25:54,099
+What about him?
+
+509
+00:25:54,142 --> 00:25:55,609
+From what l understand
+
+510
+00:25:55,644 --> 00:25:57,942
+he has his hands
+into everything around here.
+
+511
+00:25:57,979 --> 00:25:59,571
+ls he under surveillance?
+
+512
+00:25:59,614 --> 00:26:02,082
+l always keep an eye on him.
+
+513
+00:26:02,117 --> 00:26:03,607
+l hope so
+
+514
+00:26:03,652 --> 00:26:05,620
+because he's exactly the kind
+
+515
+00:26:05,654 --> 00:26:07,645
+that Vantika would
+use in his plans.
+
+516
+00:26:19,334 --> 00:26:21,859
+Everything has been
+taken care of.
+
+517
+00:26:21,903 --> 00:26:24,235
+That's what you said
+about the job on Vener Vll.
+
+518
+00:26:24,272 --> 00:26:26,934
+You should thank me
+for Vener Vll.
+
+519
+00:26:27,042 --> 00:26:28,737
+You got paid, didn't you?
+
+520
+00:26:28,777 --> 00:26:30,938
+We almost got killed.
+
+521
+00:26:30,979 --> 00:26:33,846
+A normal risk
+in your line of work.
+
+522
+00:26:33,882 --> 00:26:36,373
+A normal risk
+when we work for you.
+
+523
+00:26:36,418 --> 00:26:37,783
+That's for certain.
+
+524
+00:26:37,819 --> 00:26:41,084
+So, when do we
+meet this Kobliad?
+
+525
+00:26:41,123 --> 00:26:43,956
+When he decides
+it's appropriate.
+
+526
+00:26:44,059 --> 00:26:46,687
+All right, then,
+a better question--
+
+527
+00:26:46,728 --> 00:26:49,390
+when do we get paid?
+
+528
+00:26:49,431 --> 00:26:53,128
+When the job is completed,
+of course.
+
+529
+00:26:53,168 --> 00:26:54,533
+Not acceptable.
+
+530
+00:26:54,569 --> 00:26:57,970
+We'll require an advance payment
+of 70%.
+
+531
+00:26:58,006 --> 00:27:00,270
+Durg, wake up.
+
+532
+00:27:00,308 --> 00:27:02,799
+This is Quark
+you're talking to, remember?
+
+533
+00:27:02,844 --> 00:27:07,372
+All past debts
+have been settled.
+
+534
+00:27:07,415 --> 00:27:08,905
+They'll never be settled.
+
+535
+00:27:08,984 --> 00:27:11,248
+You'd still be rotting
+in a Cardassian jail
+
+536
+00:27:11,286 --> 00:27:12,514
+if l hadn't...
+
+537
+00:27:33,314 --> 00:27:34,645
+Can you speak?
+
+538
+00:27:34,682 --> 00:27:37,480
+Pushed.
+
+539
+00:27:37,518 --> 00:27:39,110
+Vantika.
+
+540
+00:27:39,153 --> 00:27:42,088
+l can't keep her conscious
+any longer, Commander.
+
+541
+00:27:42,122 --> 00:27:43,919
+lf she moves too much
+
+542
+00:27:43,958 --> 00:27:46,188
+she could suffer
+permanent paralysis.
+
+543
+00:27:46,226 --> 00:27:48,353
+Did you see anybody
+behind her?
+
+544
+00:27:48,395 --> 00:27:52,092
+l just heard the scream
+and looked up.
+
+545
+00:27:52,132 --> 00:27:53,690
+She fell from the balcony.
+
+546
+00:27:53,734 --> 00:27:55,702
+What was she doing
+up there, anyway?
+
+547
+00:27:55,736 --> 00:27:57,636
+She had an odd feeling
+you might be
+
+548
+00:27:57,671 --> 00:28:00,265
+helping someone hijack
+this deuridium shipment.
+
+549
+00:28:00,307 --> 00:28:01,365
+l resent the inference.
+
+550
+00:28:01,408 --> 00:28:02,397
+lt's not an inference.
+
+551
+00:28:02,443 --> 00:28:03,671
+lt's a definite suspicion.
+
+552
+00:28:03,711 --> 00:28:05,679
+Was anyone else in the bar?
+
+553
+00:28:05,713 --> 00:28:07,180
+Anyone else?
+
+554
+00:28:07,214 --> 00:28:09,341
+At the time of the accident.
+
+555
+00:28:09,383 --> 00:28:10,350
+No, just me.
+
+556
+00:28:10,384 --> 00:28:11,408
+Just tidying up
+
+557
+00:28:11,452 --> 00:28:14,353
+which, if you'll excuse me,
+l really must finish.
+
+558
+00:28:14,388 --> 00:28:16,015
+Not so fast, Quark.
+
+559
+00:28:16,056 --> 00:28:19,025
+l want to take a look
+at that third floor
+
+560
+00:28:19,059 --> 00:28:21,550
+before you get rid
+of all the evidence.
+
+561
+00:28:21,595 --> 00:28:22,892
+Be my guest
+
+562
+00:28:22,930 --> 00:28:25,899
+but l'm telling you,
+she was alone up there.
+
+563
+00:28:25,933 --> 00:28:28,595
+And she had no business
+invading the privacy
+
+564
+00:28:28,636 --> 00:28:31,196
+of a law-abiding member
+of the community.
+
+565
+00:28:32,673 --> 00:28:34,106
+What do you think, Doctor?
+
+566
+00:28:34,141 --> 00:28:35,904
+Could this have been
+a suicide attempt?
+
+567
+00:28:35,976 --> 00:28:37,773
+Well, l haven't
+noticed any indication
+
+568
+00:28:37,811 --> 00:28:39,779
+of suicidal behavior,
+but then, who knows
+
+569
+00:28:39,813 --> 00:28:42,907
+what the effect of sharing
+one's brain might be.
+
+570
+00:28:42,983 --> 00:28:45,110
+l'd still like
+some confirmation of that.
+
+571
+00:28:45,152 --> 00:28:47,120
+l'll have to tend
+to her injuries
+
+572
+00:28:47,154 --> 00:28:49,122
+before l conduct
+any brain scan.
+
+573
+00:28:49,156 --> 00:28:50,418
+But until we find
+
+574
+00:28:50,457 --> 00:28:52,584
+the transfer method
+Vantika used
+
+575
+00:28:52,626 --> 00:28:55,060
+l'm not even sure
+what to look for.
+
+576
+00:28:55,095 --> 00:28:57,461
+Computer, location
+of Lieutenant Dax.
+
+577
+00:28:57,498 --> 00:29:00,296
+Lieutenant Dax
+is in the stasis room.
+
+578
+00:29:11,679 --> 00:29:14,477
+Find something
+under his fingernails?
+
+579
+00:29:14,515 --> 00:29:15,880
+Not yet.
+
+580
+00:29:15,949 --> 00:29:17,883
+What are you looking for?
+
+581
+00:29:17,951 --> 00:29:20,545
+Confirmation of a theory,
+l hope.
+
+582
+00:29:20,587 --> 00:29:22,555
+l've been asking myself
+
+583
+00:29:22,589 --> 00:29:25,080
+why would anyone induct
+a bioelectrical charge
+
+584
+00:29:25,125 --> 00:29:26,752
+into a glial cell?
+
+585
+00:29:26,794 --> 00:29:29,126
+A question l have
+always wondered about.
+
+586
+00:29:29,163 --> 00:29:30,596
+Well, it might make sense
+
+587
+00:29:30,631 --> 00:29:32,656
+if you wanted to send
+a bio-coded message
+
+588
+00:29:32,700 --> 00:29:35,168
+along the glial cells
+of someone's nervous system
+
+589
+00:29:35,202 --> 00:29:36,464
+all the way to the brain.
+
+590
+00:29:36,503 --> 00:29:38,130
+My guess is
+
+591
+00:29:38,172 --> 00:29:39,901
+that's what Vantika
+was trying to do.
+
+592
+00:29:39,940 --> 00:29:41,407
+Using his fingernails?
+
+593
+00:29:41,442 --> 00:29:43,842
+Frankly, l can't think
+of another way
+
+594
+00:29:43,877 --> 00:29:46,107
+he could have delivered
+the bio-coded message.
+
+595
+00:29:46,146 --> 00:29:49,274
+He must have used
+a very weak electrical charge
+
+596
+00:29:49,316 --> 00:29:52,547
+or the sensors on Kajada's ship
+would have detected it.
+
+597
+00:29:52,586 --> 00:29:55,851
+ldeally, he would have injected
+
+598
+00:29:55,889 --> 00:29:58,881
+the bio-coded message directly
+into his victim's skin
+
+599
+00:29:58,926 --> 00:30:01,394
+but there were
+no hyposprays or needles
+
+600
+00:30:01,428 --> 00:30:03,293
+anywhere on the ship.
+
+601
+00:30:07,935 --> 00:30:09,903
+A microscopic generator.
+
+602
+00:30:09,937 --> 00:30:12,405
+You're suggesting he
+stored his consciousness
+
+603
+00:30:12,439 --> 00:30:13,906
+in that thing?
+
+604
+00:30:13,941 --> 00:30:17,399
+His neural patterns encoded
+as bioelectrical pulses.
+
+605
+00:30:17,444 --> 00:30:21,141
+He could have placed that device
+under his nail months ago
+
+606
+00:30:21,181 --> 00:30:23,741
+just in case he needed an escape
+route in an emergency--
+
+607
+00:30:23,784 --> 00:30:25,752
+his last resort before death.
+
+608
+00:30:25,786 --> 00:30:28,084
+Will this show up
+in Kajada?
+
+609
+00:30:28,122 --> 00:30:30,590
+Now that we know
+what we're looking for
+
+610
+00:30:30,624 --> 00:30:34,424
+we should be able to confirm it
+with a glial scan.
+
+611
+00:30:34,461 --> 00:30:37,089
+Do it as soon as Bashir
+stabilizes her.
+
+612
+00:30:37,131 --> 00:30:38,291
+Nice work.
+
+613
+00:30:46,607 --> 00:30:49,235
+Confirm that each
+distribution amplifier
+
+614
+00:30:49,276 --> 00:30:51,437
+is at 100% efficiency.
+
+615
+00:30:51,478 --> 00:30:54,504
+lf there's more
+than a .03% fall-off
+
+616
+00:30:54,548 --> 00:30:55,640
+replace it.
+
+617
+00:30:55,682 --> 00:30:57,411
+And that won't mean a thing
+
+618
+00:30:57,451 --> 00:30:59,851
+if the power waveguide
+outlets fail.
+
+619
+00:30:59,887 --> 00:31:00,979
+Double-check them.
+
+620
+00:31:01,054 --> 00:31:02,453
+You better make this
+the last check.
+
+621
+00:31:02,489 --> 00:31:03,547
+We've only got an hour.
+
+622
+00:31:03,590 --> 00:31:04,648
+Where's Primmin?
+
+623
+00:31:04,691 --> 00:31:06,158
+l thought he was with you.
+
+624
+00:31:06,193 --> 00:31:08,286
+l sent him to help you make
+
+625
+00:31:08,328 --> 00:31:10,455
+the final security sweep
+of the docking area.
+
+626
+00:31:10,497 --> 00:31:12,761
+He has not been here
+all morning.
+
+627
+00:31:17,838 --> 00:31:19,806
+l won't be going with you.
+
+628
+00:31:19,840 --> 00:31:22,741
+l'm simply a middleman,
+a facilitator.
+
+629
+00:31:22,776 --> 00:31:24,744
+A profit monger.
+
+630
+00:31:24,778 --> 00:31:26,575
+And proud of it.
+
+631
+00:31:26,613 --> 00:31:31,346
+How did you get your hands
+on a Federation runabout, Quark?
+
+632
+00:31:31,385 --> 00:31:33,819
+l can't take credit for that.
+
+633
+00:31:33,854 --> 00:31:36,345
+Your employer
+has somehow managed
+
+634
+00:31:36,390 --> 00:31:38,517
+to arrange security access.
+
+635
+00:31:41,261 --> 00:31:44,719
+When do we meet this employer?
+
+636
+00:31:44,765 --> 00:31:48,633
+His message said he'd be
+waiting for us on board.
+
+637
+00:31:51,438 --> 00:31:53,406
+Uh...
+
+638
+00:31:53,440 --> 00:31:55,408
+uh, l'm terribly sorry.
+
+639
+00:31:55,442 --> 00:31:58,570
+We seem to have made
+a wrong turn.
+
+640
+00:31:58,612 --> 00:32:00,739
+We-we didn't mean
+to disturb you
+
+641
+00:32:00,781 --> 00:32:02,248
+Doctor.
+
+642
+00:32:08,455 --> 00:32:11,049
+Not at all, gentlemen.
+
+643
+00:32:11,091 --> 00:32:14,390
+l've been expecting you.
+
+644
+00:32:22,035 --> 00:32:24,230
+Julian?
+
+645
+00:32:27,407 --> 00:32:30,274
+Computer,
+location of Dr. Bashir.
+
+646
+00:32:30,310 --> 00:32:33,837
+Dr. Bashir is in the lnfirmary.
+
+647
+00:32:46,693 --> 00:32:49,184
+What the hell are
+you doing in there?
+
+648
+00:32:49,229 --> 00:32:51,959
+l told you to sweep
+the docking bay again.
+
+649
+00:32:52,065 --> 00:32:53,965
+l took a cue from you.
+
+650
+00:32:54,034 --> 00:32:55,831
+From me?
+
+651
+00:32:55,869 --> 00:32:58,838
+You understood the logic
+of Vantika's MO
+
+652
+00:32:58,872 --> 00:33:01,705
+when he downloaded
+the computer memory--
+
+653
+00:33:01,742 --> 00:33:04,677
+avoid the single file,
+attack the system.
+
+654
+00:33:04,711 --> 00:33:07,145
+l'm not following.
+
+655
+00:33:07,180 --> 00:33:09,740
+Vantika has to know
+that all of our security efforts
+
+656
+00:33:09,783 --> 00:33:11,580
+will be focused
+on the docking ring.
+
+657
+00:33:11,618 --> 00:33:12,778
+And...?
+
+658
+00:33:12,819 --> 00:33:14,514
+l figured,
+if he holds true to form
+
+659
+00:33:14,554 --> 00:33:16,385
+that's not where
+he'll try to hurt us.
+
+660
+00:33:16,423 --> 00:33:18,516
+So l ran a diagnostic
+on all the systems
+
+661
+00:33:18,558 --> 00:33:20,924
+that could shut down
+our whole defense array.
+
+662
+00:33:21,028 --> 00:33:22,586
+l've already done
+that twice today.
+
+663
+00:33:22,629 --> 00:33:24,824
+l know. l didn't find
+anything, either.
+
+664
+00:33:24,865 --> 00:33:26,924
+But then l went
+to the backup systems
+
+665
+00:33:27,000 --> 00:33:29,696
+and l found a glitch there
+l couldn't explain.
+
+666
+00:33:29,736 --> 00:33:33,638
+And l tracked it back
+to the waste reclamation system
+
+667
+00:33:33,674 --> 00:33:36,472
+where nobody would ever
+think to look
+
+668
+00:33:36,510 --> 00:33:39,343
+because it's considered
+nonessential.
+
+669
+00:33:39,379 --> 00:33:40,869
+And l found this.
+
+670
+00:33:40,914 --> 00:33:42,677
+Another subspace
+crossover shunt
+
+671
+00:33:42,716 --> 00:33:44,411
+just like the one Vantika used
+
+672
+00:33:44,451 --> 00:33:46,282
+when he tapped
+into the computer.
+
+673
+00:33:46,320 --> 00:33:47,947
+And it's set to feed back
+
+674
+00:33:48,055 --> 00:33:51,149
+into the primary command
+and control functions.
+
+675
+00:33:53,060 --> 00:33:56,052
+This would have shut us
+down for close to an hour.
+
+676
+00:33:56,096 --> 00:33:58,462
+Long enough for him
+to grab that freighter
+
+677
+00:33:58,498 --> 00:34:00,329
+and warp it to who knows where.
+
+678
+00:34:07,708 --> 00:34:08,902
+Yes, Major?
+
+679
+00:34:08,976 --> 00:34:11,069
+The <i>Norkova's</i> just come
+through the wormhole.
+
+680
+00:34:11,111 --> 00:34:12,738
+Requesting permission to dock.
+
+681
+00:34:12,779 --> 00:34:14,610
+Let's go to
+a Security Alert Yellow.
+
+682
+00:34:14,648 --> 00:34:16,912
+What bay do you
+have assigned in the plan?
+
+683
+00:34:16,984 --> 00:34:18,178
+Number Eight.
+
+684
+00:34:18,218 --> 00:34:19,344
+Odo...
+
+685
+00:34:19,386 --> 00:34:22,480
+maintain a visible contingent
+of security at Bay Eight.
+
+686
+00:34:22,522 --> 00:34:25,320
+But l'm sending the <i>Norkova</i>
+to the second backup.
+
+687
+00:34:25,359 --> 00:34:26,690
+Bay 12.
+
+688
+00:34:26,727 --> 00:34:28,888
+l'll send
+additional forces to 12.
+
+689
+00:34:28,929 --> 00:34:31,796
+Commander, your
+Lieutenant Primmin there
+
+690
+00:34:31,832 --> 00:34:33,424
+just saved us all
+a lot of problems.
+
+691
+00:34:33,467 --> 00:34:36,027
+Another subspace crossover
+that would have crippled us
+
+692
+00:34:36,069 --> 00:34:38,560
+long enough for them to
+escape with your deuridium.
+
+693
+00:34:38,605 --> 00:34:40,869
+Odo, did you deploy
+a runabout
+
+694
+00:34:40,907 --> 00:34:42,340
+to escort the <i>Norkova?</i>
+
+695
+00:34:42,376 --> 00:34:43,934
+No.
+
+696
+00:34:43,977 --> 00:34:47,140
+Then how come the <i>Rio Grande's</i>
+going out to meet it?
+
+697
+00:34:47,180 --> 00:34:49,011
+On screen.
+
+698
+00:34:55,756 --> 00:34:57,519
+Benjamin, Julian's missing.
+
+699
+00:34:57,557 --> 00:34:58,649
+Missing?
+
+700
+00:34:58,692 --> 00:35:00,853
+His combadge
+was in the infirmary.
+
+701
+00:35:00,894 --> 00:35:02,020
+l can't find him anywhere.
+
+702
+00:35:02,062 --> 00:35:04,257
+Computer, who authorized access
+
+703
+00:35:04,297 --> 00:35:06,458
+to the Runabout <i>Rio Grande?</i>
+
+704
+00:35:06,500 --> 00:35:09,264
+Authorization:
+access code 4-1-2-1.
+
+705
+00:35:09,302 --> 00:35:11,293
+Dr. Julian Bashir.
+
+706
+00:35:46,906 --> 00:35:48,464
+lt's safe.
+
+707
+00:36:01,121 --> 00:36:03,351
+Shields up.
+
+708
+00:36:03,390 --> 00:36:04,516
+Done.
+
+709
+00:36:05,692 --> 00:36:07,853
+Secure the rest of the ship.
+
+710
+00:36:07,894 --> 00:36:11,853
+Be sure to account
+for all 12 members of the crew.
+
+711
+00:36:11,931 --> 00:36:13,990
+lf they resist, kill them.
+
+712
+00:36:14,034 --> 00:36:16,264
+Enter the new course.
+
+713
+00:36:16,302 --> 00:36:18,293
+Aye.
+
+714
+00:36:22,142 --> 00:36:26,340
+The station has locked
+a tractor beam on us.
+
+715
+00:36:26,379 --> 00:36:28,677
+But that's not possible.
+
+716
+00:36:28,715 --> 00:36:31,582
+They should be shut down by now.
+
+717
+00:36:31,618 --> 00:36:33,882
+Well, they're not.
+
+718
+00:36:33,987 --> 00:36:36,046
+They're hailing us.
+
+719
+00:36:36,089 --> 00:36:39,354
+Hailing... us?
+
+720
+00:36:39,392 --> 00:36:42,361
+Engage engines, full impulse.
+
+721
+00:36:42,395 --> 00:36:45,853
+We're not going anywhere
+with a tractor beam on us.
+
+722
+00:36:45,899 --> 00:36:47,662
+Do it!
+
+723
+00:36:47,701 --> 00:36:51,364
+Full impulse engaged.
+
+724
+00:36:51,404 --> 00:36:53,372
+The tractor beam is holding.
+
+725
+00:36:53,406 --> 00:36:57,206
+But they won't be able
+to pull us in.
+
+726
+00:36:57,243 --> 00:37:00,406
+We can't just sit here
+and wait.
+
+727
+00:37:00,447 --> 00:37:03,678
+What do you intend to do?
+
+728
+00:37:05,852 --> 00:37:07,979
+Open a channel.
+
+729
+00:37:10,790 --> 00:37:15,159
+l'm Benjamin Sisko,
+Commander of DS9.
+
+730
+00:37:15,195 --> 00:37:18,790
+Rao Vantika is my name.
+
+731
+00:37:24,003 --> 00:37:28,872
+But l assume you
+know that already.
+
+732
+00:37:28,975 --> 00:37:32,240
+l want to talk to Dr. Bashir.
+
+733
+00:37:32,278 --> 00:37:37,079
+Unfortunately, he's not
+available at the moment.
+
+734
+00:37:37,117 --> 00:37:38,584
+ls he all right?
+
+735
+00:37:38,618 --> 00:37:43,180
+His body is--
+how do you humans say it?
+
+736
+00:37:43,223 --> 00:37:45,714
+Fit as a fiddle.
+
+737
+00:37:45,759 --> 00:37:49,593
+Looks rather good on me,
+don't you think?
+
+738
+00:37:49,629 --> 00:37:51,893
+What have you done
+to his mind, Vantika?
+
+739
+00:37:51,931 --> 00:37:57,892
+lt was necessary to render him
+unconscious for the time being.
+
+740
+00:37:57,937 --> 00:38:00,497
+However, l might consider
+
+741
+00:38:00,540 --> 00:38:05,034
+leaving his body
+and returning him to you.
+
+742
+00:38:05,078 --> 00:38:07,842
+But first, you must release
+
+743
+00:38:07,947 --> 00:38:09,676
+your tractor beam.
+
+744
+00:38:09,716 --> 00:38:11,115
+l can't do that.
+
+745
+00:38:11,151 --> 00:38:15,713
+lf you don't,
+l'll take this vessel to warp.
+
+746
+00:38:15,755 --> 00:38:17,780
+The tractor beam
+would rip apart your ship.
+
+747
+00:38:17,824 --> 00:38:20,088
+And you and everybody on board
+would be killed.
+
+748
+00:38:20,126 --> 00:38:22,185
+Exactly.
+
+749
+00:38:22,228 --> 00:38:28,224
+So if you care at all
+about the welfare of your doctor
+
+750
+00:38:28,268 --> 00:38:31,863
+you will release
+your hold on us.
+
+751
+00:38:31,938 --> 00:38:35,066
+You have one minute to decide.
+
+752
+00:38:36,209 --> 00:38:39,576
+Can we get
+a transporter lock on him?
+
+753
+00:38:39,612 --> 00:38:41,876
+Negative.
+Their shields are up.
+
+754
+00:38:41,948 --> 00:38:43,245
+Suggestions?
+
+755
+00:38:43,283 --> 00:38:44,978
+A small ship like a runabout
+
+756
+00:38:45,018 --> 00:38:46,883
+might be able
+to get close enough
+
+757
+00:38:46,986 --> 00:38:49,079
+to overload
+their shield generators
+
+758
+00:38:49,122 --> 00:38:50,680
+with directed phaser fire.
+
+759
+00:38:50,723 --> 00:38:53,248
+We used to do it to Cardassian
+freighters all the time.
+
+760
+00:38:53,293 --> 00:38:55,261
+But you'd be risking
+a hull breach
+
+761
+00:38:55,295 --> 00:38:57,490
+and with all the deuridium
+on board...
+
+762
+00:38:57,597 --> 00:38:58,825
+He's right.
+
+763
+00:38:58,865 --> 00:39:02,164
+We can't risk releasing
+deuridium into the system.
+
+764
+00:39:02,202 --> 00:39:05,365
+Every populated area
+would have to be evacuated.
+
+765
+00:39:05,405 --> 00:39:07,839
+Dax, is there
+any way to disrupt
+
+766
+00:39:07,874 --> 00:39:09,842
+Vantika's control over Bashir?
+
+767
+00:39:09,876 --> 00:39:11,400
+l have an exact model
+
+768
+00:39:11,444 --> 00:39:13,742
+of Vantika's
+neural energy patterns.
+
+769
+00:39:13,780 --> 00:39:16,340
+lf l can design
+an electromagnetic pulse
+
+770
+00:39:16,382 --> 00:39:18,077
+to disrupt those patterns
+
+771
+00:39:18,117 --> 00:39:19,414
+Julian might emerge.
+
+772
+00:39:19,452 --> 00:39:22,285
+We still need a way
+to get it there.
+
+773
+00:39:22,322 --> 00:39:24,654
+Could we run it
+along the tractor beam
+
+774
+00:39:24,691 --> 00:39:26,022
+at the same frequency
+
+775
+00:39:26,059 --> 00:39:27,185
+as their shields?
+
+776
+00:39:27,227 --> 00:39:29,593
+The pulse would resonate
+off the shields
+
+777
+00:39:29,629 --> 00:39:32,530
+and create a reflected EM
+field inside the ship.
+
+778
+00:39:32,565 --> 00:39:34,192
+He's hailing us.
+
+779
+00:39:34,234 --> 00:39:36,031
+l need some time.
+
+780
+00:39:36,069 --> 00:39:39,163
+l'll give you as much as l can.
+On screen.
+
+781
+00:39:39,205 --> 00:39:41,230
+Have you decided?
+
+782
+00:39:41,274 --> 00:39:43,037
+lf l permit you to leave
+
+783
+00:39:43,076 --> 00:39:45,636
+what guarantee do l have
+that you'll return Dr. Bashir?
+
+784
+00:39:45,678 --> 00:39:50,138
+Oh, you're far too ready
+to capitulate, Commander.
+
+785
+00:39:50,183 --> 00:39:55,280
+Would you be planning
+a rescue attempt, perhaps?
+
+786
+00:39:55,321 --> 00:39:57,846
+l'm only interested
+in the safety of my doctor.
+
+787
+00:39:57,891 --> 00:40:00,689
+You insult my intelligence.
+
+788
+00:40:00,727 --> 00:40:02,786
+Prepare to go to warp.
+
+789
+00:40:02,829 --> 00:40:05,730
+You've gone to great lengths
+to survive, Vantika.
+
+790
+00:40:05,765 --> 00:40:08,461
+l don't think you're ready
+to kill yourself.
+
+791
+00:40:08,501 --> 00:40:12,665
+And l don't think you are ready
+
+792
+00:40:12,705 --> 00:40:18,234
+to risk spreading deuridium
+all over this system.
+
+793
+00:40:21,814 --> 00:40:25,215
+Ready to engage warp engines.
+
+794
+00:40:25,251 --> 00:40:26,684
+You must be crazy!
+
+795
+00:40:26,719 --> 00:40:28,744
+l want no part of this!
+
+796
+00:40:33,159 --> 00:40:37,061
+No more middlemen, Sisko.
+
+797
+00:40:37,096 --> 00:40:38,893
+No more delays.
+
+798
+00:40:43,202 --> 00:40:45,670
+What's it to be?
+
+799
+00:40:45,705 --> 00:40:47,639
+All right.
+
+800
+00:40:47,674 --> 00:40:50,074
+We're prepared to release
+the tractor beam.
+
+801
+00:40:50,109 --> 00:40:51,576
+Dax?
+
+802
+00:40:51,611 --> 00:40:53,169
+Ready.
+
+803
+00:40:53,212 --> 00:40:54,702
+Do it!
+
+804
+00:41:05,558 --> 00:41:06,889
+Dr. Bashir!
+
+805
+00:41:06,926 --> 00:41:08,518
+Answer me.
+
+806
+00:41:08,561 --> 00:41:10,028
+Bashir!
+
+807
+00:41:11,998 --> 00:41:13,625
+Yes?
+
+808
+00:41:13,666 --> 00:41:14,894
+What?
+
+809
+00:41:14,968 --> 00:41:17,801
+Doctor, lower the shields!
+
+810
+00:41:17,837 --> 00:41:19,998
+What?
+
+811
+00:41:20,039 --> 00:41:21,404
+What... what shields?
+
+812
+00:41:21,441 --> 00:41:22,669
+Where am l?
+
+813
+00:41:22,709 --> 00:41:24,074
+l'll explain later.
+
+814
+00:41:24,110 --> 00:41:26,271
+Lower the shields now!
+
+815
+00:41:34,821 --> 00:41:36,152
+The shields are down.
+
+816
+00:41:36,189 --> 00:41:37,213
+Get him out of there!
+
+817
+00:41:37,256 --> 00:41:38,245
+Energizing.
+
+818
+00:41:45,832 --> 00:41:48,426
+lt's okay.
+
+819
+00:41:48,468 --> 00:41:49,833
+lt's...
+
+820
+00:41:49,869 --> 00:41:51,496
+me.
+
+821
+00:42:04,480 --> 00:42:06,675
+l've programmed
+this transporter
+
+822
+00:42:06,716 --> 00:42:10,982
+to isolate any glial cells with
+Vantika's neural patterns...
+
+823
+00:42:11,020 --> 00:42:13,750
+and to beam them from Julian
+
+824
+00:42:13,789 --> 00:42:16,553
+into this
+micro-containment field.
+
+825
+00:42:22,565 --> 00:42:25,796
+Once they're out,
+he should be back to normal.
+
+826
+00:43:03,973 --> 00:43:06,498
+l'm only reading
+human neural patterns.
+
+827
+00:43:06,542 --> 00:43:07,873
+He's clear.
+
+828
+00:43:23,693 --> 00:43:27,527
+Oh, l have the worst headache.
+
+829
+00:43:41,210 --> 00:43:44,577
+Dr. Bashir, l'm so sorry
+for all of this.
+
+830
+00:43:44,613 --> 00:43:46,638
+Well, l suppose we should
+have listened to you
+
+831
+00:43:46,682 --> 00:43:48,707
+when you said he was alive.
+
+832
+00:43:48,751 --> 00:43:50,616
+There was no way
+for you to control
+
+833
+00:43:50,653 --> 00:43:52,018
+what he was doing to you.
+
+834
+00:43:52,054 --> 00:43:55,785
+l'm afraid l don't remember it.
+
+835
+00:43:55,825 --> 00:43:59,124
+Actually, l feel
+quite humiliated.
+
+836
+00:43:59,161 --> 00:44:00,992
+No one blames you, Doctor.
+
+837
+00:44:01,030 --> 00:44:03,430
+lt wasn't you.
+
+838
+00:44:03,466 --> 00:44:05,366
+lt was that.
+
+839
+00:44:05,401 --> 00:44:08,564
+What do you intend to do
+with it?
+
+840
+00:44:08,604 --> 00:44:11,198
+May l assume that you've
+returned custody
+
+841
+00:44:11,240 --> 00:44:13,708
+of the prisoner to me,
+Commander Sisko?
+
+842
+00:44:13,743 --> 00:44:15,074
+The prisoner?
+
+843
+00:44:15,111 --> 00:44:16,476
+What's left of him.
+
+844
+00:44:16,512 --> 00:44:18,070
+Good.
+

@@ -1,7 +1,7 @@
 [CmdletBinding()]
 param(
-  [Parameter(Mandatory=$false)]
-    [string]$inputPath        = "D:\DeepSpaceNine\DeepSpaceNine\Season 01\Deep Space Nine - S01E03 - Past Prologue\Deep Space Nine - S01E03 - Past Prologue _RioGrandeV2_4.50x_2880x2160_ghq-1.0.1_png",
+  [Parameter(Mandatory=$true)]
+    [string]$inputPath,
 
   [Parameter(Mandatory=$False)]
     [ValidateSet("23.976", "24","29.97", "30")]
@@ -40,14 +40,51 @@ param(
   [Parameter(Mandatory=$False)]
     [int]$NumberOfFrames,
 
-  [Parameter()]
+  [Parameter(Mandatory=$False)]
     [switch]$overwrite,
 
-  [Parameter()]
-    [switch]$showFFMEGArgsAtEnd
+  [Parameter(Mandatory=$False)]
+    [switch]$showFFMEGArgsAtEnd,
+
+  [Parameter(Mandatory=$False)]
+    [string]$waitForFrameFile
+    
 )
 
+Function activityMonitor() {
+  [CmdletBinding()]
+  param(
+    [Parameter(Mandatory=$false)][int]   $currentValue = "1",
+    [Parameter(Mandatory=$false)][int]   $maxValue     = "40",
+    [Parameter(Mandatory=$false)][string]$leftEnd      = "[",
+    [Parameter(Mandatory=$false)][string]$rightEnd     = "]",
+    [Parameter(Mandatory=$false)][string]$filler       = ".",
+    [Parameter(Mandatory=$false)][string]$Active       = "oOo",
+    [Parameter(Mandatory=$false)][ValidateSet("Forward","Backward")][string]$direction = "Forward"
+    
+  ) 
+  
+  
+  $bar = ""
+  $bar = $bar + $leftEnd
+  $bar = $bar + $filler * $maxValue
+  $bar = $bar.remove($currentValue,1).Insert($currentValue,$Active)
+  $bar = $bar + $rightEnd
 
+  If ($currentValue -gt $maxValue -1) { $direction = "Backward" }
+  If ($currentValue -lt 2)         { $direction = "Forward"  }
+
+  If ($direction.tolower() -eq "forward"  ) { $currentValue+=1 } 
+  If ($direction.tolower() -eq "backward" ) { $currentValue-=1 }
+
+  Write-Output [pscustomobject] @{
+      Bar           = $bar
+      direction     = $direction
+      currentValue  = $currentValue
+      maxValue      = $maxValue
+      Active        = $Active
+  }
+}
 Function get-fancyString() {
     [CmdletBinding()]
     param(
@@ -187,9 +224,25 @@ Function write-fancyString() {
     write-fancystring -label "  Pixel Format"       -labelpadding $labelPaddingSize -text $encodePixFormat  -textSize $textPaddingSize
     write-fancystring -label "  FFMPEG"             -labelpadding $labelPaddingSize -text $ffmpegArgs       -textSize $textPaddingSize
      
-    
-    
+    If ($waitForFrameFile) {
+      $frameStart = Join-Path -Path $inputPath -ChildPath $waitForFrameFile
+      write-fancyString -label "  Waiting For"      -labelPadding $labelPaddingSize -text $frameStart     -textSize $textPaddingSize
+      write-fancystring -label "  Started Waiting"  -labelpadding $labelPaddingSize -text "$(get-date)"   -textSize $textPaddingSize  
+      $activity = activityMonitor -maxValue ($labelPaddingSize + $textPaddingSize + 5 - $waitForFrameFile.Length) -Active $waitForFrameFile
+      while (!(Test-Path $frameStart)) {
+          $activity = activityMonitor -currentValue $activity.currentValue -direction "$($activity.direction)" -maxValue $activity.maxValue -Active $activity.Active
+          $Host.UI.RawUI.CursorPosition = New-Object System.Management.Automation.Host.Coordinates 0,$Host.UI.RawUI.CursorPosition.Y
+      
+        write-host $activity.bar -NoNewline
+        start-sleep -Seconds 1
+      }
 
+      $Host.UI.RawUI.CursorPosition = New-Object System.Management.Automation.Host.Coordinates 0,$Host.UI.RawUI.CursorPosition.Y
+      write-host $(" " * $activity.maxValue) -NoNewline
+      $Host.UI.RawUI.CursorPosition = New-Object System.Management.Automation.Host.Coordinates 0,$Host.UI.RawUI.CursorPosition.Y
+    }
+    
+    
 # Launch Process        
     write-host $("-" * ($labelPaddingSize + $textPaddingSize + $lineBuffer)) -fore black -back darkgray 
     $timeStarted = Get-Date       
