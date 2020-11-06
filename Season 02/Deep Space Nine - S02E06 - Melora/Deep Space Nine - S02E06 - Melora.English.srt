@@ -1,0 +1,3520 @@
+﻿1
+00:00:02,194 --> 00:00:05,925
+Medical Log, Stardate 47229.1.
+
+2
+00:00:05,964 --> 00:00:08,558
+Chief O'Brien and l
+have been working overtime
+
+3
+00:00:08,600 --> 00:00:11,364
+to prepare for the arrival
+of a new cartographer.
+
+4
+00:00:11,403 --> 00:00:15,134
+Ensign Melora Pazlar is the
+first Elaysian to join Starfleet
+
+5
+00:00:15,173 --> 00:00:18,836
+and, as such, requires
+special accommodations.
+
+6
+00:00:18,877 --> 00:00:21,539
+l haven't seen one
+of these in 300 years.
+
+7
+00:00:21,580 --> 00:00:23,343
+l'm surprised
+it was even on file
+
+8
+00:00:23,382 --> 00:00:25,179
+in the replicator's data bank.
+
+9
+00:00:25,217 --> 00:00:26,309
+lt isn't.
+
+10
+00:00:26,351 --> 00:00:28,615
+Ensign Pazlar sent me
+the specifications.
+
+11
+00:00:28,654 --> 00:00:30,053
+She really uses one like this?
+
+12
+00:00:30,088 --> 00:00:32,613
+Her normal anti-grav unit
+isn't going to work here.
+
+13
+00:00:32,658 --> 00:00:35,786
+Same problem we had with
+the Starfleet cargo lifts.
+
+14
+00:00:35,827 --> 00:00:38,523
+Cardassian construction
+just isn't compatible.
+
+15
+00:00:38,563 --> 00:00:39,860
+Ops to Bashir.
+
+16
+00:00:39,898 --> 00:00:42,867
+The <i>Yellowstone</i> has just
+docked at Airlock 14, Doctor.
+
+17
+00:00:42,901 --> 00:00:44,801
+We're on our way.
+
+18
+00:00:48,340 --> 00:00:51,138
+Just think of what she's gone
+through to get here, Jadzia.
+
+19
+00:00:51,176 --> 00:00:52,871
+What it must be like
+to adjust to our gravity
+
+20
+00:00:52,911 --> 00:00:55,209
+after growing up on a planet
+with such low surface gravity.
+
+21
+00:00:55,247 --> 00:00:57,545
+Doctor, we've done
+the best we can with the ramps.
+
+22
+00:00:57,582 --> 00:00:59,948
+The Cardassians obviously
+didn't have her in mind
+
+23
+00:00:59,985 --> 00:01:01,316
+when they built this place.
+
+24
+00:01:01,353 --> 00:01:03,947
+Well, l've managed to modify
+the maximum vertical clearance
+
+25
+00:01:03,989 --> 00:01:06,549
+of the chair three centimeters,
+to a slope of 56 degrees.
+
+26
+00:01:06,591 --> 00:01:07,819
+Well, that still leaves
+a lot of places
+
+27
+00:01:07,859 --> 00:01:09,053
+around here
+she won't have access to.
+
+28
+00:01:09,094 --> 00:01:10,493
+Can't we just use
+the transporter
+
+29
+00:01:10,529 --> 00:01:11,518
+to help her get around?
+
+30
+00:01:11,563 --> 00:01:12,894
+lt makes sense to me
+
+31
+00:01:12,931 --> 00:01:15,866
+but she sent word that it
+wasn't acceptable to her.
+
+32
+00:01:15,901 --> 00:01:17,163
+l wonder why.
+
+33
+00:01:17,202 --> 00:01:19,102
+l know exactly why.
+
+34
+00:01:19,137 --> 00:01:20,570
+She went through Academy
+the same way.
+
+35
+00:01:20,605 --> 00:01:21,799
+Once her basic needs are met
+
+36
+00:01:21,840 --> 00:01:23,808
+she refuses
+any special assistance.
+
+37
+00:01:23,842 --> 00:01:25,139
+She's extraordinary.
+
+38
+00:01:25,177 --> 00:01:27,737
+You make it sound as though
+you've known her for years.
+
+39
+00:01:27,779 --> 00:01:29,713
+l almost feel as though l have.
+
+40
+00:01:29,748 --> 00:01:33,377
+l've pulled all her personnel
+and medical files to get ready.
+
+41
+00:01:33,418 --> 00:01:35,318
+Her quarters--
+they're ready, aren't they?
+
+42
+00:01:35,354 --> 00:01:37,652
+l've got the bumps on the head
+to prove it.
+
+43
+00:01:37,689 --> 00:01:38,849
+Thanks, Chief.
+
+44
+00:01:38,890 --> 00:01:41,188
+Let me know if there's
+anything else l can do.
+
+45
+00:01:41,226 --> 00:01:44,821
+That'll be something to see--
+when we switch off the gravity
+
+46
+00:01:44,863 --> 00:01:46,763
+and she flies around the room.
+
+47
+00:02:09,955 --> 00:02:12,480
+Ensign Melora Pazlar
+reporting for duty.
+
+48
+00:02:12,524 --> 00:02:13,752
+Welcome to DS9, Ensign.
+
+49
+00:02:13,792 --> 00:02:16,124
+l'm Chief Science Officer
+Jadzia Dax
+
+50
+00:02:16,161 --> 00:02:17,128
+and this is...
+
+51
+00:02:17,162 --> 00:02:18,789
+Dr. Bashir,
+we spoke on subspace.
+
+52
+00:02:18,830 --> 00:02:20,058
+Good to meet you in person.
+
+53
+00:02:20,098 --> 00:02:21,429
+l see you have my trolley car
+ready to go.
+
+54
+00:02:21,466 --> 00:02:22,433
+As requested.
+
+55
+00:02:22,467 --> 00:02:23,434
+Can l help?
+
+56
+00:02:23,468 --> 00:02:25,368
+l'm fine, thank you.
+
+57
+00:02:36,681 --> 00:02:37,841
+That's better.
+
+58
+00:02:37,883 --> 00:02:39,475
+You've modified it.
+
+59
+00:02:39,518 --> 00:02:42,885
+Yes, l wanted to give you
+as much mobility as l could.
+
+60
+00:02:42,921 --> 00:02:44,183
+l've been practicing
+
+61
+00:02:44,222 --> 00:02:46,588
+on the model
+l requested for a month.
+
+62
+00:02:46,625 --> 00:02:47,649
+Well, it's no problem.
+
+63
+00:02:47,692 --> 00:02:49,819
+We can replicate
+the other design.
+
+64
+00:02:49,861 --> 00:02:52,352
+No, l'll just have to adapt.
+
+65
+00:02:57,769 --> 00:03:00,738
+l will be accompanying you
+on your survey mission.
+
+66
+00:03:00,772 --> 00:03:02,569
+l really don't think that'll be
+necessary, Lieutenant.
+
+67
+00:03:02,607 --> 00:03:05,405
+l'm perfectly capable
+of piloting a runabout.
+
+68
+00:03:05,444 --> 00:03:07,036
+Commander Sisko
+thought that it...
+
+69
+00:03:07,078 --> 00:03:08,807
+l'm sure he thought
+what every officer
+
+70
+00:03:08,847 --> 00:03:10,439
+l've ever served with
+has thought--
+
+71
+00:03:10,482 --> 00:03:12,916
+that l need extra help
+to get the job done.
+
+72
+00:03:12,951 --> 00:03:14,077
+Please tell him l don't.
+
+73
+00:03:14,119 --> 00:03:16,587
+Commander Sisko
+wouldn't allow any Ensign
+
+74
+00:03:16,621 --> 00:03:18,145
+to take a runabout
+into the Gamma Quadrant
+
+75
+00:03:18,256 --> 00:03:19,245
+the day after she arrives.
+
+76
+00:03:19,291 --> 00:03:20,724
+l'm sure
+the Chief Science Officer
+
+77
+00:03:20,759 --> 00:03:22,056
+has more important
+things to do
+
+78
+00:03:22,093 --> 00:03:24,721
+than chart a sector
+in the Gamma Quadrant.
+
+79
+00:03:24,763 --> 00:03:27,163
+Um, here we are.
+
+80
+00:03:27,265 --> 00:03:28,698
+You didn't modify
+the specifications
+
+81
+00:03:28,733 --> 00:03:30,166
+l gave you for my quarters,
+did you?
+
+82
+00:03:30,235 --> 00:03:31,361
+Not one iota.
+
+83
+00:03:31,403 --> 00:03:33,769
+You can control the gravity unit
+with this device.
+
+84
+00:03:33,805 --> 00:03:35,033
+lf you'd care to try it out...
+
+85
+00:03:35,073 --> 00:03:36,165
+Thank you, l will.
+
+86
+00:03:36,208 --> 00:03:39,006
+lt was a pleasure
+meeting both of you.
+
+87
+00:05:43,614 --> 00:05:48,017
+Paltriss only created
+80 of them, each a...
+
+88
+00:05:48,051 --> 00:05:49,746
+a work of art.
+
+89
+00:05:49,786 --> 00:05:53,051
+And l've come into
+the possession of 42.
+
+90
+00:05:53,090 --> 00:05:54,523
+Forty-two?
+
+91
+00:05:56,293 --> 00:05:58,284
+My world will honor your name
+
+92
+00:05:58,328 --> 00:06:00,796
+for returning
+the rings of Paltriss
+
+93
+00:06:00,831 --> 00:06:02,162
+to his birthplace.
+
+94
+00:06:02,199 --> 00:06:03,223
+Honor my name all you like
+
+95
+00:06:03,267 --> 00:06:04,996
+as long as your honor
+is accompanied
+
+96
+00:06:05,035 --> 00:06:08,937
+by 199 bars
+of gold-pressed latinum.
+
+97
+00:06:12,309 --> 00:06:14,641
+l heard you drive
+a hard bargain.
+
+98
+00:06:14,678 --> 00:06:17,875
+Shall we celebrate
+our closing the deal
+
+99
+00:06:17,915 --> 00:06:19,542
+with another drink?
+
+100
+00:06:25,322 --> 00:06:26,846
+Excuse me.
+
+101
+00:06:27,925 --> 00:06:29,051
+l'm sorry.
+
+102
+00:06:29,092 --> 00:06:30,252
+We're not open yet
+
+103
+00:06:30,294 --> 00:06:32,091
+but if you'll come back in...
+
+104
+00:06:35,832 --> 00:06:37,891
+Have another drink on me.
+
+105
+00:06:41,939 --> 00:06:45,170
+Fallit Kot, is it really you?
+
+106
+00:06:45,208 --> 00:06:48,234
+How long has it been?
+
+107
+00:06:48,278 --> 00:06:51,679
+Eight years.
+Eight long years.
+
+108
+00:06:51,715 --> 00:06:54,081
+Oh, it can't be.
+
+109
+00:06:54,151 --> 00:06:58,679
+l must say, you look terrific.
+
+110
+00:06:58,722 --> 00:06:59,950
+Tanned, toned up...
+
+111
+00:06:59,990 --> 00:07:02,151
+all that baby fat
+has disappeared
+
+112
+00:07:02,192 --> 00:07:03,420
+from your face.
+
+113
+00:07:03,460 --> 00:07:06,054
+You don't keep extra weight on
+where l've been.
+
+114
+00:07:07,731 --> 00:07:08,959
+Just passing through are you?
+
+115
+00:07:08,999 --> 00:07:11,832
+l bet you have business
+in the Gamma Quadrant.
+
+116
+00:07:11,868 --> 00:07:14,359
+You always had a sharp eye
+for fresh territory.
+
+117
+00:07:14,404 --> 00:07:16,872
+Oh, l'm not going
+to the Gamma Quadrant.
+
+118
+00:07:16,907 --> 00:07:19,375
+My business is
+right here with you.
+
+119
+00:07:19,409 --> 00:07:20,467
+With me?
+
+120
+00:07:20,510 --> 00:07:21,704
+That's right.
+
+121
+00:07:24,848 --> 00:07:26,748
+l've come to kill you, Quark.
+
+122
+00:07:33,290 --> 00:07:35,815
+l've gone through
+her mission profile
+
+123
+00:07:35,859 --> 00:07:37,952
+and she certainly seems
+to know what she's doing.
+
+124
+00:07:37,995 --> 00:07:39,326
+Nevertheless, this is
+
+125
+00:07:39,363 --> 00:07:40,728
+her first deep
+space assignment.
+
+126
+00:07:40,764 --> 00:07:42,425
+And it doesn't make
+sense to me to...
+
+127
+00:07:45,002 --> 00:07:46,993
+Here she is.
+
+128
+00:07:52,309 --> 00:07:53,776
+Welcome, Ensign.
+
+129
+00:07:53,810 --> 00:07:56,574
+l'm Commander Benjamin Sisko.
+
+130
+00:07:56,613 --> 00:07:58,274
+Am l late?
+
+131
+00:07:58,315 --> 00:07:59,976
+No, not at all.
+
+132
+00:08:00,017 --> 00:08:02,747
+lt looked as though the meeting
+had already begun.
+
+133
+00:08:02,786 --> 00:08:04,117
+Dax and Bashir
+were just telling me
+
+134
+00:08:04,154 --> 00:08:05,985
+about your request
+to pilot a runabout alone.
+
+135
+00:08:09,426 --> 00:08:11,986
+Wouldn't it have
+been more appropriate
+
+136
+00:08:12,029 --> 00:08:14,395
+to include me
+in that conversation?
+
+137
+00:08:14,431 --> 00:08:16,023
+l was getting a briefing
+
+138
+00:08:16,099 --> 00:08:18,226
+by my senior officers, Ensign.
+
+139
+00:08:18,268 --> 00:08:21,260
+We discuss personnel
+matters all the time.
+
+140
+00:08:21,304 --> 00:08:24,239
+l'm sorry if l seem
+overly sensitive
+
+141
+00:08:24,274 --> 00:08:28,540
+but l'm used to being shut out
+of the ''Melora problem.''
+
+142
+00:08:28,578 --> 00:08:32,014
+The truth is, there is
+no ''Melora problem''
+
+143
+00:08:32,049 --> 00:08:34,313
+until people create one.
+
+144
+00:08:38,822 --> 00:08:40,312
+This may sound ungrateful
+
+145
+00:08:40,357 --> 00:08:43,190
+because Dr. Bashir has
+been wonderfully helpful
+
+146
+00:08:43,226 --> 00:08:45,592
+in the preparations
+for my arrival
+
+147
+00:08:45,629 --> 00:08:48,689
+but frankly, l wonder
+why a medical opinion
+
+148
+00:08:48,732 --> 00:08:51,257
+is necessary
+in this discussion.
+
+149
+00:08:51,301 --> 00:08:53,269
+Julian knows more
+of your capabilities
+
+150
+00:08:53,303 --> 00:08:54,998
+than any of us.
+
+151
+00:08:55,038 --> 00:08:57,768
+l don't need a medical opinion
+to tell me my own capabilities.
+
+152
+00:08:57,808 --> 00:08:59,275
+-Ensign...
+-l simply object
+
+153
+00:08:59,309 --> 00:09:01,504
+to being treated
+like someone who is ill.
+
+154
+00:09:01,545 --> 00:09:03,513
+l don't see anybody doing that.
+
+155
+00:09:03,547 --> 00:09:05,845
+Try sitting in the
+chair, Commander.
+
+156
+00:09:05,882 --> 00:09:09,579
+No one can understand
+until they sit in the chair.
+
+157
+00:09:16,226 --> 00:09:17,853
+l've been in one chair
+or another
+
+158
+00:09:17,894 --> 00:09:19,327
+since l left my home world.
+
+159
+00:09:20,897 --> 00:09:22,865
+My family gave me this cane.
+
+160
+00:09:22,899 --> 00:09:26,062
+lt's made from the wood
+of a garlanic tree.
+
+161
+00:09:27,070 --> 00:09:28,560
+They had no idea
+what it would be like
+
+162
+00:09:28,605 --> 00:09:29,697
+to live off-world
+
+163
+00:09:29,740 --> 00:09:32,504
+in what you consider
+''normal'' gravity.
+
+164
+00:09:32,542 --> 00:09:35,238
+Only a handful of Elaysians
+have ever left home
+
+165
+00:09:35,278 --> 00:09:37,940
+but l always knew
+that l had to be one of them.
+
+166
+00:09:37,981 --> 00:09:42,042
+l dreamt about exploring
+the stars as a child
+
+167
+00:09:42,152 --> 00:09:46,612
+and l wasn't going to allow
+any... handicap--
+
+168
+00:09:46,656 --> 00:09:50,752
+not a chair,
+not a Cardassian station--
+
+169
+00:09:50,794 --> 00:09:53,490
+to stop me
+from chasing that dream.
+
+170
+00:09:53,530 --> 00:09:55,361
+You must feel
+a great deal of pride
+
+171
+00:09:55,398 --> 00:09:57,161
+about everything
+you've achieved.
+
+172
+00:09:57,200 --> 00:09:59,430
+And l've achieved that,
+Commander
+
+173
+00:09:59,469 --> 00:10:01,869
+without being dependent
+on anybody.
+
+174
+00:10:01,905 --> 00:10:06,342
+To be honest,
+l prefer to work alone.
+
+175
+00:10:06,376 --> 00:10:08,207
+lt's simply easier for me.
+
+176
+00:10:09,546 --> 00:10:10,535
+l am not comfortable
+
+177
+00:10:10,580 --> 00:10:12,741
+sending you alone
+into the Gamma Quadrant.
+
+178
+00:10:12,783 --> 00:10:16,549
+Sir... l can focus
+on the job better.
+
+179
+00:10:16,586 --> 00:10:19,646
+l-l can work at my own pace
+without being a bother
+
+180
+00:10:19,689 --> 00:10:21,486
+to anyone else.
+
+181
+00:10:21,525 --> 00:10:24,358
+Lieutenant Dax will
+be going with you.
+
+182
+00:10:27,731 --> 00:10:29,358
+Yes, sir.
+
+183
+00:10:31,134 --> 00:10:33,466
+When do you wish to leave,
+Lieutenant?
+
+184
+00:10:34,671 --> 00:10:36,696
+Your schedule is fine with me.
+
+185
+00:10:36,740 --> 00:10:39,470
+Then tomorrow at 0730.
+
+186
+00:10:55,992 --> 00:10:57,789
+ls it working?
+
+187
+00:10:57,828 --> 00:11:00,058
+The low-grav
+field actuator.
+
+188
+00:11:00,096 --> 00:11:02,064
+l just heard it go off.
+
+189
+00:11:02,098 --> 00:11:03,793
+lt's working fine.
+
+190
+00:11:03,834 --> 00:11:05,529
+So you were just...
+
+191
+00:11:05,569 --> 00:11:07,298
+Oh, um... for me
+
+192
+00:11:07,337 --> 00:11:10,864
+it's like slipping
+into a hot tub
+
+193
+00:11:10,907 --> 00:11:13,535
+at the end of a long day.
+
+194
+00:11:13,577 --> 00:11:15,272
+Really?
+
+195
+00:11:16,947 --> 00:11:19,541
+l'm a shower man, myself.
+
+196
+00:11:20,717 --> 00:11:22,014
+Look at this.
+
+197
+00:11:24,988 --> 00:11:26,421
+ls this your husband?
+
+198
+00:11:26,456 --> 00:11:27,684
+Boyfriend?
+
+199
+00:11:27,724 --> 00:11:32,457
+Doctor, if you came
+for an apology...
+
+200
+00:11:32,495 --> 00:11:34,053
+l apologize.
+
+201
+00:11:34,097 --> 00:11:35,724
+Apology?
+
+202
+00:11:35,765 --> 00:11:39,064
+My speech wasn't intended
+to attack you personally.
+
+203
+00:11:40,704 --> 00:11:44,504
+l'm sure you never set out
+to attack anyone personally
+
+204
+00:11:44,541 --> 00:11:46,805
+but you do seem to attack a lot.
+
+205
+00:11:46,843 --> 00:11:49,334
+That's rather insensitive
+of you, Doctor.
+
+206
+00:11:49,379 --> 00:11:50,573
+Julian.
+
+207
+00:11:50,614 --> 00:11:52,514
+l'm no longer your doctor.
+
+208
+00:11:52,549 --> 00:11:53,880
+l see.
+
+209
+00:11:53,917 --> 00:11:55,908
+You've decided l need a friend.
+
+210
+00:11:55,952 --> 00:11:58,113
+Ooh, was that an attack?
+
+211
+00:11:58,188 --> 00:12:01,248
+You see, you do it so well,
+with such charm
+
+212
+00:12:01,291 --> 00:12:02,883
+it's hard to tell.
+
+213
+00:12:04,861 --> 00:12:06,590
+l really don't mean to...
+
+214
+00:12:06,630 --> 00:12:08,621
+Sure you do.
+
+215
+00:12:08,665 --> 00:12:09,962
+l beg your pardon?
+
+216
+00:12:10,000 --> 00:12:11,661
+Of course you mean to.
+
+217
+00:12:11,701 --> 00:12:14,340
+All of these broad shots
+you fire--
+
+218
+00:12:14,473 --> 00:12:15,497
+they're just your way
+
+219
+00:12:15,541 --> 00:12:17,805
+of keeping the rest of the
+universe on the defensive.
+
+220
+00:12:17,843 --> 00:12:19,140
+Has to be.
+
+221
+00:12:19,178 --> 00:12:20,770
+You're too good at it.
+
+222
+00:12:20,813 --> 00:12:22,212
+Well, uh...
+
+223
+00:12:22,248 --> 00:12:25,740
+it always seemed to work
+pretty well.
+
+224
+00:12:25,785 --> 00:12:27,776
+Until now.
+
+225
+00:12:29,054 --> 00:12:32,182
+Well, that is the nicest thing
+you've said to me.
+
+226
+00:12:33,259 --> 00:12:35,625
+Or anybody else.
+
+227
+00:12:36,662 --> 00:12:37,890
+Are you hungry?
+
+228
+00:12:39,298 --> 00:12:40,560
+l came here
+
+229
+00:12:40,599 --> 00:12:42,726
+thinking about
+asking you to dinner.
+
+230
+00:12:42,768 --> 00:12:44,895
+Then afterwards,
+we'll go dancing
+
+231
+00:12:44,937 --> 00:12:45,904
+l suppose.
+
+232
+00:12:45,938 --> 00:12:47,132
+Ooh, Red Alert.
+
+233
+00:12:50,876 --> 00:12:52,002
+l'm sorry.
+
+234
+00:12:53,412 --> 00:12:54,777
+Well, come on.
+
+235
+00:12:54,814 --> 00:12:57,977
+There's a new Klingon
+restaurant open on the Promenade
+
+236
+00:12:58,017 --> 00:13:00,008
+if... you like
+that sort of thing.
+
+237
+00:13:01,287 --> 00:13:02,982
+All right.
+
+238
+00:13:23,809 --> 00:13:26,039
+Dinner is served.
+
+239
+00:13:26,145 --> 00:13:27,612
+l didn't
+order dinner.
+
+240
+00:13:27,646 --> 00:13:29,671
+What better way to mollify--
+
+241
+00:13:30,916 --> 00:13:32,781
+satisfy a hungry traveler
+
+242
+00:13:32,818 --> 00:13:36,219
+than with a delicious
+home-cooked meal?
+
+243
+00:13:36,255 --> 00:13:41,693
+Starting with a delicate
+Vak clover soup.
+
+244
+00:13:52,972 --> 00:13:55,236
+Why spoil your appetite
+with soup?
+
+245
+00:13:55,274 --> 00:13:57,435
+Here's the real treat.
+
+246
+00:13:59,578 --> 00:14:04,641
+Jumbo Vulcan mollusks
+sautéed in rhombolian butter--
+
+247
+00:14:04,683 --> 00:14:07,777
+a taste so exquisite,
+it's to die for.
+
+248
+00:14:07,820 --> 00:14:09,151
+Uh...
+
+249
+00:14:09,188 --> 00:14:10,655
+or to live for, for that matter.
+
+250
+00:14:10,689 --> 00:14:14,216
+Do you know dabo, Fallit?
+
+251
+00:14:14,260 --> 00:14:16,490
+lt's a wonderfully
+entertaining game
+
+252
+00:14:16,529 --> 00:14:17,689
+and easy to learn.
+
+253
+00:14:19,164 --> 00:14:21,155
+l took the liberty of lining up
+
+254
+00:14:21,200 --> 00:14:23,532
+a couple
+of excellent tutors l know.
+
+255
+00:14:25,771 --> 00:14:26,999
+Be sure to ask them
+
+256
+00:14:27,039 --> 00:14:29,837
+about their ''double down''
+betting strategy.
+
+257
+00:14:32,978 --> 00:14:37,210
+lf l haven't made it clear,
+l intend your stay here
+
+258
+00:14:37,249 --> 00:14:41,777
+to be as pleasurable
+as you could ever imagine.
+
+259
+00:14:41,820 --> 00:14:42,946
+So...
+
+260
+00:14:44,056 --> 00:14:48,356
+allow me to propose a toast.
+
+261
+00:14:48,394 --> 00:14:49,918
+To...
+
+262
+00:14:51,297 --> 00:14:52,958
+old friends.
+
+263
+00:14:52,998 --> 00:14:55,091
+Old debts.
+
+264
+00:14:57,469 --> 00:14:59,733
+<i>Gagh Tek Or?.</i>
+
+265
+00:14:59,772 --> 00:15:01,103
+Shall l order for us both?
+
+266
+00:15:01,140 --> 00:15:02,232
+All right.
+
+267
+00:15:02,274 --> 00:15:03,298
+Um, let's see now.
+
+268
+00:15:03,342 --> 00:15:04,639
+We'll have some <i>racht,</i>
+of course.
+
+269
+00:15:04,677 --> 00:15:05,905
+<i>racht...</i>
+
+270
+00:15:05,945 --> 00:15:07,640
+And a double order
+
+271
+00:15:07,680 --> 00:15:09,978
+of <i>gladst,</i> no sauce, please.
+
+272
+00:15:10,015 --> 00:15:11,710
+<i>gladst... usu bal.</i>
+
+273
+00:15:11,750 --> 00:15:15,846
+And a side order
+of <i>zilm'kach.</i>
+
+274
+00:15:15,888 --> 00:15:17,981
+ls that too much for two?
+
+275
+00:15:18,924 --> 00:15:20,221
+<i>zilm'kach.</i>
+
+276
+00:15:22,795 --> 00:15:24,387
+<i>Drak doo.</i>
+
+277
+00:15:24,430 --> 00:15:25,488
+May l?
+
+278
+00:15:25,531 --> 00:15:26,930
+Don't be alarmed.
+
+279
+00:15:28,367 --> 00:15:30,130
+Excuse me, Julian,
+l can't eat this.
+
+280
+00:15:30,169 --> 00:15:31,500
+l know how it looks, but...
+
+281
+00:15:31,537 --> 00:15:33,471
+<i>P'kar tel Durg Le Frakn'l?</i>
+
+282
+00:15:33,505 --> 00:15:34,938
+<i>Dug a bul, rah'tar!</i>
+
+283
+00:15:34,974 --> 00:15:36,441
+<i>D'tel klop a bul!</i>
+
+284
+00:15:36,475 --> 00:15:37,908
+<i>Pak't pol!</i>
+
+285
+00:15:37,943 --> 00:15:39,570
+<i>D'kar tel G'denna!</i>
+
+286
+00:15:42,648 --> 00:15:45,310
+l like a customer
+who knows what she wants.
+
+287
+00:15:51,624 --> 00:15:53,683
+<i>G'denna.</i>
+
+288
+00:15:53,726 --> 00:15:56,627
+There's nothing worse
+than half-dead <i>racht.</i>
+
+289
+00:16:04,870 --> 00:16:06,394
+<i>Gagh Tek Or!</i>
+
+290
+00:16:15,581 --> 00:16:17,606
+l was ten.
+
+291
+00:16:17,650 --> 00:16:20,312
+My father was
+a Federation diplomat
+
+292
+00:16:20,352 --> 00:16:22,479
+on lnvernia ll.
+
+293
+00:16:22,521 --> 00:16:23,818
+One day, when we were
+
+294
+00:16:23,856 --> 00:16:25,983
+out on a remote
+part of the planet
+
+295
+00:16:26,025 --> 00:16:28,550
+we were hit
+by a massive ionic storm
+
+296
+00:16:28,594 --> 00:16:31,028
+and while we were
+waiting it out
+
+297
+00:16:31,096 --> 00:16:35,192
+we found an lnvernian girl,
+about my age, who was sick.
+
+298
+00:16:35,234 --> 00:16:38,601
+After the storm cleared,
+my father went for help
+
+299
+00:16:38,637 --> 00:16:40,298
+but it was too late.
+
+300
+00:16:40,339 --> 00:16:42,899
+l sat there and watched her die.
+
+301
+00:16:42,941 --> 00:16:45,034
+The next day, when he returned
+
+302
+00:16:45,077 --> 00:16:48,513
+his guide told us that we
+could have treated her
+
+303
+00:16:48,547 --> 00:16:51,983
+with a simple herb
+that was growing all around.
+
+304
+00:16:53,819 --> 00:16:55,616
+l could have saved her life.
+
+305
+00:16:57,890 --> 00:17:00,688
+And so you started
+to study medicine.
+
+306
+00:17:00,726 --> 00:17:05,220
+Actually, first
+l started to study tennis.
+
+307
+00:17:05,264 --> 00:17:06,424
+Tennis?
+
+308
+00:17:06,465 --> 00:17:08,729
+l really thought l could
+make a career out of it.
+
+309
+00:17:08,767 --> 00:17:10,132
+You must be very good.
+
+310
+00:17:10,169 --> 00:17:11,966
+Well, l used to think so
+
+311
+00:17:12,004 --> 00:17:15,405
+but then l went to my
+first major competition.
+
+312
+00:17:15,441 --> 00:17:17,272
+My opponent served first
+
+313
+00:17:17,309 --> 00:17:19,800
+and l heard the ball
+bounce past me.
+
+314
+00:17:19,845 --> 00:17:21,745
+The computer announced
+it was good
+
+315
+00:17:21,780 --> 00:17:23,577
+and l realized
+l was in trouble.
+
+316
+00:17:23,615 --> 00:17:27,483
+Turned out, l had more talent
+at medicine than tennis.
+
+317
+00:17:37,229 --> 00:17:40,687
+Well, l, um, have
+an early mission tomorrow.
+
+318
+00:17:40,733 --> 00:17:42,894
+l better get some rest.
+
+319
+00:17:46,905 --> 00:17:49,305
+Of course.
+
+320
+00:18:08,160 --> 00:18:09,787
+Dax to Pazlar.
+
+321
+00:18:11,864 --> 00:18:14,389
+Computer,
+level-1 security access.
+
+322
+00:18:15,501 --> 00:18:17,162
+Ensign Pazlar?
+
+323
+00:18:18,604 --> 00:18:21,835
+Computer, locate
+Ensign Melora Pazlar.
+
+324
+00:18:21,874 --> 00:18:24,707
+Docking Level 22, Section 14.
+
+325
+00:18:24,743 --> 00:18:26,301
+Section 14?
+
+326
+00:18:37,723 --> 00:18:39,987
+We need to get you
+to the lnfirmary.
+
+327
+00:18:40,025 --> 00:18:42,152
+lt's my own fault.
+
+328
+00:18:42,194 --> 00:18:43,422
+l decided...
+
+329
+00:18:43,462 --> 00:18:45,760
+l could use an extra
+astrometric array
+
+330
+00:18:45,798 --> 00:18:48,266
+after going through
+the mission profile again.
+
+331
+00:18:48,300 --> 00:18:50,291
+l came to the storage
+bay to get one.
+
+332
+00:18:50,335 --> 00:18:52,769
+My mind was already
+in the Gamma Quadrant.
+
+333
+00:18:52,805 --> 00:18:54,796
+l wasn't... paying
+enough attention
+
+334
+00:18:54,840 --> 00:18:56,068
+to what l was doing.
+
+335
+00:18:57,075 --> 00:18:58,042
+l guess my boot
+
+336
+00:18:58,076 --> 00:19:00,044
+didn't make the lip
+of the door.
+
+337
+00:19:00,078 --> 00:19:02,137
+l fell on my controls.
+
+338
+00:19:02,181 --> 00:19:03,375
+Dax to Bashir.
+
+339
+00:19:03,415 --> 00:19:06,213
+Ensign Pazlar's had
+a, uh, minor accident.
+
+340
+00:19:06,251 --> 00:19:07,616
+We need to see you
+in the lnfirmary.
+
+341
+00:19:07,653 --> 00:19:09,848
+Acknowledged.
+l'll be there in three minutes.
+
+342
+00:19:09,888 --> 00:19:12,982
+What kind of an architect
+would deliberately design
+
+343
+00:19:13,025 --> 00:19:15,687
+a raised rim
+at the entrance to every door?
+
+344
+00:19:19,181 --> 00:19:21,911
+So much for the dangers
+of the Gamma Quadrant.
+
+345
+00:19:21,951 --> 00:19:23,851
+l didn't even make it there.
+
+346
+00:19:23,886 --> 00:19:25,717
+You will.
+
+347
+00:19:25,754 --> 00:19:26,778
+There's no concussion.
+
+348
+00:19:26,822 --> 00:19:28,983
+You can reschedule
+your mission for tomorrow.
+
+349
+00:19:30,092 --> 00:19:31,684
+lt was so...
+
+350
+00:19:34,163 --> 00:19:37,792
+Flopping back and forth
+like a broken toy.
+
+351
+00:19:37,833 --> 00:19:40,358
+l didn't want anyone
+to find me like that
+
+352
+00:19:40,402 --> 00:19:42,461
+but l couldn't
+get up by myself.
+
+353
+00:19:42,505 --> 00:19:44,097
+Why didn't you wait for Dax
+
+354
+00:19:44,140 --> 00:19:46,938
+before you went into an area
+that was unmodified with ramps?
+
+355
+00:19:46,976 --> 00:19:48,375
+l didn't need Dax
+
+356
+00:19:48,410 --> 00:19:50,605
+if l'd just paid attention.
+
+357
+00:19:51,647 --> 00:19:52,944
+Melora...
+
+358
+00:19:52,982 --> 00:19:57,146
+no one on this station
+is completely independent.
+
+359
+00:19:57,186 --> 00:20:00,747
+ln space, we all depend
+on one another to some degree.
+
+360
+00:20:00,789 --> 00:20:04,281
+l just want you all to know
+that you can depend on me.
+
+361
+00:20:04,326 --> 00:20:05,691
+You've proven that.
+
+362
+00:20:05,728 --> 00:20:09,664
+Now what do the rest of us
+have to do to convince you?
+
+363
+00:20:09,698 --> 00:20:11,325
+Of what?
+
+364
+00:20:11,367 --> 00:20:13,858
+That you can depend on us.
+
+365
+00:20:17,973 --> 00:20:20,737
+Have you ever heard of the work
+Nathaniel Teros did
+
+366
+00:20:20,776 --> 00:20:22,903
+with low gravity species
+30 years ago?
+
+367
+00:20:22,945 --> 00:20:24,469
+Neuromuscular adaptation.
+
+368
+00:20:24,513 --> 00:20:26,276
+lt had no practical
+success at all.
+
+369
+00:20:26,315 --> 00:20:28,340
+No, but the principles
+were sound
+
+370
+00:20:28,384 --> 00:20:29,976
+and a lot of progress
+has been made
+
+371
+00:20:30,019 --> 00:20:31,816
+in neurochemistry since then.
+
+372
+00:20:31,854 --> 00:20:34,823
+You think some day
+l could throw away the chair?
+
+373
+00:20:37,193 --> 00:20:39,388
+Theoretically... perhaps.
+
+374
+00:20:44,867 --> 00:20:46,334
+Would you like to come in?
+
+375
+00:20:46,368 --> 00:20:48,393
+Oh, no, l know
+how much you look forward
+
+376
+00:20:48,437 --> 00:20:50,064
+to turning down the gravity.
+
+377
+00:20:54,343 --> 00:20:56,243
+Don't let that stop you.
+
+378
+00:21:03,319 --> 00:21:06,811
+You may want to brace yourself
+until you get used to it.
+
+379
+00:21:27,509 --> 00:21:28,908
+Come on, Julian.
+
+380
+00:21:35,351 --> 00:21:36,375
+What do l do?
+
+381
+00:21:36,418 --> 00:21:38,477
+Just give a gentle push.
+
+382
+00:21:38,520 --> 00:21:39,782
+lt's easy.
+
+383
+00:21:43,192 --> 00:21:45,683
+Oh... oh... oh...
+
+384
+00:21:45,728 --> 00:21:49,255
+Oh, oh... Oh!
+
+385
+00:21:49,298 --> 00:21:51,960
+This is astonishing!
+
+386
+00:21:52,001 --> 00:21:54,868
+l can't tell you how curious
+l was about this.
+
+387
+00:21:56,071 --> 00:21:57,436
+Oh.
+
+388
+00:21:57,473 --> 00:21:58,872
+Most people are.
+
+389
+00:21:58,907 --> 00:22:02,274
+Sometimes they make me feel
+like a carnival attraction.
+
+390
+00:22:02,311 --> 00:22:04,939
+So usually l prefer
+to keep everyone out.
+
+391
+00:22:04,980 --> 00:22:07,881
+Well, thank you...
+for letting me in.
+
+392
+00:22:11,020 --> 00:22:12,681
+He's my brother.
+
+393
+00:22:12,721 --> 00:22:14,586
+Who?
+
+394
+00:22:19,828 --> 00:22:21,125
+Oh.
+
+395
+00:23:03,072 --> 00:23:06,564
+Setting course 28 mark 142.
+
+396
+00:23:06,608 --> 00:23:07,939
+Confirmed.
+
+397
+00:23:12,281 --> 00:23:15,614
+Computer...
+any Vulcan études on file?
+
+398
+00:23:15,651 --> 00:23:17,915
+Affirmative.
+
+399
+00:23:17,953 --> 00:23:20,888
+lf you have no objections.
+
+400
+00:23:20,923 --> 00:23:22,948
+Computer, play us
+something by Delvok.
+
+401
+00:23:24,793 --> 00:23:26,954
+Delvok never seems Vulcan to me.
+
+402
+00:23:26,995 --> 00:23:30,021
+There's too much... emotion
+in his music.
+
+403
+00:23:32,368 --> 00:23:33,699
+lt's pretty.
+
+404
+00:23:39,608 --> 00:23:42,475
+Tell me something, Lieutenant--
+
+405
+00:23:42,511 --> 00:23:47,244
+you think there's room
+for... romance in Starfleet?
+
+406
+00:23:47,282 --> 00:23:48,613
+l think so.
+
+407
+00:23:48,650 --> 00:23:50,117
+You've made it work?
+
+408
+00:23:50,152 --> 00:23:52,347
+Mmm, now and then.
+
+409
+00:23:52,388 --> 00:23:54,253
+l mean really work.
+
+410
+00:23:54,289 --> 00:23:56,587
+Oh... really work.
+
+411
+00:23:56,625 --> 00:23:58,024
+Yes.
+
+412
+00:23:58,093 --> 00:24:01,722
+Well, for that,
+l'd have to go back, um...
+
+413
+00:24:01,764 --> 00:24:03,061
+150 years.
+
+414
+00:24:03,098 --> 00:24:04,497
+Oh...
+
+415
+00:24:04,533 --> 00:24:06,194
+that's a long time.
+
+416
+00:24:06,235 --> 00:24:10,604
+Could it be that Dr. Bashir's
+bedside manner has won you over?
+
+417
+00:24:13,409 --> 00:24:17,470
+Our species are just
+so... different.
+
+418
+00:24:17,513 --> 00:24:19,845
+Since when has that
+ever stopped anyone?
+
+419
+00:24:19,882 --> 00:24:21,782
+l knew
+a hydrogen-breathing lothra
+
+420
+00:24:21,817 --> 00:24:24,513
+who fell hopelessly in love
+with an Oxygene.
+
+421
+00:24:24,553 --> 00:24:25,713
+You're kidding.
+
+422
+00:24:25,754 --> 00:24:28,154
+How could they even be
+in the same room?
+
+423
+00:24:28,190 --> 00:24:30,988
+40 minutes a day without
+their breathing apparatus.
+
+424
+00:24:31,026 --> 00:24:31,993
+That's all.
+
+425
+00:24:32,060 --> 00:24:34,824
+57 years they were together.
+
+426
+00:24:34,863 --> 00:24:38,321
+What-What about...
+career conflicts?
+
+427
+00:24:38,367 --> 00:24:40,835
+Two friends of mine
+from the Academy got engaged
+
+428
+00:24:40,869 --> 00:24:42,700
+even though they knew
+they were being assigned
+
+429
+00:24:42,738 --> 00:24:43,705
+to different starships.
+
+430
+00:24:43,739 --> 00:24:44,899
+Subspace relationships?
+
+431
+00:24:44,940 --> 00:24:45,907
+Mm-hmm.
+
+432
+00:24:45,941 --> 00:24:47,533
+Oh, that's a tough one.
+
+433
+00:24:47,576 --> 00:24:49,669
+They may not be together
+for a year or more
+
+434
+00:24:49,711 --> 00:24:51,838
+and even then
+for only a few weeks.
+
+435
+00:24:51,880 --> 00:24:55,873
+Love across light-years--
+it's just so...
+
+436
+00:24:55,918 --> 00:24:57,647
+lt lacks intimacy.
+
+437
+00:24:57,686 --> 00:24:59,654
+You could say that.
+
+438
+00:25:01,390 --> 00:25:05,622
+l finish my mission here,
+l move on to the next one.
+
+439
+00:25:05,661 --> 00:25:09,097
+What kind of future is that
+for a romance?
+
+440
+00:25:09,131 --> 00:25:12,123
+Look at the alternative.
+
+441
+00:25:13,735 --> 00:25:15,066
+l guess.
+
+442
+00:25:21,076 --> 00:25:22,634
+Oh, it's you.
+
+443
+00:25:22,678 --> 00:25:24,703
+Don't be so happy to see me.
+
+444
+00:25:24,746 --> 00:25:26,270
+All right, l won't.
+
+445
+00:25:26,315 --> 00:25:29,876
+Odo, there's
+a desperate criminal
+
+446
+00:25:29,918 --> 00:25:31,180
+on board the station.
+
+447
+00:25:31,220 --> 00:25:33,745
+You wouldn't be talking
+about Fallit Kot
+
+448
+00:25:33,789 --> 00:25:36,280
+who just finished eight years
+at a labor camp
+
+449
+00:25:36,325 --> 00:25:38,657
+for hijacking a shipment
+of Romulan ale
+
+450
+00:25:38,694 --> 00:25:41,595
+and whose name appears
+right next to yours
+
+451
+00:25:41,630 --> 00:25:42,961
+on the original indictment?
+
+452
+00:25:42,998 --> 00:25:45,330
+l had nothing to do
+with the hijacking itself.
+
+453
+00:25:45,367 --> 00:25:48,768
+l was only the, uh... middleman.
+
+454
+00:25:48,804 --> 00:25:50,999
+Trafficking in stolen goods
+should have been enough
+
+455
+00:25:51,106 --> 00:25:53,165
+to get you your own cell
+at that Romulan camp.
+
+456
+00:25:53,208 --> 00:25:57,167
+Unless, of course,
+you sold out your partner.
+
+457
+00:25:57,212 --> 00:26:00,773
+l can honestly say
+justice was served.
+
+458
+00:26:00,816 --> 00:26:02,909
+l would imagine Fallit Kot
+
+459
+00:26:02,951 --> 00:26:05,977
+is looking for his own
+kind of justice now.
+
+460
+00:26:07,990 --> 00:26:09,821
+He threatened to kill me.
+
+461
+00:26:13,929 --> 00:26:15,094
+What?
+
+462
+00:26:15,227 --> 00:26:16,558
+Nothing.
+
+463
+00:26:16,595 --> 00:26:17,755
+Just a passing thought.
+
+464
+00:26:17,796 --> 00:26:19,627
+Odo, he means it.
+
+465
+00:26:19,665 --> 00:26:23,567
+Nothing l do
+seems to change his mind.
+
+466
+00:26:23,602 --> 00:26:25,092
+You've got to do something.
+
+467
+00:26:25,137 --> 00:26:27,697
+l'll do my job, Quark.
+
+468
+00:26:27,740 --> 00:26:29,537
+Yeah.
+
+469
+00:26:32,044 --> 00:26:34,376
+Unfortunately.
+
+470
+00:26:51,297 --> 00:26:52,457
+<i>racht,</i> anyone?
+
+471
+00:26:52,498 --> 00:26:53,658
+l've been waiting for you.
+
+472
+00:26:53,699 --> 00:26:55,166
+l've got something to show you.
+
+473
+00:26:57,002 --> 00:26:58,731
+What is it?
+
+474
+00:26:58,771 --> 00:27:00,966
+lt's a computer model
+of an elevated neural output
+
+475
+00:27:01,006 --> 00:27:02,564
+from the brain's
+gross motor cortex.
+
+476
+00:27:02,608 --> 00:27:03,905
+lt's stimulating
+
+477
+00:27:04,009 --> 00:27:06,876
+acetylcholine absorption
+to increase tensile strength.
+
+478
+00:27:06,912 --> 00:27:08,504
+The neuromuscular
+adaptation theory?
+
+479
+00:27:08,547 --> 00:27:10,174
+lt was theory 30 years ago
+
+480
+00:27:10,216 --> 00:27:12,514
+but with the development
+of neo-analeptic transmitters
+
+481
+00:27:12,551 --> 00:27:13,916
+it's not even that complicated.
+
+482
+00:27:13,953 --> 00:27:15,545
+lt's just
+that no one's ever gone back
+
+483
+00:27:15,588 --> 00:27:17,385
+to reexamine the ideas
+of Nathaniel Teros.
+
+484
+00:27:17,423 --> 00:27:19,288
+Until now.
+
+485
+00:27:20,693 --> 00:27:22,354
+This...
+
+486
+00:27:22,394 --> 00:27:24,191
+could actually work?
+
+487
+00:27:24,230 --> 00:27:26,095
+No more servo controls.
+
+488
+00:27:26,131 --> 00:27:27,655
+No more chair.
+
+489
+00:27:59,465 --> 00:28:01,899
+Have l done something wrong?
+
+490
+00:28:01,934 --> 00:28:03,959
+Not that l'm aware of.
+
+491
+00:28:05,971 --> 00:28:08,166
+We have something in common.
+
+492
+00:28:08,207 --> 00:28:09,640
+We do?
+
+493
+00:28:09,675 --> 00:28:11,939
+l don't like Quark either...
+
+494
+00:28:13,312 --> 00:28:15,177
+but l can't let you kill him.
+
+495
+00:28:15,214 --> 00:28:16,374
+Kill him?
+
+496
+00:28:16,415 --> 00:28:19,384
+Did he tell you
+l was going to do that?
+
+497
+00:28:19,418 --> 00:28:21,852
+l know of your history together.
+
+498
+00:28:21,887 --> 00:28:24,754
+Let bygones be bygones,
+l always say.
+
+499
+00:28:26,325 --> 00:28:29,852
+And l always say you can
+tell a man's intentions
+
+500
+00:28:29,895 --> 00:28:31,419
+by the way he walks.
+
+501
+00:28:33,165 --> 00:28:34,928
+How do l walk?
+
+502
+00:28:34,967 --> 00:28:38,767
+Like someone carrying a lot
+of weight on his shoulders.
+
+503
+00:28:38,804 --> 00:28:41,102
+Must be the memory
+of those Romulan bricks
+
+504
+00:28:41,140 --> 00:28:42,607
+l carried for eight years.
+
+505
+00:28:42,641 --> 00:28:44,666
+Must be.
+
+506
+00:28:44,710 --> 00:28:50,046
+But you can't lock a man up
+for the way he walks, can you?
+
+507
+00:29:14,306 --> 00:29:15,568
+Well?
+
+508
+00:29:15,607 --> 00:29:18,599
+l'd say he's a man
+with nothing to lose.
+
+509
+00:29:18,644 --> 00:29:20,009
+As opposed to me.
+
+510
+00:29:20,045 --> 00:29:23,674
+l have no reason to hold him
+for now and he knows it.
+
+511
+00:29:23,716 --> 00:29:25,616
+l'll watch him the best l can
+
+512
+00:29:25,651 --> 00:29:28,415
+but l suggest you carry
+a combadge with you
+
+513
+00:29:28,454 --> 00:29:29,421
+at all times.
+
+514
+00:29:29,455 --> 00:29:30,922
+Call me at the first
+sign of trouble.
+
+515
+00:29:30,956 --> 00:29:34,221
+What if the first sign
+is the last sign?
+
+516
+00:29:34,259 --> 00:29:36,659
+You people sell
+pieces of yourself
+
+517
+00:29:36,695 --> 00:29:38,356
+after you die, don't you?
+
+518
+00:29:38,397 --> 00:29:39,455
+Yes.
+
+519
+00:29:39,498 --> 00:29:40,988
+l'll buy one.
+
+520
+00:29:45,971 --> 00:29:47,598
+My heart is pounding.
+
+521
+00:29:47,639 --> 00:29:49,368
+l'd like to think that
+has more to do with me
+
+522
+00:29:49,408 --> 00:29:50,636
+than the neo-analeptic infusion.
+
+523
+00:29:50,676 --> 00:29:53,611
+Would that also explain
+why my backside is getting warm?
+
+524
+00:29:53,645 --> 00:29:55,306
+Well, that's more likely
+the result
+
+525
+00:29:55,347 --> 00:29:57,110
+the neuromuscular
+tissue stimulation
+
+526
+00:29:57,149 --> 00:29:59,549
+due to the increased activity
+in the motor cortex.
+
+527
+00:29:59,585 --> 00:30:02,179
+l'd say that's enough
+first time out.
+
+528
+00:30:05,090 --> 00:30:06,148
+lt's good that you've already
+
+529
+00:30:06,191 --> 00:30:08,159
+been using your muscles
+in this gravity environment.
+
+530
+00:30:08,193 --> 00:30:09,592
+lt'll make it easier to adapt.
+
+531
+00:30:09,628 --> 00:30:11,220
+Feel any different?
+
+532
+00:30:11,263 --> 00:30:13,595
+No.
+
+533
+00:30:13,632 --> 00:30:16,100
+Nothing at all?
+
+534
+00:30:16,135 --> 00:30:18,433
+l'm sorry, Julian.
+
+535
+00:30:22,207 --> 00:30:23,902
+The acetylcholine absorption
+
+536
+00:30:23,942 --> 00:30:25,910
+is precisely
+at 14% above normal.
+
+537
+00:30:25,944 --> 00:30:29,744
+lncreased tensile strength
+would be the inevitable result.
+
+538
+00:30:29,782 --> 00:30:31,010
+Julian?
+
+539
+00:30:36,054 --> 00:30:37,954
+l can lift my leg.
+
+540
+00:30:37,990 --> 00:30:41,187
+Your neural pathways
+are beginning to adapt.
+
+541
+00:30:41,226 --> 00:30:44,593
+Endurance and coordination
+might take a while
+
+542
+00:30:44,630 --> 00:30:49,533
+but we should have you walking
+within the hour.
+
+543
+00:30:55,808 --> 00:30:57,673
+How's the upgrade coming?
+
+544
+00:30:57,709 --> 00:30:59,540
+We've been able to get it
+to about 70%
+
+545
+00:30:59,578 --> 00:31:01,307
+of what we'd get
+with a standard EPS
+
+546
+00:31:01,346 --> 00:31:03,143
+but it looks like
+that's going to be...
+
+547
+00:31:04,616 --> 00:31:05,947
+Well, l'll be damned.
+
+548
+00:31:08,020 --> 00:31:09,487
+l wanted to give you
+
+549
+00:31:09,521 --> 00:31:11,955
+our first day's mission summary
+myself, Commander.
+
+550
+00:31:11,990 --> 00:31:13,719
+A pleasure, Ensign.
+
+551
+00:31:15,194 --> 00:31:17,094
+Julian, how did you, uh...?
+
+552
+00:31:17,129 --> 00:31:18,960
+Oh, it was simply a matter
+of increasing the output
+
+553
+00:31:19,031 --> 00:31:20,123
+on the brain's motor cortex.
+
+554
+00:31:20,165 --> 00:31:21,530
+Someone else's research,
+actually.
+
+555
+00:31:21,567 --> 00:31:23,296
+l just dotted the l's
+and crossed the T's.
+
+556
+00:31:23,335 --> 00:31:24,359
+Well, you'll get your name
+
+557
+00:31:24,403 --> 00:31:25,961
+in the medical journals
+for this one.
+
+558
+00:31:26,071 --> 00:31:26,969
+Yeah, l know, l...
+
+559
+00:31:27,072 --> 00:31:28,130
+Julian...
+
+560
+00:31:28,173 --> 00:31:29,572
+l don't know
+how to tell you this
+
+561
+00:31:29,608 --> 00:31:30,973
+but l'm not sure
+l can make it...
+
+562
+00:31:31,076 --> 00:31:32,304
+Easy does it now.
+
+563
+00:31:32,344 --> 00:31:34,972
+lt's just the first day's
+treatment beginning to wear off.
+
+564
+00:31:35,013 --> 00:31:35,980
+Thank you.
+
+565
+00:31:36,014 --> 00:31:37,106
+Nothing to be concerned about.
+
+566
+00:31:37,149 --> 00:31:38,741
+Look, l better get you
+back to your quarters.
+
+567
+00:31:38,784 --> 00:31:40,411
+l want you to get a good
+night's rest tonight.
+
+568
+00:31:40,452 --> 00:31:41,419
+Oh, thank you.
+
+569
+00:31:41,453 --> 00:31:43,045
+Habitat Ring, Level 14.
+
+570
+00:31:49,561 --> 00:31:53,497
+With each progressive treatment,
+you should get stronger
+
+571
+00:31:53,532 --> 00:31:56,160
+and the effects
+should last longer.
+
+572
+00:31:58,103 --> 00:31:59,627
+What about this?
+
+573
+00:31:59,671 --> 00:32:01,332
+A low-grav environment now
+
+574
+00:32:01,373 --> 00:32:04,001
+would really confuse
+your motor cortex.
+
+575
+00:32:06,178 --> 00:32:07,509
+l understand.
+
+576
+00:32:11,416 --> 00:32:12,678
+Julian...
+
+577
+00:32:14,686 --> 00:32:17,849
+You let me fly
+for the first time.
+
+578
+00:32:19,358 --> 00:32:21,952
+l let you walk.
+
+579
+00:32:22,060 --> 00:32:23,527
+We're even.
+
+580
+00:32:27,933 --> 00:32:29,423
+l'll see you in the morning.
+
+581
+00:32:42,381 --> 00:32:43,712
+Lights.
+
+582
+00:32:47,219 --> 00:32:48,516
+Computer, turn on...
+
+583
+00:33:02,935 --> 00:33:03,902
+Quark to Odo...
+
+584
+00:33:03,936 --> 00:33:05,563
+No one can hear you, Quark.
+
+585
+00:33:05,605 --> 00:33:06,902
+lt's just you and me.
+
+586
+00:33:06,939 --> 00:33:08,463
+Fallit.
+
+587
+00:33:08,507 --> 00:33:11,476
+Oh, l wasn't prepared
+to entertain this evening
+
+588
+00:33:11,510 --> 00:33:13,171
+but make yourself at home.
+
+589
+00:33:13,212 --> 00:33:14,474
+Oh, l already have.
+
+590
+00:33:14,513 --> 00:33:16,276
+What's mine is yours.
+
+591
+00:33:16,315 --> 00:33:17,577
+All you have to do is ask.
+
+592
+00:33:17,617 --> 00:33:19,175
+l'm tired of your gifts, Quark.
+
+593
+00:33:19,218 --> 00:33:22,654
+All l want
+is your miserable life.
+
+594
+00:33:22,688 --> 00:33:25,213
+Wait!
+Everything's negotiable.
+
+595
+00:33:26,459 --> 00:33:27,926
+Believe me...
+
+596
+00:33:28,027 --> 00:33:29,927
+l'm worth much more
+to you alive.
+
+597
+00:33:29,962 --> 00:33:31,020
+How's that?
+
+598
+00:33:31,063 --> 00:33:35,295
+How does 199 bars
+
+599
+00:33:35,334 --> 00:33:38,303
+of gold-pressed latinum
+sound to you?
+
+600
+00:33:44,577 --> 00:33:46,374
+lt's a start.
+
+601
+00:33:56,155 --> 00:33:57,952
+The mattress felt like rocks
+
+602
+00:33:57,990 --> 00:34:01,118
+and every one of my muscles
+ached all night long.
+
+603
+00:34:01,160 --> 00:34:04,288
+You'll adjust to that
+after a few more treatments.
+
+604
+00:34:04,330 --> 00:34:07,993
+This time the effects
+should last for several hours.
+
+605
+00:34:12,505 --> 00:34:15,906
+Exactly when does this
+become irreversible?
+
+606
+00:34:15,975 --> 00:34:19,741
+Melora...
+if you're not certain...
+
+607
+00:34:19,779 --> 00:34:20,871
+No, l'm sure it's just
+
+608
+00:34:20,913 --> 00:34:23,404
+some strange form
+of buyer's remorse.
+
+609
+00:34:23,449 --> 00:34:24,643
+l'll be fine.
+
+610
+00:34:24,684 --> 00:34:28,017
+Tell me exactly
+what you're feeling.
+
+611
+00:34:31,190 --> 00:34:33,351
+Last night, l just missed...
+
+612
+00:34:36,195 --> 00:34:38,356
+l didn't feel like me.
+
+613
+00:34:39,465 --> 00:34:40,932
+lf you want to end
+your dependence
+
+614
+00:34:41,000 --> 00:34:43,935
+on the chair
+and the servo controls
+
+615
+00:34:44,036 --> 00:34:46,368
+you're going to have to give up
+the low-grav environment.
+
+616
+00:34:46,405 --> 00:34:48,600
+You knew
+that that was the trade-off.
+
+617
+00:34:48,641 --> 00:34:50,609
+And it seemed like a good trade.
+
+618
+00:34:50,643 --> 00:34:53,237
+Until l realized
+l couldn't do it anymore.
+
+619
+00:34:53,279 --> 00:34:54,803
+lf l could just spend...
+
+620
+00:34:54,847 --> 00:34:57,816
+l'm just concerned
+that going back and forth
+
+621
+00:34:57,850 --> 00:35:01,479
+could ultimately lead
+to a loss of fine motor control.
+
+622
+00:35:01,520 --> 00:35:02,782
+Meaning?
+
+623
+00:35:02,822 --> 00:35:05,052
+Your ability to perform
+complex tasks
+
+624
+00:35:05,091 --> 00:35:06,251
+could be affected.
+
+625
+00:35:10,062 --> 00:35:13,554
+The effects are fully reversible
+for the next few days.
+
+626
+00:35:13,599 --> 00:35:16,500
+We can pull the plug
+at any time before then.
+
+627
+00:35:16,535 --> 00:35:18,560
+But after that, if all goes well
+
+628
+00:35:18,604 --> 00:35:22,062
+your motor cortex impulses
+will kick in on their own.
+
+629
+00:35:22,108 --> 00:35:23,507
+Permanently.
+
+630
+00:35:35,354 --> 00:35:37,845
+lt's starting to wear off again.
+
+631
+00:35:48,134 --> 00:35:50,398
+l don't understand myself.
+
+632
+00:35:50,436 --> 00:35:54,031
+How could l possibly
+have second thoughts?
+
+633
+00:35:54,073 --> 00:35:56,940
+This would mean
+real independence.
+
+634
+00:35:57,009 --> 00:35:59,978
+lt's everything
+l ever wished for.
+
+635
+00:36:01,647 --> 00:36:03,581
+But then l start
+to think about home
+
+636
+00:36:03,616 --> 00:36:05,777
+and how l won't ever
+be able to go back.
+
+637
+00:36:05,818 --> 00:36:07,752
+Well, maybe just
+for a short visit
+
+638
+00:36:07,787 --> 00:36:12,087
+but... never really go back.
+
+639
+00:36:14,927 --> 00:36:17,122
+<i>The Little Mermaid.</i>
+
+640
+00:36:18,330 --> 00:36:19,627
+Mermaid?
+
+641
+00:36:19,665 --> 00:36:22,600
+lt's an Earth fable
+by Hans Christian Andersen.
+
+642
+00:36:22,635 --> 00:36:26,071
+She trades
+her magical life under the sea
+
+643
+00:36:26,105 --> 00:36:29,074
+for a pair of legs
+to walk on land.
+
+644
+00:36:30,509 --> 00:36:33,000
+Didn't she live
+happily ever after?
+
+645
+00:36:45,858 --> 00:36:48,622
+Ashrok.
+Right on time.
+
+646
+00:36:50,663 --> 00:36:54,531
+May l present my longtime
+business partner, Fallit Kot.
+
+647
+00:37:01,207 --> 00:37:03,573
+For your inspection.
+
+648
+00:37:09,815 --> 00:37:11,840
+Exquisite.
+
+649
+00:37:14,820 --> 00:37:17,288
+Then our transaction
+is complete.
+
+650
+00:37:17,323 --> 00:37:18,688
+Not quite.
+
+651
+00:37:18,724 --> 00:37:20,885
+l'll be taking them, too.
+
+652
+00:37:20,926 --> 00:37:22,393
+They warned me about you!
+
+653
+00:37:22,428 --> 00:37:23,725
+Not true!
+
+654
+00:37:23,762 --> 00:37:26,890
+A deal is a deal--
+Rule of Acquisition Number 16.
+
+655
+00:37:26,932 --> 00:37:28,058
+Kot...
+
+656
+00:37:28,100 --> 00:37:29,658
+you got what you came for.
+
+657
+00:37:29,702 --> 00:37:30,999
+Now let's be reasonable.
+
+658
+00:37:34,940 --> 00:37:36,908
+Pick it up.
+Pick it up!
+
+659
+00:37:36,942 --> 00:37:38,102
+Move!
+Hurry up!
+
+660
+00:37:38,144 --> 00:37:40,510
+Move! Move!
+
+661
+00:37:40,546 --> 00:37:41,843
+Let's go.
+
+662
+00:37:45,184 --> 00:37:48,642
+Priority-1 Security
+to Level 22, Section 5.
+
+663
+00:37:56,428 --> 00:37:58,487
+l'm sure Julian
+would understand.
+
+664
+00:37:58,531 --> 00:38:00,522
+Besides, he can still
+publish the results
+
+665
+00:38:00,566 --> 00:38:02,295
+from your first treatments.
+
+666
+00:38:03,669 --> 00:38:04,863
+Both of you--
+back in the ship.
+
+667
+00:38:04,904 --> 00:38:06,235
+Let's go!
+
+668
+00:38:08,507 --> 00:38:09,804
+Move it!
+
+669
+00:38:11,810 --> 00:38:13,835
+Come on, move it!
+
+670
+00:38:13,879 --> 00:38:16,370
+Now, get us out of here.
+
+671
+00:38:16,415 --> 00:38:17,541
+He's already shot a man.
+
+672
+00:38:17,583 --> 00:38:18,550
+Do as he says.
+
+673
+00:38:18,584 --> 00:38:19,710
+l'll just wait in the back.
+
+674
+00:38:19,752 --> 00:38:21,276
+ln the front,
+where l can see you.
+
+675
+00:38:21,320 --> 00:38:22,287
+There-- hurry up.
+
+676
+00:38:22,321 --> 00:38:23,720
+l'm moving as fast as l can!
+
+677
+00:38:23,756 --> 00:38:24,882
+She's an Elaysian.
+
+678
+00:38:24,924 --> 00:38:27,654
+She needs motor support
+in our gravity.
+
+679
+00:38:29,595 --> 00:38:30,755
+They're in the <i>Orinoco.</i>
+
+680
+00:38:30,796 --> 00:38:33,890
+Docking clamps have been
+released, thrusters engaged.
+
+681
+00:38:33,933 --> 00:38:36,231
+Ready a tractor beam,
+open a channel.
+
+682
+00:38:36,268 --> 00:38:37,292
+Open.
+
+683
+00:38:37,336 --> 00:38:39,304
+This is
+Commander Benjamin Sisko.
+
+684
+00:38:39,338 --> 00:38:41,602
+Return to the station at once.
+
+685
+00:38:41,640 --> 00:38:43,301
+No reply.
+
+686
+00:38:43,342 --> 00:38:45,674
+Engage the tractor beam.
+
+687
+00:38:47,613 --> 00:38:50,514
+They've locked onto us
+with the tractor beam.
+
+688
+00:38:50,549 --> 00:38:52,847
+Open the channel
+to that Commander of yours.
+
+689
+00:38:53,886 --> 00:38:56,320
+Release this ship
+or l'll kill a hostage.
+
+690
+00:38:56,355 --> 00:38:58,016
+l'm willing to negotiate
+your freedom
+
+691
+00:38:58,057 --> 00:38:59,922
+but first release those...
+
+692
+00:39:00,025 --> 00:39:01,925
+Didn't you hear
+what l just said?
+
+693
+00:39:03,362 --> 00:39:07,856
+No, l have something special
+in mind for you.
+
+694
+00:39:18,143 --> 00:39:19,872
+Do l make myself clear?
+
+695
+00:39:19,912 --> 00:39:23,109
+Release the ship now.
+
+696
+00:39:23,148 --> 00:39:25,048
+Doctor, Chief-- with me.
+
+697
+00:39:25,084 --> 00:39:26,676
+Beam us to the <i>Rio Grande.</i>
+
+698
+00:39:26,719 --> 00:39:27,879
+Give us ten seconds
+
+699
+00:39:27,987 --> 00:39:29,545
+and then disengage
+the tractor beam.
+
+700
+00:39:29,588 --> 00:39:30,919
+Understood.
+
+701
+00:39:33,325 --> 00:39:34,587
+Energizing.
+
+702
+00:39:41,000 --> 00:39:42,524
+They've released us.
+
+703
+00:39:42,568 --> 00:39:45,036
+Through the wormhole.
+
+704
+00:40:06,557 --> 00:40:07,524
+What was that?
+
+705
+00:40:07,558 --> 00:40:08,582
+l'm not sure.
+
+706
+00:40:08,626 --> 00:40:09,888
+What was it?
+
+707
+00:40:09,927 --> 00:40:12,623
+Another ship coming
+through the wormhole.
+
+708
+00:40:12,663 --> 00:40:13,721
+Take us to warp.
+
+709
+00:40:13,764 --> 00:40:16,130
+We haven't even
+set a course yet.
+
+710
+00:40:16,167 --> 00:40:17,828
+l don't care about the course,
+just go to warp.
+
+711
+00:40:17,869 --> 00:40:19,803
+lf we don't set a course
+
+712
+00:40:19,837 --> 00:40:22,806
+we could warp ourselves
+into oblivion.
+
+713
+00:40:22,840 --> 00:40:24,501
+Fine, set a course.
+
+714
+00:40:24,542 --> 00:40:26,703
+Just get us out of here.
+
+715
+00:40:26,744 --> 00:40:28,905
+They're powering up
+their warp drive.
+
+716
+00:40:28,980 --> 00:40:30,072
+Stay with them.
+
+717
+00:40:30,114 --> 00:40:31,843
+Engaging warp engines.
+
+718
+00:40:31,883 --> 00:40:34,351
+Can we beam them
+aboard at warp?
+
+719
+00:40:34,385 --> 00:40:36,410
+l wouldn't recommend that.
+
+720
+00:40:49,467 --> 00:40:51,264
+Get the phasers ready.
+
+721
+00:40:51,302 --> 00:40:53,736
+l'm not going
+to fire at them.
+
+722
+00:40:53,771 --> 00:40:56,365
+Oh, you'll do it or you'll die.
+
+723
+00:40:56,407 --> 00:40:57,931
+lt's your choice.
+
+724
+00:40:58,042 --> 00:41:00,272
+Fine.
+
+725
+00:41:00,311 --> 00:41:02,472
+Then l hope
+you can fly this ship.
+
+726
+00:41:02,513 --> 00:41:06,449
+Just sit down
+and do what l told you. Now.
+
+727
+00:41:07,818 --> 00:41:10,753
+Quark, how well
+do you know this man?
+
+728
+00:41:10,788 --> 00:41:14,019
+We've been friends for years,
+not counting today.
+
+729
+00:41:14,058 --> 00:41:15,286
+Well l suggest you
+explain to him
+
+730
+00:41:15,326 --> 00:41:17,351
+that Starfleet
+isn't going to give up
+
+731
+00:41:17,395 --> 00:41:18,692
+and stop chasing us.
+
+732
+00:41:18,729 --> 00:41:19,753
+That's true, Fallit.
+
+733
+00:41:19,797 --> 00:41:21,765
+You don't know
+these Starfleet types.
+
+734
+00:41:21,799 --> 00:41:23,664
+Then we'll all die.
+
+735
+00:41:24,835 --> 00:41:27,030
+Great, we escape and he's got
+
+736
+00:41:27,071 --> 00:41:29,062
+something ''special''
+planned for me.
+
+737
+00:41:29,106 --> 00:41:30,403
+We don't escape
+
+738
+00:41:30,441 --> 00:41:31,840
+and l just die
+with everyone else.
+
+739
+00:41:31,876 --> 00:41:33,070
+l'm l missing
+a choice here, Fallit?
+
+740
+00:41:33,110 --> 00:41:34,236
+Be quiet, Quark.
+
+741
+00:41:45,022 --> 00:41:46,751
+They've dropped out of warp.
+
+742
+00:41:46,791 --> 00:41:47,815
+Go to impulse.
+
+743
+00:41:47,858 --> 00:41:50,918
+Sir, their gravity
+generators are off.
+
+744
+00:41:50,962 --> 00:41:52,554
+Melora's alive.
+
+745
+00:41:52,597 --> 00:41:54,360
+Gravity's been reinstated.
+
+746
+00:41:54,398 --> 00:41:55,888
+All engines are down.
+
+747
+00:41:55,933 --> 00:41:57,400
+Come on, Doctor.
+
+748
+00:42:09,814 --> 00:42:13,614
+l think we have the situation
+in hand, Commander.
+
+749
+00:42:13,651 --> 00:42:14,618
+Sisko to <i>Rio Grande.</i>
+
+750
+00:42:14,652 --> 00:42:15,880
+Everything's under control.
+
+751
+00:42:15,920 --> 00:42:16,887
+We're going home.
+
+752
+00:42:16,921 --> 00:42:18,218
+Aye, Commander.
+
+753
+00:42:18,255 --> 00:42:20,280
+Setting course for the wormhole.
+
+754
+00:42:27,498 --> 00:42:29,625
+Why didn't the phaser kill me?
+
+755
+00:42:29,667 --> 00:42:30,895
+Oh, l don't know.
+
+756
+00:42:30,935 --> 00:42:32,800
+Maybe all the neurostimulants
+
+757
+00:42:32,837 --> 00:42:34,998
+we've been pumping
+into your body.
+
+758
+00:42:35,039 --> 00:42:37,098
+That's what l was
+wondering, too.
+
+759
+00:42:37,141 --> 00:42:38,403
+You know, it might make
+
+760
+00:42:38,442 --> 00:42:40,842
+an interesting side
+effect to the treatment.
+
+761
+00:42:40,878 --> 00:42:42,311
+lt's worth exploring...
+
+762
+00:42:42,346 --> 00:42:47,374
+Julian... l'm not going ahead
+with the treatments.
+
+763
+00:42:47,418 --> 00:42:49,784
+Well, you can always
+try it again someday
+
+764
+00:42:49,820 --> 00:42:51,515
+if you change your mind.
+
+765
+00:42:51,555 --> 00:42:54,820
+l don't think l will.
+
+766
+00:42:54,859 --> 00:42:56,724
+l like being independent.
+
+767
+00:42:56,761 --> 00:43:03,530
+But to give up everything l am
+to walk... on land...
+
+768
+00:43:03,567 --> 00:43:05,660
+well, l might be
+more independent
+
+769
+00:43:05,703 --> 00:43:07,967
+but l wouldn't
+be Elaysian anymore.
+
+770
+00:43:08,005 --> 00:43:10,565
+l'm not sure what l'd be.
+
+771
+00:43:12,576 --> 00:43:15,841
+Besides, maybe independence
+isn't all it's cracked up to be.
+
+772
+00:43:15,880 --> 00:43:17,347
+l kind of like how it feels
+
+773
+00:43:17,381 --> 00:43:19,542
+to be dependent on someone
+for a change.
+
+774
+00:43:19,583 --> 00:43:21,608
+And l'm glad you
+got me to unlock
+
+775
+00:43:21,652 --> 00:43:23,142
+the doors to my quarters
+
+776
+00:43:23,187 --> 00:43:27,123
+so l could finally let someone
+into my life.
+
+777
+00:43:27,158 --> 00:43:28,819
+So am l.
+
+778
+00:43:30,027 --> 00:43:39,129
+<i>Aler acht'jar,</i>
+<i>Aler acht'jar</i>
+
+779
+00:43:39,170 --> 00:43:46,872
+<i>T'lembda boool-gah toh-gal</i>
+
+780
+00:43:46,911 --> 00:43:55,250
+<i>Aler acht'jar,</i>
+<i>Aler acht'jar</i>
+
+781
+00:43:55,286 --> 00:43:58,255
+<i>T'lembda boool-gah</i>
+<i>to lohh...</i>
+
+782
+00:43:58,289 --> 00:44:00,314
+Oh, you must be exhausted.
+
+783
+00:44:00,357 --> 00:44:02,222
+Uh, if you don't want to stay...
+
+784
+00:44:02,259 --> 00:44:04,955
+No, let's just sit
+a while and listen.
+
+785
+00:44:04,995 --> 00:44:11,195
+<i>Rom ara Rom Rom-rom</i>
+
+786
+00:44:11,235 --> 00:44:17,538
+<i>T'el Do'a, Do'a...</i>
+
+787
+00:44:17,575 --> 00:44:21,136
+l want to remember all of this.
+
+788
+00:44:21,178 --> 00:44:23,439
+<i>Rom ara Rom Rom-rom...</i>
+
+789
+00:44:23,439 --> 00:44:27,205
+<i>Rom ara Rom Rom-rom...</i>
+

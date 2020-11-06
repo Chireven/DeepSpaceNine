@@ -1,0 +1,3497 @@
+﻿1
+00:00:02,728 --> 00:00:07,688
+Science Officer's Log,
+Stardate 47 603.3.
+
+2
+00:00:07,733 --> 00:00:09,166
+Commander Sisko has assigned me
+
+3
+00:00:09,234 --> 00:00:11,134
+to investigate an unusual
+particle field
+
+4
+00:00:11,169 --> 00:00:13,262
+detected on the other side
+of the wormhole.
+
+5
+00:00:13,305 --> 00:00:15,796
+Odo has come along
+to the Gamma Quadrant
+
+6
+00:00:15,841 --> 00:00:18,071
+hoping to find clues
+to his origin.
+
+7
+00:00:18,110 --> 00:00:20,578
+So you see, Ensign Manwaring
+has spent the last two weeks
+
+8
+00:00:20,612 --> 00:00:22,512
+avoiding the Assay Office
+because he thought
+
+9
+00:00:22,547 --> 00:00:24,481
+that Freyla was in love
+with Lieutenant Strek
+
+10
+00:00:24,516 --> 00:00:27,110
+but all the while, Strek was
+seeing Security Officer Seelee.
+
+11
+00:00:27,152 --> 00:00:29,416
+And Freyla was waiting for
+Manwaring to ask her out.
+
+12
+00:00:29,454 --> 00:00:32,617
+Officer Seelee has seemed
+distracted at work lately.
+
+13
+00:00:32,658 --> 00:00:35,354
+l'm going to have to talk
+to her about this
+
+14
+00:00:35,394 --> 00:00:37,362
+when we get back to the station.
+
+15
+00:00:37,396 --> 00:00:39,762
+Odo, l didn't tell you
+that story
+
+16
+00:00:39,798 --> 00:00:41,459
+to get Seelee in trouble.
+
+17
+00:00:41,500 --> 00:00:42,899
+Frankly, Lieutenant
+
+18
+00:00:42,934 --> 00:00:46,131
+l fail to see any point
+in your story at all
+
+19
+00:00:46,171 --> 00:00:48,162
+except perhaps to illustrate
+
+20
+00:00:48,206 --> 00:00:50,640
+the foolish humanoid
+preoccupation
+
+21
+00:00:50,676 --> 00:00:52,371
+with romantic coupling.
+
+22
+00:00:52,411 --> 00:00:56,006
+The point is that, sometimes,
+we don't see true love
+
+23
+00:00:56,048 --> 00:00:58,642
+even when it's staring us
+right in the face.
+
+24
+00:00:58,684 --> 00:01:02,142
+How fascinating.
+
+25
+00:01:02,220 --> 00:01:04,586
+Let me give you another example.
+
+26
+00:01:04,623 --> 00:01:06,147
+You know Lysia Arlin?
+
+27
+00:01:06,224 --> 00:01:09,455
+The Bolian woman
+who runs the <i>jumja</i> kiosk.
+
+28
+00:01:09,494 --> 00:01:12,588
+l've noticed she's been making
+a lot of visits
+
+29
+00:01:12,631 --> 00:01:14,155
+to the security office lately.
+
+30
+00:01:14,266 --> 00:01:15,563
+She has a cousin
+
+31
+00:01:15,600 --> 00:01:18,592
+who's interested in a career
+in law enforcement.
+
+32
+00:01:18,637 --> 00:01:20,366
+You don't say.
+
+33
+00:01:21,740 --> 00:01:26,507
+Are you implying that Lysia
+Arlin is interested in me?
+
+34
+00:01:29,214 --> 00:01:30,841
+Ridiculous.
+
+35
+00:01:30,882 --> 00:01:32,679
+l would have noticed.
+
+36
+00:01:32,718 --> 00:01:34,549
+Exactly my point.
+
+37
+00:01:35,887 --> 00:01:37,855
+You must be mistaken.
+
+38
+00:01:37,889 --> 00:01:40,187
+And how can you be so sure?
+
+39
+00:01:40,258 --> 00:01:44,456
+Because women don't react
+to me in that manner.
+
+40
+00:01:44,496 --> 00:01:47,954
+Are you saying that you've
+never had a female friend?
+
+41
+00:01:47,999 --> 00:01:50,968
+l consider Major Kira a friend.
+
+42
+00:01:51,002 --> 00:01:53,368
+That's not what l meant.
+
+43
+00:01:53,405 --> 00:01:55,373
+l'm talking about...
+
+44
+00:01:55,407 --> 00:01:57,671
+an intimate friendship.
+
+45
+00:01:59,244 --> 00:02:01,678
+That's a very personal question.
+
+46
+00:02:01,713 --> 00:02:03,647
+l'm sorry, but after
+seven lifetimes
+
+47
+00:02:03,682 --> 00:02:06,480
+the impersonal questions
+aren't much fun anymore.
+
+48
+00:02:08,286 --> 00:02:11,016
+Looks like we found
+our particle field.
+
+49
+00:02:12,524 --> 00:02:14,389
+They're omicron particles.
+
+50
+00:02:14,426 --> 00:02:16,155
+ls that unusual?
+
+51
+00:02:16,228 --> 00:02:18,423
+Omicron particles
+are incredibly rare.
+
+52
+00:02:18,463 --> 00:02:19,896
+They can only be created
+
+53
+00:02:19,931 --> 00:02:22,866
+by certain types of
+matter/antimatter reactions.
+
+54
+00:02:22,901 --> 00:02:24,391
+The field seems to be coming
+
+55
+00:02:24,436 --> 00:02:26,836
+from the second planet
+in the system.
+
+56
+00:02:26,872 --> 00:02:28,601
+Let's go in a little closer.
+
+57
+00:02:31,743 --> 00:02:33,074
+That's strange.
+
+58
+00:02:33,111 --> 00:02:37,172
+The particles are concentrated
+in one small valley.
+
+59
+00:02:37,282 --> 00:02:41,116
+Sensors aren't picking up
+any life-forms.
+
+60
+00:02:41,153 --> 00:02:43,951
+The particle field could be
+interfering with the sensors.
+
+61
+00:02:43,989 --> 00:02:46,651
+We better beam down
+for a closer look.
+
+62
+00:03:01,139 --> 00:03:03,232
+l'm still getting
+a lot of interference.
+
+63
+00:03:03,275 --> 00:03:05,140
+The particle field
+must be blocking
+
+64
+00:03:05,177 --> 00:03:06,508
+the tricorder functions.
+
+65
+00:03:11,349 --> 00:03:14,341
+The interference seems
+to be coming from here.
+
+66
+00:03:16,521 --> 00:03:20,821
+This must be the source
+of the field.
+
+67
+00:03:20,859 --> 00:03:24,317
+lt's probably some kind
+of matter/antimatter reactor.
+
+68
+00:03:24,362 --> 00:03:28,162
+Lieutenant, l suggest we leave
+before we're discovered.
+
+69
+00:03:28,200 --> 00:03:29,531
+Give me a minute.
+
+70
+00:03:35,874 --> 00:03:39,366
+Take all the time you want.
+
+71
+00:05:48,332 --> 00:05:50,596
+lt's about time.
+
+72
+00:05:50,634 --> 00:05:52,067
+Enter.
+Where have you been?
+
+73
+00:05:52,102 --> 00:05:53,569
+l've been waiting hours...
+
+74
+00:05:55,873 --> 00:05:58,273
+M-Major.
+
+75
+00:05:58,309 --> 00:06:01,506
+Uh, l'm sorry, we're closed.
+
+76
+00:06:01,545 --> 00:06:03,536
+You'll have to come back
+in the morning.
+
+77
+00:06:03,581 --> 00:06:05,344
+Oh, l didn't come here
+for a drink.
+
+78
+00:06:05,382 --> 00:06:06,542
+l thought you'd like to know
+
+79
+00:06:06,584 --> 00:06:08,950
+your cousin Kono just tried
+to come aboard the station.
+
+80
+00:06:08,986 --> 00:06:11,045
+Kono? Here?
+
+81
+00:06:11,088 --> 00:06:12,578
+What an unexpected pleasure.
+
+82
+00:06:12,623 --> 00:06:13,647
+He's gone, Quark.
+
+83
+00:06:13,691 --> 00:06:15,158
+When we tried to talk to him
+
+84
+00:06:15,192 --> 00:06:17,717
+he beamed onto a departing
+Tellarite freighter.
+
+85
+00:06:17,761 --> 00:06:19,058
+There must be some mistake.
+
+86
+00:06:19,096 --> 00:06:20,563
+Why would Kono be coming here?
+
+87
+00:06:20,598 --> 00:06:22,361
+l was wondering the
+same thing myself
+
+88
+00:06:22,399 --> 00:06:23,730
+so, l did a little checking.
+
+89
+00:06:23,767 --> 00:06:24,859
+Your cousin's wanted
+
+90
+00:06:24,902 --> 00:06:26,870
+for robbing a museum
+on Cardassia V.
+
+91
+00:06:26,904 --> 00:06:29,702
+My guess is he thought
+someone here would help him
+
+92
+00:06:29,740 --> 00:06:30,764
+sell the merchandise.
+
+93
+00:06:30,808 --> 00:06:32,708
+Outrageous.
+You have no proof of that.
+
+94
+00:06:32,743 --> 00:06:35,769
+Quark, get this into that
+little twisted brain of yours.
+
+95
+00:06:35,813 --> 00:06:37,872
+lf you thought
+you were going to get away
+
+96
+00:06:37,915 --> 00:06:40,076
+with anything while Odo's
+gone, think again.
+
+97
+00:06:40,150 --> 00:06:42,345
+l'm watching you.
+
+98
+00:06:43,921 --> 00:06:46,082
+Major?
+
+99
+00:06:46,190 --> 00:06:49,216
+You make it sound
+like you don't like me.
+
+100
+00:06:49,260 --> 00:06:52,889
+Don't like you?
+
+101
+00:06:52,930 --> 00:06:55,091
+You collaborated
+with the Cardassians.
+
+102
+00:06:55,199 --> 00:06:56,666
+You cheat your customers
+
+103
+00:06:56,700 --> 00:06:58,827
+and you're a danger
+to this station.
+
+104
+00:06:58,869 --> 00:07:02,134
+l don't just ''not like you.''
+
+105
+00:07:02,172 --> 00:07:03,867
+l despise you.
+
+106
+00:07:06,443 --> 00:07:10,277
+Sorry l mentioned it.
+
+107
+00:07:11,749 --> 00:07:14,013
+A-A job?
+What do l need a job for?
+
+108
+00:07:14,051 --> 00:07:15,416
+You're 15 years old.
+
+109
+00:07:15,452 --> 00:07:18,421
+lt's time you took
+a little responsibility.
+
+110
+00:07:20,724 --> 00:07:23,852
+Look, Nog works, doesn't he?
+
+111
+00:07:23,894 --> 00:07:25,191
+Yeah.
+
+112
+00:07:25,229 --> 00:07:27,527
+You're almost as old as he is.
+
+113
+00:07:27,564 --> 00:07:29,930
+When l was your age,
+l had a job
+
+114
+00:07:29,967 --> 00:07:32,527
+and it was
+a terrific experience.
+
+115
+00:07:32,569 --> 00:07:33,763
+All right, l'll talk to Nog
+
+116
+00:07:33,804 --> 00:07:36,329
+and see if he can get me
+a job at Quark's.
+
+117
+00:07:36,373 --> 00:07:39,365
+Quark's? l was thinking
+more along the lines
+
+118
+00:07:39,410 --> 00:07:41,674
+of you helping out
+Chief O'Brien.
+
+119
+00:07:41,712 --> 00:07:43,202
+Chief O'Brien?
+
+120
+00:07:43,247 --> 00:07:45,977
+You do like Chief O'Brien,
+don't you?
+
+121
+00:07:46,016 --> 00:07:49,679
+He's okay, but l don't know
+anything about engineering.
+
+122
+00:07:49,720 --> 00:07:52,553
+This is the perfect
+opportunity to learn.
+
+123
+00:07:52,589 --> 00:07:55,683
+Besides, it'll look great
+on your application
+
+124
+00:07:55,726 --> 00:07:57,250
+to Starfleet Academy.
+
+125
+00:08:01,532 --> 00:08:03,796
+Okay, l'll give it a try.
+
+126
+00:08:03,834 --> 00:08:06,428
+That's all l ask.
+
+127
+00:08:10,708 --> 00:08:14,269
+Are we being accused
+of some kind of crime?
+
+128
+00:08:14,311 --> 00:08:16,745
+Have you committed one?
+
+129
+00:08:16,780 --> 00:08:19,271
+We've just arrived here.
+
+130
+00:08:19,316 --> 00:08:20,977
+So you keep saying.
+
+131
+00:08:21,018 --> 00:08:23,316
+lf you want,
+you can check our ship's logs
+
+132
+00:08:23,354 --> 00:08:24,912
+and they'll prove it to you.
+
+133
+00:08:24,955 --> 00:08:26,650
+Logs can be tampered with.
+
+134
+00:08:26,690 --> 00:08:28,180
+Well, you ought to know that.
+
+135
+00:08:28,225 --> 00:08:30,455
+After all, you claim to be
+a security officer.
+
+136
+00:08:30,494 --> 00:08:33,554
+l am a security officer,
+and l've had enough of this.
+
+137
+00:08:33,597 --> 00:08:36,691
+lf we were guilty, we wouldn't
+even be here right now.
+
+138
+00:08:36,734 --> 00:08:37,758
+l'll prove it.
+
+139
+00:08:37,801 --> 00:08:40,065
+Computer, one to beam up.
+
+140
+00:08:49,279 --> 00:08:51,611
+Don't worry,
+he'll be right back.
+
+141
+00:08:57,254 --> 00:08:58,721
+What did l tell you?
+
+142
+00:08:58,756 --> 00:09:01,350
+Now, that's interesting,
+you disappearing like that
+
+143
+00:09:01,392 --> 00:09:03,019
+because l've got 22 people
+
+144
+00:09:03,127 --> 00:09:05,357
+who have disappeared
+without a trace.
+
+145
+00:09:05,396 --> 00:09:09,628
+22 missing people?
+
+146
+00:09:09,666 --> 00:09:12,032
+Did they all disappear
+at the same time?
+
+147
+00:09:12,136 --> 00:09:14,297
+No, it started in the fall.
+
+148
+00:09:14,338 --> 00:09:17,774
+But the last victim vanished
+six hours ago.
+
+149
+00:09:17,808 --> 00:09:20,333
+Six hours ago
+we weren't even in this system.
+
+150
+00:09:20,377 --> 00:09:22,937
+lf you want, you can accompany
+us back to our station
+
+151
+00:09:22,980 --> 00:09:26,040
+and they will verify
+everything we've told you.
+
+152
+00:09:29,787 --> 00:09:33,814
+Do you have any other suspects?
+
+153
+00:09:33,857 --> 00:09:36,018
+You were my only ones.
+
+154
+00:09:36,060 --> 00:09:39,052
+l'm not saying
+everybody here is perfect.
+
+155
+00:09:39,163 --> 00:09:43,259
+We have some petty thefts,
+an occasional fight, but...
+
+156
+00:09:43,300 --> 00:09:44,733
+kidnapping, murder?
+
+157
+00:09:44,768 --> 00:09:46,702
+Nah. Nah, we've never had
+
+158
+00:09:46,737 --> 00:09:48,864
+anything like
+that before.
+
+159
+00:09:48,906 --> 00:09:51,067
+l see.
+
+160
+00:09:51,108 --> 00:09:52,268
+So...
+
+161
+00:09:52,309 --> 00:09:53,799
+have you scanned the area
+
+162
+00:09:53,844 --> 00:09:55,869
+for signs of transporter
+activity?
+
+163
+00:09:55,913 --> 00:09:57,813
+lt was the first thing l tried.
+
+164
+00:09:57,848 --> 00:09:59,839
+l didn't find anything.
+
+165
+00:10:01,085 --> 00:10:03,679
+You know, l've been protector
+here for almost ten years.
+
+166
+00:10:03,720 --> 00:10:05,688
+l like to think
+l'm pretty good at my job.
+
+167
+00:10:05,722 --> 00:10:07,917
+People trust me
+to solve their problems.
+
+168
+00:10:07,958 --> 00:10:10,222
+But whoever's behind
+these disappearances
+
+169
+00:10:10,260 --> 00:10:13,229
+is a lot smarter than l am.
+
+170
+00:10:13,263 --> 00:10:18,963
+l have to admit,
+l'm starting to get desperate.
+
+171
+00:10:19,002 --> 00:10:22,995
+Maybe what you need
+is a little help.
+
+172
+00:10:25,142 --> 00:10:26,973
+Maybe.
+
+173
+00:10:33,984 --> 00:10:35,315
+Rurigan.
+
+174
+00:10:41,325 --> 00:10:43,293
+So...
+
+175
+00:10:43,327 --> 00:10:45,955
+these are the strangers
+l heard about?
+
+176
+00:10:45,996 --> 00:10:48,624
+Shouldn't they be in a cell?
+
+177
+00:10:48,665 --> 00:10:51,896
+l'm satisfied they have nothing
+to do with the disappearances.
+
+178
+00:10:51,935 --> 00:10:54,597
+ln fact, Odo here
+is a security officer.
+
+179
+00:10:54,638 --> 00:10:56,629
+He's going to try to help us.
+
+180
+00:10:56,673 --> 00:10:58,573
+How do you plan to do that?
+
+181
+00:10:58,609 --> 00:11:01,510
+l understand your daughter
+is the latest victim.
+
+182
+00:11:01,545 --> 00:11:03,809
+When was the last time
+you saw her?
+
+183
+00:11:03,847 --> 00:11:05,542
+This morning at first meal.
+
+184
+00:11:05,582 --> 00:11:10,076
+But Taya said she saw her later
+in her workroom around midday.
+
+185
+00:11:10,120 --> 00:11:11,246
+Taya?
+
+186
+00:11:11,288 --> 00:11:13,415
+My granddaughter.
+
+187
+00:11:13,457 --> 00:11:16,290
+Colyus, Anetra's gone,
+just like the others.
+
+188
+00:11:16,326 --> 00:11:18,294
+We're never going to find them.
+
+189
+00:11:18,328 --> 00:11:19,955
+How can you be so sure?
+
+190
+00:11:19,997 --> 00:11:23,023
+Let's just say l haven't
+been proven wrong yet.
+
+191
+00:11:23,066 --> 00:11:25,432
+l'd like to scan the area again
+for transporter activity
+
+192
+00:11:25,469 --> 00:11:26,697
+in case you missed something.
+
+193
+00:11:26,737 --> 00:11:28,967
+Go right ahead.
+
+194
+00:11:31,475 --> 00:11:34,273
+l'm still not getting
+a clear reading.
+
+195
+00:11:34,311 --> 00:11:37,041
+The omicron particles
+put out by the reactor
+
+196
+00:11:37,080 --> 00:11:39,275
+are creating
+too much interference.
+
+197
+00:11:39,316 --> 00:11:41,750
+Oh, must be your equipment.
+
+198
+00:11:41,785 --> 00:11:45,152
+Our scanners
+never give any trouble.
+
+199
+00:11:46,990 --> 00:11:49,049
+Certain kinds of transporters
+
+200
+00:11:49,092 --> 00:11:52,289
+leave behind a residual
+electrostatic charge.
+
+201
+00:11:52,329 --> 00:11:54,957
+lf we could check
+Anetra's workroom?
+
+202
+00:12:00,270 --> 00:12:01,430
+lf you don't mind
+
+203
+00:12:01,471 --> 00:12:03,905
+l'd like to talk
+to your granddaughter.
+
+204
+00:12:03,941 --> 00:12:07,001
+Well, the last time l saw her,
+she was across the square.
+
+205
+00:12:07,044 --> 00:12:08,443
+l'll take you to her.
+
+206
+00:12:22,790 --> 00:12:24,587
+Taya?
+
+207
+00:12:25,626 --> 00:12:26,991
+Don't be afraid, Taya.
+
+208
+00:12:27,027 --> 00:12:29,291
+This is a friend
+of Protector Colyus.
+
+209
+00:12:29,330 --> 00:12:31,696
+He just wants you to answer
+a few questions.
+
+210
+00:12:33,734 --> 00:12:34,723
+Do l have to?
+
+211
+00:12:34,768 --> 00:12:38,101
+Not if you don't want to.
+
+212
+00:12:38,205 --> 00:12:42,403
+But it would help
+if l could talk to you
+
+213
+00:12:42,443 --> 00:12:44,104
+about your mother's
+disappearance.
+
+214
+00:12:44,178 --> 00:12:47,204
+She hasn't disappeared.
+
+215
+00:12:47,248 --> 00:12:49,375
+She'll be back.
+
+216
+00:12:53,153 --> 00:12:56,714
+The last time
+you saw your mother
+
+217
+00:12:56,757 --> 00:13:00,386
+did she seem upset
+about anything?
+
+218
+00:13:00,427 --> 00:13:03,055
+Nervous, perhaps, or worried?
+
+219
+00:13:03,163 --> 00:13:04,926
+She seemed fine.
+
+220
+00:13:06,934 --> 00:13:09,164
+When will she be coming home?
+
+221
+00:13:10,771 --> 00:13:12,602
+l don't know, Taya.
+
+222
+00:13:12,640 --> 00:13:15,768
+Let's go;
+it's past your bedtime.
+
+223
+00:13:15,809 --> 00:13:18,107
+l'd like to ask
+a few more questions.
+
+224
+00:13:21,448 --> 00:13:23,279
+lt'll wait till morning.
+
+225
+00:13:45,572 --> 00:13:49,235
+Chief, here's the new apprentice
+we discussed.
+
+226
+00:13:49,276 --> 00:13:51,107
+Yes, sir.
+Welcome aboard.
+
+227
+00:13:55,783 --> 00:13:58,911
+Well, let's get to work.
+
+228
+00:13:58,953 --> 00:14:01,251
+l was just about to run
+a diagnostic
+
+229
+00:14:01,288 --> 00:14:03,017
+on the primary system core.
+
+230
+00:14:03,057 --> 00:14:04,217
+Mr. Sisko...
+
+231
+00:14:04,258 --> 00:14:07,193
+l almost forgot.
+
+232
+00:14:07,227 --> 00:14:09,695
+For you.
+
+233
+00:14:09,730 --> 00:14:11,061
+Thanks, Dad.
+
+234
+00:14:11,098 --> 00:14:15,228
+lt's standard equipment
+for all station personnel.
+
+235
+00:14:28,415 --> 00:14:30,849
+Wait, let me get
+this straight, Major.
+
+236
+00:14:30,884 --> 00:14:33,216
+You want me to spy
+on Quark for you?
+
+237
+00:14:33,253 --> 00:14:35,050
+l wouldn't
+call it spying, exactly.
+
+238
+00:14:35,089 --> 00:14:38,081
+l just thought you might,
+you know, keep an eye on him
+
+239
+00:14:38,125 --> 00:14:39,353
+while Odo's away.
+
+240
+00:14:39,393 --> 00:14:40,724
+When you're not busy.
+
+241
+00:14:40,761 --> 00:14:41,887
+Oh, it's no problem, Major.
+
+242
+00:14:41,929 --> 00:14:43,726
+Then you'll do it?
+
+243
+00:14:43,764 --> 00:14:44,731
+l look forward to it.
+
+244
+00:14:44,765 --> 00:14:46,733
+Garak has been lecturing me
+on surveillance techniques.
+
+245
+00:14:46,767 --> 00:14:48,598
+This'll give me a chance
+to try some of them out.
+
+246
+00:14:48,635 --> 00:14:50,626
+Sisko to Kira.
+
+247
+00:14:50,671 --> 00:14:51,660
+This is Kira.
+
+248
+00:14:51,705 --> 00:14:53,297
+Major, l thought
+you might like to know
+
+249
+00:14:53,340 --> 00:14:54,830
+we've received word
+that Vedek Bareil
+
+250
+00:14:54,875 --> 00:14:56,103
+is coming aboard the station.
+
+251
+00:14:56,143 --> 00:14:57,440
+Coming aboard-- when?
+
+252
+00:14:57,478 --> 00:15:00,413
+His ship just arrived
+at Docking Bay 12.
+
+253
+00:15:09,056 --> 00:15:11,149
+l wish you'd given us
+a little more notice.
+
+254
+00:15:11,191 --> 00:15:13,250
+We could have arranged
+a formal reception.
+
+255
+00:15:13,293 --> 00:15:16,353
+Well, that's exactly
+what l wanted to avoid.
+
+256
+00:15:16,397 --> 00:15:18,524
+What brings you to the station?
+
+257
+00:15:18,565 --> 00:15:22,365
+Prylar Rhit invited me
+to speak at the station shrine.
+
+258
+00:15:22,403 --> 00:15:23,392
+Ah.
+
+259
+00:15:23,437 --> 00:15:25,064
+But to be honest, l...
+
+260
+00:15:25,105 --> 00:15:28,871
+l've been looking for
+an opportunity to see you.
+
+261
+00:15:28,909 --> 00:15:30,206
+Really?
+
+262
+00:15:31,712 --> 00:15:32,974
+l'm honored.
+
+263
+00:15:33,013 --> 00:15:34,378
+Oh, honored.
+
+264
+00:15:34,415 --> 00:15:39,944
+Uh, actually, l was hoping
+you'd be happy to see me.
+
+265
+00:15:39,987 --> 00:15:42,421
+Oh, l am.
+
+266
+00:15:42,456 --> 00:15:44,253
+Very happy.
+
+267
+00:16:12,386 --> 00:16:13,876
+Hello, Taya.
+
+268
+00:16:19,226 --> 00:16:20,488
+Remember me?
+
+269
+00:16:20,527 --> 00:16:22,461
+We met last night.
+
+270
+00:16:22,496 --> 00:16:25,397
+You wanted to ask me questions.
+
+271
+00:16:25,432 --> 00:16:26,524
+That's right.
+
+272
+00:16:26,567 --> 00:16:28,159
+About your mother.
+
+273
+00:16:28,202 --> 00:16:33,196
+l understand you were
+the last one to see her.
+
+274
+00:16:34,408 --> 00:16:35,875
+l guess.
+
+275
+00:16:39,079 --> 00:16:40,808
+What happened to your face?
+
+276
+00:16:42,649 --> 00:16:45,641
+Nothing happened to my face.
+
+277
+00:16:45,686 --> 00:16:47,847
+l'm a shape-shifter.
+
+278
+00:16:47,888 --> 00:16:51,949
+l just don't do faces very well.
+
+279
+00:16:53,994 --> 00:16:56,827
+l have the ability
+to change my shape
+
+280
+00:16:56,864 --> 00:16:58,957
+to look like other things.
+
+281
+00:16:58,999 --> 00:17:01,524
+You mean, you're a changeling?
+
+282
+00:17:01,568 --> 00:17:03,593
+That's right.
+
+283
+00:17:03,637 --> 00:17:06,572
+There's no such thing
+as changelings.
+
+284
+00:17:06,607 --> 00:17:08,336
+They're make-believe.
+
+285
+00:17:08,375 --> 00:17:10,002
+Everyone knows that.
+
+286
+00:17:10,043 --> 00:17:14,036
+Well, l'm not make-believe.
+
+287
+00:17:14,081 --> 00:17:18,347
+All right, then let me see
+you change into something.
+
+288
+00:17:20,053 --> 00:17:21,247
+Maybe later.
+
+289
+00:17:21,288 --> 00:17:26,351
+Right now, l feel like talking.
+
+290
+00:17:26,393 --> 00:17:30,386
+lf l were a changeling,
+l'd change shapes all the time.
+
+291
+00:17:30,430 --> 00:17:33,194
+Everyone would want
+to be my friend.
+
+292
+00:17:33,233 --> 00:17:36,464
+Ha. l wish it were that easy.
+
+293
+00:17:36,503 --> 00:17:38,266
+Why wouldn't it be?
+
+294
+00:17:40,240 --> 00:17:41,901
+When l was younger
+
+295
+00:17:41,942 --> 00:17:46,902
+people were always asking me
+to change shape for them.
+
+296
+00:17:46,947 --> 00:17:51,646
+They'd pretend to be my friends,
+but all they wanted
+
+297
+00:17:51,685 --> 00:17:55,246
+was to see me become a chair
+or an animal.
+
+298
+00:17:55,289 --> 00:17:58,884
+None of them ever
+really cared about me.
+
+299
+00:17:58,926 --> 00:18:01,827
+Maybe they were scared of you.
+
+300
+00:18:03,697 --> 00:18:05,995
+Some of them probably were.
+
+301
+00:18:07,534 --> 00:18:08,967
+l'm not afraid of you.
+
+302
+00:18:11,038 --> 00:18:13,097
+l'm glad to hear that.
+
+303
+00:18:15,042 --> 00:18:17,408
+Were your parents
+changelings, too?
+
+304
+00:18:19,213 --> 00:18:23,172
+l never knew my parents.
+
+305
+00:18:23,217 --> 00:18:26,345
+l've been looking for them
+for a long time.
+
+306
+00:18:29,289 --> 00:18:33,316
+My father died when l was four.
+
+307
+00:18:33,360 --> 00:18:35,726
+l don't remember him very well.
+
+308
+00:18:37,431 --> 00:18:40,264
+The last time l saw my mother
+
+309
+00:18:40,300 --> 00:18:46,000
+she was in her workroom
+making pottery.
+
+310
+00:18:46,039 --> 00:18:50,533
+When l went to get her for
+the midday meal, she was gone.
+
+311
+00:18:52,012 --> 00:18:55,709
+How did she act
+when you last saw her?
+
+312
+00:18:55,749 --> 00:18:58,479
+Happy.
+
+313
+00:18:58,518 --> 00:19:02,750
+She was making a vase
+for Mr. Depnen, the baker.
+
+314
+00:19:02,789 --> 00:19:04,723
+He really likes my mom
+
+315
+00:19:04,758 --> 00:19:09,218
+so he always saves us
+the best loaf of greenbread.
+
+316
+00:19:09,263 --> 00:19:13,495
+Has your mother ever gone
+anywhere before?
+
+317
+00:19:13,533 --> 00:19:15,314
+A trip, vacation?
+
+318
+00:19:16,315 --> 00:19:17,942
+We don't go on trips.
+
+319
+00:19:17,983 --> 00:19:18,972
+Never?
+
+320
+00:19:19,051 --> 00:19:23,613
+No, we never leave the valley.
+
+321
+00:19:23,655 --> 00:19:24,849
+Why not?
+
+322
+00:19:24,890 --> 00:19:27,825
+Nobody ever leaves the valley.
+
+323
+00:19:29,828 --> 00:19:31,625
+Everything we need
+is right here.
+
+324
+00:19:33,832 --> 00:19:35,493
+l see.
+
+325
+00:19:39,171 --> 00:19:41,435
+My mother's never coming back,
+is she?
+
+326
+00:19:41,473 --> 00:19:43,907
+Why do you say that?
+
+327
+00:19:46,512 --> 00:19:48,707
+lt's what my grandfather
+told me.
+
+328
+00:19:50,315 --> 00:19:56,982
+Taya, l don't know
+where your mother is
+
+329
+00:19:57,022 --> 00:20:01,220
+but l promise you,
+l'm going to do everything l can
+
+330
+00:20:01,260 --> 00:20:04,491
+to find her
+and bring her back to you.
+
+331
+00:20:13,372 --> 00:20:14,805
+Okay, one more time.
+
+332
+00:20:14,840 --> 00:20:16,671
+These are all isolinear rods.
+
+333
+00:20:16,708 --> 00:20:19,541
+The ones with the white labels
+contain data
+
+334
+00:20:19,578 --> 00:20:22,479
+relating to the engineering
+systems controls
+
+335
+00:20:22,514 --> 00:20:24,038
+the red-labeled ones
+
+336
+00:20:24,149 --> 00:20:26,617
+are for library
+and information storage
+
+337
+00:20:26,652 --> 00:20:29,951
+and the blue ones are...?
+
+338
+00:20:29,988 --> 00:20:31,580
+l'm never going to get this.
+
+339
+00:20:31,623 --> 00:20:33,147
+Give yourself some time.
+
+340
+00:20:33,192 --> 00:20:34,921
+l didn't get a handle
+on this stuff
+
+341
+00:20:34,960 --> 00:20:37,360
+until almost a year
+after l joined Starfleet.
+
+342
+00:20:37,396 --> 00:20:39,261
+l mean, it's not
+like you're going off
+
+343
+00:20:39,298 --> 00:20:41,266
+to the Academy tomorrow, is it?
+
+344
+00:20:43,669 --> 00:20:44,795
+What's wrong?
+
+345
+00:20:44,837 --> 00:20:45,997
+Nothing.
+
+346
+00:20:46,038 --> 00:20:48,734
+lt's just that,
+why does everyone assume
+
+347
+00:20:48,774 --> 00:20:50,799
+that l'm going to the Academy?
+
+348
+00:20:50,843 --> 00:20:53,471
+Well, you want to go,
+don't you?
+
+349
+00:20:55,781 --> 00:20:57,305
+Not really.
+
+350
+00:20:59,618 --> 00:21:00,744
+Does your father know?
+
+351
+00:21:00,786 --> 00:21:03,016
+He wouldn't understand.
+
+352
+00:21:03,055 --> 00:21:04,750
+l know how you feel.
+
+353
+00:21:04,790 --> 00:21:08,226
+You know what my father
+wanted me to be?
+
+354
+00:21:08,260 --> 00:21:09,591
+A musician.
+
+355
+00:21:10,796 --> 00:21:12,127
+lt's true.
+
+356
+00:21:12,164 --> 00:21:15,133
+l was supposed to be
+a cello player.
+
+357
+00:21:15,167 --> 00:21:17,533
+He made me practice
+every day.
+
+358
+00:21:17,569 --> 00:21:19,560
+l got to be pretty good.
+
+359
+00:21:19,605 --> 00:21:23,041
+When l was 17, he sent
+a recorded audition
+
+360
+00:21:23,141 --> 00:21:25,769
+to the Aldebaran Music Academy.
+
+361
+00:21:25,811 --> 00:21:27,039
+What happened?
+
+362
+00:21:27,145 --> 00:21:28,407
+Oh, l got in.
+
+363
+00:21:28,447 --> 00:21:30,745
+lt was the happiest day
+of his life.
+
+364
+00:21:30,782 --> 00:21:33,979
+l didn't know how to tell him
+l didn't want to go.
+
+365
+00:21:34,019 --> 00:21:36,419
+So, two days before
+l was due to leave
+
+366
+00:21:36,455 --> 00:21:39,390
+l went into town
+and signed up for Starfleet.
+
+367
+00:21:39,424 --> 00:21:41,153
+What did your dad do?
+
+368
+00:21:41,193 --> 00:21:42,660
+Oh, he was furious.
+
+369
+00:21:42,694 --> 00:21:45,060
+But once he calmed down
+a little
+
+370
+00:21:45,163 --> 00:21:47,688
+he saw how much
+l wanted to join.
+
+371
+00:21:47,733 --> 00:21:51,066
+Nowadays when l go home,
+he introduces me as...
+
+372
+00:21:51,169 --> 00:21:53,467
+''My son
+
+373
+00:21:53,505 --> 00:21:58,738
+Senior Chief Specialist
+Miles Edward O'Brien.''
+
+374
+00:21:58,777 --> 00:22:03,714
+The point is, you've got
+to live your own life.
+
+375
+00:22:03,749 --> 00:22:05,717
+l don't want
+to disappoint my dad.
+
+376
+00:22:05,751 --> 00:22:08,015
+Hey, your dad's not a bad guy.
+
+377
+00:22:08,086 --> 00:22:09,417
+He'll come around.
+
+378
+00:22:09,454 --> 00:22:11,479
+Just give him some time.
+
+379
+00:22:26,204 --> 00:22:28,764
+So...
+
+380
+00:22:28,807 --> 00:22:30,434
+What did you think?
+
+381
+00:22:30,475 --> 00:22:31,874
+Of your speech?
+
+382
+00:22:31,910 --> 00:22:33,969
+Mm-hmm.
+
+383
+00:22:34,012 --> 00:22:36,310
+l liked everything about it...
+
+384
+00:22:36,348 --> 00:22:37,838
+except the content.
+
+385
+00:22:37,883 --> 00:22:39,680
+You disagree
+with my interpretation
+
+386
+00:22:39,718 --> 00:22:40,946
+of the Eighth Prophecy?
+
+387
+00:22:40,986 --> 00:22:43,716
+''Disagree'' is a bit
+of an understatement.
+
+388
+00:22:43,755 --> 00:22:46,451
+''Passionately disagree''
+is more like it.
+
+389
+00:22:46,491 --> 00:22:48,391
+The way you have
+of taking a prophecy
+
+390
+00:22:48,427 --> 00:22:50,918
+and showing that it can mean
+exactly the opposite
+
+391
+00:22:50,963 --> 00:22:53,329
+of the accepted
+interpretation is...
+
+392
+00:22:53,365 --> 00:22:54,559
+Oh, it's brilliant.
+
+393
+00:22:54,600 --> 00:22:55,760
+Uh... insightful.
+
+394
+00:22:55,801 --> 00:22:58,702
+lnfuriating.
+
+395
+00:22:58,737 --> 00:23:02,264
+Maybe we should talk
+about something else.
+
+396
+00:23:02,307 --> 00:23:03,740
+Like what?
+
+397
+00:23:03,775 --> 00:23:07,006
+Well, the llvian
+katterpod crop maybe?
+
+398
+00:23:07,079 --> 00:23:08,512
+Or, uh...
+
+399
+00:23:08,547 --> 00:23:12,005
+the new nature preserve
+in Hedrikspool Province.
+
+400
+00:23:12,084 --> 00:23:13,415
+Hmm? No?
+
+401
+00:23:13,452 --> 00:23:16,888
+Maybe the standings in
+the Springball Championship.
+
+402
+00:23:16,922 --> 00:23:18,412
+You follow springball?
+
+403
+00:23:18,457 --> 00:23:21,722
+Religiously... if you'll
+pardon the expression.
+
+404
+00:23:21,760 --> 00:23:23,660
+l even used to play a little.
+
+405
+00:23:23,695 --> 00:23:25,026
+Me, too.
+
+406
+00:23:25,063 --> 00:23:27,930
+l had Chief O'Brien design
+a springball holosuite program.
+
+407
+00:23:27,966 --> 00:23:29,399
+Really?
+
+408
+00:23:29,434 --> 00:23:31,595
+Let's go.
+
+409
+00:23:31,637 --> 00:23:33,662
+You want to play springball?
+
+410
+00:23:33,705 --> 00:23:35,195
+Why not?
+
+411
+00:23:35,240 --> 00:23:39,040
+Well, unless you have
+a more pressing engagement.
+
+412
+00:23:39,144 --> 00:23:41,044
+Not that l can think of.
+
+413
+00:23:41,113 --> 00:23:42,410
+Good.
+
+414
+00:23:42,447 --> 00:23:44,745
+l could use the practice.
+
+415
+00:23:55,661 --> 00:24:01,896
+From what l understand, you...
+helped found this colony.
+
+416
+00:24:01,933 --> 00:24:03,161
+That's right.
+
+417
+00:24:03,201 --> 00:24:05,533
+l'm the oldest one left.
+
+418
+00:24:05,570 --> 00:24:08,505
+This colony must be
+very important to you.
+
+419
+00:24:08,540 --> 00:24:10,701
+You helped found it,
+you raised a family here.
+
+420
+00:24:10,742 --> 00:24:14,405
+l'm very proud
+of what we've accomplished.
+
+421
+00:24:14,446 --> 00:24:17,108
+Then explain something to me.
+
+422
+00:24:17,149 --> 00:24:21,142
+This colony is undergoing
+a serious crisis.
+
+423
+00:24:21,186 --> 00:24:24,314
+Your daughter is
+among the missing.
+
+424
+00:24:24,356 --> 00:24:27,018
+Yet, you hardly seem concerned.
+
+425
+00:24:27,092 --> 00:24:30,323
+There is nothing l can do
+to change things.
+
+426
+00:24:30,362 --> 00:24:32,353
+l wish there were.
+
+427
+00:24:32,397 --> 00:24:35,560
+Now, is there anything else,
+or can l go?
+
+428
+00:24:35,600 --> 00:24:38,728
+Are you sure you're all right?
+
+429
+00:24:38,770 --> 00:24:40,704
+Why wouldn't l be?
+
+430
+00:24:40,739 --> 00:24:43,037
+You seem to be
+in a great deal of pain.
+
+431
+00:24:43,075 --> 00:24:44,975
+Why do you say that?
+
+432
+00:24:47,345 --> 00:24:49,176
+l can see it in your eyes.
+
+433
+00:24:49,214 --> 00:24:52,274
+Perhaps you'd like
+to sit here for a moment
+
+434
+00:24:52,317 --> 00:24:54,046
+and rest.
+
+435
+00:24:54,086 --> 00:24:56,782
+Well, it wouldn't do much good.
+
+436
+00:24:56,822 --> 00:24:58,881
+You see, l'm dying.
+
+437
+00:24:58,924 --> 00:25:01,392
+l'm sorry.
+
+438
+00:25:01,426 --> 00:25:03,451
+Well, l've had a good life.
+
+439
+00:25:03,495 --> 00:25:05,258
+No regrets.
+
+440
+00:25:05,297 --> 00:25:08,460
+l wish l could see
+my daughter once again.
+
+441
+00:25:08,500 --> 00:25:11,435
+Now, if there are
+no more questions...
+
+442
+00:25:13,638 --> 00:25:17,130
+Actually, there is one thing
+l've been wondering.
+
+443
+00:25:19,411 --> 00:25:21,106
+How come...
+
+444
+00:25:21,146 --> 00:25:23,910
+no one ever leaves the village?
+
+445
+00:25:23,949 --> 00:25:25,576
+l haven't met anyone yet
+
+446
+00:25:25,617 --> 00:25:28,017
+who's ever been
+outside this valley.
+
+447
+00:25:28,053 --> 00:25:29,145
+Any idea why?
+
+448
+00:25:29,187 --> 00:25:30,916
+l suppose it's because
+
+449
+00:25:30,956 --> 00:25:33,424
+people around here
+don't like to travel.
+
+450
+00:25:33,458 --> 00:25:35,551
+After all,
+there's no place to go.
+
+451
+00:25:35,594 --> 00:25:37,357
+How can you be so sure?
+
+452
+00:25:37,395 --> 00:25:39,727
+Have you ever left the valley?
+
+453
+00:25:39,765 --> 00:25:42,325
+Now that you mention it...
+
+454
+00:25:42,367 --> 00:25:43,834
+no.
+
+455
+00:25:43,869 --> 00:25:46,133
+When l asked Colyus
+
+456
+00:25:46,171 --> 00:25:47,968
+if he searched
+outside the valley
+
+457
+00:25:48,006 --> 00:25:50,440
+for the missing people,
+he looked surprised
+
+458
+00:25:50,475 --> 00:25:52,705
+as if he'd never
+thought of it before.
+
+459
+00:25:52,744 --> 00:25:54,041
+l find that very peculiar.
+
+460
+00:25:54,146 --> 00:25:55,545
+Where l come from
+
+461
+00:25:55,580 --> 00:25:58,515
+we would have searched
+the entire countryside.
+
+462
+00:25:58,550 --> 00:25:59,983
+Yes.
+
+463
+00:26:00,018 --> 00:26:04,478
+l suppose Colyus thought
+there was no point to it.
+
+464
+00:26:04,523 --> 00:26:06,514
+But l guarantee you...
+
+465
+00:26:06,558 --> 00:26:09,959
+there are no missing people
+out there.
+
+466
+00:26:09,995 --> 00:26:12,344
+You're sure of that?
+
+467
+00:26:12,477 --> 00:26:14,570
+Absolutely.
+
+468
+00:26:22,587 --> 00:26:26,785
+And then the great Minra said
+to the evil changeling
+
+469
+00:26:26,825 --> 00:26:29,316
+''Maybe you can turn
+into a mountain
+
+470
+00:26:29,361 --> 00:26:31,727
+''or a Ghergher Beast
+or a tornado
+
+471
+00:26:31,763 --> 00:26:35,290
+''but those are big things,
+and big things are easy.
+
+472
+00:26:35,333 --> 00:26:38,359
+''l bet you can't turn
+into something small
+
+473
+00:26:38,403 --> 00:26:40,462
+like a loaf of greenbread.''
+
+474
+00:26:40,505 --> 00:26:43,167
+And the changeling
+said, ''Yes, l can''
+
+475
+00:26:43,208 --> 00:26:44,607
+and he did.
+
+476
+00:26:44,643 --> 00:26:46,838
+Then do you know what happened?
+
+477
+00:26:46,878 --> 00:26:49,676
+The great Minra gobbled him up.
+
+478
+00:26:49,714 --> 00:26:51,614
+How'd you know that?
+
+479
+00:26:51,650 --> 00:26:54,676
+The changeling in your story
+wasn't very smart.
+
+480
+00:26:58,056 --> 00:27:00,889
+Could you turn into a loaf
+of greenbread?
+
+481
+00:27:02,394 --> 00:27:04,259
+l suppose l could.
+
+482
+00:27:05,564 --> 00:27:06,826
+Show me.
+
+483
+00:27:07,866 --> 00:27:10,266
+And let you gobble me up?
+
+484
+00:27:10,302 --> 00:27:12,862
+l don't think so.
+
+485
+00:27:17,576 --> 00:27:19,134
+See that tree?
+
+486
+00:27:19,177 --> 00:27:21,304
+Sometimes we go there to play.
+
+487
+00:27:21,346 --> 00:27:25,339
+That's the furthest l've
+ever been from the village.
+
+488
+00:27:25,383 --> 00:27:26,714
+Wait here.
+
+489
+00:27:26,751 --> 00:27:28,616
+But l want to come see, too.
+
+490
+00:27:28,653 --> 00:27:29,950
+Please, do as l say.
+
+491
+00:27:29,988 --> 00:27:32,422
+Lieutenant,
+would you come with me?
+
+492
+00:27:38,263 --> 00:27:41,494
+l'm still not reading
+any other life-forms
+
+493
+00:27:41,533 --> 00:27:44,093
+and no indication
+of any power source.
+
+494
+00:27:45,871 --> 00:27:47,634
+Did you see that?
+
+495
+00:27:47,672 --> 00:27:49,663
+lt, it just vanished!
+
+496
+00:27:49,708 --> 00:27:53,371
+lt happened just
+as we passed those bushes.
+
+497
+00:27:56,047 --> 00:27:57,708
+Taya.
+
+498
+00:28:00,919 --> 00:28:03,080
+Taya, don't come any closer!
+
+499
+00:28:03,121 --> 00:28:05,885
+But l brought you
+some Harrid berries.
+
+500
+00:28:26,678 --> 00:28:29,977
+Odo says you know what happened
+to the missing villagers.
+
+501
+00:28:30,081 --> 00:28:32,072
+l think l do.
+
+502
+00:28:32,117 --> 00:28:34,176
+lt's a little
+complicated to explain.
+
+503
+00:28:34,219 --> 00:28:36,744
+lt'd probably be easier
+if l showed you.
+
+504
+00:28:36,788 --> 00:28:39,188
+May l have your cloak?
+
+505
+00:28:39,224 --> 00:28:40,691
+My... my cloak?
+
+506
+00:28:40,725 --> 00:28:41,817
+Please.
+
+507
+00:28:41,860 --> 00:28:43,452
+Well...
+
+508
+00:28:45,530 --> 00:28:47,521
+Thank you.
+
+509
+00:28:51,870 --> 00:28:54,236
+Now, stand back.
+
+510
+00:28:58,677 --> 00:29:00,201
+l'm waiting.
+
+511
+00:29:00,245 --> 00:29:02,110
+This may take a minute.
+
+512
+00:29:02,147 --> 00:29:04,707
+l don't want to make a mistake.
+
+513
+00:29:10,822 --> 00:29:13,256
+That was my favorite cloak!
+
+514
+00:29:13,291 --> 00:29:15,782
+Please, stay where you are.
+
+515
+00:29:29,908 --> 00:29:32,570
+Are you saying
+somebody used our reactor
+
+516
+00:29:32,611 --> 00:29:34,704
+to transport the victims away?
+
+517
+00:29:34,746 --> 00:29:35,838
+No.
+
+518
+00:29:35,880 --> 00:29:37,347
+lt's not a transporter.
+
+519
+00:29:37,382 --> 00:29:39,179
+lt's a holographic projector.
+
+520
+00:29:39,217 --> 00:29:41,447
+lt creates an omicron
+particle field
+
+521
+00:29:41,486 --> 00:29:43,351
+and then manipulates the field
+
+522
+00:29:43,388 --> 00:29:44,980
+to form physical objects
+like your cloak.
+
+523
+00:29:45,056 --> 00:29:49,152
+Well, what does this have to do
+with the missing people?
+
+524
+00:29:51,630 --> 00:29:54,963
+The people are made up
+of omicron particles, too.
+
+525
+00:29:56,101 --> 00:29:59,127
+You mean they're...
+
+526
+00:29:59,170 --> 00:30:00,694
+holograms?
+
+527
+00:30:00,739 --> 00:30:03,230
+l'm afraid so.
+
+528
+00:30:03,274 --> 00:30:05,708
+You see, the component
+that controls
+
+529
+00:30:05,744 --> 00:30:08,144
+the particle field--
+it's breaking down
+
+530
+00:30:08,179 --> 00:30:10,613
+and that's why people
+are disappearing.
+
+531
+00:30:10,649 --> 00:30:12,139
+Well, that's ridiculous!
+
+532
+00:30:12,183 --> 00:30:14,378
+Some of the victims
+were my friends.
+
+533
+00:30:14,419 --> 00:30:16,011
+One of them is my nephew.
+
+534
+00:30:16,054 --> 00:30:17,021
+lf l'm right
+
+535
+00:30:17,055 --> 00:30:20,957
+everyone and everything
+in this village
+
+536
+00:30:20,992 --> 00:30:22,960
+is a holographic projection.
+
+537
+00:30:22,994 --> 00:30:26,657
+And l thought l was desperate
+to find an answer.
+
+538
+00:30:26,698 --> 00:30:28,165
+Listen to her, Colyus.
+
+539
+00:30:28,199 --> 00:30:30,565
+l know this is difficult
+to accept.
+
+540
+00:30:32,137 --> 00:30:35,971
+lt's going to take a whole lot
+more than a vanishing cloak
+
+541
+00:30:36,007 --> 00:30:38,976
+to make me believe
+l'm some kind of hologram.
+
+542
+00:30:39,010 --> 00:30:41,205
+l'd be skeptical,
+too, if l were you
+
+543
+00:30:41,246 --> 00:30:42,838
+but we have further proof.
+
+544
+00:30:42,881 --> 00:30:44,610
+What kind of proof?
+
+545
+00:30:46,885 --> 00:30:48,580
+The holographic field ends
+
+546
+00:30:48,620 --> 00:30:51,453
+just outside this valley,
+and earlier today
+
+547
+00:30:51,489 --> 00:30:53,650
+Taya tried to reach
+past the edge
+
+548
+00:30:53,692 --> 00:30:55,353
+and her arm disappeared.
+
+549
+00:30:55,393 --> 00:30:57,054
+ls she all right?
+
+550
+00:30:57,095 --> 00:30:58,062
+She's fine.
+
+551
+00:30:58,096 --> 00:30:59,461
+Her arm re-materialized
+
+552
+00:30:59,497 --> 00:31:01,829
+as soon as she pulled it
+back inside.
+
+553
+00:31:03,735 --> 00:31:06,101
+Where exactly did this happen?
+
+554
+00:31:06,137 --> 00:31:08,230
+We could show you if you'd like.
+
+555
+00:31:08,273 --> 00:31:10,571
+l think you'd better.
+
+556
+00:31:16,915 --> 00:31:18,212
+l'm sorry.
+
+557
+00:31:18,249 --> 00:31:19,773
+Don't apologize.
+
+558
+00:31:19,818 --> 00:31:21,945
+l should have seen it coming.
+
+559
+00:31:21,986 --> 00:31:24,887
+Where did you learn
+to play like that?
+
+560
+00:31:24,923 --> 00:31:29,485
+My brothers and l used to play
+at the Singha refugee camp.
+
+561
+00:31:29,527 --> 00:31:31,893
+There wasn't much else to do.
+
+562
+00:31:31,930 --> 00:31:34,558
+Yeah, l was at Relliketh.
+
+563
+00:31:36,601 --> 00:31:38,432
+And, uh, now...
+
+564
+00:31:38,470 --> 00:31:40,768
+uh, here we are.
+
+565
+00:31:43,374 --> 00:31:45,899
+Well, uh, uh, that, uh...
+
+566
+00:31:45,944 --> 00:31:47,775
+that was delicious.
+
+567
+00:31:48,813 --> 00:31:50,508
+Well...
+
+568
+00:31:50,548 --> 00:31:52,413
+thank the replicator.
+
+569
+00:31:54,419 --> 00:31:55,579
+Here, let me help.
+
+570
+00:31:55,620 --> 00:31:56,985
+That's not necessary.
+
+571
+00:31:57,021 --> 00:31:58,045
+Your shoulder...
+
+572
+00:31:58,089 --> 00:31:59,818
+Never felt better.
+
+573
+00:32:02,927 --> 00:32:05,589
+Maybe l do need
+some help after all.
+
+574
+00:32:16,274 --> 00:32:19,004
+l'll have to remember
+to thank Prylar Rhit
+
+575
+00:32:19,077 --> 00:32:20,601
+for inviting you here.
+
+576
+00:32:24,115 --> 00:32:26,106
+You'd better tell him soon.
+
+577
+00:32:26,151 --> 00:32:28,142
+Prylar Rhit...
+
+578
+00:32:28,186 --> 00:32:31,644
+is going to be
+returning to Bajor.
+
+579
+00:32:31,689 --> 00:32:35,250
+lt appears he fancies
+himself something...
+
+580
+00:32:35,293 --> 00:32:36,851
+of a dabo player.
+
+581
+00:32:36,895 --> 00:32:38,362
+Oh... really?
+
+582
+00:32:38,396 --> 00:32:39,693
+Mm-hmm.
+
+583
+00:32:39,731 --> 00:32:42,029
+He's run up a...
+
+584
+00:32:42,100 --> 00:32:44,432
+sizable gambling debt.
+
+585
+00:32:46,304 --> 00:32:47,931
+lt's caused...
+
+586
+00:32:47,972 --> 00:32:50,566
+quite a scandal
+in the Vedek assembly.
+
+587
+00:32:54,979 --> 00:32:57,277
+Let me get this straight--
+
+588
+00:32:57,315 --> 00:33:01,479
+the man who invited you
+here to the station...
+
+589
+00:33:01,519 --> 00:33:03,680
+owes money... to Quark?
+
+590
+00:33:03,721 --> 00:33:04,847
+To who?
+
+591
+00:33:04,889 --> 00:33:06,055
+The little troll
+who runs the dabo tables?
+
+592
+00:33:06,055 --> 00:33:08,319
+The little troll
+who runs the dabo tables?
+
+593
+00:33:08,357 --> 00:33:09,824
+l got to go.
+
+594
+00:33:09,859 --> 00:33:11,121
+But why?
+
+595
+00:33:11,160 --> 00:33:12,957
+l need to talk to Prylar Rhit.
+
+596
+00:33:13,028 --> 00:33:16,293
+l think l know the real reason
+he invited you here.
+
+597
+00:33:21,737 --> 00:33:23,102
+People, please!
+
+598
+00:33:23,139 --> 00:33:24,572
+Please!
+
+599
+00:33:24,607 --> 00:33:25,596
+Quiet!
+
+600
+00:33:29,211 --> 00:33:30,439
+Quiet!
+
+601
+00:33:30,479 --> 00:33:31,969
+Calm down!
+
+602
+00:33:32,081 --> 00:33:33,412
+Quiet!
+
+603
+00:33:33,449 --> 00:33:34,473
+Calm down, everybody.
+
+604
+00:33:34,517 --> 00:33:36,144
+We have to make a decision here.
+
+605
+00:33:36,185 --> 00:33:38,517
+Colyus, you should be out
+looking for my wife
+
+606
+00:33:38,554 --> 00:33:40,146
+and all the others
+who are missing!
+
+607
+00:33:40,189 --> 00:33:41,178
+Not wasting time
+
+608
+00:33:41,223 --> 00:33:42,952
+listening to these strangers
+and their lies.
+
+609
+00:33:42,992 --> 00:33:44,857
+You all witnessed what happened
+
+610
+00:33:44,894 --> 00:33:47,624
+when they brought us
+to the edge of the field.
+
+611
+00:33:47,663 --> 00:33:49,995
+Merruk, we both saw
+your hand disappear.
+
+612
+00:33:50,099 --> 00:33:51,691
+lt could have been a trick.
+
+613
+00:33:51,734 --> 00:33:53,599
+lt wasn't a trick.
+
+614
+00:33:53,636 --> 00:33:55,900
+Then how come we've never
+learned of this before?
+
+615
+00:33:55,938 --> 00:33:58,839
+Because none of you ever tried
+to leave the valley.
+
+616
+00:33:58,874 --> 00:34:02,435
+lt's possible
+we were programmed not to leave
+
+617
+00:34:02,478 --> 00:34:04,946
+so that we wouldn't
+learn the truth.
+
+618
+00:34:04,980 --> 00:34:07,813
+Now, we have
+to shut down the system.
+
+619
+00:34:07,850 --> 00:34:12,844
+lf we don't fix it soon,
+the whole village will disappear
+
+620
+00:34:12,888 --> 00:34:14,446
+Dax...
+
+621
+00:34:14,490 --> 00:34:17,516
+you said if you can
+fix the machine
+
+622
+00:34:17,560 --> 00:34:22,054
+you might be able to bring back
+the missing people.
+
+623
+00:34:22,097 --> 00:34:23,928
+We hope so.
+
+624
+00:34:23,966 --> 00:34:25,729
+What if you turn off
+the projector
+
+625
+00:34:25,768 --> 00:34:27,360
+and you can't get it back on?
+
+626
+00:34:27,403 --> 00:34:31,032
+Then this village
+will cease to exist.
+
+627
+00:34:33,642 --> 00:34:35,803
+The system's
+only a few months away
+
+628
+00:34:35,844 --> 00:34:37,709
+from complete failure anyway.
+
+629
+00:34:37,746 --> 00:34:40,977
+At least this way, we have
+a chance to save you.
+
+630
+00:34:41,050 --> 00:34:43,610
+Grandfather, please.
+
+631
+00:34:43,652 --> 00:34:47,554
+Let her try.
+
+632
+00:34:47,590 --> 00:34:49,455
+What do you think?
+
+633
+00:34:51,126 --> 00:34:53,492
+Well, we can't go on like this.
+
+634
+00:34:53,529 --> 00:34:56,657
+l guess we should
+let her shut it down.
+
+635
+00:34:56,699 --> 00:34:58,894
+Are there any objections?
+
+636
+00:35:01,770 --> 00:35:03,567
+Then it's settled.
+
+637
+00:35:03,606 --> 00:35:06,439
+l can't wait to see my mother.
+
+638
+00:35:11,580 --> 00:35:14,276
+Your face isn't so scary...
+
+639
+00:35:14,316 --> 00:35:16,045
+once you get used to it.
+
+640
+00:35:18,854 --> 00:35:20,788
+Thank you, Taya.
+
+641
+00:35:28,397 --> 00:35:30,558
+All right, here we go.
+
+642
+00:35:46,915 --> 00:35:48,644
+Odo...
+
+643
+00:35:48,684 --> 00:35:50,845
+Don't look so surprised.
+
+644
+00:35:50,886 --> 00:35:52,911
+l'm as real as you are.
+
+645
+00:36:00,763 --> 00:36:04,324
+l was happy living
+on Yadera Prime.
+
+646
+00:36:04,366 --> 00:36:07,426
+That is,
+until the Dominion took over
+
+647
+00:36:07,469 --> 00:36:10,302
+and changed
+our whole way of life.
+
+648
+00:36:10,339 --> 00:36:12,739
+And l realized one morning
+
+649
+00:36:12,775 --> 00:36:16,472
+that l didn't really
+belong there anymore.
+
+650
+00:36:16,512 --> 00:36:18,309
+So l came here.
+
+651
+00:36:20,049 --> 00:36:22,540
+And l used a hologenerator
+
+652
+00:36:22,584 --> 00:36:26,520
+to recreate all the things
+that l'd lost.
+
+653
+00:36:26,555 --> 00:36:30,514
+l have lived here in my village
+for nearly 30 years.
+
+654
+00:36:30,559 --> 00:36:33,960
+And l've watched
+the people marry...
+
+655
+00:36:34,029 --> 00:36:36,429
+have children...
+
+656
+00:36:38,634 --> 00:36:39,965
+grow old...
+
+657
+00:36:40,002 --> 00:36:44,530
+and sometimes l even forgot
+that they were holograms.
+
+658
+00:36:46,308 --> 00:36:49,072
+But it's over.
+
+659
+00:36:49,111 --> 00:36:51,602
+lt's over.
+
+660
+00:36:51,647 --> 00:36:53,512
+And l would appreciate it
+
+661
+00:36:53,549 --> 00:36:56,347
+if you'd take me back
+to Yadera Prime.
+
+662
+00:36:56,385 --> 00:36:58,478
+But what about the villagers?
+
+663
+00:36:58,520 --> 00:37:00,784
+What about your granddaughter?
+
+664
+00:37:00,823 --> 00:37:02,916
+She's not real.
+
+665
+00:37:02,958 --> 00:37:05,722
+Technically,
+l suppose you're right.
+
+666
+00:37:05,761 --> 00:37:08,423
+Maybe, by our definition,
+Taya's not real.
+
+667
+00:37:08,464 --> 00:37:10,932
+Her memories are stored
+in a computer.
+
+668
+00:37:10,999 --> 00:37:13,729
+Her body is made up
+of omicron particles.
+
+669
+00:37:13,769 --> 00:37:16,704
+But who's to say
+that our definition of life
+
+670
+00:37:16,739 --> 00:37:18,206
+is the only valid one?
+
+671
+00:37:18,240 --> 00:37:21,641
+l'm sure if you asked her,
+she'd say she was real.
+
+672
+00:37:21,677 --> 00:37:24,646
+She thinks, she feels.
+
+673
+00:37:24,680 --> 00:37:27,706
+She only seems to.
+
+674
+00:37:27,750 --> 00:37:30,776
+lt's all an illusion.
+
+675
+00:37:30,819 --> 00:37:32,514
+An illusion l created.
+
+676
+00:37:32,554 --> 00:37:35,079
+Well, you said you created
+the village 30 years ago.
+
+677
+00:37:35,124 --> 00:37:36,250
+Taya's only ten.
+
+678
+00:37:36,291 --> 00:37:37,690
+l designed the program
+
+679
+00:37:37,726 --> 00:37:39,956
+so the villagers
+could have children
+
+680
+00:37:39,995 --> 00:37:41,155
+if they wanted to.
+
+681
+00:37:41,196 --> 00:37:44,063
+Then Taya's personality
+is a combination
+
+682
+00:37:44,099 --> 00:37:45,896
+of her parents' personalities.
+
+683
+00:37:45,934 --> 00:37:47,299
+Just like a real child.
+
+684
+00:37:47,336 --> 00:37:49,133
+You had nothing to do with it.
+
+685
+00:37:49,171 --> 00:37:51,105
+But she's still a hologram.
+
+686
+00:37:51,140 --> 00:37:52,573
+Maybe...
+
+687
+00:37:52,608 --> 00:37:53,905
+but l saw the way
+
+688
+00:37:53,942 --> 00:37:56,069
+you held her hand
+when she was sad.
+
+689
+00:37:56,111 --> 00:37:58,375
+l saw the way
+you tried to comfort her
+
+690
+00:37:58,414 --> 00:37:59,904
+when she was frightened.
+
+691
+00:38:02,951 --> 00:38:05,385
+l... l didn't want her
+to get hurt.
+
+692
+00:38:05,421 --> 00:38:08,447
+lf she's not real,
+what does it matter?
+
+693
+00:38:08,490 --> 00:38:09,923
+lt matters.
+
+694
+00:38:09,958 --> 00:38:11,220
+lt matters to me.
+
+695
+00:38:11,260 --> 00:38:15,162
+Why should it matter to you
+if a hologram cries?
+
+696
+00:38:19,301 --> 00:38:20,962
+Because l love her.
+
+697
+00:38:23,939 --> 00:38:26,533
+And she loves you.
+
+698
+00:38:27,976 --> 00:38:29,409
+Don't you see?
+
+699
+00:38:29,445 --> 00:38:30,935
+She's real to you.
+
+700
+00:38:31,013 --> 00:38:32,913
+And she's real to me, too.
+
+701
+00:38:32,948 --> 00:38:34,472
+They're all real.
+
+702
+00:38:34,516 --> 00:38:37,485
+And you can't
+turn your back on them now.
+
+703
+00:38:52,901 --> 00:38:54,198
+Jake, how was work?
+
+704
+00:38:54,236 --> 00:38:55,464
+Okay.
+
+705
+00:38:55,504 --> 00:38:58,473
+lt's kind of fun
+working with Chief O'Brien.
+
+706
+00:38:58,507 --> 00:39:01,635
+But it would be better
+if l knew what l was doing.
+
+707
+00:39:01,677 --> 00:39:02,905
+You'll get there.
+
+708
+00:39:04,112 --> 00:39:05,773
+l guess so.
+
+709
+00:39:05,814 --> 00:39:08,374
+l'm glad you decided
+to stick with it.
+
+710
+00:39:08,417 --> 00:39:11,750
+Yeah.
+
+711
+00:39:11,787 --> 00:39:13,778
+Dad...
+
+712
+00:39:17,459 --> 00:39:19,893
+l don't want to join Starfleet.
+
+713
+00:39:28,604 --> 00:39:30,196
+Since when?
+
+714
+00:39:30,239 --> 00:39:32,434
+S-since forever.
+
+715
+00:39:32,474 --> 00:39:36,376
+Starfleet is too much like you.
+
+716
+00:39:36,411 --> 00:39:39,903
+l need to find what's me.
+
+717
+00:39:39,948 --> 00:39:42,246
+Does that make any sense?
+
+718
+00:39:42,284 --> 00:39:45,412
+Perfect sense.
+
+719
+00:39:45,454 --> 00:39:46,682
+lt does?
+
+720
+00:39:49,424 --> 00:39:51,415
+lt's your life, Jake.
+
+721
+00:39:51,460 --> 00:39:53,690
+You have to choose your own way.
+
+722
+00:39:53,729 --> 00:39:57,460
+There is only one thing
+l want from you.
+
+723
+00:39:57,499 --> 00:40:02,960
+Find something you love
+then do it the best you can.
+
+724
+00:40:03,071 --> 00:40:04,963
+l'll try.
+
+725
+00:40:05,096 --> 00:40:06,495
+Good.
+
+726
+00:40:06,531 --> 00:40:09,591
+Then you'll make
+the old man proud.
+
+727
+00:40:10,835 --> 00:40:12,234
+l'd better go study.
+
+728
+00:40:12,270 --> 00:40:15,933
+l'm still trying to figure out
+those isolinear rods.
+
+729
+00:40:30,488 --> 00:40:32,046
+Hello, Quark.
+
+730
+00:40:33,324 --> 00:40:34,518
+Major.
+
+731
+00:40:34,559 --> 00:40:37,187
+To what do l owe this
+unexpected pleasure?
+
+732
+00:40:37,228 --> 00:40:39,287
+l just thought
+l'd let you know--
+
+733
+00:40:39,330 --> 00:40:40,456
+we caught your cousin
+
+734
+00:40:40,498 --> 00:40:42,489
+trying to slip back
+onto this station
+
+735
+00:40:42,534 --> 00:40:45,799
+and guess what we
+confiscated from him?
+
+736
+00:40:45,837 --> 00:40:48,203
+Bone carvings.
+
+737
+00:40:48,239 --> 00:40:50,799
+Stolen from a museum
+on Cardassia V.
+
+738
+00:40:50,842 --> 00:40:52,867
+l always knew
+Kono was no good.
+
+739
+00:40:52,911 --> 00:40:55,311
+l only wish
+we could have caught
+
+740
+00:40:55,346 --> 00:40:57,246
+the two of you together.
+
+741
+00:40:57,282 --> 00:41:00,149
+Life is full
+of disappointments.
+
+742
+00:41:00,185 --> 00:41:02,153
+By the way,
+Prylar Rhit tells me
+
+743
+00:41:02,187 --> 00:41:03,711
+that you encouraged him
+
+744
+00:41:03,755 --> 00:41:06,121
+to invite Bareil
+onto this station.
+
+745
+00:41:07,459 --> 00:41:08,824
+That a crime?
+
+746
+00:41:08,860 --> 00:41:10,555
+Not at all.
+
+747
+00:41:10,595 --> 00:41:13,086
+l just wanted to thank you.
+
+748
+00:41:13,131 --> 00:41:14,962
+l found him very...
+
+749
+00:41:16,601 --> 00:41:18,125
+diverting.
+
+750
+00:41:30,348 --> 00:41:34,079
+Not diverting enough.
+
+751
+00:41:36,988 --> 00:41:38,785
+All right,
+nothing to do now
+
+752
+00:41:38,823 --> 00:41:41,917
+but reactivate the system
+and see what happens.
+
+753
+00:41:41,960 --> 00:41:43,120
+Wait.
+
+754
+00:41:43,161 --> 00:41:45,686
+Lieutenant, l'd like
+to ask a favor.
+
+755
+00:41:45,730 --> 00:41:48,563
+lf this works,
+please don't tell the others
+
+756
+00:41:48,600 --> 00:41:50,192
+that l'm... not like them.
+
+757
+00:41:50,235 --> 00:41:53,762
+l don't want to be treated
+any differently than before.
+
+758
+00:41:56,374 --> 00:41:58,274
+Of course.
+
+759
+00:42:20,598 --> 00:42:25,297
+Mother?
+Mother?
+
+760
+00:42:25,336 --> 00:42:27,327
+Mother!
+
+761
+00:42:34,479 --> 00:42:36,777
+Well, you did it.
+
+762
+00:42:36,814 --> 00:42:38,475
+We upgraded the
+system's memory core
+
+763
+00:42:38,516 --> 00:42:40,177
+and realigned
+the field generators.
+
+764
+00:42:40,218 --> 00:42:41,378
+l don't think
+
+765
+00:42:41,419 --> 00:42:43,410
+you'll have to worry
+about anyone disappearing now.
+
+766
+00:42:43,454 --> 00:42:45,445
+We just have to get used
+to the fact
+
+767
+00:42:45,490 --> 00:42:46,684
+that we're holograms.
+
+768
+00:42:46,724 --> 00:42:49,124
+We're alive and we have
+our families back.
+
+769
+00:42:49,160 --> 00:42:51,060
+That's the only
+thing that counts.
+
+770
+00:42:51,095 --> 00:42:52,790
+l wonder who created all this?
+
+771
+00:42:52,830 --> 00:42:56,732
+Whoever it was,
+did a fine job.
+
+772
+00:42:56,768 --> 00:42:58,326
+They did, didn't they?
+
+773
+00:42:58,369 --> 00:43:01,133
+Well, it was good
+working with you, Odo.
+
+774
+00:43:01,172 --> 00:43:04,164
+Next time you're
+on this side of the galaxy
+
+775
+00:43:04,209 --> 00:43:06,302
+l hope you come by
+and see us.
+
+776
+00:43:06,344 --> 00:43:08,403
+l would like that.
+
+777
+00:43:08,446 --> 00:43:10,778
+We don't get
+that many visitors.
+
+778
+00:43:12,850 --> 00:43:14,112
+Odo.
+
+779
+00:43:15,620 --> 00:43:17,110
+My mother's back.
+
+780
+00:43:17,155 --> 00:43:18,383
+l'm glad.
+
+781
+00:43:20,158 --> 00:43:22,217
+You're leaving.
+
+782
+00:43:22,260 --> 00:43:24,023
+l'm afraid so.
+
+783
+00:43:25,797 --> 00:43:27,321
+l'll miss you.
+
+784
+00:43:33,438 --> 00:43:35,668
+l'll miss you, too.
+
+785
+00:43:37,442 --> 00:43:40,309
+Thank you for bringing
+my mother back.
+
+786
+00:43:40,345 --> 00:43:42,939
+l hope you find
+your parents, too.
+
+787
+00:43:46,484 --> 00:43:48,509
+Thank you, Taya.
+
+788
+00:43:48,553 --> 00:43:49,918
+So do l.
+
+789
+00:44:07,772 --> 00:44:09,000
+Taya...
+
+790
+00:44:24,622 --> 00:44:26,613
+Computer, two to beam up.
+

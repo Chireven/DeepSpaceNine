@@ -1,0 +1,3639 @@
+﻿1
+00:00:04,095 --> 00:00:06,325
+Try one.
+You'll like it.
+
+2
+00:00:06,364 --> 00:00:07,729
+Too early for me.
+
+3
+00:00:07,765 --> 00:00:08,732
+You sure?
+
+4
+00:00:08,766 --> 00:00:10,028
+lt's so sweet.
+
+5
+00:00:10,134 --> 00:00:11,897
+lt's a natural sweetness
+
+6
+00:00:11,936 --> 00:00:14,336
+from the sap of the <i>jumja</i> tree.
+
+7
+00:00:14,372 --> 00:00:16,135
+lt's full of vitamin C.
+
+8
+00:00:16,173 --> 00:00:19,006
+Since when did you
+become such an expert
+
+9
+00:00:19,043 --> 00:00:20,203
+on <i>jumja</i> sticks?
+
+10
+00:00:20,244 --> 00:00:21,370
+Oh, Neela told me.
+
+11
+00:00:21,412 --> 00:00:22,379
+Did she?
+
+12
+00:00:22,413 --> 00:00:23,380
+Mm-hmm.
+
+13
+00:00:23,414 --> 00:00:24,676
+So...
+
+14
+00:00:24,715 --> 00:00:27,548
+she working out any better
+than the last one?
+
+15
+00:00:27,585 --> 00:00:28,643
+Who, Neela?
+
+16
+00:00:28,686 --> 00:00:29,812
+She's terrific.
+
+17
+00:00:29,854 --> 00:00:32,220
+She's even taught me
+a thing or two.
+
+18
+00:00:32,256 --> 00:00:34,224
+l'm glad to hear her expertise
+
+19
+00:00:34,258 --> 00:00:36,192
+doesn't end with <i>jumja</i> sticks.
+
+20
+00:00:36,227 --> 00:00:38,627
+No. She's a really good engi...
+
+21
+00:00:38,662 --> 00:00:40,061
+Hold on.
+
+22
+00:00:40,097 --> 00:00:41,359
+What?
+
+23
+00:00:41,399 --> 00:00:42,559
+Well...
+
+24
+00:00:42,600 --> 00:00:44,067
+you're not thinking...?
+
+25
+00:00:44,168 --> 00:00:45,396
+Well, Keiko!
+
+26
+00:00:45,436 --> 00:00:48,303
+Just keeping you
+on your toes, O'Brien.
+
+27
+00:00:48,339 --> 00:00:50,068
+Oh, very funny.
+
+28
+00:00:50,107 --> 00:00:53,133
+Be careful who you
+share your <i>jumja</i> with.
+
+29
+00:01:05,156 --> 00:01:08,489
+Now, as we discussed
+in yesterday's lesson
+
+30
+00:01:08,526 --> 00:01:11,927
+the wormhole was discovered
+by Commander Sisko
+
+31
+00:01:11,962 --> 00:01:14,658
+and Lieutenant Dax
+earlier this year.
+
+32
+00:01:14,698 --> 00:01:18,600
+Does anyone know what makes
+this wormhole so unusual?
+
+33
+00:01:18,636 --> 00:01:20,501
+Jake?
+
+34
+00:01:20,538 --> 00:01:21,698
+lt's stable?
+
+35
+00:01:21,739 --> 00:01:22,763
+lt's stable.
+
+36
+00:01:22,807 --> 00:01:24,274
+That's right, Jake.
+
+37
+00:01:24,308 --> 00:01:27,243
+lt's the first stable wormhole
+known to exist...
+
+38
+00:01:29,513 --> 00:01:31,811
+Please, continue.
+
+39
+00:01:31,849 --> 00:01:34,147
+A stable wormhole
+is very important
+
+40
+00:01:34,185 --> 00:01:37,814
+because it allows us to travel,
+secure in the knowledge
+
+41
+00:01:37,855 --> 00:01:40,483
+that neither end
+will shift locations.
+
+42
+00:01:40,524 --> 00:01:44,961
+Who knows why this wormhole
+is stable?
+
+43
+00:01:44,995 --> 00:01:48,260
+Because it was
+artificially constructed.
+
+44
+00:01:48,299 --> 00:01:50,392
+Commander Sisko
+encountered the entities
+
+45
+00:01:50,434 --> 00:01:52,527
+who created the wormhole
+when he went...
+
+46
+00:01:52,570 --> 00:01:53,901
+Excuse me.
+
+47
+00:01:53,938 --> 00:01:57,396
+By entities,
+do you not mean the Prophets?
+
+48
+00:01:57,441 --> 00:02:00,877
+Yes, on Bajor, the entities
+are worshipped as Prophets.
+
+49
+00:02:00,911 --> 00:02:04,574
+Our studies of the wormhole
+have shown that it was formed
+
+50
+00:02:04,615 --> 00:02:07,516
+by unique particles
+we call ''verterons''
+
+51
+00:02:07,551 --> 00:02:10,520
+that are apparently
+self-sustaining in nature.
+
+52
+00:02:10,554 --> 00:02:12,317
+This begins to explain
+
+53
+00:02:12,356 --> 00:02:16,850
+how a ship at impulse can safely
+pass through without...
+
+54
+00:02:16,894 --> 00:02:18,885
+Ships are safely guided
+through the passage
+
+55
+00:02:18,929 --> 00:02:20,829
+by the hands of the Prophets.
+
+56
+00:02:20,865 --> 00:02:22,833
+ln a manner of speaking.
+
+57
+00:02:22,867 --> 00:02:26,268
+Not, apparently,
+in your manner of speaking.
+
+58
+00:02:26,303 --> 00:02:29,466
+Perhaps we should discuss this
+after class.
+
+59
+00:02:29,507 --> 00:02:30,667
+Do you believe
+
+60
+00:02:30,708 --> 00:02:33,176
+the Celestial Temple
+of the Prophets
+
+61
+00:02:33,210 --> 00:02:35,041
+exists within the passage?
+
+62
+00:02:35,079 --> 00:02:37,309
+l respect
+that the Bajoran people
+
+63
+00:02:37,348 --> 00:02:38,838
+believe that it does.
+
+64
+00:02:38,883 --> 00:02:41,579
+But that's not what you teach.
+
+65
+00:02:41,619 --> 00:02:42,847
+No.
+
+66
+00:02:42,887 --> 00:02:45,720
+l don't teach
+Bajoran spiritual beliefs.
+
+67
+00:02:45,756 --> 00:02:46,916
+That's your job.
+
+68
+00:02:46,957 --> 00:02:49,949
+Mine is to open
+the children's minds to...
+
+69
+00:02:49,994 --> 00:02:53,657
+history, to literature,
+to mathematics, to science.
+
+70
+00:02:53,697 --> 00:02:56,325
+You are opening
+the children's minds--
+
+71
+00:02:56,367 --> 00:02:57,561
+to blasphemy
+
+72
+00:02:57,601 --> 00:03:00,195
+and l cannot permit it
+to continue.
+
+73
+00:05:03,471 --> 00:05:05,439
+Sorry l couldn't
+get here sooner.
+
+74
+00:05:05,473 --> 00:05:08,135
+Another fusion reactor
+went down.
+
+75
+00:05:08,176 --> 00:05:09,438
+How's it going?
+
+76
+00:05:09,477 --> 00:05:10,466
+Done.
+
+77
+00:05:10,512 --> 00:05:11,843
+Done?
+
+78
+00:05:11,880 --> 00:05:13,677
+Did you remember
+to re-initialize
+
+79
+00:05:13,715 --> 00:05:15,114
+the isolinear coprocessor?
+
+80
+00:05:15,150 --> 00:05:17,118
+l did it exactly
+like you showed me.
+
+81
+00:05:17,152 --> 00:05:18,244
+Should l test it?
+
+82
+00:05:18,286 --> 00:05:19,253
+Well, uh, let me.
+
+83
+00:05:19,287 --> 00:05:20,686
+You know us old folks.
+
+84
+00:05:20,722 --> 00:05:22,212
+We like to feel useful.
+
+85
+00:05:24,025 --> 00:05:25,754
+Not bad.
+
+86
+00:05:25,794 --> 00:05:27,659
+Not bad at all.
+
+87
+00:05:27,696 --> 00:05:29,823
+You keep this up,
+l'll be out of a job.
+
+88
+00:05:29,864 --> 00:05:32,094
+l doubt that.
+
+89
+00:05:32,133 --> 00:05:34,465
+Let's close it up.
+
+90
+00:05:40,108 --> 00:05:41,336
+Not that one.
+
+91
+00:05:41,376 --> 00:05:43,708
+That's a security seal.
+
+92
+00:05:43,745 --> 00:05:46,407
+You need an EJ7 interlock
+to close it.
+
+93
+00:05:46,448 --> 00:05:48,075
+EJ7?
+
+94
+00:05:48,116 --> 00:05:50,516
+Yeah. That's okay.
+l have one here.
+
+95
+00:05:50,552 --> 00:05:52,110
+Bloody hell.
+
+96
+00:05:52,153 --> 00:05:54,849
+What's wrong?
+
+97
+00:05:54,889 --> 00:05:57,619
+Well, my EJ7 is missing.
+
+98
+00:05:57,659 --> 00:05:59,786
+lt was here yesterday.
+
+99
+00:05:59,828 --> 00:06:02,888
+Maybe you left it in Ops.
+
+100
+00:06:02,931 --> 00:06:04,558
+No.
+
+101
+00:06:04,599 --> 00:06:06,089
+l...
+
+102
+00:06:06,134 --> 00:06:08,466
+l don't misplace my tools.
+
+103
+00:06:08,503 --> 00:06:10,300
+l'm not exactly surprised.
+
+104
+00:06:10,338 --> 00:06:12,499
+You knew this was
+going to happen?
+
+105
+00:06:12,540 --> 00:06:15,737
+A confrontation like this
+was inevitable.
+
+106
+00:06:15,777 --> 00:06:16,937
+Sometimes l wonder
+
+107
+00:06:17,045 --> 00:06:20,139
+if we'll ever find
+the common ground we need
+
+108
+00:06:20,181 --> 00:06:23,241
+to bring Bajor
+into the Federation.
+
+109
+00:06:23,284 --> 00:06:25,411
+Major, would you join us?
+
+110
+00:06:27,389 --> 00:06:29,254
+We've been talking
+about an incident
+
+111
+00:06:29,290 --> 00:06:30,484
+this morning at school.
+
+112
+00:06:30,525 --> 00:06:31,549
+l heard.
+
+113
+00:06:31,593 --> 00:06:32,821
+Vedek Winn's been meeting
+
+114
+00:06:32,861 --> 00:06:35,056
+with some of the Bajoran
+civilians about it.
+
+115
+00:06:35,096 --> 00:06:36,563
+What do you know about her?
+
+116
+00:06:36,598 --> 00:06:38,429
+She's from an orthodox order.
+
+117
+00:06:38,466 --> 00:06:41,458
+She has some support
+to become the next Kai...
+
+118
+00:06:41,503 --> 00:06:42,834
+probably not enough.
+
+119
+00:06:42,871 --> 00:06:44,930
+The question is,
+how much support
+
+120
+00:06:44,973 --> 00:06:46,907
+does she have on this station?
+
+121
+00:06:46,941 --> 00:06:48,135
+She has mine.
+
+122
+00:06:48,176 --> 00:06:50,337
+You can't possibly believe
+
+123
+00:06:50,378 --> 00:06:52,642
+teaching the facts
+about the wormhole
+
+124
+00:06:52,680 --> 00:06:53,977
+amounts to blasphemy.
+
+125
+00:06:54,015 --> 00:06:55,983
+l think some revisions
+in the school curriculum
+
+126
+00:06:56,017 --> 00:06:57,314
+might be appropriate.
+
+127
+00:06:57,352 --> 00:06:59,786
+You teach a lot
+of Bajoran children.
+
+128
+00:06:59,821 --> 00:07:02,790
+l'm not going to let
+a Bajoran spiritual leader
+
+129
+00:07:02,824 --> 00:07:05,019
+dictate what can
+or can't be taught
+
+130
+00:07:05,060 --> 00:07:06,254
+in my classroom.
+
+131
+00:07:06,294 --> 00:07:09,263
+Then maybe we need
+two schools on this station--
+
+132
+00:07:09,297 --> 00:07:11,026
+one for the Bajoran children
+
+133
+00:07:11,066 --> 00:07:13,034
+and another for the Federation.
+
+134
+00:07:13,068 --> 00:07:16,299
+lf we start separating Bajoran
+and Federation interests...
+
+135
+00:07:16,337 --> 00:07:18,271
+A lot of Bajoran and
+Federation interests
+
+136
+00:07:18,306 --> 00:07:19,534
+are separate, Commander.
+
+137
+00:07:19,574 --> 00:07:21,439
+l've been telling
+you that all along.
+
+138
+00:07:21,476 --> 00:07:23,068
+Nobody's saying
+that there can't be
+
+139
+00:07:23,111 --> 00:07:24,942
+spiritual teaching
+on the station, Major
+
+140
+00:07:25,013 --> 00:07:26,310
+but can't it be in addition
+
+141
+00:07:26,347 --> 00:07:29,043
+to what's taught
+in Mrs. O'Brien's classroom?
+
+142
+00:07:29,084 --> 00:07:30,449
+But if she's teaching
+
+143
+00:07:30,485 --> 00:07:32,953
+a fundamentally
+different philosophy...
+
+144
+00:07:33,021 --> 00:07:35,046
+l'm not teaching any philosophy.
+
+145
+00:07:35,090 --> 00:07:37,251
+What l'm trying to teach
+is pure science.
+
+146
+00:07:37,292 --> 00:07:38,953
+Some might say pure science
+
+147
+00:07:39,027 --> 00:07:41,188
+taught
+without a spiritual context
+
+148
+00:07:41,229 --> 00:07:42,958
+is a philosophy, Mrs. O'Brien.
+
+149
+00:07:43,031 --> 00:07:44,555
+My philosophy is
+
+150
+00:07:44,599 --> 00:07:47,762
+that there is room for all
+philosophies on this station.
+
+151
+00:07:47,802 --> 00:07:50,532
+Now, how do you suggest
+that we deal with this?
+
+152
+00:07:52,807 --> 00:07:55,799
+l'm not sure you can.
+
+153
+00:08:16,264 --> 00:08:17,891
+l can't tell you
+
+154
+00:08:17,932 --> 00:08:21,163
+how much l've looked forward
+to this moment.
+
+155
+00:08:23,371 --> 00:08:27,467
+l'm honored to meet
+the Emissary to the Prophets.
+
+156
+00:08:27,509 --> 00:08:29,807
+lf you'd let me know you
+were coming, Vedek Winn
+
+157
+00:08:29,844 --> 00:08:31,368
+l would have greeted you sooner.
+
+158
+00:08:31,412 --> 00:08:35,041
+l did not wish to bother you
+with my insignificant visit.
+
+159
+00:08:35,083 --> 00:08:37,745
+l'd hardly call it
+insignificant.
+
+160
+00:08:37,785 --> 00:08:39,776
+Thank you, Emissary.
+
+161
+00:08:39,821 --> 00:08:41,948
+l wish you wouldn't
+call me that.
+
+162
+00:08:42,023 --> 00:08:43,854
+l'm Commander Sisko
+
+163
+00:08:43,892 --> 00:08:45,655
+or Benjamin, if you like.
+
+164
+00:08:45,693 --> 00:08:47,957
+But you are the Emissary.
+
+165
+00:08:48,029 --> 00:08:50,293
+Don't you know
+the cherished place
+
+166
+00:08:50,331 --> 00:08:53,494
+you have earned
+in the Bajoran spiritual life?
+
+167
+00:08:53,535 --> 00:08:55,969
+l'm not sure l'm comfortable
+in that role.
+
+168
+00:08:56,070 --> 00:08:59,699
+The course the Prophets
+choose for us
+
+169
+00:08:59,741 --> 00:09:02,869
+may not always be comfortable
+
+170
+00:09:02,911 --> 00:09:06,574
+but we must follow it.
+
+171
+00:09:06,614 --> 00:09:08,411
+May l?
+
+172
+00:09:15,423 --> 00:09:18,119
+Still the disbeliever.
+
+173
+00:09:18,159 --> 00:09:20,491
+l once asked Kai Opaka
+
+174
+00:09:20,528 --> 00:09:23,929
+why a disbeliever was destined
+to seek the Prophets
+
+175
+00:09:24,032 --> 00:09:27,729
+and she told me that one
+must never look into the eyes
+
+176
+00:09:27,769 --> 00:09:29,634
+of one's own gods.
+
+177
+00:09:29,671 --> 00:09:32,504
+l disagreed.
+
+178
+00:09:32,540 --> 00:09:37,910
+l told her l would do anything
+to look into their eyes.
+
+179
+00:09:37,946 --> 00:09:41,404
+She suggested that l
+sit in darkness for a day
+
+180
+00:09:41,449 --> 00:09:44,077
+and quite properly so.
+
+181
+00:09:44,118 --> 00:09:47,815
+She cannot be replaced,
+and l miss her deeply.
+
+182
+00:09:47,855 --> 00:09:49,720
+lt's important to me
+that we resolve
+
+183
+00:09:49,757 --> 00:09:51,349
+your problems with the school.
+
+184
+00:09:51,392 --> 00:09:56,659
+The Prophets have spoken to me
+through the Orbs, Emissary.
+
+185
+00:09:56,698 --> 00:10:00,964
+l understand my duty
+to defend the Bajoran faith.
+
+186
+00:10:01,035 --> 00:10:05,938
+The teacher has dishonored
+the Celestial Temple.
+
+187
+00:10:05,974 --> 00:10:08,135
+lf she does not recant
+
+188
+00:10:08,176 --> 00:10:11,805
+l cannot be responsible
+for the consequences.
+
+189
+00:10:19,601 --> 00:10:22,900
+This still seems like an awful
+lot of trouble to go through
+
+190
+00:10:22,937 --> 00:10:24,063
+to find one tool.
+
+191
+00:10:24,105 --> 00:10:26,096
+With that interlock,
+someone could access
+
+192
+00:10:26,141 --> 00:10:28,575
+every critical system
+on the station.
+
+193
+00:10:28,610 --> 00:10:31,238
+Chief, have you seen
+Ensign Aquino recently?
+
+194
+00:10:31,279 --> 00:10:32,712
+No, now that you mention it.
+
+195
+00:10:32,747 --> 00:10:34,715
+He didn't report for duty
+this morning.
+
+196
+00:10:34,749 --> 00:10:36,808
+The computer says
+he's not on the station
+
+197
+00:10:36,851 --> 00:10:37,943
+but he didn't log out.
+
+198
+00:10:38,019 --> 00:10:39,850
+Have you talked to Odo?
+
+199
+00:10:39,888 --> 00:10:41,617
+l guess l'd better.
+
+200
+00:10:41,656 --> 00:10:43,214
+Scanners are ready.
+
+201
+00:10:43,258 --> 00:10:45,192
+Computer, show location
+
+202
+00:10:45,226 --> 00:10:48,252
+of any independent
+tritanium sources.
+
+203
+00:10:48,296 --> 00:10:50,491
+Level 3, Section 5.
+
+204
+00:10:50,532 --> 00:10:52,124
+Oh, that's the tool locker.
+
+205
+00:10:52,167 --> 00:10:55,193
+l've been through everything
+in there three times.
+
+206
+00:10:57,639 --> 00:10:58,833
+What's that?
+
+207
+00:10:58,873 --> 00:11:01,364
+Looks like something
+in a power conduit
+
+208
+00:11:01,409 --> 00:11:03,104
+on Level 12, Section 8.
+
+209
+00:11:03,144 --> 00:11:06,079
+What would tritanium
+be doing there?
+
+210
+00:11:06,114 --> 00:11:08,844
+Computer, shut down
+that conduit.
+
+211
+00:11:08,883 --> 00:11:10,544
+Reroute power flow.
+
+212
+00:11:10,585 --> 00:11:12,280
+Conduit deactivated.
+
+213
+00:11:12,320 --> 00:11:13,480
+Come on.
+
+214
+00:11:15,990 --> 00:11:18,015
+Over here, Chief.
+
+215
+00:11:23,665 --> 00:11:26,156
+That's tritanium
+composite, all right.
+
+216
+00:11:26,201 --> 00:11:28,396
+Looks like our
+missing interlock.
+
+217
+00:11:28,436 --> 00:11:31,837
+Must have been melted
+by the conduit's plasma flow.
+
+218
+00:11:31,873 --> 00:11:33,170
+That still doesn't explain
+
+219
+00:11:33,208 --> 00:11:34,971
+how it got here
+in the first place.
+
+220
+00:11:36,044 --> 00:11:37,944
+Hey...
+
+221
+00:11:37,979 --> 00:11:42,040
+l'm picking up traces
+of organic material.
+
+222
+00:11:42,083 --> 00:11:45,883
+Whatever it was,
+it's been pretty well cooked.
+
+223
+00:11:45,920 --> 00:11:47,751
+Let's take a sample
+to Dr. Bashir.
+
+224
+00:11:47,789 --> 00:11:49,313
+See what he can make of it.
+
+225
+00:11:58,266 --> 00:12:01,633
+Ensign Aquino made a log entry
+the night he disappeared
+
+226
+00:12:01,669 --> 00:12:05,298
+about some sort of plasma flow
+irregularity in the conduit.
+
+227
+00:12:05,340 --> 00:12:07,570
+He indicated
+he was going to fix it.
+
+228
+00:12:07,609 --> 00:12:08,837
+So, it was an accident.
+
+229
+00:12:08,877 --> 00:12:10,242
+Well, l guess so.
+
+230
+00:12:10,278 --> 00:12:13,679
+Bashir has confirmed
+that the remains were human.
+
+231
+00:12:13,715 --> 00:12:15,512
+l'm sure the DNA trace
+
+232
+00:12:15,550 --> 00:12:18,519
+will confirm that it was Aquino.
+
+233
+00:12:18,553 --> 00:12:20,350
+l'll have one, please...
+
+234
+00:12:20,388 --> 00:12:22,913
+unless you're feeling
+adventurous today.
+
+235
+00:12:22,991 --> 00:12:23,923
+Sorry.
+
+236
+00:12:23,992 --> 00:12:25,516
+We're all out.
+
+237
+00:12:25,560 --> 00:12:26,720
+What?
+
+238
+00:12:26,761 --> 00:12:28,422
+What are all these?
+
+239
+00:12:28,463 --> 00:12:31,091
+These aren't for sale.
+
+240
+00:12:31,132 --> 00:12:32,224
+Not for sale, huh?
+
+241
+00:12:32,267 --> 00:12:34,428
+How would you like
+a <i>jumja</i> stick up...?
+
+242
+00:12:34,469 --> 00:12:35,527
+Miles.
+
+243
+00:12:35,570 --> 00:12:36,662
+ls there a problem?
+
+244
+00:12:36,704 --> 00:12:37,671
+Damn right there is!
+
+245
+00:12:37,705 --> 00:12:38,831
+l don't have to sell
+
+246
+00:12:38,873 --> 00:12:41,706
+anything to them
+if l don't want to.
+
+247
+00:12:41,743 --> 00:12:44,769
+Why wouldn't you want
+to sell to them?
+
+248
+00:12:44,812 --> 00:12:46,245
+Miles, can we go?
+
+249
+00:12:47,448 --> 00:12:49,177
+Let's go.
+
+250
+00:12:49,217 --> 00:12:50,275
+Seek the Prophets.
+
+251
+00:12:50,318 --> 00:12:51,307
+l'll seek you...
+
+252
+00:12:51,352 --> 00:12:52,683
+Miles!
+
+253
+00:12:52,720 --> 00:12:55,848
+Seek them yourself.
+
+254
+00:12:57,525 --> 00:12:59,117
+Maybe you were right.
+
+255
+00:12:59,160 --> 00:13:01,060
+Maybe we've no business here.
+
+256
+00:13:01,095 --> 00:13:03,256
+l'll put in for a transfer,
+and that'll...
+
+257
+00:13:03,298 --> 00:13:05,095
+No, l can't run away
+from this now.
+
+258
+00:13:05,133 --> 00:13:06,600
+...don't you all agree?
+
+259
+00:13:06,634 --> 00:13:08,465
+What's this?
+
+260
+00:13:08,503 --> 00:13:12,337
+lf we abandon the Prophets
+then everything we have...
+
+261
+00:13:13,908 --> 00:13:16,468
+Here's Mrs. O'Brien now.
+
+262
+00:13:16,511 --> 00:13:17,773
+Good morning.
+
+263
+00:13:17,812 --> 00:13:19,837
+Are you Mr. O'Brien?
+
+264
+00:13:19,881 --> 00:13:21,178
+That's right.
+
+265
+00:13:21,215 --> 00:13:22,739
+A pleasure to meet you.
+
+266
+00:13:22,784 --> 00:13:24,251
+l've just been hearing
+
+267
+00:13:24,285 --> 00:13:26,685
+many wonderful things
+about your wife
+
+268
+00:13:26,721 --> 00:13:29,019
+from the parents
+of these children.
+
+269
+00:13:29,057 --> 00:13:31,617
+She apparently is
+an excellent teacher.
+
+270
+00:13:31,659 --> 00:13:32,921
+Yes, she is
+
+271
+00:13:33,027 --> 00:13:36,087
+and she doesn't deserve
+what you're doing to her.
+
+272
+00:13:36,130 --> 00:13:37,791
+l feel your anger toward me
+
+273
+00:13:37,832 --> 00:13:40,164
+and l forgive you for it.
+
+274
+00:13:40,201 --> 00:13:42,362
+Mrs. O'Brien
+
+275
+00:13:42,403 --> 00:13:46,271
+if l've misjudged you,
+l am terribly sorry.
+
+276
+00:13:46,307 --> 00:13:47,797
+Have l?
+
+277
+00:13:47,842 --> 00:13:51,938
+ls there a place in your school
+for the Prophets?
+
+278
+00:13:51,980 --> 00:13:53,948
+No.
+
+279
+00:13:53,982 --> 00:13:55,040
+l admire you
+
+280
+00:13:55,083 --> 00:13:57,711
+for standing by your convictions
+
+281
+00:13:57,752 --> 00:14:00,380
+even though l disagree
+with them.
+
+282
+00:14:00,421 --> 00:14:03,515
+Please believe me,
+l want to find a way
+
+283
+00:14:03,558 --> 00:14:07,392
+to allow these children
+to stay in your school.
+
+284
+00:14:07,428 --> 00:14:09,692
+l'm sure the children
+and their parents
+
+285
+00:14:09,731 --> 00:14:11,596
+are happy to hear you say that.
+
+286
+00:14:11,632 --> 00:14:15,625
+Let me be the one
+to make the first concession.
+
+287
+00:14:15,670 --> 00:14:17,729
+l will no longer request
+
+288
+00:14:17,772 --> 00:14:22,141
+that you teach anything
+about the Celestial Temple.
+
+289
+00:14:22,176 --> 00:14:25,839
+Just don't teach anything
+about the wormhole at all.
+
+290
+00:14:25,880 --> 00:14:26,904
+lgnore it?
+
+291
+00:14:27,015 --> 00:14:28,175
+Find other ways
+
+292
+00:14:28,216 --> 00:14:30,912
+other things
+to teach the children.
+
+293
+00:14:30,985 --> 00:14:33,545
+And when we get
+to theories of evolution
+
+294
+00:14:33,588 --> 00:14:36,182
+or creation of the universe--
+what then?
+
+295
+00:14:36,224 --> 00:14:39,591
+We'll face those issues
+when we come to them.
+
+296
+00:14:39,627 --> 00:14:40,685
+l'm a teacher.
+
+297
+00:14:40,728 --> 00:14:42,093
+My responsibility
+
+298
+00:14:42,130 --> 00:14:45,065
+is to expose my students
+to knowledge
+
+299
+00:14:45,099 --> 00:14:46,896
+not hide it from them.
+
+300
+00:14:46,934 --> 00:14:48,367
+The answer is no.
+
+301
+00:14:50,405 --> 00:14:53,272
+l've tried to be reasonable.
+
+302
+00:15:21,756 --> 00:15:24,554
+lf Aquino turned off the conduit
+
+303
+00:15:24,592 --> 00:15:27,220
+to fix the relay,
+why did it reactivate?
+
+304
+00:15:27,262 --> 00:15:30,060
+The Cardassians only equipped
+those power conduits
+
+305
+00:15:30,098 --> 00:15:31,998
+with one flow regulator
+per level.
+
+306
+00:15:32,033 --> 00:15:34,399
+The computer
+could have realigned it.
+
+307
+00:15:34,436 --> 00:15:36,836
+When the power flow
+was rerouted back
+
+308
+00:15:36,871 --> 00:15:38,862
+it could have caught him inside.
+
+309
+00:15:38,907 --> 00:15:40,875
+You don't sound
+entirely convinced.
+
+310
+00:15:40,909 --> 00:15:43,503
+No, it all adds up, only...
+
+311
+00:15:43,545 --> 00:15:45,206
+Well, l don't know.
+
+312
+00:15:45,246 --> 00:15:47,714
+Spit it out, Chief.
+
+313
+00:15:47,749 --> 00:15:51,048
+He borrowed one of my tools
+without asking.
+
+314
+00:15:51,086 --> 00:15:52,246
+lt was 4:00 in the morning.
+
+315
+00:15:52,287 --> 00:15:53,879
+Maybe he didn't want
+to disturb you.
+
+316
+00:15:53,955 --> 00:15:55,889
+The repairs could have waited.
+
+317
+00:15:55,957 --> 00:15:57,424
+He was a Starfleet engineer.
+
+318
+00:15:57,459 --> 00:15:59,893
+You don't take a Chief's
+tools without asking.
+
+319
+00:15:59,928 --> 00:16:01,361
+lt's unheard of.
+
+320
+00:16:01,396 --> 00:16:05,059
+Are you suggesting it might
+not have been an accident?
+
+321
+00:16:05,100 --> 00:16:07,500
+l don't know
+what l'm suggesting.
+
+322
+00:16:07,535 --> 00:16:09,162
+l only know what l know.
+
+323
+00:16:09,204 --> 00:16:10,796
+He should have asked.
+
+324
+00:16:10,839 --> 00:16:14,502
+Constable, maybe you ought
+to take a closer look into this.
+
+325
+00:16:14,542 --> 00:16:15,702
+Dismissed.
+
+326
+00:16:17,045 --> 00:16:18,012
+Hi.
+
+327
+00:16:18,046 --> 00:16:19,513
+Can l talk to you for a minute?
+
+328
+00:16:19,547 --> 00:16:21,515
+Sure.
+
+329
+00:16:21,549 --> 00:16:24,313
+l heard about what happened
+at school.
+
+330
+00:16:24,352 --> 00:16:26,513
+Did Mrs. O'Brien
+call classes off?
+
+331
+00:16:26,554 --> 00:16:29,853
+No, there was only me
+and four other kids left
+
+332
+00:16:29,891 --> 00:16:32,189
+but she still kept
+the school open.
+
+333
+00:16:32,227 --> 00:16:35,355
+She changed the lesson
+to teach us about Galileo.
+
+334
+00:16:35,396 --> 00:16:38,194
+Did you know that he was
+tried by the lnquisition
+
+335
+00:16:38,233 --> 00:16:41,464
+for teaching that the Earth
+moved around the sun?
+
+336
+00:16:41,503 --> 00:16:42,800
+Tried and convicted.
+
+337
+00:16:42,837 --> 00:16:44,202
+His books were burned.
+
+338
+00:16:44,239 --> 00:16:46,503
+How could anyone be so stupid?
+
+339
+00:16:46,541 --> 00:16:48,168
+lt's easy to look back
+seven centuries
+
+340
+00:16:48,209 --> 00:16:49,733
+and judge what was
+right and wrong.
+
+341
+00:16:49,778 --> 00:16:51,302
+But the same thing
+is happening now
+
+342
+00:16:51,346 --> 00:16:53,871
+with all this stuff
+about the Celestial Temple
+
+343
+00:16:53,915 --> 00:16:54,882
+and the wormhole.
+
+344
+00:16:54,916 --> 00:16:55,883
+lt's dumb.
+
+345
+00:16:55,917 --> 00:16:58,886
+No, it's not.
+
+346
+00:16:58,920 --> 00:17:00,979
+You've got to realize
+something, Jake.
+
+347
+00:17:01,022 --> 00:17:04,185
+For over 50 years, the one thing
+that allowed the Bajorans
+
+348
+00:17:04,225 --> 00:17:06,489
+to survive
+the Cardassian occupation
+
+349
+00:17:06,528 --> 00:17:07,586
+was their faith.
+
+350
+00:17:07,629 --> 00:17:09,756
+The Prophets
+were their only source
+
+351
+00:17:09,798 --> 00:17:11,095
+of hope and courage.
+
+352
+00:17:11,132 --> 00:17:12,724
+But there were no Prophets.
+
+353
+00:17:12,767 --> 00:17:15,201
+They were just aliens that
+you found in the wormhole.
+
+354
+00:17:15,236 --> 00:17:18,330
+To those aliens, the future
+is no more difficult to see
+
+355
+00:17:18,373 --> 00:17:19,533
+than the past.
+
+356
+00:17:19,574 --> 00:17:21,804
+Why shouldn't they be considered
+Prophets?
+
+357
+00:17:21,843 --> 00:17:23,401
+Are you serious?
+
+358
+00:17:23,444 --> 00:17:24,502
+My point is
+
+359
+00:17:24,546 --> 00:17:27,071
+it's a matter of interpretation.
+
+360
+00:17:27,115 --> 00:17:29,845
+lt may not be what you believe,
+but that doesn't make it wrong.
+
+361
+00:17:29,951 --> 00:17:31,976
+lf you start to think that way
+
+362
+00:17:32,020 --> 00:17:34,682
+you'll be acting
+just like Vedek Winn.
+
+363
+00:17:34,722 --> 00:17:36,747
+Only from the other side.
+
+364
+00:17:36,791 --> 00:17:39,954
+We can't afford
+to think that way, Jake.
+
+365
+00:17:39,994 --> 00:17:43,452
+We'd lose everything
+we've worked for here.
+
+366
+00:17:43,498 --> 00:17:46,490
+You're worried, aren't you?
+
+367
+00:17:51,573 --> 00:17:53,700
+What are you going to do?
+
+368
+00:17:53,741 --> 00:17:55,709
+l'm not sure
+
+369
+00:17:55,743 --> 00:17:59,907
+but l think l've got
+to find some help.
+
+370
+00:18:27,942 --> 00:18:31,139
+l'm sorry to keep you waiting,
+Commander.
+
+371
+00:18:31,179 --> 00:18:32,874
+Vedek Bareil?
+
+372
+00:18:34,549 --> 00:18:36,949
+No need to pay tribute to me.
+
+373
+00:18:36,985 --> 00:18:38,953
+Pay tribute?
+
+374
+00:18:38,987 --> 00:18:40,352
+l was just...
+
+375
+00:18:40,388 --> 00:18:42,982
+Usually when l meet
+one of Bajor's spiritual leaders
+
+376
+00:18:43,024 --> 00:18:45,515
+the first thing they do
+is grab my...
+
+377
+00:18:45,560 --> 00:18:46,959
+Ear?
+
+378
+00:18:46,995 --> 00:18:48,656
+lt's unpleasant, isn't it?
+
+379
+00:18:48,696 --> 00:18:51,221
+l've been far too polite
+to admit it.
+
+380
+00:18:51,266 --> 00:18:56,397
+l was five the first time one
+of the monks grabbed my ear.
+
+381
+00:18:56,437 --> 00:18:57,870
+He was a stern old crow
+
+382
+00:18:57,906 --> 00:19:00,374
+who could virtually squeeze
+the <i>pagh</i> out of you
+
+383
+00:19:00,408 --> 00:19:02,035
+with his thumb and forefinger.
+
+384
+00:19:02,076 --> 00:19:06,410
+And as a chronic misbehaver,
+l was his favorite victim.
+
+385
+00:19:06,447 --> 00:19:08,574
+l swore one of my life's goals
+
+386
+00:19:08,616 --> 00:19:11,642
+would be to do away
+with that archaic ritual.
+
+387
+00:19:11,686 --> 00:19:14,382
+You can count
+on the Federation's support.
+
+388
+00:19:15,857 --> 00:19:19,224
+l hope you don't mind
+if l do a little planting
+
+389
+00:19:19,260 --> 00:19:20,488
+while we talk.
+
+390
+00:19:20,528 --> 00:19:25,397
+All those hours of listening
+to 1 12 vedeks talking at once
+
+391
+00:19:25,433 --> 00:19:29,665
+made me yearn for the sanctity
+of my arboretum.
+
+392
+00:19:29,704 --> 00:19:31,831
+ls this yours?
+
+393
+00:19:31,873 --> 00:19:36,310
+l began my service at the
+monastery as the gardener.
+
+394
+00:19:36,344 --> 00:19:39,404
+l had no other ambition
+but to grow
+
+395
+00:19:39,447 --> 00:19:43,816
+the most lovely Feloran
+bromeliads on the planet.
+
+396
+00:19:43,851 --> 00:19:46,217
+Unfortunately, the Prophets
+
+397
+00:19:46,254 --> 00:19:49,553
+did not allow me
+that peaceful life.
+
+398
+00:19:52,727 --> 00:19:55,491
+l understand my friend,
+Vedek Winn
+
+399
+00:19:55,530 --> 00:19:58,556
+has brought her blessings
+to your station.
+
+400
+00:19:58,599 --> 00:20:01,295
+l was hoping you might be able
+
+401
+00:20:01,336 --> 00:20:04,032
+to arrange an audience
+with the Assembly
+
+402
+00:20:04,072 --> 00:20:06,199
+so l could discuss our school.
+
+403
+00:20:06,240 --> 00:20:07,639
+Why me?
+
+404
+00:20:07,675 --> 00:20:10,872
+You are the leading candidate
+to become the next Kai.
+
+405
+00:20:10,912 --> 00:20:13,813
+Your ideology is quite different
+than Vedek Winn's.
+
+406
+00:20:13,848 --> 00:20:16,908
+You have been correctly
+informed.
+
+407
+00:20:21,089 --> 00:20:24,217
+l'm sorry, Commander.
+
+408
+00:20:24,258 --> 00:20:26,556
+The Vedek Assembly
+will not see you.
+
+409
+00:20:26,594 --> 00:20:28,892
+Why not?
+
+410
+00:20:28,930 --> 00:20:32,331
+Some fear you as the symbol
+of a Federation
+
+411
+00:20:32,367 --> 00:20:34,062
+they view as godless.
+
+412
+00:20:34,102 --> 00:20:38,732
+Some fear you as the Emissary
+who walked with the Prophets.
+
+413
+00:20:38,773 --> 00:20:42,903
+And some fear you
+because Vedek Winn told them to.
+
+414
+00:20:42,944 --> 00:20:46,744
+Oh, we're all very good
+at conjuring up enough fear
+
+415
+00:20:46,781 --> 00:20:49,511
+to justify
+whatever we want to do.
+
+416
+00:20:49,550 --> 00:20:53,247
+Today, l am only a Vedek.
+
+417
+00:20:53,287 --> 00:20:57,246
+lf the Prophets will it,
+someday l may be Kai
+
+418
+00:20:57,291 --> 00:21:00,783
+and l can be a better friend
+to you then.
+
+419
+00:21:00,828 --> 00:21:02,022
+ln other words
+
+420
+00:21:02,063 --> 00:21:05,055
+being my friend now
+might hurt your chances.
+
+421
+00:21:05,099 --> 00:21:08,728
+The Prophets teach us patience.
+
+422
+00:21:08,770 --> 00:21:12,228
+lt appears they also
+teach you politics.
+
+423
+00:21:14,742 --> 00:21:17,302
+l'm sorry you made
+this long trip
+
+424
+00:21:17,345 --> 00:21:19,040
+for nothing, Commander.
+
+425
+00:21:19,080 --> 00:21:22,345
+Please stay
+and enjoy the gardens
+
+426
+00:21:22,383 --> 00:21:24,749
+as long as you like.
+
+427
+00:21:51,779 --> 00:21:53,246
+ls it my imagination
+
+428
+00:21:53,281 --> 00:21:55,374
+or are we
+a little shorthanded today?
+
+429
+00:21:55,416 --> 00:21:58,442
+Three Bajoran crewmen
+didn't report for duty.
+
+430
+00:21:58,486 --> 00:22:00,920
+They said
+they weren't feeling well.
+
+431
+00:22:00,955 --> 00:22:03,685
+Do you think
+it's contagious, Major?
+
+432
+00:22:03,724 --> 00:22:05,692
+lt's too early to tell.
+
+433
+00:22:05,726 --> 00:22:07,353
+Are your people willing
+
+434
+00:22:07,395 --> 00:22:09,522
+to throw away everything
+we've accomplished
+
+435
+00:22:09,564 --> 00:22:11,031
+during the past seven months?
+
+436
+00:22:11,065 --> 00:22:13,056
+Everyone knows
+if the Federation leaves
+
+437
+00:22:13,101 --> 00:22:14,864
+the Cardassians will be back.
+
+438
+00:22:14,902 --> 00:22:16,164
+With all due respect, Major
+
+439
+00:22:16,204 --> 00:22:18,536
+protecting your borders
+is not the primary reason
+
+440
+00:22:18,573 --> 00:22:22,304
+the Federation is here,
+and it's not why l'm here.
+
+441
+00:22:22,343 --> 00:22:25,039
+l'm here to build a trusting
+relationship with your people
+
+442
+00:22:25,079 --> 00:22:27,479
+and l'd like to start feeling
+that somebody...
+
+443
+00:22:27,515 --> 00:22:29,005
+somebody on your side
+
+444
+00:22:29,050 --> 00:22:30,642
+is giving something back
+to that effort.
+
+445
+00:22:30,685 --> 00:22:33,313
+l think l've given you all
+the support l can, short of...
+
+446
+00:22:33,354 --> 00:22:34,821
+lt's not enough.
+
+447
+00:22:36,424 --> 00:22:38,153
+l thought there was room
+
+448
+00:22:38,192 --> 00:22:40,888
+for all philosophies
+on this station.
+
+449
+00:22:40,962 --> 00:22:44,329
+You tell
+our sick Bajoran crewmen
+
+450
+00:22:44,365 --> 00:22:46,026
+they better get well
+immediately
+
+451
+00:22:46,067 --> 00:22:48,900
+or they'll recover on the way
+to their next assignment.
+
+452
+00:22:48,936 --> 00:22:52,167
+Yes, sir.
+
+453
+00:22:52,206 --> 00:22:55,642
+Commander, Dr. Bashir has found
+some new evidence
+
+454
+00:22:55,676 --> 00:22:57,610
+about Ensign Aquino
+that you should see.
+
+455
+00:22:57,645 --> 00:23:00,773
+Sir, l've finally managed
+to reconstruct the victim's DNA.
+
+456
+00:23:00,815 --> 00:23:02,840
+lt's definitely Aquino,
+but the power flow
+
+457
+00:23:02,950 --> 00:23:04,474
+in the conduit didn't kill him.
+
+458
+00:23:04,519 --> 00:23:07,511
+You see, the plasma disruption
+in his cellular membranes
+
+459
+00:23:07,555 --> 00:23:10,854
+indicates that he was exposed
+to a directed energy discharge
+
+460
+00:23:10,892 --> 00:23:13,690
+before he was placed
+in the conduit.
+
+461
+00:23:13,728 --> 00:23:15,457
+A directed energy discharge?
+
+462
+00:23:15,496 --> 00:23:16,986
+From a phaser?
+
+463
+00:23:17,031 --> 00:23:20,228
+Set to kill.
+
+464
+00:23:31,086 --> 00:23:32,713
+Could this murder be related
+in any way
+
+465
+00:23:32,754 --> 00:23:34,745
+to the tensions
+over the school issue?
+
+466
+00:23:34,790 --> 00:23:37,054
+lf you're suggesting
+he was killed by a Bajoran
+
+467
+00:23:37,092 --> 00:23:38,855
+just because he was
+with the Federation...
+
+468
+00:23:38,960 --> 00:23:40,655
+The analysis proves
+that he was killed
+
+469
+00:23:40,696 --> 00:23:42,323
+the night
+before Vedek Winn arrived.
+
+470
+00:23:42,364 --> 00:23:44,161
+There wasn't
+any school issue yet.
+
+471
+00:23:44,199 --> 00:23:46,394
+Any ideas about a motive?
+
+472
+00:23:48,236 --> 00:23:49,567
+All right
+
+473
+00:23:49,604 --> 00:23:51,868
+then let's start
+at the beginning.
+
+474
+00:23:51,973 --> 00:23:54,806
+Ensign Aquino goes
+to repair a power conduit.
+
+475
+00:23:54,843 --> 00:23:56,003
+One moment, Commander.
+
+476
+00:23:56,044 --> 00:23:57,602
+l'm not convinced of that.
+
+477
+00:23:57,646 --> 00:23:58,806
+But the log...
+
+478
+00:23:58,847 --> 00:24:00,610
+lt could have been altered
+by our killer
+
+479
+00:24:00,649 --> 00:24:02,048
+to cover his tracks.
+
+480
+00:24:02,084 --> 00:24:04,814
+l've checked the turbolift
+records the night of the murder.
+
+481
+00:24:04,853 --> 00:24:06,821
+Aquino did take a turbolift
+to Level 3
+
+482
+00:24:06,855 --> 00:24:09,790
+but not to the power conduit
+where he was found.
+
+483
+00:24:09,825 --> 00:24:11,383
+Where did he go?
+
+484
+00:24:11,426 --> 00:24:13,189
+Runabout Pad C.
+
+485
+00:24:13,228 --> 00:24:14,593
+A runabout?
+
+486
+00:24:14,629 --> 00:24:17,291
+What was he doing in a runabout
+at 4:00 in the morning?
+
+487
+00:24:17,332 --> 00:24:20,495
+Apparently,
+he was getting murdered.
+
+488
+00:24:27,042 --> 00:24:29,840
+Everything in the runabout
+seems to be perfectly normal.
+
+489
+00:24:29,878 --> 00:24:31,937
+lt doesn't look
+like the airlock systems
+
+490
+00:24:31,980 --> 00:24:33,208
+have been tampered with.
+
+491
+00:24:33,248 --> 00:24:34,681
+Let's run a level-1 diagnostic
+
+492
+00:24:34,716 --> 00:24:36,411
+on the runabout's
+computer interface--
+
+493
+00:24:36,451 --> 00:24:37,577
+then we'll call it a day.
+
+494
+00:24:37,619 --> 00:24:39,678
+l already have.
+Everything's normal.
+
+495
+00:24:42,891 --> 00:24:46,054
+l don't even know
+what we're looking for.
+
+496
+00:24:46,094 --> 00:24:48,255
+lf something
+happened around here
+
+497
+00:24:48,296 --> 00:24:50,730
+it's been pretty
+well covered up.
+
+498
+00:24:54,903 --> 00:24:56,996
+Did you know him well?
+
+499
+00:24:57,038 --> 00:24:58,403
+Aquino?
+
+500
+00:24:58,440 --> 00:24:59,998
+Oh, barely at all.
+
+501
+00:25:00,041 --> 00:25:03,807
+Just the ''welcome aboard,
+if you need anything'' speech.
+
+502
+00:25:03,845 --> 00:25:05,005
+You?
+
+503
+00:25:05,046 --> 00:25:07,207
+Not really.
+
+504
+00:25:07,249 --> 00:25:09,217
+Bajoran and Starfleet officers
+
+505
+00:25:09,251 --> 00:25:12,345
+don't really socialize
+that much.
+
+506
+00:25:13,855 --> 00:25:15,220
+How come?
+
+507
+00:25:15,257 --> 00:25:16,622
+l don't know.
+
+508
+00:25:16,658 --> 00:25:19,821
+l guess we just
+keep to ourselves.
+
+509
+00:25:19,861 --> 00:25:23,297
+Well, you're not
+like that with me.
+
+510
+00:25:23,331 --> 00:25:25,629
+Well, you're not
+like the others.
+
+511
+00:25:27,135 --> 00:25:28,500
+You know.
+
+512
+00:25:28,537 --> 00:25:31,131
+You don't put on any airs.
+
+513
+00:25:31,173 --> 00:25:33,835
+You're just...
+
+514
+00:25:33,875 --> 00:25:35,809
+nicer.
+
+515
+00:25:39,281 --> 00:25:41,249
+Uh, look...
+
+516
+00:25:41,283 --> 00:25:43,877
+l'll close up here.
+
+517
+00:25:45,720 --> 00:25:47,585
+Why don't you take off.
+
+518
+00:25:47,622 --> 00:25:49,522
+You sure?
+
+519
+00:25:49,558 --> 00:25:50,855
+Yeah.
+
+520
+00:25:50,959 --> 00:25:53,154
+Yeah, l'm sure.
+
+521
+00:25:54,296 --> 00:25:56,287
+Good night.
+
+522
+00:26:04,472 --> 00:26:07,066
+On your toes, O'Brien.
+
+523
+00:26:17,519 --> 00:26:19,214
+You were looking for me?
+
+524
+00:26:19,254 --> 00:26:20,448
+Don't tell me--
+
+525
+00:26:20,488 --> 00:26:22,752
+there's a Bajoran convention
+on the station
+
+526
+00:26:22,791 --> 00:26:23,951
+l didn't know about.
+
+527
+00:26:23,992 --> 00:26:25,152
+Thanks, Odo.
+
+528
+00:26:25,193 --> 00:26:27,491
+l need to call in
+more dabo girls.
+
+529
+00:26:27,529 --> 00:26:28,826
+lt's not a convention.
+
+530
+00:26:28,864 --> 00:26:31,162
+They're
+from an orthodox spiritual order
+
+531
+00:26:31,199 --> 00:26:33,326
+coming to support
+Vedek Winn's efforts
+
+532
+00:26:33,368 --> 00:26:35,666
+to keep the Bajoran
+children out of school.
+
+533
+00:26:35,704 --> 00:26:37,501
+Orthodox?
+ln that case
+
+534
+00:26:37,539 --> 00:26:40,337
+l'll need twice as many
+dabo girls.
+
+535
+00:26:40,375 --> 00:26:43,572
+These spiritual types
+love those dabo girls.
+
+536
+00:26:43,612 --> 00:26:46,979
+This is not what l wanted
+to talk to you about.
+
+537
+00:26:47,015 --> 00:26:52,385
+What do you know about the
+murder of Ensign Aquino?
+
+538
+00:26:52,420 --> 00:26:53,682
+You wound me.
+
+539
+00:26:53,722 --> 00:26:56,589
+All these years together,
+l thought you knew me.
+
+540
+00:26:56,625 --> 00:26:59,116
+Odo, l am not a killer.
+
+541
+00:26:59,160 --> 00:27:01,594
+No, but most
+of your friends are.
+
+542
+00:27:01,630 --> 00:27:04,963
+True, and l would gladly sell
+one of them to you if l could
+
+543
+00:27:05,000 --> 00:27:07,901
+but unfortunately,
+none of them have taken credit
+
+544
+00:27:07,936 --> 00:27:10,268
+for the death
+of the Starfleet officer.
+
+545
+00:27:10,305 --> 00:27:11,272
+Sorry.
+
+546
+00:27:11,306 --> 00:27:12,466
+Odo!
+
+547
+00:27:12,507 --> 00:27:15,203
+Keep your ears open.
+
+548
+00:27:15,243 --> 00:27:16,540
+Are you kidding?
+
+549
+00:27:16,578 --> 00:27:19,513
+That's the Seventh Rule
+of Acquisition.
+
+550
+00:27:27,389 --> 00:27:30,381
+This is
+a security bypass module.
+
+551
+00:27:31,860 --> 00:27:34,226
+You found it at Runabout Pad C?
+
+552
+00:27:34,262 --> 00:27:35,627
+No, that's just it.
+
+553
+00:27:35,664 --> 00:27:37,029
+lt wasn't at Pad C.
+
+554
+00:27:37,065 --> 00:27:39,226
+That was as clean as a whistle.
+
+555
+00:27:39,267 --> 00:27:42,828
+Just to be safe, l ran a
+diagnostic across the board.
+
+556
+00:27:42,871 --> 00:27:46,102
+This showed up
+at Runabout Pad A.
+
+557
+00:27:46,141 --> 00:27:47,506
+Pad A...
+
+558
+00:27:47,542 --> 00:27:50,102
+Aquino never went
+anywhere near Pad A.
+
+559
+00:27:50,145 --> 00:27:51,703
+lt doesn't make sense.
+
+560
+00:27:51,746 --> 00:27:55,978
+On the contrary, it
+makes perfect sense.
+
+561
+00:27:56,017 --> 00:27:58,178
+Ensign Aquino goes to Runabout C
+
+562
+00:27:58,219 --> 00:28:00,380
+because some sensor
+shows an anomaly
+
+563
+00:28:00,422 --> 00:28:02,117
+in the security net there.
+
+564
+00:28:02,157 --> 00:28:04,921
+He interrupts whoever
+is tampering with it
+
+565
+00:28:04,960 --> 00:28:06,791
+and is killed.
+
+566
+00:28:06,895 --> 00:28:09,796
+The killer puts the body
+in the conduit
+
+567
+00:28:09,898 --> 00:28:12,264
+and instead of going
+back to Pad C
+
+568
+00:28:12,300 --> 00:28:15,463
+which might be traced
+with Aquino's turbolift log
+
+569
+00:28:15,503 --> 00:28:18,267
+he changes his plan
+and moves to Pad A.
+
+570
+00:28:18,306 --> 00:28:20,137
+But what was the plan?
+
+571
+00:28:20,175 --> 00:28:21,665
+Everything else seems normal.
+
+572
+00:28:21,710 --> 00:28:24,338
+l'd guess somebody wanted
+to steal a runabout.
+
+573
+00:28:24,379 --> 00:28:25,937
+We're not missing one.
+
+574
+00:28:25,981 --> 00:28:27,039
+Huh. lt's curious.
+
+575
+00:28:27,182 --> 00:28:31,141
+He goes to a lot of trouble
+to defeat the security net
+
+576
+00:28:31,186 --> 00:28:34,178
+and then doesn't
+go through with...
+
+577
+00:28:35,857 --> 00:28:37,256
+The school!
+
+578
+00:28:45,333 --> 00:28:46,925
+Keiko!
+
+579
+00:28:48,803 --> 00:28:50,998
+Keiko!
+
+580
+00:28:56,077 --> 00:28:57,476
+Miles!
+
+581
+00:28:59,381 --> 00:29:01,349
+Stand back, please!
+
+582
+00:29:01,383 --> 00:29:02,577
+Clear the way!
+
+583
+00:29:16,221 --> 00:29:17,552
+What have you got?
+
+584
+00:29:17,590 --> 00:29:19,615
+l'm reading traces
+of cabrodine and infernite--
+
+585
+00:29:19,658 --> 00:29:22,149
+common explosives,
+both easily obtainable.
+
+586
+00:29:22,194 --> 00:29:24,890
+Then we're looking
+at a simple, homemade bomb.
+
+587
+00:29:34,139 --> 00:29:35,697
+Where is Mrs. O'Brien?
+
+588
+00:29:35,741 --> 00:29:37,299
+Her husband took her home.
+
+589
+00:29:37,343 --> 00:29:39,573
+Was she hurt?
+Was anyone hurt?
+
+590
+00:29:39,612 --> 00:29:41,477
+No.
+
+591
+00:29:41,513 --> 00:29:43,777
+The Prophets
+have been kind today.
+
+592
+00:29:43,882 --> 00:29:47,409
+The Prophets had nothing to do
+with what happened here today.
+
+593
+00:29:47,453 --> 00:29:49,921
+This was the work
+of a disturbed and violent mind
+
+594
+00:29:49,955 --> 00:29:53,049
+who listened to your voice,
+not the Prophet's.
+
+595
+00:29:53,092 --> 00:29:55,560
+ls the Emissary
+holding me responsible
+
+596
+00:29:55,594 --> 00:29:58,654
+for this act of terrorism?
+
+597
+00:29:58,697 --> 00:30:01,666
+The Commander
+of this station is.
+
+598
+00:30:01,700 --> 00:30:05,295
+May the Prophets forgive you
+for abandoning them.
+
+599
+00:30:05,337 --> 00:30:09,239
+You claim the Prophets as
+your personal constituency
+
+600
+00:30:09,274 --> 00:30:10,741
+Vedek Winn.
+
+601
+00:30:10,776 --> 00:30:13,142
+l'm not convinced
+that's justified.
+
+602
+00:30:13,178 --> 00:30:15,146
+Who do you speak for?
+
+603
+00:30:15,180 --> 00:30:18,047
+An order that's barely
+listened to in your Assembly.
+
+604
+00:30:18,083 --> 00:30:21,052
+So you come here looking
+for a more receptive audience.
+
+605
+00:30:21,086 --> 00:30:24,988
+ls that what your friend,
+Vedek Bareil, told you?
+
+606
+00:30:25,024 --> 00:30:27,822
+He's as misguided as you are.
+
+607
+00:30:27,860 --> 00:30:30,385
+No, that's not fair.
+
+608
+00:30:30,429 --> 00:30:34,297
+You are not simply misguided,
+as l once thought.
+
+609
+00:30:34,333 --> 00:30:38,463
+Now l see you want nothing less
+than to destroy us.
+
+610
+00:30:38,504 --> 00:30:40,472
+Destroy you?
+
+611
+00:30:40,506 --> 00:30:43,066
+You live without a soul,
+Commander.
+
+612
+00:30:43,108 --> 00:30:46,839
+You and your Federation exist
+in a universe of darkness
+
+613
+00:30:46,912 --> 00:30:50,370
+and you would drag us
+in there with you.
+
+614
+00:30:50,416 --> 00:30:53,977
+But we will not go.
+
+615
+00:30:54,019 --> 00:30:58,752
+You have just made
+your first mistake, Vedek.
+
+616
+00:30:58,791 --> 00:31:00,782
+Have l?
+
+617
+00:31:00,826 --> 00:31:05,092
+The Bajorans who have lived
+with us on this station
+
+618
+00:31:05,130 --> 00:31:08,998
+who have worked
+with us for months
+
+619
+00:31:09,034 --> 00:31:12,765
+who helped us move this station
+to protect the wormhole
+
+620
+00:31:12,805 --> 00:31:17,105
+who joined us to explore
+the Gamma Quadrant
+
+621
+00:31:17,142 --> 00:31:21,511
+who have begun to build
+the future of Bajor with us
+
+622
+00:31:21,547 --> 00:31:26,484
+these people know that we are
+neither the enemy nor the devil.
+
+623
+00:31:28,487 --> 00:31:30,955
+We don't always agree.
+
+624
+00:31:30,989 --> 00:31:34,789
+We have some damn good fights,
+in fact
+
+625
+00:31:34,827 --> 00:31:37,455
+but we always come
+away from them
+
+626
+00:31:37,496 --> 00:31:39,623
+with a little better
+understanding
+
+627
+00:31:39,665 --> 00:31:41,792
+and appreciation of each other.
+
+628
+00:31:41,834 --> 00:31:44,462
+You won't succeed here.
+
+629
+00:31:44,503 --> 00:31:46,630
+The school will reopen.
+
+630
+00:31:46,672 --> 00:31:48,765
+And when your rhetoric gets old
+
+631
+00:31:48,807 --> 00:31:52,072
+the Bajoran parents
+will bring their children back.
+
+632
+00:31:53,479 --> 00:31:55,310
+We'll see.
+
+633
+00:32:33,652 --> 00:32:35,620
+How is she, Chief?
+
+634
+00:32:35,654 --> 00:32:37,121
+She's pretty shaken up, sir
+
+635
+00:32:37,156 --> 00:32:39,590
+but she's planning
+to hold classes tomorrow
+
+636
+00:32:39,625 --> 00:32:42,788
+in one of the small cargo bays,
+if that's okay.
+
+637
+00:32:42,828 --> 00:32:45,626
+You tell her Jake
+will be there on time.
+
+638
+00:32:45,664 --> 00:32:48,633
+lt will make her feel a lot
+better to hear that, sir.
+
+639
+00:32:48,667 --> 00:32:50,134
+Anything new on Aquino?
+
+640
+00:32:50,169 --> 00:32:51,295
+Yes, sir.
+
+641
+00:32:51,336 --> 00:32:54,794
+l found a security bypass module
+at Runabout Pad A.
+
+642
+00:32:54,840 --> 00:32:56,967
+lt looks like somebody
+might have wanted
+
+643
+00:32:57,009 --> 00:32:58,636
+to steal a runabout.
+
+644
+00:32:58,677 --> 00:33:01,339
+That's probably why Aquino went
+there in the first place.
+
+645
+00:33:01,380 --> 00:33:04,577
+l've put security seals
+in place at all three pads
+
+646
+00:33:04,616 --> 00:33:06,743
+and l'm checking
+for any other anomalies.
+
+647
+00:33:06,785 --> 00:33:10,243
+Benjamin, there's an incoming
+transmission from Vedek Bareil
+
+648
+00:33:10,289 --> 00:33:12,780
+on board a Bajoran transport.
+
+649
+00:33:14,927 --> 00:33:16,451
+On screen.
+
+650
+00:33:18,130 --> 00:33:20,928
+Commander, l've decided
+
+651
+00:33:20,966 --> 00:33:24,265
+to accept
+your gracious invitation.
+
+652
+00:33:24,303 --> 00:33:25,600
+lnvitation?
+
+653
+00:33:25,637 --> 00:33:29,505
+You did invite me
+to tour your facility.
+
+654
+00:33:29,541 --> 00:33:31,008
+Yes, yes, of course, Vedek.
+
+655
+00:33:31,043 --> 00:33:32,510
+We'd be honored.
+
+656
+00:33:32,544 --> 00:33:35,274
+Unfortunately, we have
+some damage on our Promenade.
+
+657
+00:33:35,314 --> 00:33:38,283
+We won't have time to clean
+up before you arrive.
+
+658
+00:33:38,317 --> 00:33:40,581
+Yes, l heard about it.
+
+659
+00:33:40,619 --> 00:33:43,588
+Perhaps l can help you
+clean it up.
+
+660
+00:33:43,622 --> 00:33:45,920
+That would be
+very much appreciated.
+
+661
+00:33:45,958 --> 00:33:48,290
+lt's the least a friend can do.
+
+662
+00:33:48,327 --> 00:33:51,353
+l look forward
+to seeing you again.
+
+663
+00:34:09,781 --> 00:34:12,750
+My dear, you should not be here.
+
+664
+00:34:12,784 --> 00:34:16,185
+Vedek, they found out
+about the runabout.
+
+665
+00:34:17,923 --> 00:34:19,390
+l see.
+
+666
+00:34:19,424 --> 00:34:23,258
+l have no way to escape.
+
+667
+00:34:23,295 --> 00:34:27,459
+Then we must accept that
+as the will of the Prophets.
+
+668
+00:34:29,034 --> 00:34:32,003
+But if l go through
+with this now
+
+669
+00:34:32,037 --> 00:34:34,801
+l will be caught and executed.
+
+670
+00:34:39,244 --> 00:34:42,702
+The sacrifices the Prophets
+call on us to make
+
+671
+00:34:42,748 --> 00:34:46,741
+are great sometimes, my dear
+
+672
+00:34:46,785 --> 00:34:52,690
+but the rewards they give
+will last through eternity.
+
+673
+00:34:58,230 --> 00:35:00,528
+What the hell?
+
+674
+00:35:00,565 --> 00:35:04,729
+Computer, identify subprogram
+labeled ''ANA''
+
+675
+00:35:04,770 --> 00:35:06,237
+That file is protected
+
+676
+00:35:06,271 --> 00:35:08,239
+by a personal
+security access code.
+
+677
+00:35:08,273 --> 00:35:09,740
+On whose authority?
+
+678
+00:35:09,775 --> 00:35:11,936
+Chief of Operations,
+Miles O'Brien.
+
+679
+00:35:11,977 --> 00:35:14,275
+Me?
+l never saw this file before.
+
+680
+00:35:14,313 --> 00:35:15,780
+Override command.
+
+681
+00:35:15,814 --> 00:35:17,577
+Unable to comply.
+
+682
+00:35:17,616 --> 00:35:20,084
+State security code
+to release protection.
+
+683
+00:35:20,118 --> 00:35:23,087
+Lieutenant, l've got to do
+a manual isolation
+
+684
+00:35:23,121 --> 00:35:24,588
+of an anomalous file.
+
+685
+00:35:24,623 --> 00:35:27,786
+lt's in the security field
+subsystem labeled ''ANA''
+
+686
+00:35:27,826 --> 00:35:29,789
+That file is going to be
+
+687
+00:35:29,922 --> 00:35:32,254
+protected by a series
+of encryption sequences.
+
+688
+00:35:32,291 --> 00:35:34,088
+l'll run an adaptive program.
+
+689
+00:35:34,126 --> 00:35:35,923
+For once, we're lucky
+we're working
+
+690
+00:35:35,962 --> 00:35:37,759
+with a Cardassian computer.
+
+691
+00:35:37,797 --> 00:35:40,129
+lt shouldn't have any more
+than seven sequences.
+
+692
+00:35:40,166 --> 00:35:42,134
+Beginning decryption.
+
+693
+00:35:42,168 --> 00:35:44,796
+On-line.
+Patched to subprogram ANA.
+
+694
+00:36:06,592 --> 00:36:10,153
+Clear the way.
+Clear the way.
+
+695
+00:36:10,196 --> 00:36:11,823
+Make room.
+
+696
+00:36:11,864 --> 00:36:13,957
+Move along, now.
+
+697
+00:36:14,000 --> 00:36:15,865
+Clear the way.
+
+698
+00:36:15,901 --> 00:36:17,562
+Clear the way, now.
+
+699
+00:36:24,010 --> 00:36:25,739
+Clear the way.
+
+700
+00:36:25,845 --> 00:36:28,177
+Please stand back.
+
+701
+00:36:28,214 --> 00:36:29,738
+Clear the way, please.
+
+702
+00:36:29,849 --> 00:36:31,077
+Thank you.
+
+703
+00:36:37,356 --> 00:36:39,324
+That's it.
+
+704
+00:36:39,358 --> 00:36:45,888
+Computer, access subprogram ANA,
+Code 4100RLX.
+
+705
+00:36:45,931 --> 00:36:48,399
+Accessing.
+
+706
+00:36:48,434 --> 00:36:50,595
+ldentify commands
+within the file.
+
+707
+00:36:50,636 --> 00:36:52,501
+Commands are
+sequential overrides
+
+708
+00:36:52,538 --> 00:36:55,234
+of security fields
+approaching Runabout Pad A.
+
+709
+00:36:55,274 --> 00:36:56,741
+The force fields.
+
+710
+00:36:56,776 --> 00:36:59,370
+Display sequences on screen.
+
+711
+00:37:02,748 --> 00:37:04,215
+Right to the Promenade.
+
+712
+00:37:04,250 --> 00:37:08,710
+Computer, run a level-3
+sensor sweep of the Promenade.
+
+713
+00:37:08,754 --> 00:37:10,551
+Report any anomalous reading.
+
+714
+00:37:10,589 --> 00:37:12,557
+Working.
+
+715
+00:37:12,591 --> 00:37:14,058
+An escape route.
+
+716
+00:37:14,093 --> 00:37:16,061
+Escape from what?
+
+717
+00:37:16,095 --> 00:37:17,562
+You got me.
+
+718
+00:37:17,596 --> 00:37:19,564
+One anomalous reading detected.
+
+719
+00:37:19,598 --> 00:37:21,088
+ldentify.
+
+720
+00:37:21,133 --> 00:37:24,569
+A subspace relay was activated
+in the security office
+
+721
+00:37:24,603 --> 00:37:26,571
+nine minutes, seven seconds ago.
+
+722
+00:37:26,605 --> 00:37:28,573
+Activated to do what?
+
+723
+00:37:28,607 --> 00:37:30,404
+Unknown.
+lnsufficient data.
+
+724
+00:37:30,443 --> 00:37:31,910
+l'm going down there.
+
+725
+00:37:31,944 --> 00:37:34,412
+l'll run a diagnostic
+on the other security systems
+
+726
+00:37:34,447 --> 00:37:36,745
+and l'll call you
+as soon as l have anything.
+
+727
+00:37:36,849 --> 00:37:38,680
+Promenade.
+
+728
+00:37:49,762 --> 00:37:52,230
+l expected you sooner, Bareil.
+
+729
+00:37:52,264 --> 00:37:54,562
+lt seems our paths
+have grown apart.
+
+730
+00:37:54,600 --> 00:37:57,569
+Perhaps we can
+bring them together again.
+
+731
+00:37:57,603 --> 00:38:00,071
+l would like nothing
+better than that.
+
+732
+00:38:00,106 --> 00:38:02,006
+Come with me to the school.
+
+733
+00:38:02,041 --> 00:38:04,009
+Let us both show our commitment
+
+734
+00:38:04,043 --> 00:38:08,002
+to a peaceful resolution
+to this series of events.
+
+735
+00:38:08,047 --> 00:38:10,038
+Of course.
+
+736
+00:38:46,585 --> 00:38:49,053
+Computer, is the subspace
+device integrated
+
+737
+00:38:49,088 --> 00:38:52,216
+into the isolinear coprocessor?
+
+738
+00:38:52,258 --> 00:38:53,919
+Confirmed.
+
+739
+00:38:55,427 --> 00:38:57,395
+O'Brien to Dax.
+
+740
+00:38:57,429 --> 00:38:58,896
+Go ahead.
+
+741
+00:38:58,931 --> 00:39:02,367
+lt's in
+the isolinear coprocessor.
+
+742
+00:39:02,401 --> 00:39:04,995
+Didn't you just repair
+that unit two days ago?
+
+743
+00:39:06,505 --> 00:39:08,200
+Yes, l did.
+
+744
+00:39:09,542 --> 00:39:11,533
+With Neela.
+
+745
+00:39:24,557 --> 00:39:27,526
+Looking around at your faces
+
+746
+00:39:27,560 --> 00:39:29,994
+l believe you feel
+the shame l feel
+
+747
+00:39:30,029 --> 00:39:31,724
+at this sight.
+
+748
+00:39:31,797 --> 00:39:33,731
+No, it's got to be
+the weapon detectors
+
+749
+00:39:33,799 --> 00:39:35,266
+in the Promenade.
+
+750
+00:39:35,301 --> 00:39:37,235
+That's the only thing
+those coprocessors
+
+751
+00:39:37,269 --> 00:39:38,600
+could possibly affect.
+
+752
+00:39:38,637 --> 00:39:41,333
+All weapon detectors appear
+to be functional, Chief.
+
+753
+00:39:42,842 --> 00:39:44,639
+That's got to be it.
+
+754
+00:39:44,677 --> 00:39:46,645
+She's good.
+She's real good.
+
+755
+00:39:46,679 --> 00:39:49,978
+She could make it look
+like they're normal.
+
+756
+00:39:50,015 --> 00:39:52,984
+But it's got to be
+the weapon detectors.
+
+757
+00:39:53,018 --> 00:39:54,747
+O'Brien to Sisko.
+
+758
+00:39:54,787 --> 00:39:57,756
+Once, our world was
+a center of learning.
+
+759
+00:39:57,823 --> 00:39:59,916
+lt attracted travelers
+from many other worlds.
+
+760
+00:39:59,959 --> 00:40:01,085
+Go ahead, Chief.
+
+761
+00:40:01,126 --> 00:40:04,095
+l'm not entirely sure, but...
+
+762
+00:40:04,129 --> 00:40:05,357
+l think the weapon detectors
+
+763
+00:40:05,397 --> 00:40:07,160
+on the Promenade
+may have been disabled.
+
+764
+00:40:07,199 --> 00:40:09,167
+What do you mean,
+you're not sure?
+
+765
+00:40:09,201 --> 00:40:11,692
+l mean Neela
+may have disabled them.
+
+766
+00:40:11,737 --> 00:40:13,034
+Your assistant?
+
+767
+00:40:14,373 --> 00:40:16,500
+Yes, sir.
+
+768
+00:40:16,542 --> 00:40:19,568
+...to reject violence
+as a solution
+
+769
+00:40:19,612 --> 00:40:22,080
+to join hands with all peoples
+
+770
+00:40:22,114 --> 00:40:24,105
+and begin to trust again.
+
+771
+00:41:05,090 --> 00:41:07,684
+No!
+
+772
+00:41:30,616 --> 00:41:32,584
+The Prophets spoke.
+
+773
+00:41:32,618 --> 00:41:34,779
+l answered their call.
+
+774
+00:41:34,887 --> 00:41:36,787
+The Prophets spoke!
+
+775
+00:41:36,889 --> 00:41:40,290
+l answered their call!
+
+776
+00:41:50,269 --> 00:41:53,238
+lt was all
+to get him here, wasn't it?
+
+777
+00:41:53,272 --> 00:41:55,570
+The school, the protest,
+the bombing--
+
+778
+00:41:55,607 --> 00:41:58,098
+you knew that would get him
+out of the monastery.
+
+779
+00:41:58,143 --> 00:42:00,611
+You did it all to kill him--
+
+780
+00:42:00,646 --> 00:42:03,911
+to stop him from becoming Kai.
+
+781
+00:42:35,114 --> 00:42:37,582
+Neela insists she acted alone--
+
+782
+00:42:37,616 --> 00:42:41,609
+unless you want to consider
+the Prophets coconspirators.
+
+783
+00:42:41,653 --> 00:42:43,951
+She'll never tell us the truth.
+
+784
+00:42:43,989 --> 00:42:47,755
+We'll never be able to prove
+that Winn was involved.
+
+785
+00:42:47,793 --> 00:42:50,660
+You okay?
+
+786
+00:42:50,696 --> 00:42:52,527
+Okay?
+
+787
+00:42:52,564 --> 00:42:54,532
+l've forgotten ''okay.''
+
+788
+00:42:54,566 --> 00:42:58,229
+l haven't seen ''okay''
+in what seems like years.
+
+789
+00:42:58,270 --> 00:43:00,898
+l was just sitting here
+thinking
+
+790
+00:43:00,939 --> 00:43:03,874
+last year at this time
+
+791
+00:43:03,909 --> 00:43:09,040
+l was fighting the Cardassians
+in some nameless swamp.
+
+792
+00:43:09,081 --> 00:43:11,549
+And if you'd stopped by
+and told me
+
+793
+00:43:11,583 --> 00:43:14,381
+that just one year later,
+they'd be gone
+
+794
+00:43:14,420 --> 00:43:16,388
+and l'd be wearing this uniform
+
+795
+00:43:16,422 --> 00:43:19,550
+up here in charge
+of protecting some wormhole...
+
+796
+00:43:19,591 --> 00:43:22,082
+Protecting
+your Celestial Temple.
+
+797
+00:43:24,797 --> 00:43:28,756
+l envied Vedek Winn
+because she was a true believer.
+
+798
+00:43:28,801 --> 00:43:32,897
+l wanted my faith
+to be as strong as hers.
+
+799
+00:43:32,938 --> 00:43:34,701
+Maybe it is.
+
+800
+00:43:37,109 --> 00:43:39,737
+l've got a report
+to put together for Starfleet.
+
+801
+00:43:39,778 --> 00:43:41,746
+You ought to get some rest.
+
+802
+00:43:41,780 --> 00:43:43,611
+l'd rather help you.
+
+803
+00:43:44,783 --> 00:43:46,410
+Commander...
+
+804
+00:43:46,452 --> 00:43:50,582
+l heard what you said
+to Vedek Winn at the school.
+
+805
+00:43:50,622 --> 00:43:52,749
+l just wanted you to know...
+
+806
+00:43:52,791 --> 00:43:53,917
+you were right--
+
+807
+00:43:53,959 --> 00:43:56,587
+what you said
+about the Bajorans--
+
+808
+00:43:56,628 --> 00:43:58,926
+at least about me.
+
+809
+00:43:58,964 --> 00:44:01,899
+l don't think that you're...
+
+810
+00:44:01,934 --> 00:44:03,925
+the devil.
+
+811
+00:44:05,404 --> 00:44:08,771
+Maybe we have made
+some progress after all.
+

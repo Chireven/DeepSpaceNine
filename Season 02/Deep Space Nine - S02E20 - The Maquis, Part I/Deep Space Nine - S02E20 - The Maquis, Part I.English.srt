@@ -1,0 +1,4195 @@
+﻿1
+00:00:44,102 --> 00:00:47,128
+The Cardassian Freighter <i>Bok'Nor</i>
+is requesting permission
+
+2
+00:00:47,172 --> 00:00:49,572
+to depart Upper Pylon 1
+in three minutes.
+
+3
+00:00:49,608 --> 00:00:51,735
+We have an incoming
+Bolian vessel
+
+4
+00:00:51,777 --> 00:00:53,768
+at coordinates 101 mark 38.
+
+5
+00:00:53,812 --> 00:00:55,211
+Give the <i>Bok'Nor</i>
+a clear trajectory
+
+6
+00:00:55,280 --> 00:00:56,372
+out of the traffic pattern.
+
+7
+00:00:56,415 --> 00:00:58,212
+Acknowledged.
+
+8
+00:00:58,250 --> 00:01:00,218
+Feel like getting together
+for dinner tonight?
+
+9
+00:01:00,285 --> 00:01:03,015
+Can't. l'm having dinner
+with Captain Boday.
+
+10
+00:01:03,055 --> 00:01:04,113
+The Gallamite?
+
+11
+00:01:04,156 --> 00:01:05,953
+You're going
+out on a date with him?
+
+12
+00:01:05,991 --> 00:01:08,289
+ls something wrong with that?
+
+13
+00:01:08,327 --> 00:01:10,921
+No... not at all.
+
+14
+00:01:10,962 --> 00:01:12,725
+He happens to be brilliant.
+
+15
+00:01:12,764 --> 00:01:15,096
+His brain is twice the size
+of yours and mine.
+
+16
+00:01:15,133 --> 00:01:17,101
+l know, l've seen it.
+
+17
+00:01:17,135 --> 00:01:20,627
+lt's not his fault Gallamites
+have transparent skulls.
+
+18
+00:01:20,672 --> 00:01:22,105
+No, it's not.
+
+19
+00:01:22,140 --> 00:01:27,168
+lt's... not exactly the view
+l want to have with dinner.
+
+20
+00:01:27,279 --> 00:01:29,907
+You know, Kira,
+sometimes l think you place
+
+21
+00:01:29,948 --> 00:01:32,041
+too much emphasis
+on how men look.
+
+22
+00:01:32,084 --> 00:01:33,574
+What's that supposed to mean?
+
+23
+00:01:33,618 --> 00:01:35,415
+Nothing.
+
+24
+00:01:35,454 --> 00:01:37,649
+Look, when l kiss a man
+good night
+
+25
+00:01:37,689 --> 00:01:40,157
+l like to know
+where l'm kissing him.
+
+26
+00:01:40,192 --> 00:01:43,628
+l guess seven lifetimes gives me
+a somewhat broader perspective.
+
+27
+00:01:43,662 --> 00:01:45,527
+Well, since l just have
+one lifetime
+
+28
+00:01:45,564 --> 00:01:47,498
+l have to be
+a little more particular
+
+29
+00:01:47,532 --> 00:01:48,863
+about whom l go out with.
+
+30
+00:01:48,900 --> 00:01:51,198
+l never said
+l wasn't particular.
+
+31
+00:01:51,236 --> 00:01:53,534
+l'm not the one
+who dates Ferengis.
+
+32
+00:01:53,572 --> 00:01:55,301
+And what's that
+supposed to mean?
+
+33
+00:01:55,340 --> 00:01:56,705
+Nothing.
+
+34
+00:02:00,178 --> 00:02:03,113
+Releasing docking clamps
+at Upper Pylon 1.
+
+35
+00:02:04,316 --> 00:02:06,147
+That's funny.
+
+36
+00:02:06,184 --> 00:02:08,550
+l'm picking up elevated...
+
+37
+00:02:08,587 --> 00:02:10,953
+DS9 to <i>Bok'Nor.</i>
+Shut down your engines.
+
+38
+00:02:10,989 --> 00:02:12,957
+Repeat.
+Shut down your engines!
+
+39
+00:02:17,696 --> 00:02:19,129
+Report.
+
+40
+00:02:19,164 --> 00:02:20,859
+Some kind of impulse overload.
+Checking.
+
+41
+00:02:20,899 --> 00:02:22,457
+Ops to all
+engineering personnel.
+
+42
+00:02:22,501 --> 00:02:23,763
+Report to rescue stations.
+
+43
+00:02:23,802 --> 00:02:26,134
+We have an S.l.D. in progress.
+
+44
+00:02:26,171 --> 00:02:28,401
+There's nothing left of it.
+
+45
+00:02:28,440 --> 00:02:30,965
+There's no one left to rescue.
+
+46
+00:04:38,677 --> 00:04:41,840
+Kelindide, rodinium--
+
+47
+00:04:41,880 --> 00:04:42,938
+nothing unusual there.
+
+48
+00:04:42,981 --> 00:04:46,109
+All materials commonly used
+in Cardassian ship construction.
+
+49
+00:04:46,151 --> 00:04:48,745
+Maybe it was a malfunction
+in the impulse generator.
+
+50
+00:04:48,787 --> 00:04:51,017
+l'd like to be able
+to tell you that, Major
+
+51
+00:04:51,056 --> 00:04:52,523
+but it's too soon to be sure.
+
+52
+00:04:52,557 --> 00:04:54,115
+l can't believe the Cardassians
+
+53
+00:04:54,192 --> 00:04:56,683
+have waited this long
+for an official explanation.
+
+54
+00:04:56,728 --> 00:04:57,820
+Anything, Chief?
+
+55
+00:04:57,862 --> 00:04:59,921
+No sign of an explosive device
+yet, sir.
+
+56
+00:04:59,965 --> 00:05:02,627
+l've got every Admiral within
+subspace range on my back.
+
+57
+00:05:02,667 --> 00:05:05,659
+Can l at least tell them
+that it looks like an accident?
+
+58
+00:05:05,704 --> 00:05:07,501
+Well, l wouldn't do that yet.
+
+59
+00:05:07,539 --> 00:05:08,801
+When?
+
+60
+00:05:08,840 --> 00:05:09,864
+l'll let you know, sir.
+
+61
+00:05:09,908 --> 00:05:11,637
+Anything from the Cardassians,
+Commander?
+
+62
+00:05:11,676 --> 00:05:12,870
+Not a word.
+
+63
+00:05:12,911 --> 00:05:15,038
+All Bajoran outposts
+have been put on alert
+
+64
+00:05:15,080 --> 00:05:16,672
+for retaliatory strikes.
+
+65
+00:05:16,715 --> 00:05:19,081
+The provisional government
+has made a statement
+
+66
+00:05:19,184 --> 00:05:20,742
+disavowing any responsibility.
+
+67
+00:05:20,785 --> 00:05:22,514
+Maybe it really was an accident.
+
+68
+00:05:22,554 --> 00:05:24,078
+l mean, it is a possibility.
+
+69
+00:05:24,122 --> 00:05:25,555
+An accident involving
+
+70
+00:05:25,590 --> 00:05:28,081
+a Cardassian ship
+in Bajoran space?
+
+71
+00:05:28,126 --> 00:05:30,959
+lf l were a Cardassian,
+l wouldn't easily accept...
+
+72
+00:05:30,996 --> 00:05:32,258
+That's odd.
+
+73
+00:05:32,297 --> 00:05:33,594
+What?
+
+74
+00:05:33,632 --> 00:05:36,100
+l'm picking up traces
+of a mercassium compound.
+
+75
+00:05:36,201 --> 00:05:37,828
+Mercassium?
+There shouldn't have been
+
+76
+00:05:37,869 --> 00:05:40,030
+any mercassium
+on board that ship.
+
+77
+00:05:40,071 --> 00:05:41,732
+Well, there was.
+
+78
+00:05:41,773 --> 00:05:42,831
+Meaning?
+
+79
+00:05:42,874 --> 00:05:44,341
+l'm not quite sure yet.
+
+80
+00:05:44,376 --> 00:05:46,207
+Well, is mercassium
+some kind of explosive?
+
+81
+00:05:46,244 --> 00:05:48,235
+No, it's a synthetic composite
+
+82
+00:05:48,280 --> 00:05:50,407
+used in shield generator
+construction
+
+83
+00:05:50,448 --> 00:05:52,006
+by the Federation.
+
+84
+00:05:52,050 --> 00:05:54,450
+We don't share that technology
+with anyone.
+
+85
+00:05:54,486 --> 00:05:57,580
+Chief, l don't think you're
+going to find any evidence
+
+86
+00:05:57,622 --> 00:05:58,589
+of an explosive device.
+
+87
+00:05:58,623 --> 00:05:59,590
+Lieutenant, respectfully
+
+88
+00:05:59,624 --> 00:06:01,319
+these kinds of things
+take time, and l...
+
+89
+00:06:01,359 --> 00:06:02,792
+l don't think
+you're going to find
+
+90
+00:06:02,827 --> 00:06:04,488
+any evidence
+of an explosive device
+
+91
+00:06:04,529 --> 00:06:05,689
+because l'm pretty sure
+
+92
+00:06:05,730 --> 00:06:07,960
+it was an implosive
+protomatter device
+
+93
+00:06:07,999 --> 00:06:10,433
+designed to match
+the impulse signature.
+
+94
+00:06:10,468 --> 00:06:11,992
+Just before the explosion
+
+95
+00:06:12,037 --> 00:06:13,868
+l picked up a sudden increase
+
+96
+00:06:13,905 --> 00:06:15,202
+in their fusion rate.
+
+97
+00:06:15,240 --> 00:06:17,367
+l've been trying to find
+any sign of malfunction
+
+98
+00:06:17,409 --> 00:06:19,343
+in the <i>Bok'Nor's</i>
+engines to explain it
+
+99
+00:06:19,377 --> 00:06:20,639
+but there just isn't one.
+
+100
+00:06:20,679 --> 00:06:23,204
+This doesn't look
+like an accident.
+
+101
+00:06:23,248 --> 00:06:24,909
+The fusion shock
+had to be caused
+
+102
+00:06:24,949 --> 00:06:27,577
+by something external
+to the impulse drive system.
+
+103
+00:06:27,619 --> 00:06:30,349
+lf a protomatter device
+was attached to the cross-feeds
+
+104
+00:06:30,388 --> 00:06:32,083
+that could have created
+the overload
+
+105
+00:06:32,190 --> 00:06:33,851
+and we'd never see
+any sign of it.
+
+106
+00:06:33,892 --> 00:06:35,359
+Can you prove
+that's what happened?
+
+107
+00:06:35,393 --> 00:06:36,690
+Maybe
+
+108
+00:06:36,728 --> 00:06:38,559
+if we can get
+a high resolution spectra
+
+109
+00:06:38,596 --> 00:06:39,585
+of the impulse debris
+
+110
+00:06:39,631 --> 00:06:40,928
+but that's going to take...
+
+111
+00:06:40,965 --> 00:06:42,432
+Time.
+Yes, l know.
+
+112
+00:06:42,467 --> 00:06:43,695
+Get it started.
+
+113
+00:06:43,735 --> 00:06:45,669
+l'll tell the Admirals.
+
+114
+00:06:45,704 --> 00:06:46,966
+Sisko out.
+
+115
+00:06:49,140 --> 00:06:50,437
+Benjamin.
+
+116
+00:06:50,475 --> 00:06:51,464
+Ah.
+
+117
+00:06:53,144 --> 00:06:55,510
+Cal, thanks for coming
+on such short notice.
+
+118
+00:06:55,547 --> 00:06:57,845
+l wish it didn't take
+a disaster like this
+
+119
+00:06:57,882 --> 00:06:59,543
+to bring us back together again.
+
+120
+00:06:59,584 --> 00:07:01,108
+Hi, Calvin.
+
+121
+00:07:02,754 --> 00:07:04,585
+Jadzia Dax.
+
+122
+00:07:04,622 --> 00:07:06,613
+Dax?!
+
+123
+00:07:08,360 --> 00:07:09,384
+My goodness!
+
+124
+00:07:09,427 --> 00:07:12,863
+Well, you look a lot better
+than when last l saw you.
+
+125
+00:07:12,897 --> 00:07:14,364
+Chief of Security Odo.
+
+126
+00:07:14,399 --> 00:07:16,492
+Commander Calvin Hudson
+
+127
+00:07:16,534 --> 00:07:18,900
+Starfleet's attaché to
+the Federation colonies
+
+128
+00:07:18,937 --> 00:07:20,427
+in the new
+Demilitarized Zone.
+
+129
+00:07:20,472 --> 00:07:22,201
+You must be concerned about
+
+130
+00:07:22,240 --> 00:07:25,073
+the colonies' security
+at a time like this.
+
+131
+00:07:25,176 --> 00:07:26,973
+Well, we haven't noticed
+any unusual deployment
+
+132
+00:07:27,011 --> 00:07:28,501
+from the Cardassians
+along the border.
+
+133
+00:07:28,546 --> 00:07:31,481
+Neither have we, and that's
+what's got me worried.
+
+134
+00:07:31,516 --> 00:07:33,177
+Let's go into my office.
+
+135
+00:07:33,218 --> 00:07:35,846
+Lieutenant, l don't
+have time this trip
+
+136
+00:07:35,887 --> 00:07:39,220
+but you and l have a few stories
+to catch up on.
+
+137
+00:07:39,257 --> 00:07:42,693
+-Next time.
+-Next time.
+
+138
+00:07:42,727 --> 00:07:46,663
+That woman knows more about me
+than any woman ever has.
+
+139
+00:07:46,698 --> 00:07:48,427
+More than my wife, even.
+
+140
+00:07:48,466 --> 00:07:50,093
+Tell me about it.
+
+141
+00:07:50,168 --> 00:07:53,331
+Don't you find things
+a little uncomfortable?
+
+142
+00:07:53,371 --> 00:07:56,602
+Oh, no, she's a good officer.
+
+143
+00:07:56,641 --> 00:07:58,336
+Yes, but Curzon was...
+
+144
+00:07:58,376 --> 00:08:00,401
+She's not Curzon.
+
+145
+00:08:00,445 --> 00:08:02,743
+Now, you two aren't, l mean...
+
+146
+00:08:04,416 --> 00:08:07,146
+Oh, no.
+She may not be Curzon
+
+147
+00:08:07,185 --> 00:08:08,812
+but she is Dax.
+
+148
+00:08:08,853 --> 00:08:13,347
+Yes, that would be
+extremely... strange.
+
+149
+00:08:13,391 --> 00:08:16,849
+So, Ben, how is Jake?
+
+150
+00:08:16,895 --> 00:08:17,987
+As tall as me.
+
+151
+00:08:18,029 --> 00:08:19,257
+No!
+
+152
+00:08:19,297 --> 00:08:21,595
+He throws inside to knock
+the old man off the plate.
+
+153
+00:08:21,633 --> 00:08:23,260
+A little chin music, huh?
+
+154
+00:08:23,301 --> 00:08:25,895
+Yeah, he's growing up
+too fast.
+
+155
+00:08:25,937 --> 00:08:28,531
+Yeah.
+
+156
+00:08:30,575 --> 00:08:33,169
+lt must have been difficult
+for you.
+
+157
+00:08:33,211 --> 00:08:36,874
+At least l didn't have
+a child to raise by myself.
+
+158
+00:08:36,915 --> 00:08:41,614
+Well, we kind of helped
+each other through it.
+
+159
+00:08:43,455 --> 00:08:45,252
+l heard about Gretchen.
+
+160
+00:08:45,290 --> 00:08:47,918
+l wanted to be there for you.
+
+161
+00:08:47,959 --> 00:08:51,554
+There was just
+no way to get back.
+
+162
+00:08:51,596 --> 00:08:53,894
+l know that, Ben.
+
+163
+00:08:53,932 --> 00:08:55,092
+You know, l was hoping
+
+164
+00:08:55,133 --> 00:08:56,998
+when they sent me
+to the colonies
+
+165
+00:08:57,035 --> 00:08:59,265
+that you and l would
+have a little time
+
+166
+00:08:59,304 --> 00:09:00,601
+for some R&R together.
+
+167
+00:09:00,638 --> 00:09:02,037
+Who's got R&R time?
+
+168
+00:09:02,140 --> 00:09:03,903
+l know.
+
+169
+00:09:03,942 --> 00:09:06,775
+You can't imagine
+how my life has changed
+
+170
+00:09:06,811 --> 00:09:10,042
+since the Federation
+abandoned these colonies.
+
+171
+00:09:10,081 --> 00:09:11,048
+Abandoned them?
+
+172
+00:09:11,082 --> 00:09:12,379
+Doesn't your presence...?
+
+173
+00:09:12,417 --> 00:09:14,408
+My presence there is a joke.
+
+174
+00:09:14,452 --> 00:09:17,615
+l am supposed to help
+these colonies function
+
+175
+00:09:17,655 --> 00:09:20,021
+under the terms
+of the new treaty.
+
+176
+00:09:20,058 --> 00:09:22,788
+Now, Ben, what the hell
+does that mean?
+
+177
+00:09:22,827 --> 00:09:25,227
+l thought these colonists
+wanted to stay.
+
+178
+00:09:25,263 --> 00:09:26,821
+That they refused to evacuate.
+
+179
+00:09:26,865 --> 00:09:28,958
+The treaty gave away
+their territory
+
+180
+00:09:29,000 --> 00:09:30,228
+to the Cardassians--
+
+181
+00:09:30,268 --> 00:09:33,635
+territory that these people
+had invested their lives in.
+
+182
+00:09:33,671 --> 00:09:35,605
+Now, Ben, if you knew them
+as l do
+
+183
+00:09:35,640 --> 00:09:37,665
+you'd know why they can't leave.
+
+184
+00:09:37,709 --> 00:09:38,869
+lt's a bad treaty.
+
+185
+00:09:38,910 --> 00:09:41,037
+The Federation
+gave away too much.
+
+186
+00:09:41,079 --> 00:09:42,376
+Several Cardassian colonies
+
+187
+00:09:42,413 --> 00:09:45,576
+wanted to stay on the Federation
+side of the zone, too.
+
+188
+00:09:45,617 --> 00:09:48,085
+lt seemed like
+a reasonable compromise.
+
+189
+00:09:48,119 --> 00:09:49,848
+Oh, yes,
+the Cardassians would love
+
+190
+00:09:49,888 --> 00:09:52,482
+to have their colonies
+in our territory
+
+191
+00:09:52,524 --> 00:09:54,822
+because they know
+we'd protect them
+
+192
+00:09:54,859 --> 00:09:57,919
+but they have no intention
+of doing the same for ours.
+
+193
+00:09:57,962 --> 00:10:00,954
+A number of Admirals
+at Starfleet Command are worried
+
+194
+00:10:00,999 --> 00:10:03,832
+the destruction of the <i>Bok'Nor</i>
+might jeopardize the treaty.
+
+195
+00:10:03,868 --> 00:10:05,028
+Oh, are they really?
+
+196
+00:10:05,069 --> 00:10:08,232
+As the two ranking officers
+along the Cardassian border
+
+197
+00:10:08,273 --> 00:10:11,208
+we've been asked to assess
+the potential risk.
+
+198
+00:10:11,242 --> 00:10:13,005
+There is no risk, Ben.
+
+199
+00:10:13,044 --> 00:10:15,012
+None.
+
+200
+00:10:15,046 --> 00:10:17,105
+l have been dealing
+with the Cardassians
+
+201
+00:10:17,181 --> 00:10:19,581
+most of my professional life,
+and believe me
+
+202
+00:10:19,617 --> 00:10:22,677
+they are very pleased with
+what they got from the treaty.
+
+203
+00:10:22,720 --> 00:10:25,245
+They are not about
+to risk losing
+
+204
+00:10:25,290 --> 00:10:29,124
+all they've gained
+by sending forces into the zone.
+
+205
+00:10:29,160 --> 00:10:31,594
+They're much too slick for that.
+
+206
+00:10:31,629 --> 00:10:35,429
+lf l were you, l'd be
+very concerned with security
+
+207
+00:10:35,466 --> 00:10:37,627
+along the Bajoran border.
+
+208
+00:10:40,672 --> 00:10:44,130
+Are you surprised they haven't
+responded at all yet?
+
+209
+00:10:44,242 --> 00:10:46,369
+Well, Ben, you and l both know
+
+210
+00:10:46,411 --> 00:10:49,642
+they never let you see
+what you expect to see.
+
+211
+00:10:49,681 --> 00:10:51,979
+They'll respond.
+
+212
+00:11:06,464 --> 00:11:10,025
+Quarters have been arranged
+through discreet channels--
+
+213
+00:11:10,068 --> 00:11:11,558
+Deck 7, Section 4-G.
+
+214
+00:11:11,603 --> 00:11:15,266
+l suggest you keep a low profile
+until your ship arrives.
+
+215
+00:11:39,533 --> 00:11:41,091
+Can l get you something?
+
+216
+00:11:41,201 --> 00:11:42,930
+You are Quark, aren't you?
+
+217
+00:11:42,970 --> 00:11:44,904
+l assure you,
+the warrant is out of date.
+
+218
+00:11:44,938 --> 00:11:46,667
+l cleared that matter up
+months ago.
+
+219
+00:11:46,707 --> 00:11:48,572
+Warrant?
+
+220
+00:11:48,609 --> 00:11:51,100
+Oh, uh, when you recognized me,
+l assumed...
+
+221
+00:11:51,178 --> 00:11:52,975
+You are counting your receipts.
+
+222
+00:11:53,013 --> 00:11:54,503
+lt is logical to conclude
+
+223
+00:11:54,548 --> 00:11:57,108
+you are the proprietor
+of the establishment.
+
+224
+00:11:57,184 --> 00:11:58,481
+You're very observant.
+
+225
+00:11:58,518 --> 00:11:59,849
+What can l do for you?
+
+226
+00:11:59,887 --> 00:12:02,685
+l was hoping to discuss
+a business proposition.
+
+227
+00:12:02,723 --> 00:12:04,054
+With me?
+
+228
+00:12:04,157 --> 00:12:07,251
+Uh, perhaps l should explain
+about that slip of the tongue.
+
+229
+00:12:07,294 --> 00:12:09,285
+Your past
+is of no consequence to me.
+
+230
+00:12:09,329 --> 00:12:11,160
+l'm delighted
+to hear you say that
+
+231
+00:12:11,198 --> 00:12:13,166
+because nothing
+would please me more
+
+232
+00:12:13,200 --> 00:12:16,169
+than to make a fresh start
+with the Vulcans, Ms., uh...?
+
+233
+00:12:16,203 --> 00:12:19,229
+-Sakonna.
+-Sakonna.
+
+234
+00:12:19,273 --> 00:12:20,900
+Such a handsome name
+
+235
+00:12:20,941 --> 00:12:23,501
+for such a handsome young woman.
+
+236
+00:12:23,543 --> 00:12:25,773
+What will you have to drink?
+
+237
+00:12:25,812 --> 00:12:26,972
+Wait a minute.
+
+238
+00:12:27,014 --> 00:12:28,914
+l have just the thing.
+
+239
+00:12:28,949 --> 00:12:31,679
+Vulcan port.
+
+240
+00:12:33,320 --> 00:12:34,878
+Three centuries old.
+
+241
+00:12:34,922 --> 00:12:38,380
+Very rare, very expensive.
+
+242
+00:12:38,425 --> 00:12:39,551
+Shall l pour you a glass?
+
+243
+00:12:39,593 --> 00:12:40,560
+No.
+
+244
+00:12:40,594 --> 00:12:42,323
+Not even a taste?
+lt's exquisite.
+
+245
+00:12:42,362 --> 00:12:43,329
+l'm not thirsty
+
+246
+00:12:43,363 --> 00:12:45,092
+thus, l see no reason
+to have a drink.
+
+247
+00:12:45,132 --> 00:12:48,795
+Well, it'll be right here
+should you develop a thirst.
+
+248
+00:12:48,835 --> 00:12:51,998
+Now, uh, you mentioned
+a business proposition.
+
+249
+00:12:52,039 --> 00:12:53,301
+lt is a private matter.
+
+250
+00:12:53,340 --> 00:12:55,308
+l would rather not
+discuss it here.
+
+251
+00:12:55,342 --> 00:12:57,207
+Then we can discuss
+it over dinner.
+
+252
+00:12:57,244 --> 00:12:59,439
+That is, we can plan
+the business meeting
+
+253
+00:12:59,479 --> 00:13:02,312
+to coincide with when you think
+you might get hungry.
+
+254
+00:13:02,349 --> 00:13:03,714
+That would be acceptable.
+
+255
+00:13:03,750 --> 00:13:05,047
+That would be wonderful.
+
+256
+00:13:05,085 --> 00:13:06,916
+How does 8:00
+sound to your tummy?
+
+257
+00:13:06,954 --> 00:13:09,081
+l will return then.
+
+258
+00:13:13,360 --> 00:13:15,487
+And, by the way
+
+259
+00:13:15,529 --> 00:13:21,161
+l'd love to melt
+that cold Vulcan heart of yours.
+
+260
+00:13:24,938 --> 00:13:26,132
+Bleech.
+
+261
+00:13:29,910 --> 00:13:31,172
+Oh!
+
+262
+00:13:31,211 --> 00:13:34,009
+Oh, here, allow me.
+
+263
+00:13:34,047 --> 00:13:36,072
+Thank you.
+
+264
+00:13:36,183 --> 00:13:39,482
+Ah! Oh...
+
+265
+00:13:48,628 --> 00:13:50,528
+Jake-o?
+
+266
+00:13:50,564 --> 00:13:53,226
+Your son is not here,
+Commander.
+
+267
+00:13:53,266 --> 00:13:54,528
+Dukat.
+
+268
+00:13:54,568 --> 00:13:56,763
+l'm sorry.
+l didn't mean to startle you.
+
+269
+00:13:56,803 --> 00:13:58,100
+Where is he?
+
+270
+00:13:58,205 --> 00:13:59,536
+Who? Your son?
+
+271
+00:13:59,573 --> 00:14:01,370
+How would l know?
+
+272
+00:14:01,408 --> 00:14:02,500
+l just...
+
+273
+00:14:02,542 --> 00:14:05,340
+Commander, you don't...?
+
+274
+00:14:08,348 --> 00:14:13,047
+Do you think l would ever
+do anything to harm your son?
+
+275
+00:14:13,086 --> 00:14:15,054
+l think
+you're capable of anything.
+
+276
+00:14:15,088 --> 00:14:16,919
+You wound me, sir.
+
+277
+00:14:16,957 --> 00:14:19,425
+l'm here as your friend.
+
+278
+00:14:19,459 --> 00:14:20,721
+Sisko to Kira.
+
+279
+00:14:20,761 --> 00:14:24,060
+Please do not do anything
+hastily, Commander.
+
+280
+00:14:24,097 --> 00:14:25,587
+We must talk in private.
+
+281
+00:14:25,632 --> 00:14:26,929
+Yes, Commander?
+
+282
+00:14:26,967 --> 00:14:28,992
+Major, l want you to find Jake.
+
+283
+00:14:29,036 --> 00:14:30,230
+ls he missing?
+
+284
+00:14:30,270 --> 00:14:31,237
+l don't know.
+
+285
+00:14:31,271 --> 00:14:32,898
+Find out where he is
+and let me know.
+
+286
+00:14:32,939 --> 00:14:33,928
+Understood.
+
+287
+00:14:35,375 --> 00:14:37,172
+How the hell
+did you get in here?
+
+288
+00:14:37,210 --> 00:14:39,075
+l was an unregistered passenger
+
+289
+00:14:39,146 --> 00:14:42,081
+on a Kotakian ship
+that docked here this morning.
+
+290
+00:14:42,149 --> 00:14:44,276
+l slipped in
+through the cargo bay.
+
+291
+00:14:44,317 --> 00:14:49,254
+Hmm. And made your way here
+without anyone seeing you.
+
+292
+00:14:49,289 --> 00:14:51,655
+l was the Commander
+of this station
+
+293
+00:14:51,691 --> 00:14:53,488
+for almost ten years.
+
+294
+00:14:53,527 --> 00:14:56,519
+When one knows
+the various corridors
+
+295
+00:14:56,563 --> 00:14:59,191
+and passageways as well as l...
+
+296
+00:14:59,232 --> 00:15:01,029
+Oh, by the way, l love
+
+297
+00:15:01,068 --> 00:15:04,037
+what you've done
+with these quarters.
+
+298
+00:15:04,071 --> 00:15:05,129
+Kira to Sisko.
+
+299
+00:15:05,172 --> 00:15:06,264
+Jake's fine, Commander.
+
+300
+00:15:06,306 --> 00:15:08,501
+He's with Nog,
+watching the women
+
+301
+00:15:08,542 --> 00:15:10,874
+coming off the Bajoran transport
+at Docking Bay 1.
+
+302
+00:15:10,911 --> 00:15:13,038
+Shall l have him
+brought to your quarters?
+
+303
+00:15:13,080 --> 00:15:14,479
+No, that's all right.
+
+304
+00:15:14,514 --> 00:15:15,776
+Thank you, Major.
+
+305
+00:15:15,816 --> 00:15:17,977
+Sisko out.
+
+306
+00:15:18,018 --> 00:15:20,009
+There. You see?
+
+307
+00:15:20,053 --> 00:15:22,783
+Safe and sound.
+
+308
+00:15:24,024 --> 00:15:26,424
+What are you doing here?
+
+309
+00:15:30,097 --> 00:15:32,657
+You have a problem.
+
+310
+00:15:32,699 --> 00:15:33,757
+Do l?
+
+311
+00:15:33,800 --> 00:15:35,028
+The <i>Bok'Nor?.</i>
+
+312
+00:15:35,068 --> 00:15:37,502
+ls this the Cardassian
+Central Command's way
+
+313
+00:15:37,537 --> 00:15:39,562
+of responding to my communiqués?
+
+314
+00:15:39,606 --> 00:15:41,597
+On the contrary.
+
+315
+00:15:41,641 --> 00:15:43,768
+Central Command
+has no idea l'm here.
+
+316
+00:15:43,810 --> 00:15:45,675
+lt's true.
+
+317
+00:15:45,712 --> 00:15:47,202
+l'm here unofficially
+
+318
+00:15:47,247 --> 00:15:50,614
+to help you find out
+the truth about the <i>Bok'Nor.</i>
+
+319
+00:15:50,650 --> 00:15:52,242
+Why would you want to help me?
+
+320
+00:15:52,285 --> 00:15:54,776
+Because l already know
+the truth.
+
+321
+00:15:54,821 --> 00:15:56,083
+Do you know who's responsible?
+
+322
+00:15:56,189 --> 00:15:57,315
+-l do.
+-Who?
+
+323
+00:15:57,357 --> 00:15:58,654
+You are.
+
+324
+00:16:00,794 --> 00:16:03,729
+Well, not you personally,
+Commander.
+
+325
+00:16:03,763 --> 00:16:06,561
+l know you to be
+an honorable man.
+
+326
+00:16:06,600 --> 00:16:09,125
+You're not one to sneak around
+
+327
+00:16:09,169 --> 00:16:13,037
+attaching implosion devices
+to impulse engines.
+
+328
+00:16:13,140 --> 00:16:15,005
+But believe it or not
+
+329
+00:16:15,041 --> 00:16:19,137
+there are those of your brethren
+who are willing
+
+330
+00:16:19,179 --> 00:16:20,976
+to do such things.
+
+331
+00:16:23,683 --> 00:16:26,516
+Morally superior human beings
+
+332
+00:16:26,553 --> 00:16:30,011
+and other members
+of the Federation.
+
+333
+00:16:30,056 --> 00:16:33,992
+l'm supposed
+to take your word for that?
+
+334
+00:16:34,027 --> 00:16:35,426
+Of course not.
+
+335
+00:16:35,462 --> 00:16:37,589
+lt's my job to convince you
+
+336
+00:16:37,631 --> 00:16:40,361
+so you can clean up
+your own house
+
+337
+00:16:40,400 --> 00:16:43,460
+instead of forcing us
+to do it for you
+
+338
+00:16:43,503 --> 00:16:47,234
+which would certainly
+endanger the new treaty.
+
+339
+00:16:47,274 --> 00:16:49,936
+We'll need
+one of your runabouts.
+
+340
+00:16:49,976 --> 00:16:51,773
+Where are we going?
+
+341
+00:16:51,811 --> 00:16:53,472
+The Volon colonies.
+
+342
+00:16:53,513 --> 00:16:55,504
+The Demilitarized Zone?
+
+343
+00:16:55,549 --> 00:17:00,953
+Hmm. Not so demilitarized,
+l'm afraid.
+
+344
+00:17:07,994 --> 00:17:09,427
+l can't help but notice
+
+345
+00:17:09,462 --> 00:17:11,794
+that my controls
+are not illuminated.
+
+346
+00:17:11,831 --> 00:17:13,856
+lsn't it customary
+for both seats
+
+347
+00:17:13,900 --> 00:17:16,733
+to be turned on, so that
+l may pilot the craft
+
+348
+00:17:16,770 --> 00:17:18,567
+in the event of an emergency?
+
+349
+00:17:18,605 --> 00:17:21,870
+lf there's an emergency,
+l guess you're out of luck.
+
+350
+00:17:21,908 --> 00:17:24,138
+Commander, l'm not
+going to sit here
+
+351
+00:17:24,177 --> 00:17:26,645
+and steal
+your little technical secrets
+
+352
+00:17:26,680 --> 00:17:28,147
+l promise you.
+
+353
+00:17:28,181 --> 00:17:29,739
+l appreciate your assurances
+
+354
+00:17:29,783 --> 00:17:33,241
+but Cardassians are famous
+for their photographic memories.
+
+355
+00:17:33,286 --> 00:17:35,049
+Oh, so you turn off my controls
+
+356
+00:17:35,121 --> 00:17:36,679
+so l don't have enough light
+
+357
+00:17:36,723 --> 00:17:38,691
+to take my photograph,
+is that it?
+
+358
+00:17:38,725 --> 00:17:40,989
+l've heard they put
+Cardassian children
+
+359
+00:17:41,027 --> 00:17:42,927
+in intense
+mind training programs
+
+360
+00:17:42,963 --> 00:17:44,555
+when they're four years old.
+
+361
+00:17:44,598 --> 00:17:45,656
+ls that true?
+
+362
+00:17:45,699 --> 00:17:48,065
+The Cardassian
+educational system
+
+363
+00:17:48,168 --> 00:17:50,227
+is unparalleled
+in the quadrant.
+
+364
+00:17:50,270 --> 00:17:53,569
+lf you don't mind taking
+the joy out of growing up.
+
+365
+00:17:53,607 --> 00:17:55,302
+Education is power.
+
+366
+00:17:55,342 --> 00:17:57,708
+Joy is vulnerability.
+
+367
+00:17:57,744 --> 00:17:58,870
+What?
+
+368
+00:17:58,912 --> 00:18:01,608
+Your reaction
+surprises me, Commander.
+
+369
+00:18:01,648 --> 00:18:03,878
+l thought you
+would understand.
+
+370
+00:18:03,917 --> 00:18:05,817
+Of all the humans l've met
+
+371
+00:18:05,852 --> 00:18:08,252
+you strike me
+as the most joyless
+
+372
+00:18:08,288 --> 00:18:10,017
+and the least vulnerable.
+
+373
+00:18:10,123 --> 00:18:11,784
+l am when l'm with you.
+
+374
+00:18:14,127 --> 00:18:15,560
+Well said.
+
+375
+00:18:15,595 --> 00:18:17,529
+But, in truth,
+l'm looking forward
+
+376
+00:18:17,564 --> 00:18:20,226
+to getting to know you
+better on this journey.
+
+377
+00:18:20,267 --> 00:18:22,565
+l think we know each other
+well enough.
+
+378
+00:18:22,602 --> 00:18:26,433
+ls that a ramscoop control
+
+379
+00:18:26,566 --> 00:18:28,227
+or a deflector grid panel?
+
+380
+00:18:30,070 --> 00:18:31,867
+Just curious.
+
+381
+00:18:31,905 --> 00:18:33,736
+lt really doesn't matter.
+
+382
+00:18:33,773 --> 00:18:37,732
+Cardassian pursuit vessels
+are years ahead of this design.
+
+383
+00:18:38,879 --> 00:18:40,005
+What is it?
+
+384
+00:18:40,046 --> 00:18:42,173
+Long-range sensors
+are picking up
+
+385
+00:18:42,215 --> 00:18:43,477
+a distress signal.
+
+386
+00:18:43,517 --> 00:18:44,643
+From who?
+
+387
+00:18:44,684 --> 00:18:47,983
+A Federation merchant vessel
+under attack
+
+388
+00:18:48,021 --> 00:18:48,988
+by Cardassians.
+
+389
+00:18:51,758 --> 00:18:54,955
+l'm reading
+two Cardassian attack vessels
+
+390
+00:18:54,995 --> 00:18:57,395
+just inside
+the Demilitarized Zone.
+
+391
+00:18:57,430 --> 00:18:58,761
+That's not possible.
+
+392
+00:18:58,798 --> 00:19:02,097
+l promise you, Commander,
+we would not violate the treaty.
+
+393
+00:19:02,135 --> 00:19:04,933
+The merchant vessel's
+com links are down.
+
+394
+00:19:04,971 --> 00:19:06,370
+l can't raise them.
+
+395
+00:19:06,406 --> 00:19:10,206
+Computer, fix source coordinates
+of the distress signal
+
+396
+00:19:10,243 --> 00:19:12,768
+and lay in a new course--
+warp 3.
+
+397
+00:19:12,812 --> 00:19:14,336
+l hope you don't mind.
+
+398
+00:19:14,381 --> 00:19:15,507
+Not at all.
+
+399
+00:19:15,549 --> 00:19:18,916
+l'm as curious about this
+as you are.
+
+400
+00:19:22,956 --> 00:19:25,015
+What type of Cardassian
+ships are they?
+
+401
+00:19:25,058 --> 00:19:26,650
+Patrol cruisers?
+
+402
+00:19:26,693 --> 00:19:27,660
+No, much smaller.
+
+403
+00:19:27,694 --> 00:19:28,752
+They look like shuttlecraft.
+
+404
+00:19:28,795 --> 00:19:29,819
+Cardassian shuttles
+
+405
+00:19:29,863 --> 00:19:31,455
+attacking a Federation
+merchant ship?
+
+406
+00:19:31,498 --> 00:19:35,025
+They seem to be armed
+with Galor-class phaser banks.
+
+407
+00:19:35,068 --> 00:19:36,330
+They must be from
+
+408
+00:19:36,369 --> 00:19:39,133
+Cardassian colonies
+in the Demilitarized Zone.
+
+409
+00:19:39,172 --> 00:19:40,434
+Hail them.
+
+410
+00:19:40,473 --> 00:19:43,408
+-No response.
+-Open a channel.
+
+411
+00:19:43,443 --> 00:19:45,274
+Go ahead.
+
+412
+00:19:45,312 --> 00:19:48,839
+To the pilots of the Cardassian
+attack vessels.
+
+413
+00:19:48,882 --> 00:19:52,682
+This is Gul Dukat,
+Commander of the Second Order.
+
+414
+00:19:52,719 --> 00:19:53,913
+Please respond.
+
+415
+00:19:57,557 --> 00:20:02,620
+This is Gul Dukat, security
+identification: A-D-L 4-Zero.
+
+416
+00:20:02,662 --> 00:20:07,429
+l order you to immediately
+disengage your attack.
+
+417
+00:20:10,170 --> 00:20:12,070
+We're still two minutes away.
+
+418
+00:20:12,105 --> 00:20:15,268
+The Federation vessel's shields
+are down to 40 percent.
+
+419
+00:20:15,308 --> 00:20:17,242
+Hail those
+Cardassians again.
+
+420
+00:20:17,277 --> 00:20:20,508
+l don't know who you are
+or where you come from
+
+421
+00:20:20,547 --> 00:20:23,243
+but you're going to pay
+for this, l promise you.
+
+422
+00:20:23,283 --> 00:20:26,252
+Answer me immediately,
+or l personally will fire
+
+423
+00:20:26,286 --> 00:20:28,447
+the photons
+that will destroy you.
+
+424
+00:20:31,057 --> 00:20:33,048
+Arm the photons.
+
+425
+00:20:34,427 --> 00:20:35,587
+The photon launcher is...
+
+426
+00:20:35,629 --> 00:20:36,721
+l know.
+
+427
+00:20:36,763 --> 00:20:39,732
+l knew all about these controls
+before l ever came on board.
+
+428
+00:20:39,766 --> 00:20:41,597
+Tell me when we're
+in torpedo range.
+
+429
+00:20:41,635 --> 00:20:42,932
+Stand by.
+
+430
+00:20:42,969 --> 00:20:45,802
+l'm picking up another ship
+moving toward them.
+
+431
+00:20:45,839 --> 00:20:50,105
+That's a Federation signature,
+l believe, Commander.
+
+432
+00:20:50,143 --> 00:20:51,872
+lt sure isn't from Starfleet.
+
+433
+00:20:51,911 --> 00:20:55,108
+l've never seen a ship
+configuration like that before.
+
+434
+00:20:55,215 --> 00:20:57,683
+lt almost seems
+like someone has modified
+
+435
+00:20:57,717 --> 00:20:59,116
+an old support courier.
+
+436
+00:20:59,185 --> 00:21:00,413
+Hmm.
+
+437
+00:21:00,453 --> 00:21:02,944
+Hailing them.
+
+438
+00:21:02,989 --> 00:21:04,718
+No response.
+
+439
+00:21:06,493 --> 00:21:08,051
+They fired torpedoes.
+
+440
+00:21:08,094 --> 00:21:11,029
+What kind of civilian
+vessel that size
+
+441
+00:21:11,064 --> 00:21:13,032
+would be carrying photon?
+
+442
+00:21:13,066 --> 00:21:16,524
+Something from one
+of your colonies, perhaps?
+
+443
+00:21:21,574 --> 00:21:24,202
+Now do you begin to see,
+Commander
+
+444
+00:21:24,244 --> 00:21:27,611
+that without any help
+from either one of us
+
+445
+00:21:27,647 --> 00:21:31,879
+they've managed to start
+their own little war out here?
+
+446
+00:21:43,997 --> 00:21:45,362
+l hope you're hungry.
+
+447
+00:21:45,398 --> 00:21:47,764
+l've planned
+a wonderful meal for us
+
+448
+00:21:47,801 --> 00:21:49,325
+starting with <i>plomeek</i> soup
+
+449
+00:21:49,369 --> 00:21:51,633
+which l know is
+a traditional Vulcan favorite
+
+450
+00:21:51,671 --> 00:21:56,335
+followed by jumbo
+Romulan mollusks.
+
+451
+00:21:56,376 --> 00:21:59,106
+You can't get those back
+on Vulcan anymore, can you?
+
+452
+00:21:59,212 --> 00:22:01,476
+Do you eat in this grand
+a manner every night?
+
+453
+00:22:01,514 --> 00:22:03,448
+Certainly not; this
+is a special occasion.
+
+454
+00:22:03,483 --> 00:22:04,541
+lt is?
+
+455
+00:22:04,584 --> 00:22:06,984
+The commencement
+of a new business relationship
+
+456
+00:22:07,020 --> 00:22:09,386
+is the most special
+occasion for any Ferengi.
+
+457
+00:22:09,422 --> 00:22:12,823
+lt's a cause for opening
+great bottles of wine
+
+458
+00:22:12,859 --> 00:22:17,228
+dancing into the wee,
+small hours of the morning.
+
+459
+00:22:17,263 --> 00:22:19,060
+We'll let it breathe
+for a few minutes.
+
+460
+00:22:19,165 --> 00:22:21,633
+Very well;
+l will attempt to respect
+
+461
+00:22:21,668 --> 00:22:24,262
+some of your cultural
+idiosyncrasies.
+
+462
+00:22:24,304 --> 00:22:28,070
+l will drink the wine,
+but l won't dance.
+
+463
+00:22:28,174 --> 00:22:31,507
+Maybe you'll change your mind
+after you drink the wine.
+
+464
+00:22:31,544 --> 00:22:33,068
+No, l won't.
+
+465
+00:22:33,113 --> 00:22:34,705
+Oh, come on.
+
+466
+00:22:34,748 --> 00:22:38,912
+Somewhere inside that cool,
+controlled exterior of yours
+
+467
+00:22:38,952 --> 00:22:42,945
+there is a wild woman
+screaming to get out.
+
+468
+00:22:42,989 --> 00:22:44,286
+Maybe by the end of the night
+
+469
+00:22:44,324 --> 00:22:46,019
+you'll be dancing
+on the table tops.
+
+470
+00:22:46,059 --> 00:22:48,425
+Maybe not.
+
+471
+00:22:48,461 --> 00:22:52,693
+ls it appropriate to begin
+our business discussion now?
+
+472
+00:22:52,732 --> 00:22:54,927
+Rule of Acquisition
+Number 214:
+
+473
+00:22:54,968 --> 00:22:56,868
+Never begin
+a business negotiation
+
+474
+00:22:56,903 --> 00:22:58,063
+on an empty stomach.
+
+475
+00:22:58,104 --> 00:22:59,696
+Rule of Acquisition?
+
+476
+00:22:59,739 --> 00:23:01,229
+Yes.
+
+477
+00:23:01,274 --> 00:23:03,708
+Every Ferengi
+business transaction
+
+478
+00:23:03,743 --> 00:23:06,769
+is governed
+by 285 Rules of Acquisition
+
+479
+00:23:06,813 --> 00:23:11,250
+to ensure a fair and honest deal
+for all parties concerned.
+
+480
+00:23:11,284 --> 00:23:13,343
+Well, most of them, anyway.
+
+481
+00:23:13,386 --> 00:23:16,014
+Commendable-- to create
+a code of behavior
+
+482
+00:23:16,055 --> 00:23:17,852
+for business transactions...
+
+483
+00:23:17,891 --> 00:23:19,256
+ls logical.
+
+484
+00:23:19,292 --> 00:23:21,283
+And quite reassuring.
+
+485
+00:23:21,327 --> 00:23:23,386
+Do Vulcans have
+anything similar?
+
+486
+00:23:23,429 --> 00:23:27,058
+ln structure, it reminds one
+of the Vulcan Bill of Rights
+
+487
+00:23:27,100 --> 00:23:30,331
+which guarantees the fundamental
+personal freedoms
+
+488
+00:23:30,370 --> 00:23:31,928
+of every Vulcan citizen.
+
+489
+00:23:31,971 --> 00:23:33,529
+Same thing exactly.
+
+490
+00:23:33,573 --> 00:23:35,438
+May l propose a toast?
+
+491
+00:23:35,475 --> 00:23:38,603
+ls this another
+cultural idiosyncrasy?
+
+492
+00:23:38,645 --> 00:23:41,079
+Yes. You know, l can't describe
+
+493
+00:23:41,147 --> 00:23:44,082
+the honor l feel at this moment.
+
+494
+00:23:44,117 --> 00:23:47,553
+lt's rare that a Ferengi
+and a Vulcan
+
+495
+00:23:47,587 --> 00:23:49,384
+can overcome
+their inherent differences
+
+496
+00:23:49,422 --> 00:23:51,014
+to see eye-to-eye
+as we are doing.
+
+497
+00:23:51,057 --> 00:23:53,457
+l've always had
+the greatest respect
+
+498
+00:23:53,493 --> 00:23:57,259
+for Vulcans, even though
+the few l've met
+
+499
+00:23:57,297 --> 00:23:59,993
+haven't exactly felt
+the same way about me.
+
+500
+00:24:00,033 --> 00:24:02,228
+You're a noble people...
+
+501
+00:24:02,268 --> 00:24:04,668
+and l salute you.
+
+502
+00:24:14,280 --> 00:24:17,909
+Now then, what kind
+of business proposition
+
+503
+00:24:17,951 --> 00:24:20,044
+do you have in mind?
+
+504
+00:24:20,119 --> 00:24:21,984
+l wish to procure weapons.
+
+505
+00:24:22,021 --> 00:24:25,047
+l beg your pardon?
+
+506
+00:24:25,124 --> 00:24:27,058
+Guns, phaser banks,
+photon torpedoes...
+
+507
+00:24:27,093 --> 00:24:29,425
+-Shh.
+-...troop transports
+
+508
+00:24:29,462 --> 00:24:31,657
+and a number
+of cobalt-thorium devices.
+
+509
+00:24:31,698 --> 00:24:33,325
+My list is quite extensive.
+
+510
+00:24:33,366 --> 00:24:35,459
+You're a gun runner?
+
+511
+00:24:35,501 --> 00:24:37,469
+l am prepared
+to pay in latinum
+
+512
+00:24:37,503 --> 00:24:40,563
+and l will very likely need
+a continuous supply
+
+513
+00:24:40,607 --> 00:24:42,336
+for the foreseeable future.
+
+514
+00:24:44,811 --> 00:24:48,770
+You're not like other Vulcans,
+are you?
+
+515
+00:24:56,356 --> 00:24:59,291
+The Federation merchant ship
+refused to be boarded!
+
+516
+00:24:59,325 --> 00:25:01,759
+So your ships
+just decided to open fire?
+
+517
+00:25:01,794 --> 00:25:04,285
+lt was clear the Federation ship
+was carrying weapons
+
+518
+00:25:04,330 --> 00:25:06,321
+through the Demilitarized Zone.
+
+519
+00:25:06,366 --> 00:25:08,630
+That ship was carrying
+medical supplies to Saltok lV.
+
+520
+00:25:08,668 --> 00:25:11,034
+Ben, what are you doing here?
+
+521
+00:25:11,104 --> 00:25:12,401
+l'm not sure yet.
+
+522
+00:25:12,438 --> 00:25:14,906
+Gul Dukat asked me
+to accompany him.
+
+523
+00:25:14,941 --> 00:25:16,033
+Dukat--
+
+524
+00:25:16,109 --> 00:25:18,168
+no one informed us
+you were coming.
+
+525
+00:25:18,211 --> 00:25:21,806
+l decided an impromptu visit
+would be preferable
+
+526
+00:25:21,848 --> 00:25:25,841
+so you wouldn't be bothered
+with special preparations.
+
+527
+00:25:25,885 --> 00:25:26,852
+l see.
+
+528
+00:25:26,886 --> 00:25:28,854
+Commander Sisko, you know
+
+529
+00:25:28,888 --> 00:25:32,410
+my counterpart
+from the colonies, Gul Evek.
+
+530
+00:25:32,543 --> 00:25:34,568
+l'm glad you're here
+to listen to this, Commander.
+
+531
+00:25:34,612 --> 00:25:37,046
+We monitored the attack
+on the way in.
+
+532
+00:25:37,114 --> 00:25:39,241
+Yes, ''monitor''
+is the proper word
+
+533
+00:25:39,283 --> 00:25:42,719
+because none of the ships
+would respond to our hails.
+
+534
+00:25:42,753 --> 00:25:46,189
+Even the Cardassian pilots
+refused to acknowledge me.
+
+535
+00:25:46,224 --> 00:25:48,590
+A strange voice
+from a Federation runabout.
+
+536
+00:25:48,626 --> 00:25:51,686
+l gave them
+my security identification.
+
+537
+00:25:51,729 --> 00:25:54,061
+Well, obviously,
+they had their hands full.
+
+538
+00:25:54,098 --> 00:25:55,793
+With an unprovoked attack.
+
+539
+00:25:55,833 --> 00:25:57,232
+Unprovoked, was it?
+
+540
+00:25:57,268 --> 00:26:00,066
+Do you deny that
+the Federation is engaging
+
+541
+00:26:00,137 --> 00:26:02,298
+in organized
+terrorist activities
+
+542
+00:26:02,340 --> 00:26:03,898
+against the Cardassian people
+
+543
+00:26:03,941 --> 00:26:06,409
+deliberately undermining
+this treaty?
+
+544
+00:26:06,444 --> 00:26:09,004
+The Federation does not conduct
+secret wars.
+
+545
+00:26:09,080 --> 00:26:10,274
+Then perhaps you can explain
+
+546
+00:26:10,314 --> 00:26:11,804
+where the Federation ship
+came from--
+
+547
+00:26:11,849 --> 00:26:13,544
+the one outfitted
+with photon torpedoes.
+
+548
+00:26:13,584 --> 00:26:14,983
+Explain why your ships
+were armed
+
+549
+00:26:15,019 --> 00:26:16,782
+with Galor-class phaser banks.
+
+550
+00:26:16,821 --> 00:26:18,584
+They have a right
+to defend themselves
+
+551
+00:26:18,623 --> 00:26:20,454
+against organized
+terrorist activities.
+
+552
+00:26:20,491 --> 00:26:22,118
+l haven't heard any proof yet
+
+553
+00:26:22,159 --> 00:26:24,024
+of organized
+terrorist activities.
+
+554
+00:26:24,095 --> 00:26:25,494
+Because there is none.
+
+555
+00:26:25,530 --> 00:26:27,020
+On the contrary.
+
+556
+00:26:27,098 --> 00:26:30,033
+We have the confession
+of the Federation terrorist
+
+557
+00:26:30,067 --> 00:26:32,797
+responsible for the destruction
+of the <i>Bok'Nor</i>
+
+558
+00:26:32,837 --> 00:26:34,395
+at your station, Commander.
+
+559
+00:26:34,438 --> 00:26:36,463
+Confession?
+
+560
+00:26:38,543 --> 00:26:41,910
+A 43-year-old male human,
+William Patrick Samuels
+
+561
+00:26:41,946 --> 00:26:44,676
+born Bergen, Norway, Earth...
+
+562
+00:26:44,715 --> 00:26:46,307
+We know who he is.
+
+563
+00:26:46,350 --> 00:26:48,784
+What have you done with him?
+
+564
+00:26:48,819 --> 00:26:51,617
+Came to the Federation colony
+on Volon ll 20 years ago.
+
+565
+00:26:51,656 --> 00:26:53,954
+Married, wife's name Louise,
+two female children
+
+566
+00:26:53,991 --> 00:26:56,357
+aged 14 and 12.
+
+567
+00:26:56,394 --> 00:26:57,520
+He was quite cooperative
+
+568
+00:26:57,562 --> 00:26:59,462
+once we apprehended
+him on Deep Space 9.
+
+569
+00:27:07,939 --> 00:27:09,463
+Begin.
+
+570
+00:27:09,507 --> 00:27:11,600
+My name is William Samuels.
+
+571
+00:27:11,642 --> 00:27:16,204
+l am being held for crimes
+against the Cardassian people.
+
+572
+00:27:16,247 --> 00:27:18,340
+l have been well-treated.
+
+573
+00:27:19,850 --> 00:27:21,249
+l have confessed
+
+574
+00:27:21,285 --> 00:27:24,482
+that as a member of a well-armed
+anti-Cardassian force
+
+575
+00:27:24,522 --> 00:27:26,956
+organized
+by Federation colonists
+
+576
+00:27:26,991 --> 00:27:30,256
+l set an implosion device
+
+577
+00:27:30,294 --> 00:27:33,024
+that destroyed
+the freighter <i>Bok'Nor.</i>
+
+578
+00:27:33,064 --> 00:27:36,522
+l deeply regret participating
+in this arbitrary attack
+
+579
+00:27:36,567 --> 00:27:39,798
+that led to the deaths
+of over 7 5 crewmen.
+
+580
+00:27:39,837 --> 00:27:45,002
+To my wife and children...
+l'm sorry
+
+581
+00:27:45,042 --> 00:27:48,569
+and... l love you.
+
+582
+00:27:52,383 --> 00:27:54,544
+He would have
+confessed to anything
+
+583
+00:27:54,585 --> 00:27:56,678
+after you were through with him.
+
+584
+00:27:56,721 --> 00:27:57,779
+On the contrary.
+
+585
+00:27:57,822 --> 00:27:59,483
+He confessed quite early
+
+586
+00:27:59,523 --> 00:28:01,650
+in the interrogation
+procedure--
+
+587
+00:28:01,692 --> 00:28:03,660
+far sooner than we expected.
+
+588
+00:28:03,694 --> 00:28:05,992
+l believe he truly felt remorse.
+
+589
+00:28:06,030 --> 00:28:07,964
+We want to talk
+to him ourselves.
+
+590
+00:28:07,999 --> 00:28:09,626
+Bring him in.
+
+591
+00:28:09,667 --> 00:28:13,831
+Unfortunately, he committed
+suicide in his cell.
+
+592
+00:28:26,684 --> 00:28:27,708
+Come on, come on!
+
+593
+00:28:27,752 --> 00:28:28,719
+lt's all right!
+
+594
+00:28:28,753 --> 00:28:30,516
+Dukat, get them out of here!
+
+595
+00:28:33,257 --> 00:28:34,815
+Go on, we'll talk later.
+
+596
+00:28:34,859 --> 00:28:37,259
+We can't let them
+get away with this.
+
+597
+00:28:37,294 --> 00:28:39,194
+We'll talk later.
+You go on!
+
+598
+00:28:42,400 --> 00:28:44,391
+Get him out of here.
+
+599
+00:28:58,449 --> 00:29:02,215
+l knew him.
+
+600
+00:29:02,253 --> 00:29:05,620
+Bill Samuels was a farmer.
+
+601
+00:29:05,656 --> 00:29:10,389
+He cultivated his land
+for 20 years.
+
+602
+00:29:10,428 --> 00:29:13,886
+He raised two children
+on that land.
+
+603
+00:29:13,931 --> 00:29:17,890
+He made something
+out of that land
+
+604
+00:29:17,935 --> 00:29:20,335
+and the Federation told him
+
+605
+00:29:20,371 --> 00:29:24,398
+he had to give it all
+up to the Cardassians.
+
+606
+00:29:24,442 --> 00:29:27,605
+Well, he just was not
+willing to do that.
+
+607
+00:29:27,645 --> 00:29:30,205
+And it was people like him
+who made both sides realize
+
+608
+00:29:30,247 --> 00:29:33,944
+that some accommodation had
+to be made for the colonies
+
+609
+00:29:33,984 --> 00:29:35,474
+so they could stay.
+
+610
+00:29:35,519 --> 00:29:38,113
+The Cardassians
+have no intention
+
+611
+00:29:38,155 --> 00:29:40,749
+of allowing these
+people to stay.
+
+612
+00:29:40,791 --> 00:29:45,251
+They will either force them out
+or they will kill them.
+
+613
+00:29:45,296 --> 00:29:47,594
+lt's already started.
+
+614
+00:29:47,631 --> 00:29:48,825
+Not a day goes by
+
+615
+00:29:48,866 --> 00:29:51,562
+when there's not some
+random act of violence
+
+616
+00:29:51,602 --> 00:29:52,796
+against our people.
+
+617
+00:29:52,837 --> 00:29:54,168
+Every Federation colonist knows
+
+618
+00:29:54,205 --> 00:29:57,697
+you do not go out alone
+at night.
+
+619
+00:29:57,742 --> 00:30:00,336
+Can you imagine living
+under that kind of fear?
+
+620
+00:30:00,377 --> 00:30:02,743
+lf you're saying
+the Cardassian authorities
+
+621
+00:30:02,780 --> 00:30:04,179
+are not enforcing the laws...
+
+622
+00:30:04,215 --> 00:30:05,182
+Enforcing the laws?
+
+623
+00:30:05,216 --> 00:30:06,911
+The Cardassian authorities
+
+624
+00:30:06,951 --> 00:30:09,818
+were part of a mob that
+stoned two colonists
+
+625
+00:30:09,854 --> 00:30:12,755
+on the streets of Ropal City
+three days ago.
+
+626
+00:30:12,790 --> 00:30:15,691
+That's something the Federation
+can take up with the Cardassians
+
+627
+00:30:15,726 --> 00:30:16,750
+at the highest levels.
+
+628
+00:30:16,794 --> 00:30:18,591
+Well, that will help a lot.
+
+629
+00:30:19,930 --> 00:30:23,263
+The word is
+the Cardassian High Command
+
+630
+00:30:23,300 --> 00:30:26,633
+is arming their colonists
+to the teeth.
+
+631
+00:30:26,670 --> 00:30:28,194
+You really think they'd risk
+
+632
+00:30:28,239 --> 00:30:30,400
+sending weapons
+into the Demilitarized Zone
+
+633
+00:30:30,441 --> 00:30:31,908
+and breaking the treaty?
+
+634
+00:30:31,942 --> 00:30:35,275
+l think they'll find
+a way to do it
+
+635
+00:30:35,312 --> 00:30:37,473
+that's not so obvious.
+
+636
+00:30:37,515 --> 00:30:41,713
+Not long ago, we caught
+the Cardassians shipping weapons
+
+637
+00:30:41,752 --> 00:30:46,086
+to Bajoran extremists through
+a third party, the Yridians.
+
+638
+00:30:46,190 --> 00:30:48,021
+That sounds about right.
+
+639
+00:30:48,058 --> 00:30:51,653
+Would the <i>Bok'Nor</i> have been
+transferring weapons
+
+640
+00:30:51,695 --> 00:30:54,095
+to someone else
+to bring in here?
+
+641
+00:30:54,131 --> 00:30:57,191
+lf it was,
+then the transfer was made
+
+642
+00:30:57,234 --> 00:30:59,293
+before the ship
+reached the station.
+
+643
+00:30:59,336 --> 00:31:02,601
+The cargo holds
+of the <i>Bok'Nor</i> were empty.
+
+644
+00:31:02,640 --> 00:31:04,733
+Do you think he did it?
+
+645
+00:31:04,775 --> 00:31:07,141
+Samuels?
+
+646
+00:31:09,647 --> 00:31:11,444
+l don't know.
+
+647
+00:31:11,482 --> 00:31:15,043
+They could have forced him
+to make a false confession
+
+648
+00:31:15,119 --> 00:31:16,518
+and then killed him.
+
+649
+00:31:16,554 --> 00:31:18,681
+l don't think Gul Dukat
+would drag me all the way here
+
+650
+00:31:18,722 --> 00:31:20,952
+unless he knew
+he could prove it.
+
+651
+00:31:20,991 --> 00:31:23,118
+Well, maybe he did do it, Ben.
+l don't know.
+
+652
+00:31:26,630 --> 00:31:28,621
+Damn!
+
+653
+00:31:28,666 --> 00:31:31,464
+l've got to go see his wife.
+
+654
+00:31:31,502 --> 00:31:35,495
+l don't know
+what l'm going to tell her.
+
+655
+00:31:37,842 --> 00:31:41,403
+lt makes you pine for
+the good old, dull days
+
+656
+00:31:41,445 --> 00:31:43,538
+in New Berlin, doesn't it?
+
+657
+00:31:43,581 --> 00:31:45,446
+Sausage and beer all around
+
+658
+00:31:45,482 --> 00:31:47,814
+and everyone's idea
+of a good time
+
+659
+00:31:47,852 --> 00:31:50,821
+was the mazurka festival.
+
+660
+00:31:50,855 --> 00:31:54,689
+Gretchen and Jennifer had a ball
+there together, didn't they?
+
+661
+00:31:54,725 --> 00:31:58,821
+l'll never forget the sight
+of you in those lederhosen.
+
+662
+00:31:58,863 --> 00:32:02,856
+l still have the hat.
+
+663
+00:32:04,602 --> 00:32:08,129
+ls there something larger
+going on here, Cal?
+
+664
+00:32:08,172 --> 00:32:14,372
+Are these colonists organizing
+some kind of terrorist campaign?
+
+665
+00:32:14,411 --> 00:32:15,776
+Well, if they are
+
+666
+00:32:15,813 --> 00:32:18,873
+they're not about
+to tell me about it.
+
+667
+00:32:18,916 --> 00:32:20,850
+But l'll tell you one thing,
+Ben.
+
+668
+00:32:20,885 --> 00:32:21,977
+Between you and me
+
+669
+00:32:22,019 --> 00:32:25,386
+those people have every right
+to defend themselves.
+
+670
+00:32:25,422 --> 00:32:28,721
+When the Federation
+said good-bye to them
+
+671
+00:32:28,759 --> 00:32:31,467
+they left them no other choice.
+
+672
+00:32:43,913 --> 00:32:46,882
+You're very quiet, Commander.
+
+673
+00:32:46,916 --> 00:32:50,716
+You knew about Samuels
+before we left.
+
+674
+00:32:50,753 --> 00:32:53,620
+l knew about his confession,
+yes.
+
+675
+00:32:53,656 --> 00:32:55,487
+l didn't know he was...
+
+676
+00:32:55,524 --> 00:32:59,858
+l was as surprised
+as you were by his death.
+
+677
+00:32:59,895 --> 00:33:04,332
+No one is going to buy
+your suicide story.
+
+678
+00:33:04,366 --> 00:33:06,834
+l don't care what he did.
+
+679
+00:33:06,869 --> 00:33:09,497
+This kind of barbaric disregard
+for life
+
+680
+00:33:09,538 --> 00:33:10,971
+will gut this treaty.
+
+681
+00:33:11,006 --> 00:33:14,237
+lf it means anything,
+l entirely agree.
+
+682
+00:33:14,276 --> 00:33:18,679
+l told Evek he was a fool
+to let Samuels die.
+
+683
+00:33:18,714 --> 00:33:22,206
+A good interrogator doesn't
+allow his subject to die.
+
+684
+00:33:22,251 --> 00:33:23,843
+You lose the advantage.
+
+685
+00:33:23,886 --> 00:33:25,820
+That's all
+you're interested in, isn't it?
+
+686
+00:33:25,854 --> 00:33:26,946
+The advantage.
+
+687
+00:33:26,989 --> 00:33:29,924
+Oh, now, don't go spouting off
+
+688
+00:33:29,959 --> 00:33:34,692
+your holier-than-thou
+Federation fair play dogma.
+
+689
+00:33:34,730 --> 00:33:38,826
+And lest we forget,
+your man was responsible
+
+690
+00:33:38,867 --> 00:33:41,734
+for the deaths
+of 78 innocent crewmen.
+
+691
+00:33:41,770 --> 00:33:43,863
+What was the <i>Bok'Nor</i>
+transporting?
+
+692
+00:33:43,906 --> 00:33:46,306
+The <i>Bok'Nor</i> had just delivered
+
+693
+00:33:46,342 --> 00:33:49,175
+14 metric tons of golside ore
+to the Regulon system
+
+694
+00:33:49,211 --> 00:33:51,270
+prior to its arrival
+at the wormhole.
+
+695
+00:33:51,313 --> 00:33:53,042
+You're sure
+it wasn't carrying weapons?
+
+696
+00:33:53,148 --> 00:33:55,048
+Weapons? To whom?
+
+697
+00:33:55,117 --> 00:33:57,813
+To the Cardassians
+in the Demilitarized Zone.
+
+698
+00:33:57,853 --> 00:33:59,548
+No, the route of the <i>Bok'Nor</i>
+
+699
+00:33:59,588 --> 00:34:02,716
+didn't take it anywhere near
+the Demilitarized Zone.
+
+700
+00:34:02,758 --> 00:34:04,726
+lt could have rendezvoused
+with someone else--
+
+701
+00:34:04,760 --> 00:34:05,920
+with the Lissepians, maybe.
+
+702
+00:34:05,961 --> 00:34:07,986
+They could have transferred
+the weapons to them
+
+703
+00:34:08,063 --> 00:34:09,928
+and they could have taken
+the weapons to...
+
+704
+00:34:09,965 --> 00:34:10,932
+Commander!
+
+705
+00:34:10,966 --> 00:34:12,695
+l know you'd love to find
+
+706
+00:34:12,735 --> 00:34:15,431
+some justification
+for this mass murder
+
+707
+00:34:15,471 --> 00:34:17,803
+to ease
+your Federation conscience
+
+708
+00:34:17,840 --> 00:34:22,675
+but if the <i>Bok'Nor</i> was carrying
+weapons, l would know.
+
+709
+00:34:22,711 --> 00:34:28,149
+And on the lives of my children,
+l swear to you it was not.
+
+710
+00:34:30,219 --> 00:34:32,687
+l didn't know you had children.
+
+711
+00:34:32,721 --> 00:34:35,212
+Seven.
+
+712
+00:34:53,842 --> 00:34:55,139
+l received your message.
+
+713
+00:34:55,177 --> 00:34:56,769
+How soon will it be available?
+
+714
+00:34:56,812 --> 00:34:59,280
+My source can have
+everything ready tomorrow.
+
+715
+00:34:59,314 --> 00:35:00,303
+Say by 1400 hours.
+
+716
+00:35:00,349 --> 00:35:01,839
+That's not soon enough.
+
+717
+00:35:01,884 --> 00:35:03,249
+l must leave
+the station tonight.
+
+718
+00:35:03,285 --> 00:35:04,309
+You're leaving so soon?
+
+719
+00:35:04,353 --> 00:35:05,786
+My plans have changed.
+
+720
+00:35:05,821 --> 00:35:08,813
+Can your source have the
+materials ready by tonight?
+
+721
+00:35:08,857 --> 00:35:10,324
+l guess he'll have to.
+
+722
+00:35:10,359 --> 00:35:13,487
+l have your latinum,
+if you'd like to count it.
+
+723
+00:35:13,529 --> 00:35:15,156
+Are you trustworthy?
+
+724
+00:35:15,197 --> 00:35:16,994
+l'm a Vulcan.
+
+725
+00:35:17,066 --> 00:35:18,158
+Of course.
+
+726
+00:35:18,200 --> 00:35:19,326
+Just a little joke.
+
+727
+00:35:19,368 --> 00:35:20,835
+l'm sure it's all there.
+
+728
+00:35:20,869 --> 00:35:22,302
+Well, it wouldn't hurt
+
+729
+00:35:22,337 --> 00:35:24,669
+to give it a quick
+count, l suppose.
+
+730
+00:35:24,707 --> 00:35:27,335
+l will have it brought
+to your quarters.
+
+731
+00:35:27,376 --> 00:35:31,005
+l was looking forward
+to showing you more ways
+
+732
+00:35:31,113 --> 00:35:33,513
+to mix business with pleasure.
+
+733
+00:35:33,549 --> 00:35:35,847
+Perhaps in the future.
+
+734
+00:35:35,884 --> 00:35:40,378
+l do find you...
+intriguing, Quark.
+
+735
+00:35:43,058 --> 00:35:45,583
+''lntriguing.''
+
+736
+00:35:47,863 --> 00:35:50,161
+You can stay in the guest suite
+on Level H-2
+
+737
+00:35:50,199 --> 00:35:52,599
+while you arrange transport
+back to Cardassia.
+
+738
+00:35:52,634 --> 00:35:54,829
+l'll have a security guard
+meet you there.
+
+739
+00:35:54,870 --> 00:35:57,464
+Starfleet security,
+if you don't mind, Commander.
+
+740
+00:35:57,506 --> 00:36:00,031
+Some of the Bajoran deputies
+are still around
+
+741
+00:36:00,109 --> 00:36:02,134
+from the good old days
+when l was in charge.
+
+742
+00:36:02,177 --> 00:36:03,201
+l understand.
+
+743
+00:36:03,245 --> 00:36:04,803
+lf there's anything else
+l can do
+
+744
+00:36:04,847 --> 00:36:06,678
+to assist you in
+your investigation...
+
+745
+00:36:06,715 --> 00:36:08,512
+l think l can
+handle it from here.
+
+746
+00:36:14,556 --> 00:36:15,818
+Chief?
+
+747
+00:36:15,858 --> 00:36:16,882
+Yes, sir.
+
+748
+00:36:16,925 --> 00:36:18,153
+l've got answers for you
+
+749
+00:36:18,193 --> 00:36:20,559
+but l'm not sure
+you're going to like them.
+
+750
+00:36:20,596 --> 00:36:21,995
+lt was an implosive device.
+
+751
+00:36:22,097 --> 00:36:23,724
+Yes, sir.
+And not only that...
+
+752
+00:36:23,766 --> 00:36:26,496
+Not only that, it was
+a Federation implosive device.
+
+753
+00:36:26,535 --> 00:36:29,265
+Yes, sir. The traces
+of mercassium we found
+
+754
+00:36:29,304 --> 00:36:31,898
+were from the casing
+of the device itself.
+
+755
+00:36:31,940 --> 00:36:33,999
+lt had to be
+a Federation design.
+
+756
+00:36:34,042 --> 00:36:37,034
+Get me Starfleet Command
+on subspace.
+
+757
+00:36:46,388 --> 00:36:50,119
+Commander, is there anything
+you'd like me to communicate
+
+758
+00:36:50,159 --> 00:36:52,127
+to the provisional
+government?
+
+759
+00:36:52,161 --> 00:36:55,028
+Tell them some reckless colonist
+in the Demilitarized Zone
+
+760
+00:36:55,097 --> 00:36:56,121
+blew up the <i>Bok'Nor.</i>
+
+761
+00:36:56,165 --> 00:36:58,633
+There's no further threat
+of Cardassian reprisals
+
+762
+00:36:58,667 --> 00:36:59,861
+to Bajor.
+
+763
+00:36:59,902 --> 00:37:02,336
+l'll advise all of our outposts
+to stand down.
+
+764
+00:37:04,339 --> 00:37:08,742
+Sir, are... are we facing
+the prospect of war here?
+
+765
+00:37:08,777 --> 00:37:10,301
+Not if l can help it.
+
+766
+00:37:10,345 --> 00:37:12,108
+But that's what
+the colonists are after.
+
+767
+00:37:12,147 --> 00:37:14,638
+l don't think they know
+what they're after, Major.
+
+768
+00:37:14,683 --> 00:37:15,980
+l just know
+they have to be stopped
+
+769
+00:37:16,051 --> 00:37:17,780
+and it's Starfleet's job
+to stop them.
+
+770
+00:37:17,820 --> 00:37:19,310
+Sir, l know this is
+none of my business...
+
+771
+00:37:19,354 --> 00:37:20,981
+But you're going to give
+me your opinion anyway.
+
+772
+00:37:21,089 --> 00:37:22,647
+l don't know
+what the Cardassians told you.
+
+773
+00:37:22,691 --> 00:37:25,524
+They played a confession
+of the man who planted the bomb.
+
+774
+00:37:25,561 --> 00:37:27,586
+A man they most likely
+tortured to death.
+
+775
+00:37:27,629 --> 00:37:29,927
+And you don't think you might
+be playing into their hands?
+
+776
+00:37:29,965 --> 00:37:32,456
+l've got people out there
+killing people, Major.
+
+777
+00:37:32,501 --> 00:37:33,991
+You suggest l turn
+a blind eye to that?
+
+778
+00:37:34,102 --> 00:37:35,831
+They don't have a right
+to defend themselves?
+
+779
+00:37:35,871 --> 00:37:36,895
+They've crossed the line!
+
+780
+00:37:36,939 --> 00:37:38,998
+lf Starfleet is unwilling
+to defend their people...
+
+781
+00:37:39,074 --> 00:37:40,701
+They chose to live
+with the Cardassians!
+
+782
+00:37:40,742 --> 00:37:41,766
+Well, l didn't!
+
+783
+00:37:41,810 --> 00:37:43,573
+But l lived with them
+for 26 years
+
+784
+00:37:43,612 --> 00:37:45,011
+before the liberation came.
+
+785
+00:37:45,113 --> 00:37:47,377
+Every Bajoran lived with them
+in constant fear.
+
+786
+00:37:47,416 --> 00:37:49,646
+l know what those colonists
+are going through.
+
+787
+00:37:49,685 --> 00:37:51,915
+Most of all, l know
+
+788
+00:37:51,954 --> 00:37:53,785
+that the Cardassians
+can't be trusted
+
+789
+00:37:53,822 --> 00:37:56,313
+to keep their side
+of the bargain in this treaty.
+
+790
+00:37:56,358 --> 00:37:57,916
+So, you'd suggest the Federation
+
+791
+00:37:57,960 --> 00:37:59,928
+not keep our side
+of the bargain either--
+
+792
+00:37:59,962 --> 00:38:01,589
+perhaps by arming
+these colonists?
+
+793
+00:38:01,630 --> 00:38:04,463
+l can tell you
+one thing for certain.
+
+794
+00:38:04,499 --> 00:38:08,128
+The Cardassians are the enemy,
+not your own colonists
+
+795
+00:38:08,170 --> 00:38:09,899
+and if Starfleet
+can't understand that
+
+796
+00:38:09,938 --> 00:38:11,701
+then the Federation
+is even more naive
+
+797
+00:38:11,740 --> 00:38:13,071
+than l already think it is.
+
+798
+00:38:22,584 --> 00:38:24,245
+l've been sent to relieve you.
+
+799
+00:38:24,286 --> 00:38:25,810
+There must be some mistake.
+
+800
+00:38:25,854 --> 00:38:27,913
+l just reported for duty
+an hour...
+
+801
+00:38:34,529 --> 00:38:35,496
+Yes?
+
+802
+00:38:35,530 --> 00:38:36,622
+Sorry to disturb you, sir
+
+803
+00:38:36,665 --> 00:38:38,860
+but there's a message here
+from Commander Sisko.
+
+804
+00:38:41,403 --> 00:38:44,167
+We have been asked to escort you
+to Airlock 1 1, sir.
+
+805
+00:38:44,206 --> 00:38:46,174
+A Cardassian freighter
+has just arrived.
+
+806
+00:38:46,208 --> 00:38:47,368
+ls there a problem?
+
+807
+00:38:47,409 --> 00:38:50,037
+Apparently, another bomb
+has been found and disarmed.
+
+808
+00:39:03,558 --> 00:39:05,355
+Where's Commander Sisko?
+
+809
+00:39:05,394 --> 00:39:08,227
+Comfortably asleep
+in his quarters, l hope.
+
+810
+00:39:10,565 --> 00:39:12,692
+Remember me?
+
+811
+00:39:12,734 --> 00:39:15,965
+l take it
+we're not about to board
+
+812
+00:39:16,071 --> 00:39:18,232
+a Cardassian freighter.
+
+813
+00:39:44,651 --> 00:39:46,949
+What do you think
+they're telling him?
+
+814
+00:39:47,053 --> 00:39:48,816
+With two kidnappings
+and a ship exploding
+
+815
+00:39:48,855 --> 00:39:49,844
+in the course of a week
+
+816
+00:39:49,889 --> 00:39:51,686
+l'm sure they've got
+a few things to say.
+
+817
+00:39:51,724 --> 00:39:52,691
+lt's their own fault.
+
+818
+00:39:52,725 --> 00:39:54,784
+l've been warning them
+since the beginning.
+
+819
+00:39:54,828 --> 00:39:57,888
+What are you talking about--
+their fault?
+
+820
+00:39:57,931 --> 00:39:59,762
+You're in charge of security.
+
+821
+00:39:59,799 --> 00:40:02,791
+lf you will let me be
+in charge of security
+
+822
+00:40:02,836 --> 00:40:05,327
+l will give you a safe station.
+
+823
+00:40:05,371 --> 00:40:07,737
+You people tell me to do my job
+
+824
+00:40:07,774 --> 00:40:09,674
+then give me a
+Federation rule book
+
+825
+00:40:09,709 --> 00:40:11,643
+listing all the things
+l can't do.
+
+826
+00:40:11,678 --> 00:40:13,145
+Untie my hands
+
+827
+00:40:13,179 --> 00:40:15,409
+before you start
+to blame me, Mr. O'Brien.
+
+828
+00:40:15,448 --> 00:40:17,780
+l'm sure no one meant
+to blame you, Odo.
+
+829
+00:40:17,817 --> 00:40:19,478
+Give me the right
+to set a curfew.
+
+830
+00:40:19,519 --> 00:40:21,885
+Let me do more searches
+of arriving passengers.
+
+831
+00:40:21,921 --> 00:40:23,354
+Give me 50 more deputies.
+
+832
+00:40:23,389 --> 00:40:25,949
+And this station will be
+just the way it was
+
+833
+00:40:25,992 --> 00:40:27,289
+during the occupation.
+
+834
+00:40:27,327 --> 00:40:28,794
+Say what you like.
+
+835
+00:40:28,828 --> 00:40:30,295
+lt was safer then.
+
+836
+00:40:30,330 --> 00:40:32,355
+Unless you happened
+to be a Bajoran.
+
+837
+00:40:33,633 --> 00:40:34,895
+l want a complete review
+
+838
+00:40:34,934 --> 00:40:37,459
+of all security measures
+on board this station.
+
+839
+00:40:37,504 --> 00:40:38,869
+l'll be delighted
+to accommodate you.
+
+840
+00:40:38,905 --> 00:40:40,463
+What do we have from the guard?
+
+841
+00:40:40,507 --> 00:40:43,567
+He's given us a description
+of the two who assaulted him--
+
+842
+00:40:43,610 --> 00:40:44,975
+A Vulcan female
+and a human male
+
+843
+00:40:45,011 --> 00:40:46,706
+in a Starfleet officer's
+uniform.
+
+844
+00:40:46,746 --> 00:40:49,374
+We're trying to locate anyone
+they might have contacted here.
+
+845
+00:40:49,415 --> 00:40:51,383
+How many ships left the station
+during the night?
+
+846
+00:40:51,417 --> 00:40:52,611
+Only two, sir.
+
+847
+00:40:52,652 --> 00:40:54,381
+The Bardeezan merchant ship
+and a Galador freighter.
+
+848
+00:40:54,420 --> 00:40:55,944
+What were their destinations?
+
+849
+00:40:55,989 --> 00:40:58,116
+The Bardeezans went
+through the wormhole.
+
+850
+00:40:58,158 --> 00:41:00,149
+The freighter is operating
+on a trade route
+
+851
+00:41:00,193 --> 00:41:02,457
+between Galador ll
+and Farius Prime.
+
+852
+00:41:02,495 --> 00:41:04,087
+l'm guessing these people
+
+853
+00:41:04,130 --> 00:41:06,758
+wouldn't take Dukat
+through the wormhole.
+
+854
+00:41:06,799 --> 00:41:10,132
+They'd head back to the
+Demilitarized Zone with him.
+
+855
+00:41:10,170 --> 00:41:12,104
+Dax, check the Galador
+ship's registry
+
+856
+00:41:12,138 --> 00:41:13,571
+and make sure it's in order.
+
+857
+00:41:13,606 --> 00:41:14,630
+Chief, see if you
+
+858
+00:41:14,674 --> 00:41:17,074
+can identify its warp signature
+from our sensor records.
+
+859
+00:41:17,110 --> 00:41:18,668
+No problem, Commander.
+
+860
+00:41:18,711 --> 00:41:19,678
+l've got it.
+
+861
+00:41:19,712 --> 00:41:21,907
+Last known course.
+
+862
+00:41:21,948 --> 00:41:26,282
+The computer's showing it was
+on a bearing 216 mark 177.
+
+863
+00:41:26,319 --> 00:41:27,616
+As it left our sensor range
+
+864
+00:41:27,654 --> 00:41:29,451
+it was still heading
+for Farius Prime.
+
+865
+00:41:30,857 --> 00:41:34,122
+Major, send a message
+to Farius Prime.
+
+866
+00:41:34,160 --> 00:41:35,889
+lf that ship shows up,
+and l doubt that it will
+
+867
+00:41:35,929 --> 00:41:37,897
+l want to know it right away.
+
+868
+00:41:37,931 --> 00:41:40,126
+l could send the warp signature
+out over subspace.
+
+869
+00:41:40,166 --> 00:41:41,929
+You could make it
+a general transmission.
+
+870
+00:41:41,968 --> 00:41:43,959
+lf it changes course,
+someone should spot it.
+
+871
+00:41:44,003 --> 00:41:45,129
+Do it.
+
+872
+00:41:45,171 --> 00:41:46,502
+lt's a phony.
+
+873
+00:41:46,539 --> 00:41:49,736
+The Galadorans don't have
+any ships in this sector.
+
+874
+00:41:49,776 --> 00:41:51,107
+The registry is forged.
+
+875
+00:41:51,144 --> 00:41:53,669
+Doctor, Major, you're with me.
+
+876
+00:41:53,713 --> 00:41:55,578
+Odo, send a message
+to Commander Hudson
+
+877
+00:41:55,615 --> 00:41:58,175
+at the Volon colony that l'm
+moving in his direction
+
+878
+00:41:58,218 --> 00:41:59,879
+on the assumption
+that Dukat will be taken
+
+879
+00:41:59,919 --> 00:42:00,977
+to the Demilitarized Zone.
+
+880
+00:42:01,020 --> 00:42:02,612
+Give him the warp signature
+of the ship.
+
+881
+00:42:02,655 --> 00:42:03,622
+Aye, sir.
+
+882
+00:42:03,656 --> 00:42:07,456
+Commander, we just received
+a general subspace transmission
+
+883
+00:42:07,493 --> 00:42:09,586
+from somewhere
+in the Demilitarized Zone.
+
+884
+00:42:09,629 --> 00:42:12,723
+A group there is taking credit
+for the kidnapping of Dukat.
+
+885
+00:42:12,765 --> 00:42:14,392
+They're calling themselves...
+
+886
+00:42:14,434 --> 00:42:15,628
+''the Maquis.''
+
+887
+00:42:30,883 --> 00:42:32,544
+Commander, a Klingon freighter
+
+888
+00:42:32,585 --> 00:42:35,076
+two light-years
+from the Demilitarized Zone
+
+889
+00:42:35,121 --> 00:42:36,679
+has lD'd the warp signature.
+
+890
+00:42:36,723 --> 00:42:39,624
+The ship did change course,
+just as you predicted.
+
+891
+00:42:39,659 --> 00:42:41,388
+Transmit
+their last known coordinates
+
+892
+00:42:41,427 --> 00:42:42,689
+and heading to us, Chief.
+
+893
+00:42:43,830 --> 00:42:45,127
+Acknowledged.
+
+894
+00:42:45,164 --> 00:42:47,928
+Let us know if anyone else
+picks up their signature.
+
+895
+00:42:47,967 --> 00:42:48,991
+Aye, sir.
+
+896
+00:42:49,035 --> 00:42:50,093
+O'Brien out.
+
+897
+00:42:50,136 --> 00:42:51,398
+Set a new course, Major.
+
+898
+00:42:51,437 --> 00:42:53,803
+Yes, sir.
+
+899
+00:42:53,840 --> 00:42:55,899
+Their heading takes them
+into the badlands.
+
+900
+00:42:55,942 --> 00:42:57,000
+Badlands?
+
+901
+00:42:57,043 --> 00:42:59,011
+lt's a stretch
+of the Cardassian border
+
+902
+00:42:59,078 --> 00:43:00,010
+ships try to avoid.
+
+903
+00:43:00,113 --> 00:43:01,910
+A lot of plasma storms
+in the area.
+
+904
+00:43:01,948 --> 00:43:05,577
+A few ships have been lost there
+in the past year or two.
+
+905
+00:43:05,618 --> 00:43:08,485
+Sounds like the perfect place
+for a hideout.
+
+906
+00:43:08,521 --> 00:43:09,852
+Excuse me, sir.
+
+907
+00:43:09,889 --> 00:43:12,881
+What do you plan to do
+if we catch up with them?
+
+908
+00:43:12,925 --> 00:43:16,190
+After all, these Maquis
+are Federation colonists.
+
+909
+00:43:16,229 --> 00:43:18,254
+We're going
+to get Gul Dukat back
+
+910
+00:43:18,298 --> 00:43:19,856
+by any means necessary.
+
+911
+00:43:19,899 --> 00:43:23,630
+Even if we have to fire
+on our own people?
+
+912
+00:43:25,138 --> 00:43:28,767
+Long-range sensors are picking
+up the warp signature.
+
+913
+00:43:28,808 --> 00:43:31,106
+lt leads to an M-Class asteroid.
+
+914
+00:43:31,144 --> 00:43:32,634
+Take us there.
+
+915
+00:43:41,821 --> 00:43:44,517
+Scanning the surface.
+
+916
+00:43:44,557 --> 00:43:46,422
+l've located the ship.
+
+917
+00:43:46,459 --> 00:43:47,721
+Those are human life signs.
+
+918
+00:43:47,760 --> 00:43:49,318
+ls there a Cardassian
+among them?
+
+919
+00:43:49,362 --> 00:43:50,454
+No, sir.
+
+920
+00:43:50,496 --> 00:43:52,430
+Prepare to beam down.
+
+921
+00:44:14,787 --> 00:44:18,723
+l'm glad to see you had
+no trouble finding us, Ben.
+
+922
+00:44:18,758 --> 00:44:22,524
+lt seems that one disaster
+after another
+
+923
+00:44:22,562 --> 00:44:26,191
+keeps bringing us
+back together again.
+
